@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023110801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20231121170000 20231108160000 46780 . CMWZRxBOOEJ1Lkz31bXM+E6pzMeQrNm+Iank8wDhAjGtuD8hqglAUs9v PyHwW0cnTD9CdOScQlh2exreYws+qyfJJ2pqv3NQN43vwRaofkIZ2g9y qS7JGYcPAekpYPFjbCyokXxEOx6GiuWtXfWHXmNHBCzvq+GWCsISnukY tFL4RD1OVdGy2odjlJMyWOq6GnJXNuBge4jW3pqujoZscZDTssmMvPlF E5nFyd4APgE9tCWcT6x6PV/9n1FXo1WgiNwWg6VGeKYoJTCq3fLQ1hdX b7atWpL42jkf9FAa1DLYUidjWZCVKtDShw8g5EsIyw+5l+Hncff6Auha AUuy+Q==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023110802 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20231121210000 20231108200000 46780 . PziBPQqUERKtHhleKkOXx1KRrERwpeBf9rKTVITPebEXeO9KGww4o0bB mXZ/wx849qdwvwS4hRyN94KWLaqp0WVCALZRVu/HLV9+Wn25g1oy3jxS oU3YK7qBGJv/Q00IH/KI6I4J0dKL8cHR/8xTCi3GhNkn0/VeTRzjmNnJ qlGusR1FqcpBA85o3HHL9Zuw/7zL+tgReiS7aSU1C4bENXHpoAeqbJaO 4TSYlUEPdOegT3Ii0udlqbi/DoWc68c2X1Q7ij+rBg1U2a7Utw07PVld qk5qx1vT72JieV6iT2Ehc58zOWG7wQ0FoNB8dcPcH7pV+cUAb/k43b+N KSNe/A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabK nFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgem dlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5uf PHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7z K84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03g mINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XS iO7sya7/i+c=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20231121000000 20231031000000 20326 . fdwy6D1E9vFN099dbnfAwV7uYYd1aXOpVZ56Vh6AFWyWWQxno07varI6 4fNCDCv5vMXoMkGXZO7+rb0ngfYS6sFFgdNUUz1O3EMgqGyzPM2dqe0Y beZT/m+10PdMZJRnNK6cK2swPcuSSZ8LatNwx+L2MlQ4ipxNwJRJko3j bJWGFTqttvXUA9fv3ecwe4ACVjLgM5sJBtxWlgM3nUXu9hf1JFo4NI8e PJ8LcxWHfxldKlSKkjigmEMLZx7sDl2CvAY5mK/qRtIN+6VIKyb2iZBC 7UN8C6GpRv/3P8xCQ2FLAbOnh6ibUUTSZf8FP3KGZtnoSelSqdOhFI3b eHP6EA==
-.					      86400 IN ZONEMD	2023110801 1 241 7A3BCACBE48312E0B86CCA494BF11DD9E460288156576F5E7E06BE32 E653A503247CF7F843A1BEFAEF17FA80B08CFADC
+.					      86400 IN ZONEMD	2023110802 1 241 E038F08C2D963209A02CEDA7BBDE6945C30FD3F2BC63F61D09C05661 F4E0A1014F3ED7819A14196DBDBC20FC3CA41913
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1403,17 +1403,25 @@ az.					      172800 IN	NS	rip.psg.com.
 az.					      86400 IN DS	48544 8 2 4CB64B087166BD2A837EFCEDC5D210F3FFBEDB7E6535998B27A1E43B 948967CC
 az.					      86400 IN NSEC	azure. NS DS RRSIG NSEC
 ns3.intrans.az.				      172800 IN	A	148.251.2.246
-azure.					      172800 IN	NS	dns1.nominetdns.uk.
+azure.					      172800 IN	NS	dns1.nic.azure.
 azure.					      172800 IN	NS	dns2.nominetdns.uk.
-azure.					      172800 IN	NS	dns3.nominetdns.uk.
+azure.					      172800 IN	NS	dns3.nic.azure.
 azure.					      172800 IN	NS	dns4.nominetdns.uk.
-azure.					      172800 IN	NS	dnsa.nominetdns.uk.
+azure.					      172800 IN	NS	dnsa.nic.azure.
 azure.					      172800 IN	NS	dnsb.nominetdns.uk.
-azure.					      172800 IN	NS	dnsc.nominetdns.uk.
+azure.					      172800 IN	NS	dnsc.nic.azure.
 azure.					      172800 IN	NS	dnsd.nominetdns.uk.
 azure.					      86400 IN DS	25698 8 2 2C2D532D450F86FBC9238816088ED98AE6C8A5F665706DD634BA4E63 A8D8837F
 azure.					      86400 IN DS	40166 8 2 9F412D488BC68DE48010ED08D94CC6830CD604296F3BDF244AC9D7DF A74AE458
 azure.					      86400 IN NSEC	ba. NS DS RRSIG NSEC
+dns1.nic.azure.				      172800 IN	A	213.248.219.129
+dns1.nic.azure.				      172800 IN	AAAA	2a01:618:403::129
+dns3.nic.azure.				      172800 IN	A	213.248.223.129
+dns3.nic.azure.				      172800 IN	AAAA	2a01:618:407::129
+dnsa.nic.azure.				      172800 IN	A	156.154.100.3
+dnsa.nic.azure.				      172800 IN	AAAA	2001:502:ad09::3
+dnsc.nic.azure.				      172800 IN	A	156.154.102.3
+dnsc.nic.azure.				      172800 IN	AAAA	2610:a1:1009::3
 ba.					      172800 IN	NS	ns.ba.
 ba.					      172800 IN	NS	una.utic.net.ba.
 ba.					      172800 IN	NS	sava.utic.net.ba.
@@ -2065,17 +2073,25 @@ v2n0.nic.bike.				      172800 IN	A	65.22.27.44
 v2n0.nic.bike.				      172800 IN	AAAA	2a01:8840:1d::44
 v2n1.nic.bike.				      172800 IN	A	161.232.13.44
 v2n1.nic.bike.				      172800 IN	AAAA	2a01:8840:f7::44
-bing.					      172800 IN	NS	dns1.nominetdns.uk.
+bing.					      172800 IN	NS	dns1.nic.bing.
 bing.					      172800 IN	NS	dns2.nominetdns.uk.
-bing.					      172800 IN	NS	dns3.nominetdns.uk.
+bing.					      172800 IN	NS	dns3.nic.bing.
 bing.					      172800 IN	NS	dns4.nominetdns.uk.
-bing.					      172800 IN	NS	dnsa.nominetdns.uk.
+bing.					      172800 IN	NS	dnsa.nic.bing.
 bing.					      172800 IN	NS	dnsb.nominetdns.uk.
-bing.					      172800 IN	NS	dnsc.nominetdns.uk.
+bing.					      172800 IN	NS	dnsc.nic.bing.
 bing.					      172800 IN	NS	dnsd.nominetdns.uk.
 bing.					      86400 IN DS	35654 8 2 5D6D052D2F2CBB18E7F16AA68B42E37B7ED0FC58BD491E8E97C8AEAF B3279C81
 bing.					      86400 IN DS	54939 8 2 AA18F258897855E86489C4A522EA45DA55918BCD1C6DD41832208133 1DF89E85
 bing.					      86400 IN NSEC	bingo. NS DS RRSIG NSEC
+dns1.nic.bing.				      172800 IN	A	213.248.219.130
+dns1.nic.bing.				      172800 IN	AAAA	2a01:618:403::130
+dns3.nic.bing.				      172800 IN	A	213.248.223.130
+dns3.nic.bing.				      172800 IN	AAAA	2a01:618:407::130
+dnsa.nic.bing.				      172800 IN	A	156.154.100.3
+dnsa.nic.bing.				      172800 IN	AAAA	2001:502:ad09::3
+dnsc.nic.bing.				      172800 IN	A	156.154.102.3
+dnsc.nic.bing.				      172800 IN	AAAA	2610:a1:1009::3
 bingo.					      172800 IN	NS	v0n0.nic.bingo.
 bingo.					      172800 IN	NS	v0n1.nic.bingo.
 bingo.					      172800 IN	NS	v0n2.nic.bingo.
@@ -8750,17 +8766,25 @@ ns2.dns.nic.hotels.			      172800 IN	A	156.154.170.3
 ns2.dns.nic.hotels.			      172800 IN	AAAA	2610:a1:1072::1:3
 ns3.dns.nic.hotels.			      172800 IN	A	156.154.171.3
 ns3.dns.nic.hotels.			      172800 IN	AAAA	2610:a1:1073::1:3
-hotmail.				      172800 IN	NS	dns1.nominetdns.uk.
+hotmail.				      172800 IN	NS	dns1.nic.hotmail.
 hotmail.				      172800 IN	NS	dns2.nominetdns.uk.
-hotmail.				      172800 IN	NS	dns3.nominetdns.uk.
+hotmail.				      172800 IN	NS	dns3.nic.hotmail.
 hotmail.				      172800 IN	NS	dns4.nominetdns.uk.
-hotmail.				      172800 IN	NS	dnsa.nominetdns.uk.
+hotmail.				      172800 IN	NS	dnsa.nic.hotmail.
 hotmail.				      172800 IN	NS	dnsb.nominetdns.uk.
-hotmail.				      172800 IN	NS	dnsc.nominetdns.uk.
+hotmail.				      172800 IN	NS	dnsc.nic.hotmail.
 hotmail.				      172800 IN	NS	dnsd.nominetdns.uk.
 hotmail.				      86400 IN DS	12876 8 2 5D35F9E8561CE9835FBDBCD44FD9F80C93D5412827694BD7B17BC147 7A8E70AB
 hotmail.				      86400 IN DS	30586 8 2 C055D04AC9301BFF85AF9424F6D368D206D7E4786813A22FD3CCEAA6 928F50CC
 hotmail.				      86400 IN NSEC	house. NS DS RRSIG NSEC
+dns1.nic.hotmail.			      172800 IN	A	213.248.219.131
+dns1.nic.hotmail.			      172800 IN	AAAA	2a01:618:403::131
+dns3.nic.hotmail.			      172800 IN	A	213.248.223.131
+dns3.nic.hotmail.			      172800 IN	AAAA	2a01:618:407::131
+dnsa.nic.hotmail.			      172800 IN	A	156.154.100.3
+dnsa.nic.hotmail.			      172800 IN	AAAA	2001:502:ad09::3
+dnsc.nic.hotmail.			      172800 IN	A	156.154.102.3
+dnsc.nic.hotmail.			      172800 IN	AAAA	2610:a1:1009::3
 house.					      172800 IN	NS	v0n0.nic.house.
 house.					      172800 IN	NS	v0n1.nic.house.
 house.					      172800 IN	NS	v0n2.nic.house.
@@ -10976,7 +11000,6 @@ living.					      86400 IN DS	59309 8 2 276C77D08EFE6388824F1726E7C6D754189F9EA1
 living.					      86400 IN NSEC	lk. NS DS RRSIG NSEC
 lk.					      172800 IN	NS	c.nic.lk.
 lk.					      172800 IN	NS	d.nic.lk.
-lk.					      172800 IN	NS	l.nic.lk.
 lk.					      172800 IN	NS	m.nic.lk.
 lk.					      172800 IN	NS	p.nic.lk.
 lk.					      172800 IN	NS	t.nic.lk.
@@ -10991,8 +11014,8 @@ ns3.ac.lk.				      172800 IN	A	202.124.166.178
 c.nic.lk.				      172800 IN	A	203.143.29.3
 c.nic.lk.				      172800 IN	AAAA	2405:5400:3:1:203:143:29:3
 d.nic.lk.				      172800 IN	A	123.231.6.18
-l.nic.lk.				      172800 IN	A	192.248.8.17
 m.nic.lk.				      172800 IN	A	202.129.235.229
+m.nic.lk.				      172800 IN	AAAA	2407:c00:21:8:202:129:235:229
 ns-c.nic.lk.				      172800 IN	A	203.143.19.3
 ns-d.nic.lk.				      172800 IN	A	123.231.6.18
 ns-l.nic.lk.				      172800 IN	A	192.248.8.17
@@ -11848,17 +11871,25 @@ y.nic.miami.				      172800 IN	A	156.154.173.82
 y.nic.miami.				      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.miami.				      172800 IN	A	156.154.174.82
 z.nic.miami.				      172800 IN	AAAA	2610:a1:1076::1:82
-microsoft.				      172800 IN	NS	dns1.nominetdns.uk.
+microsoft.				      172800 IN	NS	dns1.nic.microsoft.
 microsoft.				      172800 IN	NS	dns2.nominetdns.uk.
-microsoft.				      172800 IN	NS	dns3.nominetdns.uk.
+microsoft.				      172800 IN	NS	dns3.nic.microsoft.
 microsoft.				      172800 IN	NS	dns4.nominetdns.uk.
-microsoft.				      172800 IN	NS	dnsa.nominetdns.uk.
+microsoft.				      172800 IN	NS	dnsa.nic.microsoft.
 microsoft.				      172800 IN	NS	dnsb.nominetdns.uk.
-microsoft.				      172800 IN	NS	dnsc.nominetdns.uk.
+microsoft.				      172800 IN	NS	dnsc.nic.microsoft.
 microsoft.				      172800 IN	NS	dnsd.nominetdns.uk.
 microsoft.				      86400 IN DS	35775 8 2 75B42B6862AC3B32FC471D044DE968DF0D3E9A2B6D4EAD5ADDBA4ED4 2FEF185A
 microsoft.				      86400 IN DS	55012 8 2 6124FC6575FD96E99E526B792F5637653C25DC4E1E2C034C7A23FE2E 2DA94ACF
 microsoft.				      86400 IN NSEC	mil. NS DS RRSIG NSEC
+dns1.nic.microsoft.			      172800 IN	A	213.248.219.132
+dns1.nic.microsoft.			      172800 IN	AAAA	2a01:618:403::132
+dns3.nic.microsoft.			      172800 IN	A	213.248.223.132
+dns3.nic.microsoft.			      172800 IN	AAAA	2a01:618:407::132
+dnsa.nic.microsoft.			      172800 IN	A	156.154.100.3
+dnsa.nic.microsoft.			      172800 IN	AAAA	2001:502:ad09::3
+dnsc.nic.microsoft.			      172800 IN	A	156.154.102.3
+dnsc.nic.microsoft.			      172800 IN	AAAA	2610:a1:1009::3
 mil.					      172800 IN	NS	con1.nipr.mil.
 mil.					      172800 IN	NS	con2.nipr.mil.
 mil.					      172800 IN	NS	eur1.nipr.mil.
@@ -15814,7 +15845,6 @@ rw.					      172800 IN	NS	ns3.ricta.org.rw.
 rw.					      172800 IN	NS	pch.ricta.org.rw.
 rw.					      172800 IN	NS	fork.sth.dnsnode.net.
 rw.					      172800 IN	NS	ns-rw.afrinic.net.
-rw.					      86400 IN DS	39755 8 1 F5FE9C8F6290EED632676687F03D986F17F27799
 rw.					      86400 IN DS	39755 8 2 005F7A73F0609A69CA7736158490764E1A8DC0652AB1D0E327941AF0 FE673111
 rw.					      86400 IN NSEC	rwe. NS DS RRSIG NSEC
 ns1.ricta.org.rw.			      172800 IN	A	196.49.7.188
@@ -20098,17 +20128,25 @@ ns2.dns.nic.win.			      172800 IN	A	156.154.145.182
 ns2.dns.nic.win.			      172800 IN	AAAA	2610:a1:1072::b6
 ns3.dns.nic.win.			      172800 IN	A	156.154.159.182
 ns3.dns.nic.win.			      172800 IN	AAAA	2610:a1:1073::b6
-windows.				      172800 IN	NS	dns1.nominetdns.uk.
+windows.				      172800 IN	NS	dns1.nic.windows.
 windows.				      172800 IN	NS	dns2.nominetdns.uk.
-windows.				      172800 IN	NS	dns3.nominetdns.uk.
+windows.				      172800 IN	NS	dns3.nic.windows.
 windows.				      172800 IN	NS	dns4.nominetdns.uk.
-windows.				      172800 IN	NS	dnsa.nominetdns.uk.
+windows.				      172800 IN	NS	dnsa.nic.windows.
 windows.				      172800 IN	NS	dnsb.nominetdns.uk.
-windows.				      172800 IN	NS	dnsc.nominetdns.uk.
+windows.				      172800 IN	NS	dnsc.nic.windows.
 windows.				      172800 IN	NS	dnsd.nominetdns.uk.
 windows.				      86400 IN DS	31600 8 2 8057ADBDC309CAC9CDB987F477B7217B15C88D0A7F84E3B9BA5AF412 D24B60C9
 windows.				      86400 IN DS	44526 8 2 F6DDA2F2E3E99E70C47F0393F0154D1641435ABDF20E5E5C0A8416C0 DA34A922
 windows.				      86400 IN NSEC	wine. NS DS RRSIG NSEC
+dns1.nic.windows.			      172800 IN	A	213.248.219.133
+dns1.nic.windows.			      172800 IN	AAAA	2a01:618:403::133
+dns3.nic.windows.			      172800 IN	A	213.248.223.133
+dns3.nic.windows.			      172800 IN	AAAA	2a01:618:407::133
+dnsa.nic.windows.			      172800 IN	A	156.154.100.3
+dnsa.nic.windows.			      172800 IN	AAAA	2001:502:ad09::3
+dnsc.nic.windows.			      172800 IN	A	156.154.102.3
+dnsc.nic.windows.			      172800 IN	AAAA	2610:a1:1009::3
 wine.					      172800 IN	NS	v0n0.nic.wine.
 wine.					      172800 IN	NS	v0n1.nic.wine.
 wine.					      172800 IN	NS	v0n2.nic.wine.
@@ -20344,17 +20382,25 @@ v2n0.nic.wtf.				      172800 IN	A	65.22.23.7
 v2n0.nic.wtf.				      172800 IN	AAAA	2a01:8840:19::7
 v2n1.nic.wtf.				      172800 IN	A	161.232.11.7
 v2n1.nic.wtf.				      172800 IN	AAAA	2a01:8840:f5::7
-xbox.					      172800 IN	NS	dns1.nominetdns.uk.
+xbox.					      172800 IN	NS	dns1.nic.xbox.
 xbox.					      172800 IN	NS	dns2.nominetdns.uk.
-xbox.					      172800 IN	NS	dns3.nominetdns.uk.
+xbox.					      172800 IN	NS	dns3.nic.xbox.
 xbox.					      172800 IN	NS	dns4.nominetdns.uk.
-xbox.					      172800 IN	NS	dnsa.nominetdns.uk.
+xbox.					      172800 IN	NS	dnsa.nic.xbox.
 xbox.					      172800 IN	NS	dnsb.nominetdns.uk.
-xbox.					      172800 IN	NS	dnsc.nominetdns.uk.
+xbox.					      172800 IN	NS	dnsc.nic.xbox.
 xbox.					      172800 IN	NS	dnsd.nominetdns.uk.
 xbox.					      86400 IN DS	43570 8 2 2C478092B86D62235C8A27BF365EDDA5C86167E1E9244A50526B7350 38E5DC26
 xbox.					      86400 IN DS	48291 8 2 1189083BB85010770D8937E4BC2A2AF6FC2C81F2EEF8A53A7A245770 9A53C362
 xbox.					      86400 IN NSEC	xerox. NS DS RRSIG NSEC
+dns1.nic.xbox.				      172800 IN	A	213.248.219.134
+dns1.nic.xbox.				      172800 IN	AAAA	2a01:618:403::134
+dns3.nic.xbox.				      172800 IN	A	213.248.223.134
+dns3.nic.xbox.				      172800 IN	AAAA	2a01:618:407::134
+dnsa.nic.xbox.				      172800 IN	A	156.154.100.3
+dnsa.nic.xbox.				      172800 IN	AAAA	2001:502:ad09::3
+dnsc.nic.xbox.				      172800 IN	A	156.154.102.3
+dnsc.nic.xbox.				      172800 IN	AAAA	2610:a1:1009::3
 xerox.					      172800 IN	NS	a.nic.xerox.
 xerox.					      172800 IN	NS	b.nic.xerox.
 xerox.					      172800 IN	NS	c.nic.xerox.
