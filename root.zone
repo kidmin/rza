@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023111401 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20231127170000 20231114160000 46780 . apFWUqEyaFQx+ygFtZP1YsJOX5OnNHGJmO067AciXAv5r7bH9j2LPXkZ PGOVv3T3fJRm/dkyBTxg/l61oQlFmKiiL2HdoJv//B8IpEHEMJIQ+unO EWCJEid/zYldemqYuyGGj7LQu/Z3G00G6+XaDQMmAJGyhQCM+95NwfZd i4jq8QDn4Yq0oPvBv/SzVA3CyiVaHCUaBXTJRdoI/qNiU7cSEffZ1CnS 8nuM6/HCJrL/kNcXj8ZPiDIW2OBtvtDFz3/CvzxJaVL+VvoNbZF0gq3s vH2xjbgEGRdlxIGg/+2GbaNPpRWNi2BYnOPBbHnHoCbrfZzGcdaZYHmG ufcvJg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023111402 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20231127220000 20231114210000 46780 . LWrZB1AAO8vx/LjpxBhrd1Z13Nd+aKzFKfaMJJ0e/W+5a7XEHo8ke3E4 DlRdnuUVIy7h3tFcN1wJcviXCL78hk0raxEVZ0i5gIULQ/8k1Zvv3w7c NguMNnyQrSJRduEmftZe4PzYmadKKuW5Y6tODHMO83nBj5E+i+bwPi8E ymmFDDPsAb5BTOzKPMAHdWNXAZ50uisuXSmfv9/GYDUmqsxSKh6xfD1x +uHRovYthglQw9HSm+BSd++DvG3EdIqIMD6u7QiSIfS8qY516pq0aFiv 0KXAFvms29r5CY7XHXOy0ZTSQ+2owxMLwkv9jAS5DJrlO5fD+fbUt4bY tz62dQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabK nFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgem dlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5uf PHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7z K84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03g mINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XS iO7sya7/i+c=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20231201000000 20231110000000 20326 . bPZRiN8z53E0RBRtE6MtiZRxC/pXuRaPsYgl54LwtgjMetrf3wGKagoU hYuFj9QXA63QgIvoqzOv3eOUusfQ8xX9qwH1ii7pmxLHr96EVepMKz1T fETSib/WX0UxwvvKIwpMC3q0tnpqKaNtseGApPoDKk3CSM/slKFafQVb cBfxq8mZS5dRO/ybB+D9xppnqfxn0b5cHRcLPZMbPqrVZYQJexNe/BCr Cp2KzLB5ZoFwpgII8fYEdlJk7xACm8CRERyjuD44NX//6u1k3ZNPajM0 gFz1XZ5/T2lL/zWPegxnxnPKc/vgLYGHerpDCSK/YlP0bhOHgR9ogV3E 6eiKaQ==
-.					      86400 IN ZONEMD	2023111401 1 241 6F8A0C90AC868EAB5A484B4A3A70BAD1577E0976E78580B00C546B11 82C04F40CCF3D30E98FECFDCC841A50A2F8A789B
+.					      86400 IN ZONEMD	2023111402 1 241 29A6512A3546C5AF729B58F36F3C5EAD6BCCD28C3A385419A1737BE6 4A6265263C5DCF956D0EA614813F87850D342245
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -272,6 +272,7 @@ ad.					      172800 IN	NS	ns3.nic.fr.
 ad.					      172800 IN	NS	dnsc.ad.
 ad.					      172800 IN	NS	dnsm.ad.
 ad.					      86400 IN DS	10624 8 2 732AC3921E40EAC6C01B0C467BEDA420F42BF38B7C462E86D01D1D2C 4EB9DA37
+ad.					      86400 IN DS	50617 8 2 12432422B23EA8F82751D15041DF27F6E2C8C408C3D7A18DCAC51165 2E5E263D
 ad.					      86400 IN NSEC	ads. NS DS RRSIG NSEC
 dnsc.ad.				      172800 IN	A	194.158.74.10
 dnsc.ad.				      172800 IN	AAAA	2a02:8060:32fa::b
@@ -3321,7 +3322,10 @@ z.nic.catholic.				      172800 IN	AAAA	2610:a1:1076::1:82
 cba.					      172800 IN	NS	a.nic.cba.
 cba.					      172800 IN	NS	b.nic.cba.
 cba.					      172800 IN	NS	c.nic.cba.
-cba.					      172800 IN	NS	d.nic.cba.
+cba.					      172800 IN	NS	x.nic.cba.
+cba.					      172800 IN	NS	y.nic.cba.
+cba.					      172800 IN	NS	z.nic.cba.
+cba.					      86400 IN DS	31729 8 2 84871955BC863E5911B72369B1D1EB75FF087A8093EDB4BA4BFB48F9 5813C034
 cba.					      86400 IN DS	44287 8 2 8CA6ADAEA243428A99943519846FD6F6BD355EC4990533D0569EE0E6 075EB863
 cba.					      86400 IN NSEC	cbn. NS DS RRSIG NSEC
 a.nic.cba.				      172800 IN	A	37.209.192.9
@@ -3330,8 +3334,12 @@ b.nic.cba.				      172800 IN	A	37.209.194.9
 b.nic.cba.				      172800 IN	AAAA	2001:dcd:2::9
 c.nic.cba.				      172800 IN	A	37.209.196.9
 c.nic.cba.				      172800 IN	AAAA	2001:dcd:3::9
-d.nic.cba.				      172800 IN	A	37.209.198.9
-d.nic.cba.				      172800 IN	AAAA	2001:dcd:4::9
+x.nic.cba.				      172800 IN	A	156.154.172.82
+x.nic.cba.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.cba.				      172800 IN	A	156.154.173.82
+y.nic.cba.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.cba.				      172800 IN	A	156.154.174.82
+z.nic.cba.				      172800 IN	AAAA	2610:a1:1076::1:82
 cbn.					      172800 IN	NS	a.nic.cbn.
 cbn.					      172800 IN	NS	b.nic.cbn.
 cbn.					      172800 IN	NS	c.nic.cbn.
@@ -4263,8 +4271,11 @@ dnsd.nic.comcast.			      172800 IN	AAAA	2610:a1:1010::3
 commbank.				      172800 IN	NS	a.nic.commbank.
 commbank.				      172800 IN	NS	b.nic.commbank.
 commbank.				      172800 IN	NS	c.nic.commbank.
-commbank.				      172800 IN	NS	d.nic.commbank.
+commbank.				      172800 IN	NS	x.nic.commbank.
+commbank.				      172800 IN	NS	y.nic.commbank.
+commbank.				      172800 IN	NS	z.nic.commbank.
 commbank.				      86400 IN DS	25681 8 2 CCB3F1BCFD33D277ECE719B8AAD64A84B6722C4A46235605F3DF06D4 35F59B6D
+commbank.				      86400 IN DS	61396 8 2 74227B152E28CAFC3C00B648323982976EE6FC17D521642924D0D145 C6135998
 commbank.				      86400 IN NSEC	community. NS DS RRSIG NSEC
 a.nic.commbank.				      172800 IN	A	37.209.192.9
 a.nic.commbank.				      172800 IN	AAAA	2001:dcd:1::9
@@ -4272,8 +4283,12 @@ b.nic.commbank.				      172800 IN	A	37.209.194.9
 b.nic.commbank.				      172800 IN	AAAA	2001:dcd:2::9
 c.nic.commbank.				      172800 IN	A	37.209.196.9
 c.nic.commbank.				      172800 IN	AAAA	2001:dcd:3::9
-d.nic.commbank.				      172800 IN	A	37.209.198.9
-d.nic.commbank.				      172800 IN	AAAA	2001:dcd:4::9
+x.nic.commbank.				      172800 IN	A	156.154.172.82
+x.nic.commbank.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.commbank.				      172800 IN	A	156.154.173.82
+y.nic.commbank.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.commbank.				      172800 IN	A	156.154.174.82
+z.nic.commbank.				      172800 IN	AAAA	2610:a1:1076::1:82
 community.				      172800 IN	NS	v0n0.nic.community.
 community.				      172800 IN	NS	v0n1.nic.community.
 community.				      172800 IN	NS	v0n2.nic.community.
@@ -13032,7 +13047,10 @@ auth61.ns.uu.net.			      172800 IN	A	198.6.1.182
 netbank.				      172800 IN	NS	a.nic.netbank.
 netbank.				      172800 IN	NS	b.nic.netbank.
 netbank.				      172800 IN	NS	c.nic.netbank.
-netbank.				      172800 IN	NS	d.nic.netbank.
+netbank.				      172800 IN	NS	x.nic.netbank.
+netbank.				      172800 IN	NS	y.nic.netbank.
+netbank.				      172800 IN	NS	z.nic.netbank.
+netbank.				      86400 IN DS	29050 8 2 401DD968541610C0A000139E1462693701042A2931AFA1A246D8BFA0 5AB13C94
 netbank.				      86400 IN DS	61447 8 2 2E300D5E09BDD071679488D325666AF89182213D8AF2BD2D026C57F3 FAB5895E
 netbank.				      86400 IN NSEC	netflix. NS DS RRSIG NSEC
 a.nic.netbank.				      172800 IN	A	37.209.192.9
@@ -13041,8 +13059,12 @@ b.nic.netbank.				      172800 IN	A	37.209.194.9
 b.nic.netbank.				      172800 IN	AAAA	2001:dcd:2::9
 c.nic.netbank.				      172800 IN	A	37.209.196.9
 c.nic.netbank.				      172800 IN	AAAA	2001:dcd:3::9
-d.nic.netbank.				      172800 IN	A	37.209.198.9
-d.nic.netbank.				      172800 IN	AAAA	2001:dcd:4::9
+x.nic.netbank.				      172800 IN	A	156.154.172.82
+x.nic.netbank.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.netbank.				      172800 IN	A	156.154.173.82
+y.nic.netbank.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.netbank.				      172800 IN	A	156.154.174.82
+z.nic.netbank.				      172800 IN	AAAA	2610:a1:1076::1:82
 netflix.				      172800 IN	NS	a.nic.netflix.
 netflix.				      172800 IN	NS	b.nic.netflix.
 netflix.				      172800 IN	NS	c.nic.netflix.
