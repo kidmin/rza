@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023112000 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20231203050000 20231120040000 46780 . PDup2MZgoZ2+7gxV+mZqvHhKaJEk2t3F/xv7yQUZsIhOkONEKVbktZZi +VttTiHQcX9JF7pN0Gp6JQQdrSELkTol7viSV5nlcTSu1VheP46zgbMS iuo69V/QWLUx6fA9cCdIq0tUK0CibVxRzmxSXLuc0Idsx535ON1qrAge APLRpNOMuRE1uCLKkBe5K9j7KeldhsYkafhr91x2QBZi1ojkeFrzYs5B Xlhu9/w6lRbrGlVyVhn1ZjL7yONIfp7mqze/Rl70eNZ6L0w7AltH3POn 7Yb0ZPKMIzyvOEkufOhd/F1BDiKcyXfO4/gxWxisdC/v/ZpG5gDpF8LT /wjm5g==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023112001 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20231203170000 20231120160000 46780 . mGhtYU6uGifjkAp0qmiAPAXcljXSijJdhwNuczZA+1kXOpaUKlUnO+1b TOYhw4tmnn1DsoA8sFaepGtAb8PVftf+vMf49Gd09Nb0HnrH/LbzSplR q9JMyVGvxBzlIVn1EWg8V5UnMsrwbqmroRgoohdhch4REODY9vNAQrUx 0ADQdDGf/7ZJBLiATObFX/Zha8T8eZ5PQUpeIKLrjGK26uoqp/j3yU7e YSIC29Cr0Hctc80ObMlwKnC6f/6z0yiqkIZ/NCCEhqdEviTrZ+Mhe02C HC8Vn/BcQ6Q1HLCCHJro8PBlpjr0iRug0Ib5oL7ewabmvuFehGQife5J wZ/a0Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabK nFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgem dlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5uf PHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7z K84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03g mINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XS iO7sya7/i+c=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20231211000000 20231120000000 20326 . J3Hjm93PxDLHq8aT68gffFa1isIuPughsGwKvlqTHj4SIO5fI97qzIDZ K/m1zja6ygh1fnFCbsrrBf8gXsC25WHULsTSFYn2n6vO/fzFpOuyn57u xZPvnqTvtSkwEKjMATLiKrlVKwBzlN2iHXta7G2J1e49WaCBJFtZn4m1 zkQf6SsXiGhbcxUcHhDZyXxLbO0GKqU3RmwX/yaH799eXpnguK6qFN1q Ve4lZcNSM22vSlEFEArmdBHFmWzG7m1Se4agstVYj+vfk6oF2EhquI5+ HMmh+QJU0VUmyjr2W9T0HJkrdSbq4iXMB58R4uFj4gTV1yyAKXpcF9Kv qZM7dA==
-.					      86400 IN ZONEMD	2023112000 1 241 84CDCF0F6C17A7E8139263D0B3ADC1072C175C35471AE1AFC8CFFE1A F425FB2C5B141735BBC73E2BA7EE36711BC39BFD
+.					      86400 IN ZONEMD	2023112001 1 241 6F200C655854F85CFE73807769E5C50290542CB4442424BC70CA811A 7EF1BDC89449DBE10E55DAB855998C5223384586
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -3954,7 +3954,6 @@ cloud.					      172800 IN	NS	ns1.uniregistry.net.
 cloud.					      172800 IN	NS	ns2.uniregistry.info.
 cloud.					      172800 IN	NS	ns3.uniregistry.net.
 cloud.					      172800 IN	NS	ns4.uniregistry.info.
-cloud.					      86400 IN DS	23374 8 2 0503A8FB36BC97CF3FBA3B0186BE04364E5743B345A89288FD5DFB96 72D73619
 cloud.					      86400 IN DS	48499 8 2 655C17351152D0B6A959B7AC2C674CA37BB3513F612CF803EAE16F57 2C648AB4
 cloud.					      86400 IN NSEC	club. NS DS RRSIG NSEC
 club.					      172800 IN	NS	a.nic.club.
@@ -9913,6 +9912,8 @@ jo.					      86400 IN NSEC	jobs. NS RRSIG NSEC
 amra.nic.gov.jo.			      172800 IN	A	193.188.66.103
 jordan1st.nic.gov.jo.			      172800 IN	A	193.188.69.19
 petra.nic.gov.jo.			      172800 IN	A	193.188.66.2
+cloudns.nic.net.jo.			      172800 IN	A	54.155.28.251
+cloudns.nic.net.jo.			      172800 IN	AAAA	2a05:d018:123c:3500:3e00:7185:3a6e:e082
 jobs.					      172800 IN	NS	dns1.nic.jobs.
 jobs.					      172800 IN	NS	dns2.nic.jobs.
 jobs.					      172800 IN	NS	dns3.nic.jobs.
@@ -21554,6 +21555,7 @@ xn--mgbayh7gpa.				      172800 IN	NS	jo.cctld.authdns.ripe.net.
 xn--mgbayh7gpa.				      172800 IN	NS	rip.psg.com.
 xn--mgbayh7gpa.				      172800 IN	NS	amra.nic.gov.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	petra.nic.gov.jo.
+xn--mgbayh7gpa.				      172800 IN	NS	cloudns.nic.net.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	jordan1st.nic.gov.jo.
 xn--mgbayh7gpa.				      86400 IN NSEC	xn--mgbbh1a. NS RRSIG NSEC
 xn--mgbbh1a.				      172800 IN	NS	ns1.registry.in.
