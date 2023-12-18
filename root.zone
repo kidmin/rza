@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023121801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20231231170000 20231218160000 46780 . ym1Lbv11M4b95kdHqJCcvIBhyHYZ+1rXrsY1FW8YYKiWqbtj1c89O3X+ PuLIBHDTTQiSkU6E2wZNEb4iWEXG4Mr0DTiiPgTEwHyizxPPriDxrkWW 3ufu5HLvzvZhem4TqJaQaabIyYx28wsVYnBJlcgQFREhoYDQzhH04Xi9 POBX9AOjFlqaMl1GWoPku1r1mcJ0My2cfFHLgIa0bPlHCwkBwsH+rPxB QgStYzaHB3+wmIxIbroyHkhwqYZ5bpQO4ncqXbL5bQULWUdzEuM2g8K9 la6ceQiM7MvoqxPC66wZKAo7TLqiOfa2rXZmYtNqWWC7IW0uuQAIU/+7 xcsdzQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023121802 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20231231210000 20231218200000 46780 . epHUBUujBs1l2rmQdNFlWAzF0anBdjMjFwZYi4HHV4LHURbO4m5ny9hx W+ifdUbDrtwk3O9+EPEXPCkHvb/Op1ewrIXNMFbnoyrLT9rvU9r1bDWy 8oI8y8uxMJHeXGohP68F287KdGj7J8YsEDhRlxr8IBDJzZa1KpUV12E8 0dpJ0Jr7HMWJ1pU0v+RJ1Hx7VEQG1TuzrH5Tl6P3dRZ04mseQ/R6DK2e 9hkLpQ+EIFcAKEk82tf2Ya2dk9pTP1L3UeB2OICsTTP5fRxgCLDDqAbQ GqGV6/ul4/ns64SgP7NcFwM2HJv3kQ4/RWTU3TQJ2WRldKFV6uez4iPl pDcT/w==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabK nFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgem dlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5uf PHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7z K84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03g mINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XS iO7sya7/i+c=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20231231000000 20231210000000 20326 . J21kEyeH0Pr3t1U/T4RL86iB8NRZvzCNctzVIvjCP/lSzUcMAwwEeuJQ 2j8R5FARNQA6jGFDlhYB6mD9veGTbGGeCHaWRXCgwLlI/L+lOwZ4bIhM hVzh+TQpJQDjgOYQ5ipWaHkq4HEp+X9gbxnWzFoMN/40ArQk3VgKql/m eKqidJKgSqcTqxeSDE+QvC+NVDOfvSc/dN/cWAIbyNFgTS3vvuUGinb9 FaYJ0JOHmmH7K4Qgx8p7ESEWCoHFGTrxnEC0wr1siUm+pa3jycJI4gNx BhHoWsfxiXz7qlr3bmjZwFG/Ziz4UzjMESzpntmAmTciO544RuNB1kLx u/cxIA==
-.					      86400 IN ZONEMD	2023121801 1 1 96E8454D16195222C03CEE77FD699A43FBB3EF227D49EF05379A6C67 3D68173900AA39C365FF02153D37C3F74375E22A
+.					      86400 IN ZONEMD	2023121802 1 1 541BE33B53C67A8632653D0FCDB7E30B4951CA634655EF822C389516 C64E89C96485012AEE41CDD2162502EE820D5425
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -9430,12 +9430,12 @@ ns5.dns.nic.ipiranga.			      172800 IN	A	156.154.157.83
 ns5.dns.nic.ipiranga.			      172800 IN	AAAA	2610:a1:1075::53
 ns6.dns.nic.ipiranga.			      172800 IN	A	156.154.158.83
 ns6.dns.nic.ipiranga.			      172800 IN	AAAA	2610:a1:1076::53
-iq.					      172800 IN	NS	ns1.cmc.iq.
+iq.					      172800 IN	NS	ns.cmc.iq.
 iq.					      172800 IN	NS	ns01.trs-dns.com.
 iq.					      172800 IN	NS	ns01.trs-dns.net.
 iq.					      172800 IN	NS	nsp-anycast.cmc.iq.
 iq.					      86400 IN NSEC	ir. NS RRSIG NSEC
-ns1.cmc.iq.				      172800 IN	A	194.117.57.100
+ns.cmc.iq.				      172800 IN	A	194.117.57.105
 nsp-anycast.cmc.iq.			      172800 IN	A	194.117.58.42
 nsp-anycast.cmc.iq.			      172800 IN	AAAA	2001:500:14:8001:ad::42
 ir.					      172800 IN	NS	a.nic.ir.
@@ -21359,6 +21359,7 @@ a.ns.nic.xn--mgbt3dhd.			      172800 IN	A	72.0.49.9
 a.ns.nic.xn--mgbt3dhd.			      172800 IN	AAAA	2620:171:a01:ad::9
 b.ns.nic.xn--mgbt3dhd.			      172800 IN	A	72.42.113.9
 b.ns.nic.xn--mgbt3dhd.			      172800 IN	AAAA	2620:171:d01:dc::9
+xn--mgbtx2b.				      172800 IN	NS	ns.cmc.iq.
 xn--mgbtx2b.				      172800 IN	NS	ns01.trs-dns.com.
 xn--mgbtx2b.				      172800 IN	NS	ns01.trs-dns.net.
 xn--mgbtx2b.				      172800 IN	NS	nsp-anycast.cmc.iq.
