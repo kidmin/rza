@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023122002 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240102170000 20231220160000 46780 . yoHMtAeAM33iXegA4MZHqILh0nNdmP/PprSixX/lnri/RUwsIAkLD+Zg v9SGrSQEpECV6bu90t0Gu8a/xXLmNY6rR8dV4NNqiNlTo4Yh7Fb2I9AI 38jwSj9Wk/o7+Bhh9NbQYUBWJSQgKs8fVdi7NRz7oDopp5SMxo/9pCCy plgkLL/pxscavSjueW6EmcQl81v8Rmu6dd5lbJoTBI7o6XDC/0lZ+v2a YNK891f0B8qfwKbdVR8sniYyjJgu8aXRMjX+FQ0Dy9UdlcPoOqEyDZtr 2GlFPFwzvAXV6AuDak3x6CGUgToIg/Lo73uNIfNq+ItsNsb3UUb2yFwg e9Q3Vg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2023122003 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240102210000 20231220200000 46780 . PLmeLSAtkS2fV9ioyZQXgnyFNbWEnEuLOEHNYBybnDMxuhpV2wFIYToX ihp4fX5MXzhoi1Ow6hxoyDoDDB8VPl7D5jUbhso+Lp0HkaEfv7rURH34 A4+ppsBNQY99+A/ydl+qPyoP7+jh6BXEXVIZL5OSkenCXQnjHGybpdeV AYuj+Qy9hm8HFeBCreY6zpoN6Wci0W8tA10SOXUUL9Y38Nr3Q8BR2nD0 jSYrJwjIG9PWAOzrFDv8OtFZ++R0UCViZQTb1fQi8asH02C2YnRqdRSe whlJZQ+c8Kp6vU245ly+37oKX7uJz3gB0TZBgHN/5oxA72PJUPYzXQOP VeWnXQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240110000000 20231220000000 20326 . JJxk5vXHvUV5DDFWM1Oc/21KHwxa5vjoEwUjsWg1+kU/+EMGHphyRt6D UDDJsWJtWUsr2E1vM+6KtQcOTy0lSZoDFiCnvqxUt6cykCT21LR+1A1J 3lXmIGyjfQot/CgLaf5M+FeTKBBiWIZmvmTorjJW8jweOdka5AtL9140 btO2/jXpguRwsih2OKzLdkOROt/82Ur7hTPlG7esGDEQrOehCHRAYcJV IEDQe+WyK+0WChVRouRA7xtpGx1mgvlQz/tyvBBG9upU/OxyXiBeVp1F HEh3jtMxhKsq+Zki9GTnzNjp4zXkuvfCDVzIc5XHDInZAB62yW9BWPgS fGfM3Q==
-.					      86400 IN ZONEMD	2023122002 1 1 765F22A7B41C93E50C4AB7DD13B18223104AC942CC1683BF75395973 C235FE3C99E621ACF9EC716D2C37213B40C75FE9
+.					      86400 IN ZONEMD	2023122003 1 1 A148E79EDAFE4CE2BF5F644F6BE1278114AC329A6A19EEA51E18F12C 3D53CE8451E1B0F052B04305162961DF0104569D
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -12616,8 +12616,6 @@ ns.cernet.net.				      172800 IN	A	202.112.0.44
 e.ci-servers.net.			      172800 IN	A	204.61.216.74
 e.ci-servers.net.			      172800 IN	AAAA	2001:500:14:6074:ad::1
 lk.communitydns.net.			      172800 IN	A	194.0.1.27
-ph.communitydns.net.			      172800 IN	A	194.0.1.23
-ph.communitydns.net.			      172800 IN	AAAA	2001:678:4::17
 l.de.net.				      172800 IN	A	77.67.63.105
 l.de.net.				      172800 IN	AAAA	2001:668:1f:11::105
 n.de.net.				      172800 IN	A	194.146.107.6
@@ -14028,11 +14026,12 @@ pg.					      86400 IN NSEC	ph. NS RRSIG NSEC
 ns1.unitech.ac.pg.			      172800 IN	A	202.1.32.49
 ns1.tiare.net.pg.			      172800 IN	A	202.165.192.23
 ns2.tiare.net.pg.			      172800 IN	A	202.165.192.24
-ph.					      172800 IN	NS	ph.communitydns.net.
-ph.					      172800 IN	NS	ns2.cuhk.edu.hk.
+ph.					      172800 IN	NS	1.ns.ph.
 ph.					      172800 IN	NS	ns4.apnic.net.
 ph.					      86400 IN DS	29122 13 2 0ED5C93074522F903DBB7FBAD2866CBE7CB67F15F0E5B54013340B57 C1BCD509
 ph.					      86400 IN NSEC	pharmacy. NS DS RRSIG NSEC
+1.ns.ph.				      172800 IN	A	206.51.255.1
+1.ns.ph.				      172800 IN	AAAA	2620:171:805:ad2:7068::1
 pharmacy.				      172800 IN	NS	dns1.nic.pharmacy.
 pharmacy.				      172800 IN	NS	dns2.nic.pharmacy.
 pharmacy.				      172800 IN	NS	dns3.nic.pharmacy.
