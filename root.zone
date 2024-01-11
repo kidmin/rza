@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024011101 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240124170000 20240111160000 30903 . JU8NJvOYjIV+YYit9ifPeI4j7P618Ek7FQ7XdcjL3Fxz36IsyW9NDApn kq8543qP3LlG5QB0kqyHL1nl95cS5TtBq3vhgUA/6484gpiAdws0f1T5 vbOJHNRELSUKX+E5hmxekyUzG5iO9aKcp4MF4rsm/Dza+EnvtIkmEliQ NrSOrYMAj8EB0jjD6LWGkVfFk17Z+gOsaPZ2ftmtKcIo+RiA1qEZrqxg Lh07hFvetDhT4cThSg5ZO/k1MpBaZzPEbImcYxA6z8PknJgKIWxC3ABy 46ZWYBULW25dtcIg4CENtpS6nlEFpQgP9CN74V0lw5XFmyWCft+Y338c HKBXvA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024011102 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240124220000 20240111210000 30903 . GtCm3BppMGCe+oLHUzkK2WkxChMjPhgJ+GMXKIPDzHTyqEvOJDNi42ON tEAXV9WABFt2Zm89gg9Bl/s6rssud8dURmcfYbaCHR451s96244HZIz/ Bo6NRiqN2WDKDOIRWKBjMtwR1b9p9vd0TLWLSESejxUCrrKwWJ8+eJRT LWS2K9sD/UwXiRyI7cPCV7L1oUWHNv6X7W/c/CQxRDUCaadUazg+M0LT s13lQRV5mYKf3H7zxSyGA4k5YjoE4i+QAcBEqBWCQf4DFwCYaRIJKGd3 sgOP8LF4b2ze2k0CbFojh4IPB16/nu2Ern6ONiuD7cGkgpKZDRsVmbcq kw2QUA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240201000000 20240111000000 20326 . EChBCGjEuTkX0tzuy5O6uCm4VwdwppRL+rYHvHbthD1ZCcTlq1RKlGCG xkQhIYkrm4gdoK0Sh6Tu9JLCQju33PieJmZ2S/5tDyg90qneNXMt7TU1 sfIYEIZHmC7086IqRpn83Y0gt2POGJBEgRfKtQWUCUpCfHMKyM9zPw15 WUauIryq0qMb++/yBmiu2hmbdht39z0+LmXZNN527GQS+fJpYIO8Kxmi dBkxTpDRsUOqOeD75j+OtRPrxs24jg0t/fk5e+uFcy5iZCLn/ORuLWEw aB0z7CWngRCHbnjD1FKB9bJQdfXmL0ka41NvRwvIQjnk/T9CofxqPqkP tTkFqQ==
-.					      86400 IN ZONEMD	2024011101 1 1 FA580DC1C02A00E4EB56BE5F5ECD6088278D010BB197CBAF145AEC55 F06B2B34153C9B7988B666C9309D51A855F2D135
+.					      86400 IN ZONEMD	2024011102 1 1 668B90530663893D8D0C4DF75AF37F03DA810B5078FDC360A2ABBF1D 5E9E169BFFF90748532DB3DC047EAB68FEB45FF3
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -17929,10 +17929,9 @@ tel.					      172800 IN	NS	ns1.dns.nic.tel.
 tel.					      172800 IN	NS	ns2.dns.nic.tel.
 tel.					      172800 IN	NS	ns3.dns.nic.tel.
 tel.					      172800 IN	NS	ns4.dns.nic.tel.
-tel.					      172800 IN	NS	ns5.dns.nic.tel.
-tel.					      172800 IN	NS	ns6.dns.nic.tel.
-tel.					      172800 IN	NS	ns7.dns.nic.tel.
-tel.					      172800 IN	NS	ns8.dns.nic.tel.
+tel.					      172800 IN	NS	anycast9.irondns.net.
+tel.					      172800 IN	NS	anycast10.irondns.net.
+tel.					      86400 IN DS	31166 8 2 1D7B6AADA1A03510077F789A75184CA61A6FE3176A263D1BE52BCE89 355CAA8D
 tel.					      86400 IN DS	48802 8 2 4A00B3F46AD973780B87F241360DA0B79481B257410BB68A923FE887 087BE139
 tel.					      86400 IN NSEC	temasek. NS DS RRSIG NSEC
 ns1.dns.nic.tel.			      172800 IN	A	156.154.169.10
@@ -17943,14 +17942,6 @@ ns3.dns.nic.tel.			      172800 IN	A	156.154.171.10
 ns3.dns.nic.tel.			      172800 IN	AAAA	2610:a1:1073::1:a
 ns4.dns.nic.tel.			      172800 IN	A	156.154.172.10
 ns4.dns.nic.tel.			      172800 IN	AAAA	2610:a1:1074::1:a
-ns5.dns.nic.tel.			      172800 IN	A	156.154.173.10
-ns5.dns.nic.tel.			      172800 IN	AAAA	2610:a1:1075::1:a
-ns6.dns.nic.tel.			      172800 IN	A	156.154.174.10
-ns6.dns.nic.tel.			      172800 IN	AAAA	2610:a1:1076::1:a
-ns7.dns.nic.tel.			      172800 IN	A	194.146.106.38
-ns7.dns.nic.tel.			      172800 IN	AAAA	2001:67c:1010:9::53
-ns8.dns.nic.tel.			      172800 IN	A	192.36.144.116
-ns8.dns.nic.tel.			      172800 IN	AAAA	2a01:3f0:0:300::53
 temasek.				      172800 IN	NS	a0.nic.temasek.
 temasek.				      172800 IN	NS	a2.nic.temasek.
 temasek.				      172800 IN	NS	b0.nic.temasek.
