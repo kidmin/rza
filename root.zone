@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024011600 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240129050000 20240116040000 30903 . CPFUdSIac5u4UxkU6xkQqV6FTSZcBIjc3cUx1w2Hz0yRLyL0oDKQSLks 9zndoMZbD/QTF9P/luUd2e8THMwFamOIjWBLa8xNMnUncU3OvELOas1n s4YO21HS+ocnEj+P7gXCOGC4jWWXqDGrcxJg4xAhC2aC+nJ+jyDPkMcS dkTc5dZNKpwkl/HdjsLUe6db5gK/gXYl2QvEnJzMlDlcFD6lyxfPdlXt pRZOrMtwTKblXCQeDCZCKhz3M2kwM0RutMqSfc9DWjNkY/IlUAUIRQNT i5I09gfN+UgI5CGKgRiOE3gfX0mZBbSFa2+Naby9iCvYSMXGOtn5r1tL Ii+9Pw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024011601 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240129170000 20240116160000 30903 . LjtsT8vIwq6S1UTD7vVplL47I/zcp2EZMIhKcpY9a388gsEPmEK//FBs I+JIWy9Pj9gNrVKhArjpVpVUasI6SojPOrIHudKHKze6KGrHSwlAVKap 8xr4eOU4SsLWaIh8q0Kt1ykaWvWlCgIJKx9ay6TLL+f5/KVEkTTexGQn siQ64tVUwfMpbnNv4SDmNs8Xc434vd2KMlioz2XlZf9tdy1VW+nyIxL4 dZ3Y+mCMXhCUVLxfAjGeNsm8FE+pnou9+W8mKXRmYyvFxvqbvsCeqZyy UHDFdNmyn61FgY6UngFhXvpQqtW3IPwEAW+KVpk1b473pRxcoiGdMfp5 /3c6zw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240201000000 20240111000000 20326 . EChBCGjEuTkX0tzuy5O6uCm4VwdwppRL+rYHvHbthD1ZCcTlq1RKlGCG xkQhIYkrm4gdoK0Sh6Tu9JLCQju33PieJmZ2S/5tDyg90qneNXMt7TU1 sfIYEIZHmC7086IqRpn83Y0gt2POGJBEgRfKtQWUCUpCfHMKyM9zPw15 WUauIryq0qMb++/yBmiu2hmbdht39z0+LmXZNN527GQS+fJpYIO8Kxmi dBkxTpDRsUOqOeD75j+OtRPrxs24jg0t/fk5e+uFcy5iZCLn/ORuLWEw aB0z7CWngRCHbnjD1FKB9bJQdfXmL0ka41NvRwvIQjnk/T9CofxqPqkP tTkFqQ==
-.					      86400 IN ZONEMD	2024011600 1 1 0A3241D84689608474F804617A0526FDC849AA7603B15B7A749AD22E 835B3C5EB81AC18F82F65B07795633C7A34D7BCD
+.					      86400 IN ZONEMD	2024011601 1 1 A16B1031BD0BD928359895831146D2FD9EA68DBF9AF306224D21C09B D5B06E499EE2AABF68D067E61D55226A1E97FE5D
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2599,10 +2599,10 @@ dns1.nic.broadway.			      172800 IN	A	213.248.219.38
 dns1.nic.broadway.			      172800 IN	AAAA	2a01:618:403::38
 dns2.nic.broadway.			      172800 IN	A	103.49.83.38
 dns2.nic.broadway.			      172800 IN	AAAA	2401:fd80:403::38
-dns3.nic.broadway.			      172800 IN	A	213.248.221.38
-dns3.nic.broadway.			      172800 IN	AAAA	2a01:618:405::38
-dns4.nic.broadway.			      172800 IN	A	43.230.49.38
-dns4.nic.broadway.			      172800 IN	AAAA	2401:fd80:405::38
+dns3.nic.broadway.			      172800 IN	A	213.248.223.38
+dns3.nic.broadway.			      172800 IN	AAAA	2a01:618:407::38
+dns4.nic.broadway.			      172800 IN	A	43.230.51.38
+dns4.nic.broadway.			      172800 IN	AAAA	2401:fd80:407::38
 dnsa.nic.broadway.			      172800 IN	A	156.154.100.3
 dnsa.nic.broadway.			      172800 IN	AAAA	2001:502:ad09::3
 dnsb.nic.broadway.			      172800 IN	A	156.154.101.3
@@ -4840,6 +4840,8 @@ c.ns.nic.cz.				      172800 IN	A	194.0.14.1
 c.ns.nic.cz.				      172800 IN	AAAA	2001:678:11::1
 d.ns.nic.cz.				      172800 IN	A	193.29.206.1
 d.ns.nic.cz.				      172800 IN	AAAA	2001:678:1::1
+gt-e.ns.nic.cz.				      172800 IN	A	185.43.134.14
+gt-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::14
 mw-e.ns.nic.cz.				      172800 IN	A	185.43.134.10
 mw-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::10
 tz-e.ns.nic.cz.				      172800 IN	A	185.43.134.11
@@ -8056,11 +8058,9 @@ gt.					      172800 IN	NS	a.lactld.org.
 gt.					      172800 IN	NS	gt.anycastdns.cz.
 gt.					      172800 IN	NS	ns.dns.br.
 gt.					      172800 IN	NS	pch.gt.
-gt.					      172800 IN	NS	ns-cz.gt.
+gt.					      172800 IN	NS	gt-e.ns.nic.cz.
 gt.					      172800 IN	NS	ssdns-tld.nic.cl.
 gt.					      86400 IN NSEC	gu. NS RRSIG NSEC
-ns-cz.gt.				      172800 IN	A	193.29.206.2
-ns-cz.gt.				      172800 IN	AAAA	2001:678:1::2
 pch.gt.					      172800 IN	A	204.61.216.95
 pch.gt.					      172800 IN	AAAA	2001:500:14:6095:ad::1
 gu.					      172800 IN	NS	gu.cctld.authdns.ripe.net.
@@ -9469,25 +9469,25 @@ v2n0.nic.irish.				      172800 IN	A	65.22.35.27
 v2n0.nic.irish.				      172800 IN	AAAA	2a01:8840:25::27
 v2n1.nic.irish.				      172800 IN	A	161.232.17.27
 v2n1.nic.irish.				      172800 IN	AAAA	2a01:8840:fb::27
-is.					      172800 IN	NS	bes.isnic.is.
-is.					      172800 IN	NS	sab.isnic.is.
-is.					      172800 IN	NS	set.isnic.is.
+is.					      172800 IN	NS	a.nic.is.
+is.					      172800 IN	NS	b.nic.is.
+is.					      172800 IN	NS	c.nic.is.
+is.					      172800 IN	NS	d.nic.is.
+is.					      172800 IN	NS	e.nic.is.
 is.					      172800 IN	NS	sunic.sunet.se.
 is.					      172800 IN	NS	durinn.rhnet.is.
-is.					      172800 IN	NS	ht-tldsecondary01.isnic.is.
-is.					      172800 IN	NS	tg-tldsecondary01.isnic.is.
 is.					      86400 IN DS	50437 8 2 9F52F1F92F1559E26DFDD71DAD54DB41ACDD80F0150D974B08CAF910 D45E8B6E
 is.					      86400 IN NSEC	ismaili. NS DS RRSIG NSEC
-bes.isnic.is.				      172800 IN	A	204.61.216.116
-bes.isnic.is.				      172800 IN	AAAA	2001:500:14:6116:ad::1
-ht-tldsecondary01.isnic.is.		      172800 IN	A	185.93.156.10
-ht-tldsecondary01.isnic.is.		      172800 IN	AAAA	2001:67c:6c:56::10
-sab.isnic.is.				      172800 IN	A	194.146.106.58
-sab.isnic.is.				      172800 IN	AAAA	2001:67c:1010:14::53
-set.isnic.is.				      172800 IN	A	194.0.25.41
-set.isnic.is.				      172800 IN	AAAA	2001:678:20::41
-tg-tldsecondary01.isnic.is.		      172800 IN	A	185.93.156.154
-tg-tldsecondary01.isnic.is.		      172800 IN	AAAA	2001:67c:6c:f056::154
+a.nic.is.				      172800 IN	A	185.93.156.10
+a.nic.is.				      172800 IN	AAAA	2001:67c:6c:56::10
+b.nic.is.				      172800 IN	A	185.93.156.154
+b.nic.is.				      172800 IN	AAAA	2001:67c:6c:f056::154
+c.nic.is.				      172800 IN	A	204.61.216.116
+c.nic.is.				      172800 IN	AAAA	2001:500:14:6116:ad::1
+d.nic.is.				      172800 IN	A	194.146.106.58
+d.nic.is.				      172800 IN	AAAA	2001:67c:1010:14::53
+e.nic.is.				      172800 IN	A	194.0.25.41
+e.nic.is.				      172800 IN	AAAA	2001:678:20::41
 durinn.rhnet.is.			      172800 IN	A	130.208.16.20
 durinn.rhnet.is.			      172800 IN	AAAA	2a00:c88:10:16::20
 ismaili.				      172800 IN	NS	a0.nic.ismaili.
@@ -9551,9 +9551,9 @@ m.dns.it.				      172800 IN	AAAA	2001:1ac0:0:200:0:a5d1:6004:2
 r.dns.it.				      172800 IN	A	193.206.141.46
 r.dns.it.				      172800 IN	AAAA	2001:760:ffff:ffff::ca
 osiris.namex.it.			      172800 IN	A	193.201.40.6
-osiris.namex.it.			      172800 IN	AAAA	2001:7f8:10:f00a::6
+osiris.namex.it.			      172800 IN	AAAA	2a0f:80:1::6
 seth.namex.it.				      172800 IN	A	193.201.40.7
-seth.namex.it.				      172800 IN	AAAA	2001:7f8:10:f00a::7
+seth.namex.it.				      172800 IN	AAAA	2a0f:80:1::7
 dns.nic.it.				      172800 IN	A	192.12.192.5
 dns.nic.it.				      172800 IN	AAAA	2a00:d40:1:1::5
 itau.					      172800 IN	NS	a.nic.itau.
@@ -12584,6 +12584,14 @@ ns-ug.afrinic.net.			      172800 IN	A	196.216.168.42
 ns-ug.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::42
 ns-zm.afrinic.net.			      172800 IN	A	196.216.168.44
 ns-zm.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::44
+tld01.akam.net.				      172800 IN	A	23.201.98.96
+tld01.akam.net.				      172800 IN	AAAA	2600:1480:5806::a0
+tld02.akam.net.				      172800 IN	A	23.201.99.96
+tld02.akam.net.				      172800 IN	AAAA	2600:1480:5807::a0
+tld03.akam.net.				      172800 IN	A	23.201.100.96
+tld03.akam.net.				      172800 IN	AAAA	2600:1480:5808::a0
+tld04.akam.net.				      172800 IN	A	23.201.101.96
+tld04.akam.net.				      172800 IN	AAAA	2600:1480:5809::a0
 ns1.aland.net.				      172800 IN	A	194.112.0.1
 ns2.aland.net.				      172800 IN	A	194.112.0.5
 ns-cdn.amnic.net.			      172800 IN	A	194.0.1.26
@@ -15897,6 +15905,10 @@ samsung.				      172800 IN	NS	ns1.samsung.centralnic-dns.com.
 samsung.				      172800 IN	NS	ns2.samsung.centralnic-dns.com.
 samsung.				      172800 IN	NS	ns3.samsung.centralnic-dns.com.
 samsung.				      172800 IN	NS	ns4.samsung.centralnic-dns.com.
+samsung.				      172800 IN	NS	tld01.akam.net.
+samsung.				      172800 IN	NS	tld02.akam.net.
+samsung.				      172800 IN	NS	tld03.akam.net.
+samsung.				      172800 IN	NS	tld04.akam.net.
 samsung.				      86400 IN DS	19194 7 2 144B461CB8AD9212307C53173EF72139A418EAB09997FC366484335D 0AAE91FE
 samsung.				      86400 IN NSEC	sandvik. NS DS RRSIG NSEC
 sandvik.				      172800 IN	NS	a.nic.sandvik.
@@ -19039,17 +19051,15 @@ ns5.uz.					      172800 IN	A	217.12.81.129
 ns6.uz.					      172800 IN	A	83.69.129.33
 ns7.uz.					      172800 IN	A	104.238.81.247
 ns8.uz.					      172800 IN	A	91.212.89.233
+va.					      172800 IN	NS	a.nic.va.
+va.					      172800 IN	NS	b.nic.va.
 va.					      172800 IN	NS	va.cctld.authdns.ripe.net.
 va.					      172800 IN	NS	dns.nic.it.
-va.					      172800 IN	NS	john.vatican.va.
 va.					      172800 IN	NS	seth.namex.it.
 va.					      172800 IN	NS	osiris.namex.it.
-va.					      172800 IN	NS	michael.vatican.va.
 va.					      86400 IN NSEC	vacations. NS RRSIG NSEC
-john.vatican.va.			      172800 IN	A	212.77.0.110
-john.vatican.va.			      172800 IN	AAAA	2a01:b8:0:1:212:77:0:110
-michael.vatican.va.			      172800 IN	A	212.77.0.2
-michael.vatican.va.			      172800 IN	AAAA	2a01:b8:0:1:212:77:0:2
+a.nic.va.				      172800 IN	A	212.77.0.110
+b.nic.va.				      172800 IN	A	212.77.0.2
 vacations.				      172800 IN	NS	v0n0.nic.vacations.
 vacations.				      172800 IN	NS	v0n1.nic.vacations.
 vacations.				      172800 IN	NS	v0n2.nic.vacations.
@@ -20703,6 +20713,10 @@ xn--cg4bki.				      172800 IN	NS	ns1.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.				      172800 IN	NS	ns2.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.				      172800 IN	NS	ns3.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.				      172800 IN	NS	ns4.xn--cg4bki.centralnic-dns.com.
+xn--cg4bki.				      172800 IN	NS	tld01.akam.net.
+xn--cg4bki.				      172800 IN	NS	tld02.akam.net.
+xn--cg4bki.				      172800 IN	NS	tld03.akam.net.
+xn--cg4bki.				      172800 IN	NS	tld04.akam.net.
 xn--cg4bki.				      86400 IN DS	59631 7 2 7A16187809F4725A91F192336F6A9576F246DF35EDF500A1356B8C8D FF2D59F1
 xn--cg4bki.				      86400 IN NSEC	xn--clchc0ea0b2g2a9gcd. NS DS RRSIG NSEC
 xn--clchc0ea0b2g2a9gcd.			      172800 IN	NS	ns4.apnic.net.
