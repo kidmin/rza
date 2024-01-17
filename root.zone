@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024011700 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240130050000 20240117040000 30903 . gHKUKKcP8t0jUGF1TvmKgtCdJEPg8HRmBVruIx9EI/E/Z4kxC0WpZtyA qcE6JokxNQLjGIFl0DCBuyO6/sbVjE7OxAIjzsFtNcRyKSPbSRj9O/sg 1gG2amBoDuD34ueKfpWmFiwGZ8npvwzc/RgNzYF0Rix9a0OwyBwJ5GUz OgdUH25kVygI4smh+KoJjvhwMHlsmU2BOU7GfQJ04JswJfBNKnRmg9Tr u8z3+Fd/xpmAzDseQqdtLMy1Cet5+IkfsR3eW3w4GRrRJ1+RExQUsvRi 2DXclozfwpfTT5ZyURMrYueC86Yer22qQgYYOp1UnjKDlHXizbmhqJji SQDVxg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024011701 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240130170000 20240117160000 30903 . YirumG1wApPAW0wWZqIZ64Z5U6zVhy9bVCPY/UvvSJUcQoqBPkgsbR4c sWmndJM9wfgldLS8/BISVbgNMTg8G0ILl4ERq1TUBcAB4KLmquFZLyLt 6b29L3+Ui2C64FKCxK1oXyrHDoN486yIqQnscysUEV7z8wVGs6pqlPtO 8HiqF4wS1e2TKSivzq9k+mHOu7UfbiDcZ0iocRLbb543j5mhhZuGKIrj 8oamLkJK5bQzTDrkkdsa76U+3dP4Ho4Ol70PlojUSrTrJmged0njS+Sc 5ebRIdL4o7a5X6uTJaye1lLdYxROFRbNATNIHo4rM+bfXbYEiLKXrBFA WzpuiQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240201000000 20240111000000 20326 . EChBCGjEuTkX0tzuy5O6uCm4VwdwppRL+rYHvHbthD1ZCcTlq1RKlGCG xkQhIYkrm4gdoK0Sh6Tu9JLCQju33PieJmZ2S/5tDyg90qneNXMt7TU1 sfIYEIZHmC7086IqRpn83Y0gt2POGJBEgRfKtQWUCUpCfHMKyM9zPw15 WUauIryq0qMb++/yBmiu2hmbdht39z0+LmXZNN527GQS+fJpYIO8Kxmi dBkxTpDRsUOqOeD75j+OtRPrxs24jg0t/fk5e+uFcy5iZCLn/ORuLWEw aB0z7CWngRCHbnjD1FKB9bJQdfXmL0ka41NvRwvIQjnk/T9CofxqPqkP tTkFqQ==
-.					      86400 IN ZONEMD	2024011700 1 1 F91C79A1CFE7284F5968D28630CAD1DE90BD965F1D941584C6F24304 662FF2562DDDE51D3FCEC05C120DE7A43E671C3A
+.					      86400 IN ZONEMD	2024011701 1 1 D60269544C44016DD1F62687D648C18B6C216D05D2D3AFAD74DBC2A5 2825D74A54D24AE3AF712D4B1A4DE8E80B0CA2F4
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -13218,21 +13218,21 @@ not.norid.no.				      172800 IN	A	156.154.100.12
 not.norid.no.				      172800 IN	AAAA	2001:502:ad09::12
 nn.uninett.no.				      172800 IN	A	158.38.0.181
 nn.uninett.no.				      172800 IN	AAAA	2001:700:0:503::aa:5302
-nokia.					      172800 IN	NS	a0.nic.nokia.
-nokia.					      172800 IN	NS	a2.nic.nokia.
-nokia.					      172800 IN	NS	b0.nic.nokia.
-nokia.					      172800 IN	NS	c0.nic.nokia.
+nokia.					      172800 IN	NS	a.nic.nokia.
+nokia.					      172800 IN	NS	b.nic.nokia.
+nokia.					      172800 IN	NS	c.nic.nokia.
+nokia.					      172800 IN	NS	d.nic.nokia.
 nokia.					      86400 IN DS	38794 8 2 5D3C0F0B92084EB734E6E06364681B3BB051087A15EBE6F468B2974C 5F197AB1
 nokia.					      86400 IN DS	43790 8 2 7D7D3EBAE05F84C911EE972EC6D72F1CC88368297B5FDC6A52DB62EB 27B76C99
 nokia.					      86400 IN NSEC	norton. NS DS RRSIG NSEC
-a0.nic.nokia.				      172800 IN	A	65.22.148.17
-a0.nic.nokia.				      172800 IN	AAAA	2a01:8840:92::17
-a2.nic.nokia.				      172800 IN	A	65.22.151.17
-a2.nic.nokia.				      172800 IN	AAAA	2a01:8840:95::17
-b0.nic.nokia.				      172800 IN	A	65.22.149.17
-b0.nic.nokia.				      172800 IN	AAAA	2a01:8840:93::17
-c0.nic.nokia.				      172800 IN	A	65.22.150.17
-c0.nic.nokia.				      172800 IN	AAAA	2a01:8840:94::17
+a.nic.nokia.				      172800 IN	A	194.169.218.159
+a.nic.nokia.				      172800 IN	AAAA	2001:67c:13cc::1:159
+b.nic.nokia.				      172800 IN	A	185.24.64.159
+b.nic.nokia.				      172800 IN	AAAA	2a04:2b00:13cc::1:159
+c.nic.nokia.				      172800 IN	A	212.18.248.159
+c.nic.nokia.				      172800 IN	AAAA	2a04:2b00:13ee::159
+d.nic.nokia.				      172800 IN	A	212.18.249.159
+d.nic.nokia.				      172800 IN	AAAA	2a04:2b00:13ff::159
 norton.					      172800 IN	NS	ac1.nstld.com.
 norton.					      172800 IN	NS	ac2.nstld.com.
 norton.					      172800 IN	NS	ac3.nstld.com.
@@ -15655,7 +15655,7 @@ ru.					      172800 IN	NS	b.dns.ripn.net.
 ru.					      172800 IN	NS	d.dns.ripn.net.
 ru.					      172800 IN	NS	e.dns.ripn.net.
 ru.					      172800 IN	NS	f.dns.ripn.net.
-ru.					      86400 IN DS	18274 8 2 AB35D17D3F39EB42CEE14C6273247938D33EEEAA9F5CAA70B3858DBF 4BD3E87B
+ru.					      86400 IN DS	43786 8 2 3C59747544090BC74419D5F69E32D8C9B18EA48CBDAA33C094356191 20CED431
 ru.					      86400 IN NSEC	rugby. NS DS RRSIG NSEC
 a.dns.flexireg.ru.			      172800 IN	A	31.177.70.1
 a.dns.flexireg.ru.			      172800 IN	AAAA	2a02:2090:6800::1
@@ -17759,7 +17759,7 @@ tatar.					      172800 IN	NS	b.dns.ripn.net.
 tatar.					      172800 IN	NS	d.dns.ripn.net.
 tatar.					      172800 IN	NS	e.dns.ripn.net.
 tatar.					      172800 IN	NS	f.dns.ripn.net.
-tatar.					      86400 IN DS	27077 8 2 CCED6D290E870530527ADFDA81F3277C9F64B8DC2724DC9D90640946 D176A01F
+tatar.					      86400 IN DS	51080 8 2 174D84D055DD351387AE559673DEB48B0AA5F767E0C946C9C7AFCF8D 30230A7F
 tatar.					      86400 IN NSEC	tattoo. NS DS RRSIG NSEC
 tattoo.					      172800 IN	NS	a.nic.tattoo.
 tattoo.					      172800 IN	NS	b.nic.tattoo.
@@ -21525,7 +21525,7 @@ xn--p1ai.				      172800 IN	NS	b.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	d.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	e.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	f.dns.ripn.net.
-xn--p1ai.				      86400 IN DS	7900 8 2 383545B7CC236FF2FF20FB9A035A650EF9F2EC31C8E8BB765292AD5F 62A27FF1
+xn--p1ai.				      86400 IN DS	59497 8 2 3DE6C0350E9D16583AEACA8FBFB5148C25CFAF3A81D5083C1AA90D83 99720AE3
 xn--p1ai.				      86400 IN NSEC	xn--pgbs0dh. NS DS RRSIG NSEC
 xn--pgbs0dh.				      172800 IN	NS	ns1.ati.tn.
 xn--pgbs0dh.				      172800 IN	NS	ns2.ati.tn.
