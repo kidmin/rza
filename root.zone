@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024012201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240204170000 20240122160000 30903 . vjqCLzQ7HEW81X9IBJ+ueX8hEdDy+AoUddaxIHjhnLhlVxm9sAuhrBcn QQmKjs6CLL0kg2H46FTpCLZ3X7mZV2NAgosff9XgNf61ioiLSpxTk91j YOQqdlRG8dzv639dydPzy/gCuFc0Q5IX26FryF7X3LKisIdKLPCgmNvl fD8cgdsqam3BQsfyPCNZsPpi6/bBhtN0dTrsEq7v4JXCkRS1/VlJXxWa 6UZkkhaHc+g+O9F72/bPEbA0+WtrNlW5TtOM513O34pMHXBvOYmxJkO9 NMSkPxUFQl9Qd6wVRnEtA/QDkkIUDUOPumVD7k1r4mPJ0xanqWXWz2Db qCsyqQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024012202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240204220000 20240122210000 30903 . hvzDdWv+K6UHKE5rNRkI7LEN3dKfSrticJvguKg2xGA1zX1iZEDNJTaD 9f6jipLiBWNPwkus+SoOeQUqS74LACsSHy7p1Kutob5q+O6mdH/bOcS0 nGXNCW/7e11gQxfLMM/Emibs5lxK14HVYxScr04TXCDrE89pvRZTc1IW u/jGoQhrj+UqqVOBpeqkct5DzqQi8FYWaQyTaFfrPPdc6OVb/WMSp/ue X6ZO2CzUFlBR720glQ1GrOYr88Lmdtq7SUYr+oIUUR+F/x18JwHrBwSH B8L0zV7NEnrCddEHakU3FDWSQLvlLjMQFpVE5zVRFbdT3OH90DY+b6RS d7kQAg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240211000000 20240121000000 20326 . kTXXxK3AupTMROlqPeVuF2+HByXrlP8Z4cPUSKX1UnFiXr0EZ8P4tmsz 2tF6PI2VL9G3q8xNl0NOSDOv8D7dk0qJgJedRkEv9uWKE2WeRL8Tvh51 dBGZWvvFSO0/vQBVkJAncT85OhPCDsB3ZfGEAOcT1fQ2GaCHl3jM0MGL 8NPzE2JxGqQLimKQ03mlUFKLph8AvvWGm068/1ISCn0ycydc7yU4cmBF gI2lTQY3B148QRsDf7nl3/YiGeSv+9mdiYs7GI1WvWl1EK2CdSb8iQDw aogobcVPRZYLVwjrjw0mg5PgaRLIG59TqiYUDW8WwHPT5XErOslRZiur ssrmTQ==
-.					      86400 IN ZONEMD	2024012201 1 1 398ABA7CA9E48C461EBA1105A8BC4D1B098ED62D71B205B9492E3885 DBF0AFD1060228174705F64C7F00B243BA94093D
+.					      86400 IN ZONEMD	2024012202 1 1 CAAE12A91EF5C4EA1A5C99BB59CBE5136B457A0FD481C26BC43B32BE C3DAB0761DA3E554137455DE6A40D6DA3C329D53
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1464,7 +1464,7 @@ banamex.				      172800 IN	NS	ns1.dns.nic.banamex.
 banamex.				      172800 IN	NS	ns2.dns.nic.banamex.
 banamex.				      172800 IN	NS	ns3.dns.nic.banamex.
 banamex.				      86400 IN DS	38095 8 2 EB04C740FB681AB87A2376CFB9E5CE3A865F930DA98246836670D0BB 29478229
-banamex.				      86400 IN NSEC	bananarepublic. NS DS RRSIG NSEC
+banamex.				      86400 IN NSEC	band. NS DS RRSIG NSEC
 a.nic.banamex.				      172800 IN	A	37.209.192.9
 a.nic.banamex.				      172800 IN	AAAA	2001:dcd:1::9
 b.nic.banamex.				      172800 IN	A	37.209.194.9
@@ -1477,26 +1477,6 @@ ns2.dns.nic.banamex.			      172800 IN	A	156.154.145.21
 ns2.dns.nic.banamex.			      172800 IN	AAAA	2610:a1:1072::15
 ns3.dns.nic.banamex.			      172800 IN	A	156.154.159.21
 ns3.dns.nic.banamex.			      172800 IN	AAAA	2610:a1:1073::15
-bananarepublic.				      172800 IN	NS	a.nic.bananarepublic.
-bananarepublic.				      172800 IN	NS	b.nic.bananarepublic.
-bananarepublic.				      172800 IN	NS	c.nic.bananarepublic.
-bananarepublic.				      172800 IN	NS	ns1.dns.nic.bananarepublic.
-bananarepublic.				      172800 IN	NS	ns2.dns.nic.bananarepublic.
-bananarepublic.				      172800 IN	NS	ns3.dns.nic.bananarepublic.
-bananarepublic.				      86400 IN DS	42796 8 2 28BB727EE05F747A4EB0FC5E0D807542FA005A2A571C039FD34BE55F 3378BB5B
-bananarepublic.				      86400 IN NSEC	band. NS DS RRSIG NSEC
-a.nic.bananarepublic.			      172800 IN	A	37.209.192.9
-a.nic.bananarepublic.			      172800 IN	AAAA	2001:dcd:1::9
-b.nic.bananarepublic.			      172800 IN	A	37.209.194.9
-b.nic.bananarepublic.			      172800 IN	AAAA	2001:dcd:2::9
-c.nic.bananarepublic.			      172800 IN	A	37.209.196.9
-c.nic.bananarepublic.			      172800 IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.bananarepublic.		      172800 IN	A	156.154.144.22
-ns1.dns.nic.bananarepublic.		      172800 IN	AAAA	2610:a1:1071::16
-ns2.dns.nic.bananarepublic.		      172800 IN	A	156.154.145.22
-ns2.dns.nic.bananarepublic.		      172800 IN	AAAA	2610:a1:1072::16
-ns3.dns.nic.bananarepublic.		      172800 IN	A	156.154.159.22
-ns3.dns.nic.bananarepublic.		      172800 IN	AAAA	2610:a1:1073::16
 band.					      172800 IN	NS	v0n0.nic.band.
 band.					      172800 IN	NS	v0n1.nic.band.
 band.					      172800 IN	NS	v0n2.nic.band.
@@ -7828,10 +7808,10 @@ dns1.nic.gop.				      172800 IN	A	213.248.219.39
 dns1.nic.gop.				      172800 IN	AAAA	2a01:618:403::39
 dns2.nic.gop.				      172800 IN	A	103.49.83.39
 dns2.nic.gop.				      172800 IN	AAAA	2401:fd80:403::39
-dns3.nic.gop.				      172800 IN	A	213.248.221.39
-dns3.nic.gop.				      172800 IN	AAAA	2a01:618:405::39
-dns4.nic.gop.				      172800 IN	A	43.230.49.39
-dns4.nic.gop.				      172800 IN	AAAA	2401:fd80:405::39
+dns3.nic.gop.				      172800 IN	A	213.248.223.39
+dns3.nic.gop.				      172800 IN	AAAA	2a01:618:407::39
+dns4.nic.gop.				      172800 IN	A	43.230.51.39
+dns4.nic.gop.				      172800 IN	AAAA	2401:fd80:407::39
 dnsa.nic.gop.				      172800 IN	A	156.154.100.3
 dnsa.nic.gop.				      172800 IN	AAAA	2001:502:ad09::3
 dnsb.nic.gop.				      172800 IN	A	156.154.101.3
@@ -11009,6 +10989,8 @@ locker.					      172800 IN	NS	a0.nic.locker.
 locker.					      172800 IN	NS	a2.nic.locker.
 locker.					      172800 IN	NS	b0.nic.locker.
 locker.					      172800 IN	NS	c0.nic.locker.
+locker.					      172800 IN	NS	ns01.trs-dns.com.
+locker.					      172800 IN	NS	ns01.trs-dns.net.
 locker.					      86400 IN DS	6301 8 2 2A62E4284AD1157A9994BE5022A76CF66C2C233CEEDE058C673D065F EE63B90E
 locker.					      86400 IN DS	12691 8 2 DB488867DE794AE457267A654FE9266D4D03DDE9031DA92DD58A14E5 51B6DA01
 locker.					      86400 IN NSEC	locus. NS DS RRSIG NSEC
@@ -13429,6 +13411,8 @@ b0.nic.obi.				      172800 IN	A	65.22.113.17
 b0.nic.obi.				      172800 IN	AAAA	2a01:8840:6f::17
 c0.nic.obi.				      172800 IN	A	65.22.114.17
 c0.nic.obi.				      172800 IN	AAAA	2a01:8840:70::17
+observer.				      172800 IN	NS	ns01.trs-dns.com.
+observer.				      172800 IN	NS	ns01.trs-dns.net.
 observer.				      172800 IN	NS	v0n0.nic.observer.
 observer.				      172800 IN	NS	v0n1.nic.observer.
 observer.				      172800 IN	NS	v0n2.nic.observer.
@@ -13503,7 +13487,7 @@ olayangroup.				      172800 IN	NS	x.nic.olayangroup.
 olayangroup.				      172800 IN	NS	y.nic.olayangroup.
 olayangroup.				      172800 IN	NS	z.nic.olayangroup.
 olayangroup.				      86400 IN DS	6919 8 2 44A731318AA7D54EA4F18178AC0EEE1DE541334C36F9917BB6249F41 895D774C
-olayangroup.				      86400 IN NSEC	oldnavy. NS DS RRSIG NSEC
+olayangroup.				      86400 IN NSEC	ollo. NS DS RRSIG NSEC
 a.nic.olayangroup.			      172800 IN	A	37.209.192.9
 a.nic.olayangroup.			      172800 IN	AAAA	2001:dcd:1::9
 b.nic.olayangroup.			      172800 IN	A	37.209.194.9
@@ -13516,26 +13500,6 @@ y.nic.olayangroup.			      172800 IN	A	156.154.173.82
 y.nic.olayangroup.			      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.olayangroup.			      172800 IN	A	156.154.174.82
 z.nic.olayangroup.			      172800 IN	AAAA	2610:a1:1076::1:82
-oldnavy.				      172800 IN	NS	a.nic.oldnavy.
-oldnavy.				      172800 IN	NS	b.nic.oldnavy.
-oldnavy.				      172800 IN	NS	c.nic.oldnavy.
-oldnavy.				      172800 IN	NS	ns1.dns.nic.oldnavy.
-oldnavy.				      172800 IN	NS	ns2.dns.nic.oldnavy.
-oldnavy.				      172800 IN	NS	ns3.dns.nic.oldnavy.
-oldnavy.				      86400 IN DS	43291 8 2 C1B93F6A8AC42F2F15DBB3C74AF29E6F32E5A59D330F84E761A895EC A3371914
-oldnavy.				      86400 IN NSEC	ollo. NS DS RRSIG NSEC
-a.nic.oldnavy.				      172800 IN	A	37.209.192.9
-a.nic.oldnavy.				      172800 IN	AAAA	2001:dcd:1::9
-b.nic.oldnavy.				      172800 IN	A	37.209.194.9
-b.nic.oldnavy.				      172800 IN	AAAA	2001:dcd:2::9
-c.nic.oldnavy.				      172800 IN	A	37.209.196.9
-c.nic.oldnavy.				      172800 IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.oldnavy.			      172800 IN	A	156.154.144.127
-ns1.dns.nic.oldnavy.			      172800 IN	AAAA	2610:a1:1071::7f
-ns2.dns.nic.oldnavy.			      172800 IN	A	156.154.145.127
-ns2.dns.nic.oldnavy.			      172800 IN	AAAA	2610:a1:1072::7f
-ns3.dns.nic.oldnavy.			      172800 IN	A	156.154.159.127
-ns3.dns.nic.oldnavy.			      172800 IN	AAAA	2610:a1:1073::7f
 ollo.					      172800 IN	NS	a0.nic.ollo.
 ollo.					      172800 IN	NS	a2.nic.ollo.
 ollo.					      172800 IN	NS	b0.nic.ollo.
@@ -15091,6 +15055,8 @@ dnsc.nic.realtor.			      172800 IN	A	156.154.102.3
 dnsc.nic.realtor.			      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.realtor.			      172800 IN	A	156.154.103.3
 dnsd.nic.realtor.			      172800 IN	AAAA	2610:a1:1010::3
+realty.					      172800 IN	NS	ns01.trs-dns.com.
+realty.					      172800 IN	NS	ns01.trs-dns.net.
 realty.					      172800 IN	NS	v0n0.nic.realty.
 realty.					      172800 IN	NS	v0n1.nic.realty.
 realty.					      172800 IN	NS	v0n2.nic.realty.
