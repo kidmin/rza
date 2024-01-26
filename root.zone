@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024012600 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240208050000 20240126040000 30903 . lE3kyjp7Xe/QocwlVngFa3UZ7Py2b7QC2jzRduO49fbCzlgdtqLEVObD Wp11asKcoZT4XFiNmrd22B7ZzcHPVGUkIE9EDBDzlAFtGWD3WaSMc0bn Y09GtjMlxC4tEvGCt/SwxovTlzbyy22tQ6V/eNHmwfTiBrJBAT2TzrvV Ty8l80cagxRswhriM+Xtk+bVrOOrWsR/JP5mSomFvQ8P0ivtixWJcG+d D7UZO+M0H7jsgCktvinO1s0VGKF9NM75BCIA7bOC5NXSkcYbVaKBcicS kfLOxDP13lBD1xVnV140NIJjbRMBU6UrXjQL0ngjdi/eEA1WmXUWJgLc vAJvng==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024012601 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240208170000 20240126160000 30903 . qq6flMtdLu03bHZcn96II8JdNt+kMFcvM5N6/1xo+JoKx5YdG88GrB93 /zsOEuU2HxPkyqm+QL2ejyzvl6gV2F+DLP5gjnR0vbgDtKD/0FBA5lhZ 7RP2EPgM558lUHndlsGyzbbz55Umex/CVpH8IIM43OBeCsmsl3lzxqRh e8ue3lSRq7y1LKziS5RX6LN1KuafkequqlcaHHp+BPceN0lSHVVTQxK3 kgL8dr8u7bENhEY4st09QmNNciFoIJ17oKpS/Ic9OK/4/DEksePZmOKt ZDeCidgPfRNZSYyqCw/NdJpPeCYIkvtDvp3l7j0QsbQGlUCLBUwrtdNy eiSx7Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240211000000 20240121000000 20326 . kTXXxK3AupTMROlqPeVuF2+HByXrlP8Z4cPUSKX1UnFiXr0EZ8P4tmsz 2tF6PI2VL9G3q8xNl0NOSDOv8D7dk0qJgJedRkEv9uWKE2WeRL8Tvh51 dBGZWvvFSO0/vQBVkJAncT85OhPCDsB3ZfGEAOcT1fQ2GaCHl3jM0MGL 8NPzE2JxGqQLimKQ03mlUFKLph8AvvWGm068/1ISCn0ycydc7yU4cmBF gI2lTQY3B148QRsDf7nl3/YiGeSv+9mdiYs7GI1WvWl1EK2CdSb8iQDw aogobcVPRZYLVwjrjw0mg5PgaRLIG59TqiYUDW8WwHPT5XErOslRZiur ssrmTQ==
-.					      86400 IN ZONEMD	2024012600 1 1 D5E495CDCA7F2A2A99EB9B9230AF95A710AB03B33E1E22D7B4C5F0B9 ACDABE16761888D643550C3458488CECFA026BAD
+.					      86400 IN ZONEMD	2024012601 1 1 809BCC6095A3D484C08602705702650EBAF5D856C184F922423AD7F2 578FD2C246E4BB89B507F24DFB99951C48FB58E3
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -11720,6 +11720,7 @@ merckmsd.				      172800 IN	NS	ac1.nstld.com.
 merckmsd.				      172800 IN	NS	ac2.nstld.com.
 merckmsd.				      172800 IN	NS	ac3.nstld.com.
 merckmsd.				      172800 IN	NS	ac4.nstld.com.
+merckmsd.				      86400 IN DS	5134 8 2 F4C8E4AC4A227663517FB28FEAA416635CC013CCAB079ECEDA756A89 541BAABA
 merckmsd.				      86400 IN DS	23340 8 2 F6643D8AE9760F8033A5A14B231851CEDFF97429EF22514CFCB1BA62 5EAC86A4
 merckmsd.				      86400 IN NSEC	mg. NS DS RRSIG NSEC
 mg.					      172800 IN	NS	ns.dts.mg.
@@ -12253,6 +12254,7 @@ msd.					      172800 IN	NS	ac1.nstld.com.
 msd.					      172800 IN	NS	ac2.nstld.com.
 msd.					      172800 IN	NS	ac3.nstld.com.
 msd.					      172800 IN	NS	ac4.nstld.com.
+msd.					      86400 IN DS	23659 8 2 81DE1BCC17AE524CEEABD94382FF3AA6BFD61804332E511B44EA5AB0 6EC6F52A
 msd.					      86400 IN DS	30849 8 2 8560961FD5E191D49B2461180F7EDC509E10689F85ED595AD111956B C81FF9A2
 msd.					      86400 IN NSEC	mt. NS DS RRSIG NSEC
 mt.					      172800 IN	NS	a.ns.mt.
@@ -13416,27 +13418,11 @@ c0.nic.obi.				      172800 IN	A	65.22.114.17
 c0.nic.obi.				      172800 IN	AAAA	2a01:8840:70::17
 observer.				      172800 IN	NS	ns01.trs-dns.com.
 observer.				      172800 IN	NS	ns01.trs-dns.net.
-observer.				      172800 IN	NS	v0n0.nic.observer.
-observer.				      172800 IN	NS	v0n1.nic.observer.
-observer.				      172800 IN	NS	v0n2.nic.observer.
-observer.				      172800 IN	NS	v0n3.nic.observer.
-observer.				      172800 IN	NS	v2n0.nic.observer.
-observer.				      172800 IN	NS	v2n1.nic.observer.
+observer.				      172800 IN	NS	ns01.trs-dns.org.
+observer.				      172800 IN	NS	ns01.trs-dns.info.
 observer.				      86400 IN DS	46084 8 2 366C4C042DBBAA5636C254A7AB2331102545DCA6F2C81C8CE6B42C6D D0CADEB4
 observer.				      86400 IN DS	61001 8 2 73AD12C51E27B349F25A52045C94B7E62EE76EA3061C1ADDDA4CED8F C3038C94
 observer.				      86400 IN NSEC	office. NS DS RRSIG NSEC
-v0n0.nic.observer.			      172800 IN	A	65.22.24.63
-v0n0.nic.observer.			      172800 IN	AAAA	2a01:8840:1a::63
-v0n1.nic.observer.			      172800 IN	A	65.22.25.63
-v0n1.nic.observer.			      172800 IN	AAAA	2a01:8840:1b::63
-v0n2.nic.observer.			      172800 IN	A	65.22.26.63
-v0n2.nic.observer.			      172800 IN	AAAA	2a01:8840:1c::63
-v0n3.nic.observer.			      172800 IN	A	161.232.12.63
-v0n3.nic.observer.			      172800 IN	AAAA	2a01:8840:f6::63
-v2n0.nic.observer.			      172800 IN	A	65.22.27.63
-v2n0.nic.observer.			      172800 IN	AAAA	2a01:8840:1d::63
-v2n1.nic.observer.			      172800 IN	A	161.232.13.63
-v2n1.nic.observer.			      172800 IN	AAAA	2a01:8840:f7::63
 office.					      172800 IN	NS	a.nic.office.
 office.					      172800 IN	NS	b.nic.office.
 office.					      172800 IN	NS	c.nic.office.
@@ -15060,27 +15046,11 @@ dnsd.nic.realtor.			      172800 IN	A	156.154.103.3
 dnsd.nic.realtor.			      172800 IN	AAAA	2610:a1:1010::3
 realty.					      172800 IN	NS	ns01.trs-dns.com.
 realty.					      172800 IN	NS	ns01.trs-dns.net.
-realty.					      172800 IN	NS	v0n0.nic.realty.
-realty.					      172800 IN	NS	v0n1.nic.realty.
-realty.					      172800 IN	NS	v0n2.nic.realty.
-realty.					      172800 IN	NS	v0n3.nic.realty.
-realty.					      172800 IN	NS	v2n0.nic.realty.
-realty.					      172800 IN	NS	v2n1.nic.realty.
+realty.					      172800 IN	NS	ns01.trs-dns.org.
+realty.					      172800 IN	NS	ns01.trs-dns.info.
 realty.					      86400 IN DS	5506 8 2 20E276179F6EF711CD63C5E4851C2C3B4917FCFF813C708AA902C305 B8960484
 realty.					      86400 IN DS	21334 8 2 613E789594BC8FCE2381F7B1C2F4232093B017F5EEF5444EB0F1D8EF 5C2F65E2
 realty.					      86400 IN NSEC	recipes. NS DS RRSIG NSEC
-v0n0.nic.realty.			      172800 IN	A	65.22.24.42
-v0n0.nic.realty.			      172800 IN	AAAA	2a01:8840:1a::42
-v0n1.nic.realty.			      172800 IN	A	65.22.25.42
-v0n1.nic.realty.			      172800 IN	AAAA	2a01:8840:1b::42
-v0n2.nic.realty.			      172800 IN	A	65.22.26.42
-v0n2.nic.realty.			      172800 IN	AAAA	2a01:8840:1c::42
-v0n3.nic.realty.			      172800 IN	A	161.232.12.42
-v0n3.nic.realty.			      172800 IN	AAAA	2a01:8840:f6::42
-v2n0.nic.realty.			      172800 IN	A	65.22.27.42
-v2n0.nic.realty.			      172800 IN	AAAA	2a01:8840:1d::42
-v2n1.nic.realty.			      172800 IN	A	161.232.13.42
-v2n1.nic.realty.			      172800 IN	AAAA	2a01:8840:f7::42
 recipes.				      172800 IN	NS	v0n0.nic.recipes.
 recipes.				      172800 IN	NS	v0n1.nic.recipes.
 recipes.				      172800 IN	NS	v0n2.nic.recipes.
