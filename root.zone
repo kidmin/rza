@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024013001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240212170000 20240130160000 30903 . CHy73iZVO1PuxL7NBIlC32Qwc5SSctnMxX/4WBF2pWL7GdwvyQb6l5Wr 2tGB7AEE4euEt7jBAVOVNHSjcmA88MvDGdrforCPqH3pqLdgTmhP+Zyf yK106iVm255vqEpvEa3xUH9+iAxgJLKx0p8n+7+IWY7sfVsuA+ZCFYYy vyZH9mCQlEcz1w9veR1gMb5mJseCR95LZkSzIB2cdl5u+ggsojwacpfL QiYrEhDlbbhzsFfyx79CkTwhhmS26Wmk0fq34aOC3K9No9j13bI7/5b1 UaaYnru0NajxDbuHG5GQtUZGroGX4xZ7M+iANufjlbRIbc4iUm3vCSum 4TSPag==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024013002 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240212180000 20240130170000 30903 . 4KxzmQ1l+P1rZuSBRBeHwAAEJ3jpQL3aVBdr33qhc/j9AQPRmS8GlKQJ YpvFYYZQ0iSPhCoi4pRAE2LdGFuFgd5BC5VjPMlOgmDn6R/PHAUfNsg+ RjRa/91d5ijM9vQHmVnOmkJucMDraJI7DOf7EvUSmEqB7PzTY+5Lt8nw inLibWhELQJ9Nu7gNK7L7aIWtwakEgw6Dx4ZPgqfvNCHTQRoqnZ3E0QU 0P3VbCyM1TuPk3d+nc6xiw9OwC9eswll0+tQ4ZVBGQbYlGEJANFnfvkH TdKdeLU9vnfUfp6mZBhq/sBtCTmu8zd8FQYOfwREgvEsmAdtyfU02/YQ Fat7WQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240211000000 20240121000000 20326 . kTXXxK3AupTMROlqPeVuF2+HByXrlP8Z4cPUSKX1UnFiXr0EZ8P4tmsz 2tF6PI2VL9G3q8xNl0NOSDOv8D7dk0qJgJedRkEv9uWKE2WeRL8Tvh51 dBGZWvvFSO0/vQBVkJAncT85OhPCDsB3ZfGEAOcT1fQ2GaCHl3jM0MGL 8NPzE2JxGqQLimKQ03mlUFKLph8AvvWGm068/1ISCn0ycydc7yU4cmBF gI2lTQY3B148QRsDf7nl3/YiGeSv+9mdiYs7GI1WvWl1EK2CdSb8iQDw aogobcVPRZYLVwjrjw0mg5PgaRLIG59TqiYUDW8WwHPT5XErOslRZiur ssrmTQ==
-.					      86400 IN ZONEMD	2024013001 1 1 49F84C06F937E4354779CE79C0FAB9C3DA9475F58F7A87EE97A46A27 D7AE12B512E08669C811F66F13FFBA19BD66788D
+.					      86400 IN ZONEMD	2024013002 1 1 DC0FAA4ACC152B38F318B6629A3EE7547E5F74B0BB4369B9A3B72968 53CE7A974C882A0A8FDDF4752DABD49312A44F82
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -10987,23 +10987,13 @@ v2n0.nic.loans.				      172800 IN	A	65.22.27.55
 v2n0.nic.loans.				      172800 IN	AAAA	2a01:8840:1d::55
 v2n1.nic.loans.				      172800 IN	A	161.232.13.55
 v2n1.nic.loans.				      172800 IN	AAAA	2a01:8840:f7::55
-locker.					      172800 IN	NS	a0.nic.locker.
-locker.					      172800 IN	NS	a2.nic.locker.
-locker.					      172800 IN	NS	b0.nic.locker.
-locker.					      172800 IN	NS	c0.nic.locker.
 locker.					      172800 IN	NS	ns01.trs-dns.com.
 locker.					      172800 IN	NS	ns01.trs-dns.net.
+locker.					      172800 IN	NS	ns01.trs-dns.org.
+locker.					      172800 IN	NS	ns01.trs-dns.info.
 locker.					      86400 IN DS	6301 8 2 2A62E4284AD1157A9994BE5022A76CF66C2C233CEEDE058C673D065F EE63B90E
 locker.					      86400 IN DS	12691 8 2 DB488867DE794AE457267A654FE9266D4D03DDE9031DA92DD58A14E5 51B6DA01
 locker.					      86400 IN NSEC	locus. NS DS RRSIG NSEC
-a0.nic.locker.				      172800 IN	A	65.22.96.33
-a0.nic.locker.				      172800 IN	AAAA	2a01:8840:5e::33
-a2.nic.locker.				      172800 IN	A	65.22.99.33
-a2.nic.locker.				      172800 IN	AAAA	2a01:8840:61::33
-b0.nic.locker.				      172800 IN	A	65.22.97.33
-b0.nic.locker.				      172800 IN	AAAA	2a01:8840:5f::33
-c0.nic.locker.				      172800 IN	A	65.22.98.33
-c0.nic.locker.				      172800 IN	AAAA	2a01:8840:60::33
 locus.					      172800 IN	NS	dns1.nic.locus.
 locus.					      172800 IN	NS	dns2.nic.locus.
 locus.					      172800 IN	NS	dns3.nic.locus.
