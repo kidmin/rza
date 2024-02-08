@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024020801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240221170000 20240208160000 30903 . IcWIyCXlb44+zcp+WYqWlcpG1KCwjMCozkNM5HmLwD/PkTfLuseJYpjy TFuutoJPePI1SmSg/nILxHHq8TuDB2JIHR2Te8PflG5puqRYpOVv9gND /ssL/4cP98ffsydfhBdO6OUubQt948qyun0J38v8klftlh1s/z+iCpbi v6bxr7dwTPODo77gE99TQHJZjCGipGtH7wVphRXzVjlL1QYkDELoDXLJ 8yfzhaYsIaG5w4vlj/l8A5fJqwDpPab/4WgLZ4a5xAboRDAbHFKVEcUL muekFOZxeMWft4kMcD4/12Le1BH/xsV7y9rkQRmyViFhNkZc9P1bkhhl Yqfenw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024020802 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240221220000 20240208210000 30903 . wWkBxSADETZhpppMpVqC4hEUgcecK9g40NJitEt83bPqUhg5RpmEFLf+ khCY6bpNPWqfVbDKJHeGIhVa2R0kj2rWGpkJNt0h4pJIuW42IiU2YB7r M1vn7xMWDN2M3VL2vxXa5e5eflTJp6t1pC0dhNPRcDXcHuLp60Sym7JN Du6Rf/AqmVzozc4Bq9UKqjr8GuxfRaUJU+NSNbIIYy/K2SRZyoMAJyo7 6dDeMoMUPAKeduk/h6pdz0HLnI7vEuCENw1LkTbQ2fZfGCH9NUmT1C98 C5tpDV7JEbDxzMLmUCmlr7c+e1Z1oARGi52AATKum6/m61V0+QsdoL2G tSvvOA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240221000000 20240131000000 20326 . ZO8LbjtwAiVkkBzOnGbiI/3ilGUPmmJpagsLSBVbIZRG6o/8a+hUZpIP Tvk5ERZ1rAW4x0YxKAU8qtaHQpKIp3qYA6u97DYytVD7RdtXKHmGYAvR 6QbD5eVTkCw1Sz705rJxbwt6+YM5OBweSUAy5Glo6JSQPDQwRDwj/bV2 fLRhJbvfsBgxqaXJA0SaE/ceyvK8gB2NIaguTJNrztr2TENrHxi86OKO uHYDHthOW0TFoPfr19qj/P2eEC6dYniTVovUwHT7e+Hqrb05dJF4mI4Z jaIb5mFf8i5RehT1aRlnb3CLiwJ01bEjrRBo3xUn5I3PkCnglHhx3Evk O73OzA==
-.					      86400 IN ZONEMD	2024020801 1 1 3D16F5485EE6F492DD1EEF7577EA5A1D7EBB3108F84CB8B443F3529D 96C96F562A9F70BD6CA94243D5A026A64EF23038
+.					      86400 IN ZONEMD	2024020802 1 1 109BC71FBD0BED7382F35D21628A67861B152778FF8EE4921EC665CD C1BEFC9E2084931D70D9FEE1C000309F3AD57489
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -11677,13 +11677,27 @@ y.nic.menu.				      172800 IN	A	156.154.173.82
 y.nic.menu.				      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.menu.				      172800 IN	A	156.154.174.82
 z.nic.menu.				      172800 IN	AAAA	2610:a1:1076::1:82
-merckmsd.				      172800 IN	NS	ac1.nstld.com.
-merckmsd.				      172800 IN	NS	ac2.nstld.com.
-merckmsd.				      172800 IN	NS	ac3.nstld.com.
-merckmsd.				      172800 IN	NS	ac4.nstld.com.
+merckmsd.				      172800 IN	NS	a.nic.merckmsd.
+merckmsd.				      172800 IN	NS	b.nic.merckmsd.
+merckmsd.				      172800 IN	NS	c.nic.merckmsd.
+merckmsd.				      172800 IN	NS	x.nic.merckmsd.
+merckmsd.				      172800 IN	NS	y.nic.merckmsd.
+merckmsd.				      172800 IN	NS	z.nic.merckmsd.
 merckmsd.				      86400 IN DS	5134 8 2 F4C8E4AC4A227663517FB28FEAA416635CC013CCAB079ECEDA756A89 541BAABA
 merckmsd.				      86400 IN DS	23340 8 2 F6643D8AE9760F8033A5A14B231851CEDFF97429EF22514CFCB1BA62 5EAC86A4
 merckmsd.				      86400 IN NSEC	mg. NS DS RRSIG NSEC
+a.nic.merckmsd.				      172800 IN	A	37.209.192.9
+a.nic.merckmsd.				      172800 IN	AAAA	2001:dcd:1::9
+b.nic.merckmsd.				      172800 IN	A	37.209.194.9
+b.nic.merckmsd.				      172800 IN	AAAA	2001:dcd:2::9
+c.nic.merckmsd.				      172800 IN	A	37.209.196.9
+c.nic.merckmsd.				      172800 IN	AAAA	2001:dcd:3::9
+x.nic.merckmsd.				      172800 IN	A	156.154.172.82
+x.nic.merckmsd.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.merckmsd.				      172800 IN	A	156.154.173.82
+y.nic.merckmsd.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.merckmsd.				      172800 IN	A	156.154.174.82
+z.nic.merckmsd.				      172800 IN	AAAA	2610:a1:1076::1:82
 mg.					      172800 IN	NS	ns.dts.mg.
 mg.					      172800 IN	NS	ns.nic.mg.
 mg.					      172800 IN	NS	pch.nic.mg.
@@ -12209,13 +12223,27 @@ ms.					      172800 IN	NS	ns1.anycastdns.cz.
 ms.					      172800 IN	NS	ns2.anycastdns.cz.
 ms.					      172800 IN	NS	ms-ns.anycast.pch.net.
 ms.					      86400 IN NSEC	msd. NS RRSIG NSEC
-msd.					      172800 IN	NS	ac1.nstld.com.
-msd.					      172800 IN	NS	ac2.nstld.com.
-msd.					      172800 IN	NS	ac3.nstld.com.
-msd.					      172800 IN	NS	ac4.nstld.com.
+msd.					      172800 IN	NS	a.nic.msd.
+msd.					      172800 IN	NS	b.nic.msd.
+msd.					      172800 IN	NS	c.nic.msd.
+msd.					      172800 IN	NS	x.nic.msd.
+msd.					      172800 IN	NS	y.nic.msd.
+msd.					      172800 IN	NS	z.nic.msd.
 msd.					      86400 IN DS	23659 8 2 81DE1BCC17AE524CEEABD94382FF3AA6BFD61804332E511B44EA5AB0 6EC6F52A
 msd.					      86400 IN DS	30849 8 2 8560961FD5E191D49B2461180F7EDC509E10689F85ED595AD111956B C81FF9A2
 msd.					      86400 IN NSEC	mt. NS DS RRSIG NSEC
+a.nic.msd.				      172800 IN	A	37.209.192.9
+a.nic.msd.				      172800 IN	AAAA	2001:dcd:1::9
+b.nic.msd.				      172800 IN	A	37.209.194.9
+b.nic.msd.				      172800 IN	AAAA	2001:dcd:2::9
+c.nic.msd.				      172800 IN	A	37.209.196.9
+c.nic.msd.				      172800 IN	AAAA	2001:dcd:3::9
+x.nic.msd.				      172800 IN	A	156.154.172.82
+x.nic.msd.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.msd.				      172800 IN	A	156.154.173.82
+y.nic.msd.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.msd.				      172800 IN	A	156.154.174.82
+z.nic.msd.				      172800 IN	AAAA	2610:a1:1076::1:82
 mt.					      172800 IN	NS	a.ns.mt.
 mt.					      172800 IN	NS	b.ns.mt.
 mt.					      172800 IN	NS	f.ns.mt.
@@ -15044,21 +15072,17 @@ b0.nic.red.				      172800 IN	A	65.22.37.25
 b0.nic.red.				      172800 IN	AAAA	2a01:8840:27::25
 c0.nic.red.				      172800 IN	A	65.22.38.25
 c0.nic.red.				      172800 IN	AAAA	2a01:8840:28::25
-redstone.				      172800 IN	NS	a0.nic.redstone.
-redstone.				      172800 IN	NS	a2.nic.redstone.
-redstone.				      172800 IN	NS	b0.nic.redstone.
-redstone.				      172800 IN	NS	c0.nic.redstone.
+redstone.				      172800 IN	NS	a.zdnscloud.com.
+redstone.				      172800 IN	NS	b.zdnscloud.com.
+redstone.				      172800 IN	NS	c.zdnscloud.com.
+redstone.				      172800 IN	NS	d.zdnscloud.com.
+redstone.				      172800 IN	NS	f.zdnscloud.com.
+redstone.				      172800 IN	NS	g.zdnscloud.com.
+redstone.				      172800 IN	NS	i.zdnscloud.com.
+redstone.				      172800 IN	NS	j.zdnscloud.com.
 redstone.				      86400 IN DS	49835 8 2 51A6A70D9A7C0F010D09FFAACA9CB6BBBE7FAD76FB48FDE6F940B606 C8CDE048
 redstone.				      86400 IN DS	55555 8 2 425CC5BC7ADD435160D3C70CBA9D545BE2FF5466ECC27FB46E520BE2 EC1F9D0D
 redstone.				      86400 IN NSEC	redumbrella. NS DS RRSIG NSEC
-a0.nic.redstone.			      172800 IN	A	65.22.132.17
-a0.nic.redstone.			      172800 IN	AAAA	2a01:8840:82::17
-a2.nic.redstone.			      172800 IN	A	65.22.135.17
-a2.nic.redstone.			      172800 IN	AAAA	2a01:8840:85::17
-b0.nic.redstone.			      172800 IN	A	65.22.133.17
-b0.nic.redstone.			      172800 IN	AAAA	2a01:8840:83::17
-c0.nic.redstone.			      172800 IN	A	65.22.134.17
-c0.nic.redstone.			      172800 IN	AAAA	2a01:8840:84::17
 redumbrella.				      172800 IN	NS	a0.nic.redumbrella.
 redumbrella.				      172800 IN	NS	a2.nic.redumbrella.
 redumbrella.				      172800 IN	NS	b0.nic.redumbrella.
