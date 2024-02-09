@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024020901 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240222170000 20240209160000 30903 . R+HV5qXdJ7O9esFCrbO2clQse4EcD/AW3Tn1I2cHZZ3u17Gzx6c1tiw8 sa3ukt7D5rrNJfJAMgle3EEotndYxiC0VyZRon8jboWeIUdCHycmffE/ /8eQYaS+M5NHkrx+C/QR2nGImIXWjL9wmDZOzTtnRPYC5gml04ZKREAh pGHW0NL907/RDbVwGW1GhorJyZJkvRYS+NavdeomiimWSd45NfvCMef5 1Xp1e0hDO//zDOqgGON4XfjJEeIe5yLdSHFkBUe4Ba2Cz1OXaiV1nRUp gDkZIDNjmTw/FnmJRKCv92UmE8t4TszTo6TTlLuQPoJlFu7Zc6/55K9q NWm1kA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024020902 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240222210000 20240209200000 30903 . sBv883d8JiMCQ/cfjzqYzbN7uTF9B9lol2Us7Wc2ishlJSNumbt6lGzw KfSybNMdOYNxCdt8iuf6sWrw08mbhnZhcYAuikoTTvi7GZkTNZsWTaVu Z3aYRd26UQIWleDPDWza9fMS8+7foECYNP+u+IKbGaeWSXhzYGp41wcw HaMn+zcwbOrpff9UTT3xaEuI+YuUwRyCnmPF2a64m/EmPM7jxhJBPewz mMmjVZoEbhG6x7tpQ9gHdZ9OOH7hxZLVG+LDpQZsb6mwrleonUY6LNV0 55IDU+dW9qSzD5cRMBRAMFnQfI2SPelBkqxeoRjEutKhuYEBtJTiHuz8 7wdRng==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240221000000 20240131000000 20326 . ZO8LbjtwAiVkkBzOnGbiI/3ilGUPmmJpagsLSBVbIZRG6o/8a+hUZpIP Tvk5ERZ1rAW4x0YxKAU8qtaHQpKIp3qYA6u97DYytVD7RdtXKHmGYAvR 6QbD5eVTkCw1Sz705rJxbwt6+YM5OBweSUAy5Glo6JSQPDQwRDwj/bV2 fLRhJbvfsBgxqaXJA0SaE/ceyvK8gB2NIaguTJNrztr2TENrHxi86OKO uHYDHthOW0TFoPfr19qj/P2eEC6dYniTVovUwHT7e+Hqrb05dJF4mI4Z jaIb5mFf8i5RehT1aRlnb3CLiwJ01bEjrRBo3xUn5I3PkCnglHhx3Evk O73OzA==
-.					      86400 IN ZONEMD	2024020901 1 1 AB390CB2153466819BA90E3A8047189A5996138F4A29935A31EB2488 ADFF8273C5601C71A2EBEF5D1DEFA9B01520850C
+.					      86400 IN ZONEMD	2024020902 1 1 7AD329B6A8C775C6D242DE48BD416D07BB43F9DE189C3C33520B086D C5D7505BDA0ECAD0E815794B80A63C6209B0ADD5
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4154,10 +4154,6 @@ dns.ryce-rsp.com.			      172800 IN	A	194.0.11.114
 dns.ryce-rsp.com.			      172800 IN	AAAA	2001:678:e:114::53
 ns1.ryce-rsp.com.			      172800 IN	A	193.56.204.153
 ns1.ryce-rsp.com.			      172800 IN	AAAA	2a0c:8f40:0:701::153
-ns3.seacomnet.com.			      172800 IN	A	41.87.126.253
-ns3.seacomnet.com.			      172800 IN	AAAA	2c0f:feb0::3
-ns4.seacomnet.com.			      172800 IN	A	41.87.127.253
-ns4.seacomnet.com.			      172800 IN	AAAA	2c0f:feb0::4
 ns2.teleinfoo.com.			      172800 IN	A	103.61.61.1
 ns2.teleinfoo.com.			      172800 IN	AAAA	2402:7d80:8888::1
 ns4.teleinfoo.com.			      172800 IN	A	103.61.63.1
@@ -10495,18 +10491,24 @@ v2n0.nic.lawyer.			      172800 IN	AAAA	2a01:8840:1d::14
 v2n1.nic.lawyer.			      172800 IN	A	161.232.13.14
 v2n1.nic.lawyer.			      172800 IN	AAAA	2a01:8840:f7::14
 lb.					      172800 IN	NS	b.ns.lb.
+lb.					      172800 IN	NS	i.ns.lb.
+lb.					      172800 IN	NS	r.ns.lb.
+lb.					      172800 IN	NS	s.ns.lb.
 lb.					      172800 IN	NS	nn.uninett.no.
-lb.					      172800 IN	NS	ns3.seacomnet.com.
-lb.					      172800 IN	NS	ns4.seacomnet.com.
-lb.					      172800 IN	NS	fork.sth.dnsnode.net.
 lb.					      172800 IN	NS	nabil.ns.lb.
 lb.					      172800 IN	NS	ns-jp.lbdr.org.lb.
 lb.					      86400 IN DS	3842 8 2 C838938C2127E3E10E15F92106EC565EF273B2EF7E3AEEBE5A216286 2FD3B469
 lb.					      86400 IN NSEC	lc. NS DS RRSIG NSEC
 b.ns.lb.				      172800 IN	A	147.28.0.39
 b.ns.lb.				      172800 IN	AAAA	2001:418:1::39
+i.ns.lb.				      172800 IN	A	77.72.229.254
+i.ns.lb.				      172800 IN	AAAA	2a01:3f0:0:306::53
 nabil.ns.lb.				      172800 IN	A	185.91.97.18
 nabil.ns.lb.				      172800 IN	AAAA	2a05:e380:2:4::2
+r.ns.lb.				      172800 IN	A	105.16.170.1
+r.ns.lb.				      172800 IN	AAAA	2c0f:feb0:c:1::1:1
+s.ns.lb.				      172800 IN	A	105.16.115.1
+s.ns.lb.				      172800 IN	AAAA	2c0f:feb0:2:1::1:8001
 ns-jp.lbdr.org.lb.			      172800 IN	A	203.178.141.64
 ns-jp.lbdr.org.lb.			      172800 IN	AAAA	2001:200:0:2::53:1
 lc.					      172800 IN	NS	a0.cctld.afilias-nst.info.
@@ -21150,7 +21152,8 @@ xn--mgbayh7gpa.				      172800 IN	NS	amra.nic.gov.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	petra.nic.gov.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	cloudns.nic.net.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	jordan1st.nic.gov.jo.
-xn--mgbayh7gpa.				      86400 IN NSEC	xn--mgbbh1a. NS RRSIG NSEC
+xn--mgbayh7gpa.				      86400 IN DS	58951 7 2 8C351C0A4CA0030B6F43D94050A814C1357E29DC50E98DFFC18B25C2 921A05A6
+xn--mgbayh7gpa.				      86400 IN NSEC	xn--mgbbh1a. NS DS RRSIG NSEC
 xn--mgbbh1a.				      172800 IN	NS	ns1.registry.in.
 xn--mgbbh1a.				      172800 IN	NS	ns2.registry.in.
 xn--mgbbh1a.				      172800 IN	NS	ns3.registry.in.
