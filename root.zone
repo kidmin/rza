@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024021501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240228140000 20240215130000 30903 . 3pC8u8zosSfn6ODIjCBPxpTkxIrwgeif8BSk3QXWAKt8QrXNzuKXYa7g Bt4n1RwNhPSsEql6BdQPR1zTdMyuWwQ5UbyR+pF0ru7qb7or65rd6jfC ymcuUmj4tiex6fvZL1Hz8sfYoYpMk68+fin5KxVIHvm4r1C+quctU1Ac QDIs+XvMYOzIlP1RIKFKD/Cb0kLefJxejTqqPyz4vhZNISYGCH6NolEw B4TK8J8e+Lm6WVsxcR2MAAAgJAjDc5tl3p1oGlc2EvTi4XJMmSMgC+Fy 90nZl8sOkZFHlV5ma/0vgaH16NOBTC6MBD5HT24OqbzkN+vV8KBsWaoT OEj81w==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024021502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240228170000 20240215160000 30903 . 2n8n2wi8yLSrx0PyOcm8O8VSPp/mEBmbC5DbzJUrJm/Klw7bvRIqUgub wL2qPBluxNn0I5LsqeTpbn18efdI5CqU9hS3dwoOOwtcWMeFaKjmbbfV sKrR9qSnyuXopq+/sEYaEBZXvoT9pOVmQNg4mM7soAvJQB1yxDoUwbdd HgI1XtdiOjxc62FZOEEsWwUljvByl3DMjGFrN7H51/ZrUOohRNNy/+qO s7ixBMTwmvcpgX3+/G0OG5hST9+mOPshTJvaoI6qs3jyEyGFPvT0la95 fd4fIOfaEFHcCd7GSr+IUX4D10EcfiWcINzz3r5NuG0RvBXzYfik80o4 yyPxZQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240302000000 20240210000000 20326 . QXPpi2A4jXgS6/aH5ZPCT/iOr75XYdk9kxemYrLaVaUAiaOVLDcArPOC 8vyv6BKrK0Mq/lht2ql/XARVokC97n1W7B7tpzTpsZle7Z9cTSvbQefI /vVmFZwp+4+mad2f+Tqa0ApQLWaFXEdrJ4IThswbIwpNp8e1w9HwTZHT /B5Jve+v3CLf8o73ScYaVebC5c76Ifh6M5lAknazUWJ9/j5vQ6yInQpc UR3t520HL+KPEcDfmDXB6GOLr/Psdk8QCfB3LJ4heDCaI0H+ae/YPzed pnihAVP+hzhlOzZ0vpj7QOh4lTQjN7UzWNY9XbK+EhZHXRQmCmYydAUP 6FpMmQ==
-.					      86400 IN ZONEMD	2024021501 1 1 9B27748869C44CD51296DC9BA65C391FDA847B969C992AEFCFB89C87 AEA069AED20B8262BC6D907129FB332F3D258AD0
+.					      86400 IN ZONEMD	2024021502 1 1 BAE5E83FF6744F27C1B1A7F640E3514469B0120D1080D2E014BE90E6 4C2992D630884ACF4DDE3C46604A537C85552726
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4790,6 +4790,8 @@ d.ns.nic.cz.				      172800 IN	A	193.29.206.1
 d.ns.nic.cz.				      172800 IN	AAAA	2001:678:1::1
 gt-e.ns.nic.cz.				      172800 IN	A	185.43.134.14
 gt-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::14
+mk-e.ns.nic.cz.				      172800 IN	A	185.43.134.12
+mk-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::12
 mw-e.ns.nic.cz.				      172800 IN	A	185.43.134.10
 mw-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::10
 tz-e.ns.nic.cz.				      172800 IN	A	185.43.134.11
@@ -11850,8 +11852,8 @@ mitsubishi.				      172800 IN	NS	k.gmoregistry.net.
 mitsubishi.				      172800 IN	NS	l.gmoregistry.net.
 mitsubishi.				      86400 IN DS	45959 8 2 1E5BC196FD959FBEFB2CBD681475BE0FF1DE7FBD074B2CE338894EC2 B011C0DC
 mitsubishi.				      86400 IN NSEC	mk. NS DS RRSIG NSEC
-mk.					      172800 IN	NS	d.ext.nic.cz.
-mk.					      172800 IN	NS	ns2.arnes.si.
+mk.					      172800 IN	NS	b.dns.si.
+mk.					      172800 IN	NS	mk-e.ns.nic.cz.
 mk.					      172800 IN	NS	tld1.marnet.mk.
 mk.					      172800 IN	NS	dns-mk.univie.ac.at.
 mk.					      86400 IN NSEC	ml. NS RRSIG NSEC
@@ -12365,7 +12367,6 @@ mx.					      172800 IN	NS	i.mx-ns.mx.
 mx.					      172800 IN	NS	m.mx-ns.mx.
 mx.					      172800 IN	NS	o.mx-ns.mx.
 mx.					      172800 IN	NS	x.mx-ns.mx.
-mx.					      86400 IN DS	5714 8 2 F98C2F8FD23EE07AE29137FA6B2AC6BD44BE32D684FD06BB894EE307 C56700E5
 mx.					      86400 IN DS	62752 8 2 1B2F55DBF6CFB9EB66B0963DAA6BBE2CBBDCB851598FEC25EC2CCDC9 A3785A12
 mx.					      86400 IN NSEC	my. NS DS RRSIG NSEC
 c.mx-ns.mx.				      172800 IN	A	192.100.224.1
