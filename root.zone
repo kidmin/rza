@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024022201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240306170000 20240222160000 30903 . ln2nopTS4+Kp3kawqh33oSb4hYVNTxq0E2Ur/4v2JuJE3IFxUTdfUkmV yymcbrdvME2aaiQ0rH+ddW29KvDSFkR96ltaMwL7N2q4Kz3VIdaEwbG/ S1GkRUzKgqKfSQ93BVklew7FzGJNI9vMPb4Lt3VROQiR4lvUZMor7j/M xCW8nwGmZYCKFfeu9IDOjKFqQBTZcaaCLtfUQso0vXSxdqTYK2ZJ/8mr jlRHgdru/ynONzJugZmEp5lSlAM7cTN3RrnxsNQFSAyIXum0xA1i3KDi zsB4J9RsrutmkknXm8Aq4J/RLk7VzqIdPc0wZzPSJfbGuagSUoDp8RlD ROtQbg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024022202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240306210000 20240222200000 30903 . Z70OdGVPKSXCgubPYLfyGGR8J6XXALLWC0BWSDqGOVKRk5iANdDG5kH6 l/YsUec7CCQQzEY9Fyl2Em/oE6QcSQXm9BEqH5GZrkET0CYgYAea8+AI xq1J94k9xWyHP5UamtTaqkdKqSwrTOfoCqBNLGkNTcqb9kS4vXtdgDGu TO2QBswyzMCfvDBuhvspa7A+5BoxaUMC1A8Xa4C1fD+04GOCHhNbCrI1 Se0lWQv+e4Fdpc649oe3zVCichMIzkguaHFRgLDJeurDpsT8uzaicFUA /9IGN/pYm5Ol00AvwO2KwgLd/W2tmddLmllp5Ml4EukgJSbmysQIfKrV 8t5xXw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240312000000 20240220000000 20326 . GIgwndRLXgt7GX/JNEqSvpYw5ij6EgeQivdC/hmNNuOd2MCQRSxZx2Dd LZUoK0tmn2XmOd0vYP06DgkIMUpIXcBstw/Um55WQhvBkBTPIhuB3UvK YJstmq+8hFHWVJwKHTg9xu38JA43VgCV2AbzurbzNOLSgq+rDPelRXzp Lr5aYE3y+EuvL+I5gusm4MMajnp5S+ioWOL+yWOnQE6XKoDmlrfcTrYf RSxRtJewPmGeCbNdwEUBOoLUVdkCjQG4uFykcKL40cY8EOhVmM3kXAyu PuNe2Xz1QrIcVad/U4FDns+hd8+W+sWnr8QAtIUFT5pBjXooGS02m6eM dSeU6g==
-.					      86400 IN ZONEMD	2024022201 1 1 36A5707D0E0896437D85FBC44AEDD468B9D052C6982B200CF6EB92B1 2E89CACD3B27FC22A9B046848DA2C81FD96B63A2
+.					      86400 IN ZONEMD	2024022202 1 1 C18C6CD7C40D9A6B154B70B2C49CE2DD2090D021B5745E8246019FB3 515EB4ADF557A9A8E4E7D27FBDCCA7AB576E16CC
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4701,10 +4701,12 @@ cw.					      172800 IN	NS	cw.cctld.authdns.ripe.net.
 cw.					      172800 IN	NS	ns0.ja.net.
 cw.					      172800 IN	NS	ns1.bna.cw.
 cw.					      172800 IN	NS	ns1.dns.cw.
+cw.					      172800 IN	NS	ns2.bna.cw.
 cw.					      172800 IN	NS	kadushi.curinfo.cw.
 cw.					      172800 IN	NS	ns01-server.curinfo.cw.
 cw.					      86400 IN NSEC	cx. NS RRSIG NSEC
 ns1.bna.cw.				      172800 IN	A	216.122.189.85
+ns2.bna.cw.				      172800 IN	A	216.122.189.86
 kadushi.curinfo.cw.			      172800 IN	A	65.208.122.63
 ns01-server.curinfo.cw.			      172800 IN	A	65.208.122.36
 ns1.dns.cw.				      172800 IN	A	194.0.28.6
@@ -12872,8 +12874,6 @@ ns1.sr.net.				      172800 IN	A	200.1.159.148
 ns2.sr.net.				      172800 IN	A	200.2.162.30
 ns.thnic.net.				      172800 IN	A	202.28.0.1
 ns01.trs-dns.net.			      172800 IN	A	64.96.2.1
-ns.twnic.net.				      172800 IN	A	192.83.166.11
-ns.twnic.net.				      172800 IN	AAAA	2001:288:1:1006::11
 dns2.u-registry.net.			      172800 IN	A	195.123.1.7
 ns1.uniregistry.net.			      172800 IN	A	64.96.1.1
 ns1.uniregistry.net.			      172800 IN	AAAA	2620:57:4000:1::1
@@ -15232,6 +15232,7 @@ ren.					      172800 IN	NS	g.zdnscloud.com.
 ren.					      172800 IN	NS	i.zdnscloud.com.
 ren.					      172800 IN	NS	j.zdnscloud.com.
 ren.					      86400 IN DS	770 8 2 897EA15932FA4407809D32CA7C7DA4B0C0E455316A897970F152109F 18CE6CD9
+ren.					      86400 IN DS	6712 8 2 06090FB53AE539CE051D9236A0C6B5FD58361167BC0D7F5E8E9EAB4F 62D4FFFB
 ren.					      86400 IN NSEC	rent. NS DS RRSIG NSEC
 rent.					      172800 IN	NS	a.nic.rent.
 rent.					      172800 IN	NS	b.nic.rent.
@@ -18710,7 +18711,6 @@ tw.					      172800 IN	NS	e.dns.tw.
 tw.					      172800 IN	NS	f.dns.tw.
 tw.					      172800 IN	NS	g.dns.tw.
 tw.					      172800 IN	NS	h.dns.tw.
-tw.					      172800 IN	NS	ns.twnic.net.
 tw.					      172800 IN	NS	anytld.apnic.net.
 tw.					      86400 IN DS	51277 8 2 462DA9AF501D2B1EEF6725522DB5972F8CD2490B51D92088FF1E3D2D E0EC7BCD
 tw.					      86400 IN NSEC	tz. NS DS RRSIG NSEC
