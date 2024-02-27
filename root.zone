@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024022700 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240311050000 20240227040000 30903 . W7UvDDje8jQOXoP0YK0C6Aio/qt+3MxeD1JomLgNhzTJuB5ba/1nvgi3 o4h/h2baaSUUpqGnop1SCJrj1Br54atP8T3ibXMQ8nCaNsBVOBHSf9o4 w+eWm+Mg0ubpHQlDA/YeqnEI3o0vO+93srNv5pBu2FObOJ8rrAo7GEAD ouvmPd0hAd037c8GjEIu3Yjc7s6kKDsbEYC6ZA1ys4smKjAhvXRtAjmb SoKRqMmLb6GcFv6ltqyDjoDc6xpE1FjVEyGIshEwEPLuVBgQoMTYVaL1 yqShGQL/QALJQKTPm+c//7ZN3rlPZq0oqw0T0G3IjNEcH47YKIbpG4oS tVvFJw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024022701 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240311170000 20240227160000 30903 . KRLOhB77Yko3BPQXMYhPEyRFkNmpBF2GHI5Fn+Im33blCCpyJGgiMit4 rCpMaCQ6gxwHd0wAEAAMlfQC8S/Oewu7GsIMGyqTMkXhsSg0I1qHNlUc fAZgFwy+BceSLmt53PSM6WXCs/EA3o0mv3/1eaTNpfQRY5Rwkin3f2YM fD4WPUpbA5YovzdZO/rMVJDRnKHC2FYz3qAQs59LQJOGtdNsuSKo8C+T CC3opFMdNX5iPZGqljvl1x1K6ZwexNEUg14q1SDVIyMu60OEF1SIOFQ8 hiNbrVn/OrsZEbhQ3v49M1RssR2ONBY7Q5IJaOAb5K6cP1+xpMDQx09B ll625A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240312000000 20240220000000 20326 . GIgwndRLXgt7GX/JNEqSvpYw5ij6EgeQivdC/hmNNuOd2MCQRSxZx2Dd LZUoK0tmn2XmOd0vYP06DgkIMUpIXcBstw/Um55WQhvBkBTPIhuB3UvK YJstmq+8hFHWVJwKHTg9xu38JA43VgCV2AbzurbzNOLSgq+rDPelRXzp Lr5aYE3y+EuvL+I5gusm4MMajnp5S+ioWOL+yWOnQE6XKoDmlrfcTrYf RSxRtJewPmGeCbNdwEUBOoLUVdkCjQG4uFykcKL40cY8EOhVmM3kXAyu PuNe2Xz1QrIcVad/U4FDns+hd8+W+sWnr8QAtIUFT5pBjXooGS02m6eM dSeU6g==
-.					      86400 IN ZONEMD	2024022700 1 1 21DF905FC1EC23F6FC0661FA53CDC745FA44A1C1B67118C14163E850 44C9C52528397EE8DA13678EEC25E6A72D7BA36A
+.					      86400 IN ZONEMD	2024022701 1 1 A739B7F7BE369B4D46B162F074FC9D50CD14BD08261AA9F34B5C402E 9BAF916C152D2BB1548464AD97252C914470600A
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -12875,7 +12875,6 @@ ns1.sr.net.				      172800 IN	A	200.1.159.148
 ns2.sr.net.				      172800 IN	A	200.2.162.30
 ns.thnic.net.				      172800 IN	A	202.28.0.1
 ns01.trs-dns.net.			      172800 IN	A	64.96.2.1
-dns2.u-registry.net.			      172800 IN	A	195.123.1.7
 ns1.uniregistry.net.			      172800 IN	A	64.96.1.1
 ns1.uniregistry.net.			      172800 IN	AAAA	2620:57:4000:1::1
 ns3.uniregistry.net.			      172800 IN	A	185.159.197.3
@@ -18754,6 +18753,7 @@ az.hostmaster.ua.			      172800 IN	A	195.47.253.13
 az.hostmaster.ua.			      172800 IN	AAAA	2001:67c:258::13
 tier1.num.net.ua.			      172800 IN	A	149.202.5.226
 dns.tci.net.ua.				      172800 IN	A	91.231.86.238
+dns.tci.net.ua.				      172800 IN	AAAA	2a02:128:2:52ae:fdee:d892:347d:d892
 bg.ns.ua.				      172800 IN	A	185.136.96.185
 bg.ns.ua.				      172800 IN	A	185.136.97.185
 bg.ns.ua.				      172800 IN	AAAA	2a06:fb00:1::2:185
@@ -18770,6 +18770,7 @@ rcz.ns.ua.				      172800 IN	A	193.46.128.10
 rcz.ns.ua.				      172800 IN	AAAA	2a02:850:ffe0::10
 ukr.ns.ua.				      172800 IN	A	194.58.197.4
 ukr.ns.ua.				      172800 IN	AAAA	2a01:3f1:c001::53
+ukr.ukrnames.ua.			      172800 IN	A	195.123.192.7
 ubank.					      172800 IN	NS	a0.nic.ubank.
 ubank.					      172800 IN	NS	a2.nic.ubank.
 ubank.					      172800 IN	NS	b0.nic.ubank.
@@ -20985,8 +20986,8 @@ xn--j1aef.				      86400 IN DS	32220 8 2 8CBAA94CF4C8387C6E98DCC53A90C9C7CE3390
 xn--j1aef.				      86400 IN NSEC	xn--j1amh. NS DS RRSIG NSEC
 xn--j1amh.				      172800 IN	NS	dns.tci.net.ua.
 xn--j1amh.				      172800 IN	NS	ukr.ns.ua.
+xn--j1amh.				      172800 IN	NS	ukr.ukrnames.ua.
 xn--j1amh.				      172800 IN	NS	dns1.u-registry.com.
-xn--j1amh.				      172800 IN	NS	dns2.u-registry.net.
 xn--j1amh.				      172800 IN	NS	dns3.dotukr.com.
 xn--j1amh.				      172800 IN	NS	tier1.num.net.ua.
 xn--j1amh.				      86400 IN NSEC	xn--j6w193g. NS RRSIG NSEC
