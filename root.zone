@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024030501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240318170000 20240305160000 30903 . 3Mn0H97e7/9El749Pmax0PDjiHTJiMIry3xoLHHK4SCZJ3+ySUZG9zpf 7X0rXwPnCz9JO7cEchkRZ0W+pwhIUADZR8+mwbxUqJy+WP2LGuyoq40J 8Q99QhJOHNejGIF2ItDaae1vGGCvs9PLxwf6ZpoXVNsuop7tsPD4VEHT DmGnI4/jAaDSlNg8JBEeCOzRLDlKf/TN29pA+xfLbs5uAW+HQY7mKc9J jiiaonyyhMvd43436OsYK2q4GEMAx9Nx4EoWTgth8UBjvygGM91oqfKA xMUBNja1TVzX/dlt+evHefWyrj/3eT5oYekOLk8mpyP4gXOTYdh3KPIe 0Dy1jg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024030502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240318220000 20240305210000 30903 . KarXgZLv9HjGPbV/vy5A66WTvc1KjE0IPui0sMOD2PX6uCB0tXj5ueMn iaYV4o9ZTbPRdELhF9ruEXZYv7fYM3LbfO9r8idVMAaEduzBfcyuCzeL IBwdgfRt148JokffpgiiZXJy2OvO6VmjzvLLUTtgfm1vKhCLU3ZOIhu8 CNK1RWt7IkUCQZP0DkpIbH6Cf+gfA65slzheVzN3lF65uu5n7UGGu6+F iXrhSAZwFm0PmvwMek563eB8w9cz360/2AIEb33oxabtGy1KtGdx9D23 3Q1j6Yl8MapWruJCNnal0kyBlV74qt0rzJSQ+P+tzTbtW5m1tl3VlaeC rQs98Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240322000000 20240301000000 20326 . R5YR1P8DCGZkCbuqP+lqjd8KwdHHgIZVu10OMX6+1CT11KrRkamJsGq+ 20/WiyiYT8Etcwe1GJZ+51DoCWy1vln+7RXAhsgLv+RV9HAkJSZ0bXqK 9yDmPvufS+VcZPvkoA1Ajmj6oHMo1TlDoWbKtifFuA0J3O9gEhDn/rD5 RuPNQIkcTMdFbVBsROZbBXeNz1vDp68oRxGS8kvzWo3FEyV/A9kbEli8 0IoIST+3D6opZvWSQw33bkwpo2icELYK+olUV1bxSrVWxqGl7PwLcJef JJZWo6XUmFsfh+4T88ETDbRWORpRMCb3nFxma3UQp45mNdJXit+k+cJd ounuLA==
-.					      86400 IN ZONEMD	2024030501 1 1 15C77BC51F9C531C05A611F24D4E5925D087576C21B0E4B93135267E F22B95A93AA67CFFEC1D25BE673BAFFC100334B4
+.					      86400 IN ZONEMD	2024030502 1 1 5930D4530A29A845754A03DAA43E27A83504CB1A51002E14040B0A9F 8089E4EC48DA044EB9EF2B529C0F92DF871F9E80
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -8018,13 +8018,7 @@ gu.					      172800 IN	NS	gu.cctld.authdns.ripe.net.
 gu.					      172800 IN	NS	gold.uog.edu.
 gu.					      172800 IN	NS	green.uog.edu.
 gu.					      172800 IN	NS	phloem.uoregon.edu.
-gu.					      86400 IN NSEC	guardian. NS RRSIG NSEC
-guardian.				      172800 IN	NS	ac1.nstld.com.
-guardian.				      172800 IN	NS	ac2.nstld.com.
-guardian.				      172800 IN	NS	ac3.nstld.com.
-guardian.				      172800 IN	NS	ac4.nstld.com.
-guardian.				      86400 IN DS	5751 8 2 11ECDF54B3E2E3E14CE6B189827EB40D28D743708B8D461D00074046 BC4B552F
-guardian.				      86400 IN NSEC	gucci. NS DS RRSIG NSEC
+gu.					      86400 IN NSEC	gucci. NS RRSIG NSEC
 gucci.					      172800 IN	NS	dns1.nic.gucci.
 gucci.					      172800 IN	NS	dns2.nic.gucci.
 gucci.					      172800 IN	NS	dns3.nic.gucci.
