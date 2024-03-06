@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024030601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240319170000 20240306160000 30903 . vJk5muL8vYRaUfCkryfGIP27dtAKGYFNbhi4RjhMlwxKU7flLIGwFXAS vwbkLCtX1ao1DgYjtfFjbMUVh//5unZcyGqh63/EfzYqC4yzDOj56VH6 Be7tNSwoYkGZfSMNy9ok7Kib1WTkBahxaVXZdI4NzYeRKuVLfxVPOZ3d 4PEwJiPstbC6r9QXOHf6n8PoORnVntOsEg4ZHCkfIJW+B0tbMbAaZeBS utAZ1PvqNDcHlHXnkWH3H1T06Ow/Uz1c9rCK/liiwmFe9hGCZAcyZjgG fr9QbpKnMm2t+ixML2yELWBXdhYUak05geCKnVWi3yONBZuzRGlvg4Ml QmcJkA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024030602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240319220000 20240306210000 30903 . VHBl2GwhJiDQIA6U84Cn6gXn71uHWAGWfOQG/DOSsZqG+tcWF2Mj2Hru yLBtFbVNW/kR1cLvCZaqZ2z3FGWM6PpsG7eZtSKt4B4o8tKlvGmCvtOb OO+Z8DOJIh9u3g9FprtjXcp4MpHLVQwwP7tJWXEZQhfPA3M9y41zeDoz Gn2hDeueqZs85ZwVKF+u+0p+gQhRgIRfgShcfdywcNbGCSHm26LWltKB 4PvYu9bhK42FICXwZOEl/kCQZJkD7luyxJsR6vMpn+ZifYr2sVOhRXrh bP/oLWBQltv2BUdUfyxZmCErRsKNqgrOihNG0o0ZitGMi6vHb4JTrbul NC7XXw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240322000000 20240301000000 20326 . R5YR1P8DCGZkCbuqP+lqjd8KwdHHgIZVu10OMX6+1CT11KrRkamJsGq+ 20/WiyiYT8Etcwe1GJZ+51DoCWy1vln+7RXAhsgLv+RV9HAkJSZ0bXqK 9yDmPvufS+VcZPvkoA1Ajmj6oHMo1TlDoWbKtifFuA0J3O9gEhDn/rD5 RuPNQIkcTMdFbVBsROZbBXeNz1vDp68oRxGS8kvzWo3FEyV/A9kbEli8 0IoIST+3D6opZvWSQw33bkwpo2icELYK+olUV1bxSrVWxqGl7PwLcJef JJZWo6XUmFsfh+4T88ETDbRWORpRMCb3nFxma3UQp45mNdJXit+k+cJd ounuLA==
-.					      86400 IN ZONEMD	2024030601 1 1 E7B53E7D97A5AB40902FBF0A50B300458236B7EFFC8967AB9223235D 26FE3D1FD15B6D79F08312265D1D47895813478D
+.					      86400 IN ZONEMD	2024030602 1 1 E0BB9DF2B83B6E118E29A6BF45CF5DD5B9787A979B76B646162066B6 F0F478F183C59016E875C0701B2D176538FCE026
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -190,6 +190,7 @@ accenture.				      172800 IN	NS	ac2.nstld.com.
 accenture.				      172800 IN	NS	ac3.nstld.com.
 accenture.				      172800 IN	NS	ac4.nstld.com.
 accenture.				      86400 IN DS	35388 8 2 0C1DDB821C823AFEC10942D3DCD16D6306221E4EE7F2F524E5D9BAD4 8BAFD8FC
+accenture.				      86400 IN DS	56299 8 2 83307D3A3A6AE2BD8C9FBB7060A5ACB8DBC48B2A56CA944CAE4DC803 CE8E5A84
 accenture.				      86400 IN NSEC	accountant. NS DS RRSIG NSEC
 accountant.				      172800 IN	NS	a.nic.accountant.
 accountant.				      172800 IN	NS	b.nic.accountant.
@@ -1000,6 +1001,7 @@ arte.					      172800 IN	NS	ac2.nstld.com.
 arte.					      172800 IN	NS	ac3.nstld.com.
 arte.					      172800 IN	NS	ac4.nstld.com.
 arte.					      86400 IN DS	46728 8 2 D197248E95610371F7624D79D397037EA5E200E6F338BCCEDF5E93BB 68448152
+arte.					      86400 IN DS	58066 8 2 44E4CC2AD4BCBC5B2C2CD6FBFA18DA14D35B3FB5B0E21E9F1B257211 01938299
 arte.					      86400 IN NSEC	as. NS DS RRSIG NSEC
 as.					      172800 IN	NS	ns1.asnic.biz.
 as.					      172800 IN	NS	ns2.asnic.info.
@@ -3405,6 +3407,7 @@ cfa.					      172800 IN	NS	ac1.nstld.com.
 cfa.					      172800 IN	NS	ac2.nstld.com.
 cfa.					      172800 IN	NS	ac3.nstld.com.
 cfa.					      172800 IN	NS	ac4.nstld.com.
+cfa.					      86400 IN DS	21814 8 2 9D6445887F736116B22A9C4CDA34DA82592146649482638FBC144651 299BDEB4
 cfa.					      86400 IN DS	53505 8 2 AFC328685D96EA41036F4563042DB2D7485C8AD9C790BD22111ABD41 4BCAFD17
 cfa.					      86400 IN NSEC	cfd. NS DS RRSIG NSEC
 cfd.					      172800 IN	NS	a.nic.cfd.
@@ -3897,6 +3900,7 @@ clubmed.				      172800 IN	NS	ac2.nstld.com.
 clubmed.				      172800 IN	NS	ac3.nstld.com.
 clubmed.				      172800 IN	NS	ac4.nstld.com.
 clubmed.				      86400 IN DS	2823 8 2 49AFA8257AEF277EADCE81A3B3712BE90AEC8A22363B302884ACF373 EADADF0C
+clubmed.				      86400 IN DS	21826 8 2 5BAA5F5647BAEF29365E3F37D0914E0ABE5F4D62AFCA9CF59863FB94 AA5964E7
 clubmed.				      86400 IN NSEC	cm. NS DS RRSIG NSEC
 cm.					      172800 IN	NS	ns.itu.ch.
 cm.					      172800 IN	NS	ns1.nic.cm.
@@ -7434,6 +7438,7 @@ genting.				      172800 IN	NS	ac2.nstld.com.
 genting.				      172800 IN	NS	ac3.nstld.com.
 genting.				      172800 IN	NS	ac4.nstld.com.
 genting.				      86400 IN DS	22539 8 2 983FDBFBBA09945A8DA7FEACB64460FA801F4A3481D83FA9E1257FC9 2ED206A3
+genting.				      86400 IN DS	34012 8 2 EDEFC992A1962E973126B51F53A920DA4C0CAAFE53491BD1DD768C44 0770961E
 genting.				      86400 IN NSEC	george. NS DS RRSIG NSEC
 george.					      172800 IN	NS	a0.nic.george.
 george.					      172800 IN	NS	a2.nic.george.
@@ -11283,6 +11288,7 @@ maif.					      172800 IN	NS	ac1.nstld.com.
 maif.					      172800 IN	NS	ac2.nstld.com.
 maif.					      172800 IN	NS	ac3.nstld.com.
 maif.					      172800 IN	NS	ac4.nstld.com.
+maif.					      86400 IN DS	23521 8 2 9BA0FE20840ECE2FF7793F00A66CE5457904D0549526C8454B0CFEC4 A697B59C
 maif.					      86400 IN DS	48459 8 2 E44BC6E7CBA1624A5F16941F1D53FE470A3A7DA4B1C592878D1B32E8 EBEF667C
 maif.					      86400 IN NSEC	maison. NS DS RRSIG NSEC
 maison.					      172800 IN	NS	v0n0.nic.maison.
@@ -13637,6 +13643,7 @@ orange.					      172800 IN	NS	ac1.nstld.com.
 orange.					      172800 IN	NS	ac2.nstld.com.
 orange.					      172800 IN	NS	ac3.nstld.com.
 orange.					      172800 IN	NS	ac4.nstld.com.
+orange.					      86400 IN DS	10282 8 2 5719FCA748BE7253D9B0C4CD2C07454768BF9F5411E940BA7EC7D495 4E55582C
 orange.					      86400 IN DS	44385 8 2 54957BDF3921CA2D50BB340E042605F8D39EE91CA2A08A37424CE888 82C4FE1A
 orange.					      86400 IN NSEC	org. NS DS RRSIG NSEC
 org.					      172800 IN	NS	a0.org.afilias-nst.info.
@@ -20248,7 +20255,7 @@ xn--30rr7y.				      172800 IN	NS	f.zdnscloud.com.
 xn--30rr7y.				      172800 IN	NS	g.zdnscloud.com.
 xn--30rr7y.				      172800 IN	NS	i.zdnscloud.com.
 xn--30rr7y.				      172800 IN	NS	j.zdnscloud.com.
-xn--30rr7y.				      86400 IN DS	42247 8 2 339254F4939C992790A50B1D257EA5C50BF4FC30F9D7B55A0FE87588 5AF8BB7A
+xn--30rr7y.				      86400 IN DS	44210 8 2 CA8C1B37378E7EBA858C4FE9BAD7BD6748E70DA47639C3A0E31DB1F7 1F66F467
 xn--30rr7y.				      86400 IN NSEC	xn--3bst00m. NS DS RRSIG NSEC
 xn--3bst00m.				      172800 IN	NS	a.zdnscloud.com.
 xn--3bst00m.				      172800 IN	NS	b.zdnscloud.com.
@@ -20258,7 +20265,7 @@ xn--3bst00m.				      172800 IN	NS	f.zdnscloud.com.
 xn--3bst00m.				      172800 IN	NS	g.zdnscloud.com.
 xn--3bst00m.				      172800 IN	NS	i.zdnscloud.com.
 xn--3bst00m.				      172800 IN	NS	j.zdnscloud.com.
-xn--3bst00m.				      86400 IN DS	11479 8 2 7881A662F41E0D4B2133E66229672677147A22A8ECA1D1D02DB93ECD B127D895
+xn--3bst00m.				      86400 IN DS	35945 8 2 5A563EDED23044A6C1B623A011123E7AD260B656F89301F500D7FCD0 4223A801
 xn--3bst00m.				      86400 IN NSEC	xn--3ds443g. NS DS RRSIG NSEC
 xn--3ds443g.				      172800 IN	NS	ns1.teleinfo.cn.
 xn--3ds443g.				      172800 IN	NS	ns2.teleinfoo.com.
@@ -20408,7 +20415,7 @@ xn--6qq986b3xl.				      172800 IN	NS	f.zdnscloud.com.
 xn--6qq986b3xl.				      172800 IN	NS	g.zdnscloud.com.
 xn--6qq986b3xl.				      172800 IN	NS	i.zdnscloud.com.
 xn--6qq986b3xl.				      172800 IN	NS	j.zdnscloud.com.
-xn--6qq986b3xl.				      86400 IN DS	30406 8 2 A9B0F70F49B9E0819D93E5E98D1A24499ED86DC201C15D77EAF1ECBB F7C6D2AE
+xn--6qq986b3xl.				      86400 IN DS	54794 8 2 04DB2D2F9CAB81D80FD8F7062B4E2A42A99F9FDF172A90039C30E4A6 B9A844DF
 xn--6qq986b3xl.				      86400 IN NSEC	xn--80adxhks. NS DS RRSIG NSEC
 xn--80adxhks.				      172800 IN	NS	a.dns.flexireg.ru.
 xn--80adxhks.				      172800 IN	NS	b.dns.flexireg.net.
@@ -20501,7 +20508,7 @@ xn--9et52u.				      172800 IN	NS	f.zdnscloud.com.
 xn--9et52u.				      172800 IN	NS	g.zdnscloud.com.
 xn--9et52u.				      172800 IN	NS	i.zdnscloud.com.
 xn--9et52u.				      172800 IN	NS	j.zdnscloud.com.
-xn--9et52u.				      86400 IN DS	769 8 2 2BAE7BA36EA94541B8BC12188EB1AA933B5081CC281909CC5874AF2E BEEBAE96
+xn--9et52u.				      86400 IN DS	46544 8 2 0310CAD1673A9AECA7A4EB6C955EA0BEBEFD87C77C702772E94AA0EB 31CB82D3
 xn--9et52u.				      86400 IN NSEC	xn--9krt00a. NS DS RRSIG NSEC
 xn--9krt00a.				      172800 IN	NS	a0.nic.xn--9krt00a.
 xn--9krt00a.				      172800 IN	NS	a2.nic.xn--9krt00a.
