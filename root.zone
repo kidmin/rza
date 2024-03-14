@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024031401 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240327170000 20240314160000 30903 . 4bSwJzDMVPH4ePHh+yHBQYRGSaRY67PN2BnVZ0uxYwpp3x5+v1sMsPuk ylVyRDvpB7NnHWW9LuEIFt+IvD0kQVJqAehcEpWOtIcj9dlsBO8ydNoc 3du3TT08QIYiJqLn5gewo1Vhrmwo8ZXlIdeJ77Lp/Pyp61pm37FUkuvr vlQ2Jl+DBdxYbw2XsLpC8uOkEQvHqIVDDecGESZcPZHlfyju4hrqypRI mrrKfLZOp8Yvp/9QeD3f8u6QipSyVoXI+02oFp09xqS0lmRORv4GGwx8 doYHhJthzXB+rE6mWQ1mmyM/XNfAoxAH9i/ZCnMwMpBfho2CMsIP2R6L oom7fg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024031402 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240327210000 20240314200000 30903 . ZB5LlJCUySPXJ4ImeN8vHmcg16idiDpgIx+obRuuECDSKFvfcjUB6aVe BsMDwZnJfLT/K4cqiskq2yAfNGg0W5Rx624iWwd83V0/Yg97oTykX9Aj QKs4Zry2w4U0nG6eW8liogRp/+vX2KXvZ8KuBDJubV8kV+d9GuMXMVvd FTDHlbSHaIhTq3EuZqOhibzq+lLzhKIm0t/6F4ApFDZI730eEvByorOL lU07YHh9TolsYcB7Gyq2QrdbK0RbPKpkZmy36Z64yBIazVhGtq3RW5oW PEq3S38xJ+tpzLe+IpjRw2vFrsrrY825VvXl6ELfTGfhSTeNZB6BTuCc Du5EBA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240401000000 20240311000000 20326 . GkHAwHt9owY8jZeLQzprL2CuelVz+s2+t/5pA5YKPhMZWSTXKwiWGi95 2dBigDbKqZQ35XMktqKOExal4Hfjz+YTLORb5N4Gr6WvfEs2CHqv5h6x rC6I3cyFg9yS1KC8Qhrqba4fnZjKGRpReL78SJUdXlXeuA9K9XXO1PDo 9GJexgLNQznA0fiAHyiUiPb0YYWJJg+NqGYcH3FbvEBNtYGcXBltTqi+ 4KIf8VXRMWcCcxMskvUi4+tvWi+kVzdLnaixt327UdMzGmcjwO24FUG3 1T/Xr3LFVyJmtnurSUeioZxoJRi1zPeK+awmR2kjbRw8VhkFbjUNnWgn D7LHvw==
-.					      86400 IN ZONEMD	2024031401 1 1 2A30B082D609E1991A3BAD0AEBF814B522AA92271AD9517E4D0A66D4 2287781AA022A65334DB9E3D6C5A64A34D52DAB4
+.					      86400 IN ZONEMD	2024031402 1 1 81F94ED03B3D765A4D196321B3FD46F34FB7FF7E7CCA0D691FFD6142 E749EEAA2DF1A54F4BC2F0696B98B469269C59B9
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -6355,6 +6355,10 @@ feedback.				      172800 IN	NS	a.nic.feedback.
 feedback.				      172800 IN	NS	b.nic.feedback.
 feedback.				      172800 IN	NS	c.nic.feedback.
 feedback.				      172800 IN	NS	d.nic.feedback.
+feedback.				      172800 IN	NS	ns01.trs-dns.com.
+feedback.				      172800 IN	NS	ns01.trs-dns.net.
+feedback.				      172800 IN	NS	ns01.trs-dns.org.
+feedback.				      172800 IN	NS	ns01.trs-dns.info.
 feedback.				      86400 IN DS	16786 8 2 00F7F4B6DF67DC7B828C14829884908EE92E57FE312ED483C43DA299 FA5DDAE5
 feedback.				      86400 IN DS	37115 8 2 234EE176851A803E7CB19FAFC25C1F2DC1090E119FCEE44FA63140BD 014C64F2
 feedback.				      86400 IN NSEC	ferrari. NS DS RRSIG NSEC
@@ -6908,6 +6912,10 @@ forum.					      172800 IN	NS	a.nic.forum.
 forum.					      172800 IN	NS	b.nic.forum.
 forum.					      172800 IN	NS	c.nic.forum.
 forum.					      172800 IN	NS	d.nic.forum.
+forum.					      172800 IN	NS	ns01.trs-dns.com.
+forum.					      172800 IN	NS	ns01.trs-dns.net.
+forum.					      172800 IN	NS	ns01.trs-dns.org.
+forum.					      172800 IN	NS	ns01.trs-dns.info.
 forum.					      86400 IN DS	9475 8 2 A53A95D8AB4105B83918A104F8828B1E0DDDB48C290A8EFF1960918E 01EAFAE6
 forum.					      86400 IN DS	12827 8 2 07AD0E47C13B5699EFCBDF1A3717B66E2601748B09256173FF713B4D 1346512C
 forum.					      86400 IN NSEC	foundation. NS DS RRSIG NSEC
@@ -10094,12 +10102,18 @@ v2n1.nic.kitchen.			      172800 IN	A	161.232.17.17
 v2n1.nic.kitchen.			      172800 IN	AAAA	2a01:8840:fb::17
 kiwi.					      172800 IN	NS	a.ns.nic.kiwi.
 kiwi.					      172800 IN	NS	b.ns.nic.kiwi.
+kiwi.					      172800 IN	NS	c.ns.nic.kiwi.
+kiwi.					      172800 IN	NS	d.ns.nic.kiwi.
 kiwi.					      86400 IN DS	28462 8 2 A1C28EF63FE4B2CA5DE823951A0A0EDF27F73601ECA4371DA74B6001 90846F7D
 kiwi.					      86400 IN NSEC	km. NS DS RRSIG NSEC
 a.ns.nic.kiwi.				      172800 IN	A	185.159.197.1
 a.ns.nic.kiwi.				      172800 IN	AAAA	2620:10a:80aa::1
 b.ns.nic.kiwi.				      172800 IN	A	185.159.198.1
 b.ns.nic.kiwi.				      172800 IN	AAAA	2620:10a:80ab::1
+c.ns.nic.kiwi.				      172800 IN	A	45.142.220.101
+c.ns.nic.kiwi.				      172800 IN	AAAA	2a0e:dbc0::101
+d.ns.nic.kiwi.				      172800 IN	A	185.159.199.1
+d.ns.nic.kiwi.				      172800 IN	AAAA	2620:10a:80ac::1
 km.					      172800 IN	NS	dns1.nic.km.
 km.					      172800 IN	NS	dns2.nic.km.
 km.					      172800 IN	NS	ns-km.afrinic.net.
@@ -17953,7 +17967,6 @@ tf.					      172800 IN	NS	d.nic.fr.
 tf.					      172800 IN	NS	e.ext.nic.fr.
 tf.					      172800 IN	NS	f.ext.nic.fr.
 tf.					      172800 IN	NS	g.ext.nic.fr.
-tf.					      86400 IN DS	12095 13 2 4110ABE221396D1A9493C5DD67140890E14C73D7AC0FCD67F4B60979 E9881283
 tf.					      86400 IN DS	61832 13 2 9B5C9089B84D2138E6C30163D9B169E6E793236827CE2A0EEDAB7CB9 6C644D83
 tf.					      86400 IN NSEC	tg. NS DS RRSIG NSEC
 tg.					      172800 IN	NS	ns1.nic.tg.
