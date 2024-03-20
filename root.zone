@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240402170000 20240320160000 30903 . LChHhchlBWlbiR2151ITCKGRSQ//TD60BQw777nrjxA0wO6MvYPgUw/I 9PsfumOsr84cJTETZtVY/kMCIvhVM992IzoyoZbpXbKRy6tG1GrDgcra ZtubrOgFRT6ehlnbbCr+7CEHyNiUiym6cSc9kKBjyQBBjKDBVwgG2ARl jWIEBG52HGGNUmvPyN7Z66Gh80cTzt3gJcLZtBg9xVO5EPBD6SLgIATH v9obeko+CvYeMrIGZWyu8+oH0V+nTOKuDBnPoLbIReJCmpKWe5nB3Mps DM4l1UkUNn5YeTxl2A9hoQ8zwFZjzIXlVETyXGKsa4Z/qIpJJ/unlviV klzLCw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032002 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240402210000 20240320200000 30903 . bIgAgOmwJAhrr/vt46RkJPPwsI3GUg0X7CLMbYsOpC+euEW2Fy2mtwWR C0p/hNwNaLrr/fOFNzAZJh7GqHe/yinB/31wew/lMmcRkndm+5LeRJ5Y zQXGcDFfgdwVXMC2x7Hi8ZYXzxc2POhQu4lpLU7mvcTerEkegLEfVdVi wOMgkV911aSAHTYqQTiRMQmbfkQ+tdAhRKLsfzsSi/zxWV00PB7kmT+/ 6fBGPueZPMEIkDJm6wnjRMqwjcJTZi4Z07ECjK82gSQ8jLB0LCa+Kx2f GvLDbKqEMbwmvPAW1qrHiIJK7l9IPfPdRMiirlgT4ATkByB6B6AY0QRA DsUxug==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240401000000 20240311000000 20326 . GkHAwHt9owY8jZeLQzprL2CuelVz+s2+t/5pA5YKPhMZWSTXKwiWGi95 2dBigDbKqZQ35XMktqKOExal4Hfjz+YTLORb5N4Gr6WvfEs2CHqv5h6x rC6I3cyFg9yS1KC8Qhrqba4fnZjKGRpReL78SJUdXlXeuA9K9XXO1PDo 9GJexgLNQznA0fiAHyiUiPb0YYWJJg+NqGYcH3FbvEBNtYGcXBltTqi+ 4KIf8VXRMWcCcxMskvUi4+tvWi+kVzdLnaixt327UdMzGmcjwO24FUG3 1T/Xr3LFVyJmtnurSUeioZxoJRi1zPeK+awmR2kjbRw8VhkFbjUNnWgn D7LHvw==
-.					      86400 IN ZONEMD	2024032001 1 1 C9F89E73261DE70187370230D045328FF6B527F1E252243223895BB9 3347A37DC28506ECB7258BCDC0608AE483AB1260
+.					      86400 IN ZONEMD	2024032002 1 1 AD1340048C5ED1222F0688E8CDAD20AE59CA228839379382F77071D4 F616EC73F9E8EFA5C7539A1D47B47C8565927E00
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -6417,10 +6417,6 @@ b0.nic.fedex.				      172800 IN	A	65.22.229.33
 b0.nic.fedex.				      172800 IN	AAAA	2a01:8840:df::33
 c0.nic.fedex.				      172800 IN	A	65.22.230.33
 c0.nic.fedex.				      172800 IN	AAAA	2a01:8840:e0::33
-feedback.				      172800 IN	NS	a.nic.feedback.
-feedback.				      172800 IN	NS	b.nic.feedback.
-feedback.				      172800 IN	NS	c.nic.feedback.
-feedback.				      172800 IN	NS	d.nic.feedback.
 feedback.				      172800 IN	NS	ns01.trs-dns.com.
 feedback.				      172800 IN	NS	ns01.trs-dns.net.
 feedback.				      172800 IN	NS	ns01.trs-dns.org.
@@ -6428,14 +6424,6 @@ feedback.				      172800 IN	NS	ns01.trs-dns.info.
 feedback.				      86400 IN DS	16786 8 2 00F7F4B6DF67DC7B828C14829884908EE92E57FE312ED483C43DA299 FA5DDAE5
 feedback.				      86400 IN DS	37115 8 2 234EE176851A803E7CB19FAFC25C1F2DC1090E119FCEE44FA63140BD 014C64F2
 feedback.				      86400 IN NSEC	ferrari. NS DS RRSIG NSEC
-a.nic.feedback.				      172800 IN	A	194.169.218.50
-a.nic.feedback.				      172800 IN	AAAA	2001:67c:13cc::1:50
-b.nic.feedback.				      172800 IN	A	185.24.64.50
-b.nic.feedback.				      172800 IN	AAAA	2a04:2b00:13cc::1:50
-c.nic.feedback.				      172800 IN	A	212.18.248.50
-c.nic.feedback.				      172800 IN	AAAA	2a04:2b00:13ee::50
-d.nic.feedback.				      172800 IN	A	212.18.249.50
-d.nic.feedback.				      172800 IN	AAAA	2a04:2b00:13ff::50
 ferrari.				      172800 IN	NS	a0.nic.ferrari.
 ferrari.				      172800 IN	NS	a2.nic.ferrari.
 ferrari.				      172800 IN	NS	b0.nic.ferrari.
@@ -6974,10 +6962,6 @@ v2n0.nic.forsale.			      172800 IN	A	65.22.35.53
 v2n0.nic.forsale.			      172800 IN	AAAA	2a01:8840:25::53
 v2n1.nic.forsale.			      172800 IN	A	161.232.17.53
 v2n1.nic.forsale.			      172800 IN	AAAA	2a01:8840:fb::53
-forum.					      172800 IN	NS	a.nic.forum.
-forum.					      172800 IN	NS	b.nic.forum.
-forum.					      172800 IN	NS	c.nic.forum.
-forum.					      172800 IN	NS	d.nic.forum.
 forum.					      172800 IN	NS	ns01.trs-dns.com.
 forum.					      172800 IN	NS	ns01.trs-dns.net.
 forum.					      172800 IN	NS	ns01.trs-dns.org.
@@ -6985,14 +6969,6 @@ forum.					      172800 IN	NS	ns01.trs-dns.info.
 forum.					      86400 IN DS	9475 8 2 A53A95D8AB4105B83918A104F8828B1E0DDDB48C290A8EFF1960918E 01EAFAE6
 forum.					      86400 IN DS	12827 8 2 07AD0E47C13B5699EFCBDF1A3717B66E2601748B09256173FF713B4D 1346512C
 forum.					      86400 IN NSEC	foundation. NS DS RRSIG NSEC
-a.nic.forum.				      172800 IN	A	194.169.218.65
-a.nic.forum.				      172800 IN	AAAA	2001:67c:13cc::1:65
-b.nic.forum.				      172800 IN	A	185.24.64.65
-b.nic.forum.				      172800 IN	AAAA	2a04:2b00:13cc::1:65
-c.nic.forum.				      172800 IN	A	212.18.248.65
-c.nic.forum.				      172800 IN	AAAA	2a04:2b00:13ee::65
-d.nic.forum.				      172800 IN	A	212.18.249.65
-d.nic.forum.				      172800 IN	AAAA	2a04:2b00:13ff::65
 foundation.				      172800 IN	NS	v0n0.nic.foundation.
 foundation.				      172800 IN	NS	v0n1.nic.foundation.
 foundation.				      172800 IN	NS	v0n2.nic.foundation.
@@ -13690,8 +13666,8 @@ online.					      172800 IN	NS	a.nic.online.
 online.					      172800 IN	NS	b.nic.online.
 online.					      172800 IN	NS	e.nic.online.
 online.					      172800 IN	NS	f.nic.online.
-online.					      86400 IN DS	4267 8 1 A038DA06A96AD8E9BFE2BA78C392FF7804B4CD2B
 online.					      86400 IN DS	4267 8 2 66D7010609CB19E99AD1DA2833DDAB8CA2E7ACC1CE870CC28D29E76E B53D39BA
+online.					      86400 IN DS	19282 8 2 2706A216BD382A5823C746CE685CBC84CA12A9C227E47792ABD990FA 7885DBB0
 online.					      86400 IN NSEC	ooo. NS DS RRSIG NSEC
 a.nic.online.				      172800 IN	A	194.169.218.54
 a.nic.online.				      172800 IN	AAAA	2001:67c:13cc::1:54
@@ -16815,8 +16791,8 @@ site.					      172800 IN	NS	a.nic.site.
 site.					      172800 IN	NS	b.nic.site.
 site.					      172800 IN	NS	e.nic.site.
 site.					      172800 IN	NS	f.nic.site.
-site.					      86400 IN DS	51676 8 1 90DDBEEEB973B0F8719ED763FB6EEDE97C73ABF5
 site.					      86400 IN DS	51676 8 2 883175F6F5C68EA81563B62D1B2B79B6A997D60DC6E20CC70AFD0CD6 B7E82F62
+site.					      86400 IN DS	51974 8 2 A06DC47457CC1185CF1B3A7CF6ECCB84978DE92939DD182BEED95215 09D0DA7B
 site.					      86400 IN NSEC	sj. NS DS RRSIG NSEC
 a.nic.site.				      172800 IN	A	194.169.218.61
 a.nic.site.				      172800 IN	AAAA	2001:67c:13cc::1:61
@@ -17187,8 +17163,8 @@ space.					      172800 IN	NS	a.nic.space.
 space.					      172800 IN	NS	b.nic.space.
 space.					      172800 IN	NS	e.nic.space.
 space.					      172800 IN	NS	f.nic.space.
-space.					      86400 IN DS	44251 8 1 36ACB68B734DFE465CC1112F9DAC08B8B66627CC
 space.					      86400 IN DS	44251 8 2 A82D8ED2B07D66D6E7AF375E0E44B22A82F4479AD45F5D8E1859DF6F C170E67C
+space.					      86400 IN DS	63881 8 2 85EE1264739A00FB6139712C3D7227721D99654226B0140F14A3E3D1 A63B315F
 space.					      86400 IN NSEC	sport. NS DS RRSIG NSEC
 a.nic.space.				      172800 IN	A	194.169.218.51
 a.nic.space.				      172800 IN	AAAA	2001:67c:13cc::1:51
@@ -17410,8 +17386,8 @@ store.					      172800 IN	NS	a.nic.store.
 store.					      172800 IN	NS	b.nic.store.
 store.					      172800 IN	NS	e.nic.store.
 store.					      172800 IN	NS	f.nic.store.
-store.					      86400 IN DS	16342 8 1 C6D41FB11396E2B908BD82ADD46457DAA960EC23
 store.					      86400 IN DS	16342 8 2 E59827295E51C4F46D5208ED454BCD78DD6FFA49F01BD203B24E1380 AA535675
+store.					      86400 IN DS	38974 8 2 3D17E03A2E9DD75F65939B2CA470D85F03CE4CBEA32187D65EA1A610 569E5F49
 store.					      86400 IN NSEC	stream. NS DS RRSIG NSEC
 a.nic.store.				      172800 IN	A	194.169.218.45
 a.nic.store.				      172800 IN	AAAA	2001:67c:13cc::1:45
@@ -19016,12 +18992,8 @@ uno.					      172800 IN	NS	a.nic.uno.
 uno.					      172800 IN	NS	b.nic.uno.
 uno.					      172800 IN	NS	c.nic.uno.
 uno.					      172800 IN	NS	d.nic.uno.
-uno.					      86400 IN DS	35737 8 1 A6654717B1B97394DE61BFE6D043459BA3A0112A
+uno.					      86400 IN DS	7286 8 2 D85EED6E94D62F2D9C4D8FF199A5CB355AD0E3B56BF845264AA9F38B FC6450B5
 uno.					      86400 IN DS	35737 8 2 0DFCCFC8E90286393539413D9F228FD96F7B08B8F15143020C07E32E 3D254936
-uno.					      86400 IN DS	57892 8 1 3B49FDC11DAEE5187A4170A5BADF77A917BCE481
-uno.					      86400 IN DS	57892 8 2 C156DD21B3B96A50FA94BE322CDF6F0144E86C9597E4AA56D53E9B49 0C94A537
-uno.					      86400 IN DS	64285 8 1 E0D6F2ECBE3F28F3F59D4193198240F9966011E8
-uno.					      86400 IN DS	64285 8 2 3B4DD0FEBFBD51CB5F15DB43CCFC832DE0989445D6BB70C31A9B96F6 81CC6C77
 uno.					      86400 IN NSEC	uol. NS DS RRSIG NSEC
 a.nic.uno.				      172800 IN	A	194.169.218.21
 a.nic.uno.				      172800 IN	AAAA	2001:67c:13cc::1:21
@@ -19856,8 +19828,8 @@ website.				      172800 IN	NS	a.nic.website.
 website.				      172800 IN	NS	b.nic.website.
 website.				      172800 IN	NS	e.nic.website.
 website.				      172800 IN	NS	f.nic.website.
-website.				      86400 IN DS	47815 8 1 34C5E08B2F09248A85BE31CD465DB919AF06DA90
 website.				      86400 IN DS	47815 8 2 CB5F31743F17C1C1641D7ECC4C7DC40217363645E7AC25C509393C67 09D933A8
+website.				      86400 IN DS	58591 8 2 BAD631380E8E6F70CF21DEC0D8D8ABBE9DF00CD2F0F9376A33535A3F A6AB26E6
 website.				      86400 IN NSEC	wed. NS DS RRSIG NSEC
 a.nic.website.				      172800 IN	A	194.169.218.52
 a.nic.website.				      172800 IN	AAAA	2001:67c:13cc::1:52
@@ -22042,6 +22014,7 @@ yt.					      172800 IN	NS	d.nic.fr.
 yt.					      172800 IN	NS	e.ext.nic.fr.
 yt.					      172800 IN	NS	f.ext.nic.fr.
 yt.					      172800 IN	NS	g.ext.nic.fr.
+yt.					      86400 IN DS	2488 13 2 185AED42DC3641EA53EC74C474AEAF72F049556FE306DED0E748B60C 5FED1000
 yt.					      86400 IN DS	58156 13 2 712DD1BBC29E719CAF3B34E9A0BEE2D443DF1ED9D2D6E09B97BAA828 D5FF3DC7
 yt.					      86400 IN NSEC	yun. NS DS RRSIG NSEC
 yun.					      172800 IN	NS	ns1.teleinfo.cn.
