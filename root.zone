@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032700 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240409050000 20240327040000 30903 . rPjM8M+k01EmHLVkUe4OztKhIrmaztq/21YBEVyHF7cLTS5AYvp0KUQt 95385YB0SqLtoMBmGdh50nI2oxaFDMt8gP415Tp8CwqaM76Bb0/VvaE6 p6+H12pUjLsU7ELcuFAxiqGhlh0a4FinCXeHCWoyTF43Xs0I4VOjARs2 7+2hTu3HDHaE6/JpnImM7z5jnmXb1Whf3nzfuG1SitQOmyR0w3fYuPAX GOGZDBYjquu9zZWwvjEtdCanh9VS76LGdTV+lKVOHUl64Eg0eRCtqCOY fJH0YRI4itoITVYH5qojJE+d3W4SDGvOnr4T8yq6+1bZ9PUr7AlsZhif h2ficQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032701 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240409170000 20240327160000 30903 . tYnWgA26I94IFzCBJZ4KqGTwJ36lY+FZxn7Dj1qRe3ZeowqYedQqC13/ WDRxJIV5ckvJTPN3nOxFkMNIlJ9FBNclKEjBYOlRSDnX3kaGVYbpdOeb xLo0wxfJJtct9Zd0anTfwJ9up1mAMs9nTyEae/PMR8TOH2i8Hy55vC8E 1hoSw3IGjfuzAqSAl42X+R2Qog56CSyFm2QyNSBN+ADfLHyuXcilPc6N 6aimh+IJ/AgnK4RMf6ylX2xzLjdUAA3b9jg/GgoaagqYMMLQLNONth5C M1biNmey0Rywe2oFy+ImO3pSp0oG5fxS+CwE355mEBtVDwqDxnSbmCyz 81t3pw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240411000000 20240321000000 20326 . O0vGYTKgo9dbfR72zHKDkcpIgpdo7ccdhxHEd4s8A5yACOTeBU1mhmZf o+GZdAB9Knc9FnCnKV4AU6vYh9uKvT5a9VdUImN4+AvlJW4Roc71ulNd jADINA0vN5fVYot3UtMP82XFXXOwgkv4EIOw44pj8navK+19gR5QdL76 EhrqbXMKAnVVyxG+BTOfey4PTjLp7D0LUqFaIZsHS3hGsW4Zn/mpEeJP fnDnN9+qoXZSdfud9kcilvvBiNW1YzSDK6oeuICYmWvzFgIFKFDYRHG5 sw4EgXKQgSS4jw1y/XAO8KRHwIWe1M5yBd6tollNboNTzSK32GQGuRD2 QJNrSg==
-.					      86400 IN ZONEMD	2024032700 1 1 E278521B71C34AC2941C214C7A3583B9EB935BCA31DF21F50FF80484 2356E881D8B1EB705C4C4A166E66C4C6D2C0483F
+.					      86400 IN ZONEMD	2024032701 1 1 8AC86CAD5E45FFB667B3AE16CF7C56FEB3C409C86DC4F5980649E1A8 D68B17C86E53A8F1A5B9B63B1C8AAABF471AFEFF
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -6239,10 +6239,12 @@ v2n0.nic.fail.				      172800 IN	A	65.22.23.56
 v2n0.nic.fail.				      172800 IN	AAAA	2a01:8840:19::56
 v2n1.nic.fail.				      172800 IN	A	161.232.11.56
 v2n1.nic.fail.				      172800 IN	AAAA	2a01:8840:f5::56
-fairwinds.				      172800 IN	NS	ac1.nstld.com.
-fairwinds.				      172800 IN	NS	ac2.nstld.com.
 fairwinds.				      172800 IN	NS	ac3.nstld.com.
 fairwinds.				      172800 IN	NS	ac4.nstld.com.
+fairwinds.				      172800 IN	NS	ns1.nominetdns.uk.
+fairwinds.				      172800 IN	NS	ns2.nominetdns.uk.
+fairwinds.				      172800 IN	NS	ns3.nominetdns.uk.
+fairwinds.				      172800 IN	NS	ns4.nominetdns.uk.
 fairwinds.				      86400 IN DS	8913 8 2 4B1C638C7FC58D11BF54B976CE4FBA1CDB935F993F6B50194093B247 9BFF8504
 fairwinds.				      86400 IN DS	48074 8 2 4375DA09C7286DCDE9ACC036596D3F2B9F1347E1A83F13A1E98C7E98 21D2EAD9
 fairwinds.				      86400 IN NSEC	faith. NS DS RRSIG NSEC
@@ -18961,6 +18963,14 @@ dns3.nominetdns.uk.			      172800 IN	A	213.248.223.254
 dns3.nominetdns.uk.			      172800 IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.			      172800 IN	A	43.230.51.254
 dns4.nominetdns.uk.			      172800 IN	AAAA	2401:fd80:407::254
+ns1.nominetdns.uk.			      172800 IN	A	213.248.219.135
+ns1.nominetdns.uk.			      172800 IN	AAAA	2a01:618:403::135
+ns2.nominetdns.uk.			      172800 IN	A	103.49.83.135
+ns2.nominetdns.uk.			      172800 IN	AAAA	2401:fd80:403::135
+ns3.nominetdns.uk.			      172800 IN	A	213.248.223.135
+ns3.nominetdns.uk.			      172800 IN	AAAA	2a01:618:407::135
+ns4.nominetdns.uk.			      172800 IN	A	43.230.51.135
+ns4.nominetdns.uk.			      172800 IN	AAAA	2401:fd80:407::135
 unicom.					      172800 IN	NS	a.zdnscloud.com.
 unicom.					      172800 IN	NS	b.zdnscloud.com.
 unicom.					      172800 IN	NS	c.zdnscloud.com.
@@ -19700,7 +19710,6 @@ wang.					      172800 IN	NS	g.zdnscloud.com.
 wang.					      172800 IN	NS	i.zdnscloud.com.
 wang.					      172800 IN	NS	j.zdnscloud.com.
 wang.					      86400 IN DS	19549 8 2 328B02976180A88840E22A052B3D03C8CE7B67609B7CC1840E0E0FE7 1A3E8E8E
-wang.					      86400 IN DS	20969 8 2 E686EB5367B243E5DFD5C5FAADB23B0A52172B9CF5C72B28836BE2AF 9402DADD
 wang.					      86400 IN NSEC	wanggou. NS DS RRSIG NSEC
 wanggou.				      172800 IN	NS	dns1.nic.wanggou.
 wanggou.				      172800 IN	NS	dns2.nic.wanggou.
@@ -20423,7 +20432,6 @@ xn--45q11c.				      172800 IN	NS	g.zdnscloud.com.
 xn--45q11c.				      172800 IN	NS	i.zdnscloud.com.
 xn--45q11c.				      172800 IN	NS	j.zdnscloud.com.
 xn--45q11c.				      86400 IN DS	21806 8 2 622CFB958A0EE383C82CE227DFED29B054B4DB76B914CCF5D65703B4 1DA6D536
-xn--45q11c.				      86400 IN DS	46399 8 2 65907E5274D504536003BC4C24AC8D4907D0A7018996FFDA5B7F46E8 BD9825BA
 xn--45q11c.				      86400 IN NSEC	xn--4dbrk0ce. NS DS RRSIG NSEC
 xn--4dbrk0ce.				      172800 IN	NS	ns1.ns.il.
 xn--4dbrk0ce.				      172800 IN	NS	ns3.ns.il.
@@ -20778,7 +20786,6 @@ xn--czru2d.				      172800 IN	NS	f.zdnscloud.com.
 xn--czru2d.				      172800 IN	NS	g.zdnscloud.com.
 xn--czru2d.				      172800 IN	NS	i.zdnscloud.com.
 xn--czru2d.				      172800 IN	NS	j.zdnscloud.com.
-xn--czru2d.				      86400 IN DS	995 8 2 C37DB96801455F34FC09B824107A81B4DF13F273E00D1EF24B73986D F0EDA81C
 xn--czru2d.				      86400 IN DS	62552 8 2 A9400022E8AC90989AA6A0ECD9003DADC0902982336BAFBA4CE68E0F B15A8391
 xn--czru2d.				      86400 IN NSEC	xn--d1acj3b. NS DS RRSIG NSEC
 xn--d1acj3b.				      172800 IN	NS	a.dns.ripn.net.
@@ -21045,7 +21052,6 @@ xn--hxt814e.				      172800 IN	NS	f.zdnscloud.com.
 xn--hxt814e.				      172800 IN	NS	g.zdnscloud.com.
 xn--hxt814e.				      172800 IN	NS	i.zdnscloud.com.
 xn--hxt814e.				      172800 IN	NS	j.zdnscloud.com.
-xn--hxt814e.				      86400 IN DS	36091 8 2 D5BC5CF399DEADCE2782F1D21051A13787822441EA5850F691899609 74C9EB95
 xn--hxt814e.				      86400 IN DS	59966 8 2 307E3F825424A5378D0069150E670E339C5BEB63052166013CC43C72 EF79F489
 xn--hxt814e.				      86400 IN NSEC	xn--i1b6b1a6a2e. NS DS RRSIG NSEC
 xn--i1b6b1a6a2e.			      172800 IN	NS	a0.nic.xn--i1b6b1a6a2e.
