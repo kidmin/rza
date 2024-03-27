@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032701 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240409170000 20240327160000 30903 . tYnWgA26I94IFzCBJZ4KqGTwJ36lY+FZxn7Dj1qRe3ZeowqYedQqC13/ WDRxJIV5ckvJTPN3nOxFkMNIlJ9FBNclKEjBYOlRSDnX3kaGVYbpdOeb xLo0wxfJJtct9Zd0anTfwJ9up1mAMs9nTyEae/PMR8TOH2i8Hy55vC8E 1hoSw3IGjfuzAqSAl42X+R2Qog56CSyFm2QyNSBN+ADfLHyuXcilPc6N 6aimh+IJ/AgnK4RMf6ylX2xzLjdUAA3b9jg/GgoaagqYMMLQLNONth5C M1biNmey0Rywe2oFy+ImO3pSp0oG5fxS+CwE355mEBtVDwqDxnSbmCyz 81t3pw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032702 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240409210000 20240327200000 30903 . CLPYDv4h2pbso99jqxiqcPW13qcANkh3mSouKEVQ9AxXnQ1b07ZgAnku P0ijtLIzrsxjJbIy/JGunwSDzPIxgkrn6i3hdlQp1P5KcH9VhKq92G3f RxGKWn+GHdmqrZvnLxKYQ2DVZSm8MpuymWC1MViUrq5h9ck+tR8WxfNt 3+lA6kOEU16ogXO60tHTOUjVHYmBAfCI0lbrFthk+D62HZOEVbjYL9Gj OQtUBGPmXfm0gG8HdI3YvFkIhkvyXd3qtbBDmeikRdX4TyYkcujB2WPt hfKku1Hb7mBh9JBm2LA2EbPey0H/9/Js9sddvNIwjEeUr9i7nTl6ZF72 bi6Xdw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240411000000 20240321000000 20326 . O0vGYTKgo9dbfR72zHKDkcpIgpdo7ccdhxHEd4s8A5yACOTeBU1mhmZf o+GZdAB9Knc9FnCnKV4AU6vYh9uKvT5a9VdUImN4+AvlJW4Roc71ulNd jADINA0vN5fVYot3UtMP82XFXXOwgkv4EIOw44pj8navK+19gR5QdL76 EhrqbXMKAnVVyxG+BTOfey4PTjLp7D0LUqFaIZsHS3hGsW4Zn/mpEeJP fnDnN9+qoXZSdfud9kcilvvBiNW1YzSDK6oeuICYmWvzFgIFKFDYRHG5 sw4EgXKQgSS4jw1y/XAO8KRHwIWe1M5yBd6tollNboNTzSK32GQGuRD2 QJNrSg==
-.					      86400 IN ZONEMD	2024032701 1 1 8AC86CAD5E45FFB667B3AE16CF7C56FEB3C409C86DC4F5980649E1A8 D68B17C86E53A8F1A5B9B63B1C8AAABF471AFEFF
+.					      86400 IN ZONEMD	2024032702 1 1 6753B4B53248723FDE0788F80808EC2624BB1043551BC0E5D81A7585 ECBC0EA2ADA9F136ABBC89B2A8AD079DF12E7FFC
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1334,7 +1334,7 @@ autos.					      172800 IN	NS	c.nic.autos.
 autos.					      172800 IN	NS	d.nic.autos.
 autos.					      86400 IN DS	54470 8 2 0987B3830036CBC40B69D253F16E81EA74DD9DBFB981A0C8C21B93D6 4D2BA35B
 autos.					      86400 IN DS	61492 8 2 34F530B8473FA65A88C5F81552EFAD281321445F6DC77ED685E06071 BB56F0DD
-autos.					      86400 IN NSEC	avianca. NS DS RRSIG NSEC
+autos.					      86400 IN NSEC	aw. NS DS RRSIG NSEC
 a.nic.autos.				      172800 IN	A	194.169.218.136
 a.nic.autos.				      172800 IN	AAAA	2001:67c:13cc::1:136
 b.nic.autos.				      172800 IN	A	185.24.64.136
@@ -1343,20 +1343,6 @@ c.nic.autos.				      172800 IN	A	212.18.248.136
 c.nic.autos.				      172800 IN	AAAA	2a04:2b00:13ee::136
 d.nic.autos.				      172800 IN	A	212.18.249.136
 d.nic.autos.				      172800 IN	AAAA	2a04:2b00:13ff::136
-avianca.				      172800 IN	NS	a0.nic.avianca.
-avianca.				      172800 IN	NS	a2.nic.avianca.
-avianca.				      172800 IN	NS	b0.nic.avianca.
-avianca.				      172800 IN	NS	c0.nic.avianca.
-avianca.				      86400 IN DS	16027 8 2 A87EC8292B65CD932F5B29C32773DABFFF897E71B9921FA4F000F826 542F65CC
-avianca.				      86400 IN NSEC	aw. NS DS RRSIG NSEC
-a0.nic.avianca.				      172800 IN	A	65.22.80.17
-a0.nic.avianca.				      172800 IN	AAAA	2a01:8840:4e::17
-a2.nic.avianca.				      172800 IN	A	65.22.83.17
-a2.nic.avianca.				      172800 IN	AAAA	2a01:8840:51::17
-b0.nic.avianca.				      172800 IN	A	65.22.81.17
-b0.nic.avianca.				      172800 IN	AAAA	2a01:8840:4f::17
-c0.nic.avianca.				      172800 IN	A	65.22.82.17
-c0.nic.avianca.				      172800 IN	AAAA	2a01:8840:50::17
 aw.					      172800 IN	NS	ns1.dns.aw.
 aw.					      172800 IN	NS	ns3.dns.aw.
 aw.					      172800 IN	NS	ns4.dns.aw.
@@ -2816,10 +2802,7 @@ bw.					      172800 IN	NS	ns-bw.afrinic.net.
 bw.					      172800 IN	NS	master.btc.net.bw.
 bw.					      86400 IN NSEC	by. NS RRSIG NSEC
 master.btc.net.bw.			      172800 IN	A	168.167.168.37
-master.btc.net.bw.			      172800 IN	AAAA	2c0f:ff00:0:6::3
-master.btc.net.bw.			      172800 IN	AAAA	2c0f:ff00:0:6::5
 dns1.nic.net.bw.			      172800 IN	A	168.167.98.226
-dns1.nic.net.bw.			      172800 IN	AAAA	2c0f:ff00:1:3::226
 pch.nic.net.bw.				      172800 IN	A	204.61.216.70
 pch.nic.net.bw.				      172800 IN	AAAA	2001:500:14:6070:ad::1
 by.					      172800 IN	NS	dns1.tld.becloudby.com.
@@ -16105,7 +16088,6 @@ saxo.					      172800 IN	NS	v0n2.nic.saxo.
 saxo.					      172800 IN	NS	v0n3.nic.saxo.
 saxo.					      172800 IN	NS	v2n0.nic.saxo.
 saxo.					      172800 IN	NS	v2n1.nic.saxo.
-saxo.					      86400 IN DS	8887 8 2 117F2B38851F01FD3B94FF49ED5A41B04425F8926AA9D569C301CF46 F05202C3
 saxo.					      86400 IN DS	60076 8 2 596E280E257BCE8DA04E98FFB42A2D9DF28C1736D00A08A665FC9250 6D32F2A9
 saxo.					      86400 IN NSEC	sb. NS DS RRSIG NSEC
 v0n0.nic.saxo.				      172800 IN	A	65.22.108.27
@@ -17643,12 +17625,18 @@ u.nic.swiss.				      172800 IN	A	195.253.65.9
 u.nic.swiss.				      172800 IN	AAAA	2a01:5b0:5::9
 sx.					      172800 IN	NS	ns1.ns.sx.
 sx.					      172800 IN	NS	ns2.ns.sx.
+sx.					      172800 IN	NS	ns3.ns.sx.
+sx.					      172800 IN	NS	ns4.ns.sx.
 sx.					      86400 IN DS	34036 8 2 8FBC9761B3375B5A00AD9A7C0E1D22F7574C87EFBBCDD5249845A977 8F876CE6
 sx.					      86400 IN NSEC	sy. NS DS RRSIG NSEC
 ns1.ns.sx.				      172800 IN	A	185.159.197.10
 ns1.ns.sx.				      172800 IN	AAAA	2620:10a:80aa::10
 ns2.ns.sx.				      172800 IN	A	185.159.198.10
 ns2.ns.sx.				      172800 IN	AAAA	2620:10a:80ab::10
+ns3.ns.sx.				      172800 IN	A	185.159.199.10
+ns3.ns.sx.				      172800 IN	AAAA	2620:10a:80ac::10
+ns4.ns.sx.				      172800 IN	A	45.142.220.101
+ns4.ns.sx.				      172800 IN	AAAA	2a0e:dbc0::101
 sy.					      172800 IN	NS	sy.cctld.authdns.ripe.net.
 sy.					      172800 IN	NS	ns1.tld.sy.
 sy.					      172800 IN	NS	pch.anycast.tld.sy.
