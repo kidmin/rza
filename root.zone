@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240410170000 20240328160000 30903 . SXjyJp0amA9ym3uHEfnjC9De2AhpJw0B7iXkoU6nQO7ORNVUxnt7KVCa lK7PLolUHjYiQJ7MGrt4of+/Yir7FRM4e2/bjEjmwJtM+7yDaXtswsdF AUM1gQQmK/Fpz4c/rykVVPMxcT+bp1OBXnM715YhaoljIRnLAnx9sUhq HOmPuWXujHRYK3ajxaHBESSNa8+/pEO+0kYv+rQN65M7CTXBE7YP3hIQ lxSf27uZFPU8hNb9NOWZRsd+qEsS4HfdSoRWKaAVsYJtjVaFao0Gbv7s 1e1DShnXdpHqeg7tm9CQtYiX6iw4Fd4iKsI9pgkyFXzhQlSzIZGFWerx ZxFePg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024032802 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240410210000 20240328200000 30903 . L21x6aA6fGnxcVoWk3+W6Tkn0F2EKfvJV++qvuBkvIgtOfFQKivXhBZo 1IqZzTE+jm0XApKuig021yqKmVyfB0iH3TloJhgnwOHCFPRMghDQrBaV Pa3ZZQKWWm4ZtopUThYiENr/mf9l3nsiX6kemKppIM6xGKfKk+x8WXAz vKqpDjfBk+q9luBzl9zKo68qfnWa9dLx1ChDPfV+45eGIyJg0D7vNZzx 7OabF15ZlUQWHdKXDbEhl3FfnANKTSW6I3cqSCy0hpnv1EG0IO698lKf IUE7NIGdPybFWacnsynKM4wo2e2SebgyqgmU4jhTxUSvNpBTwq5ejTpu F78V4A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/Nb wDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4 glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFe zRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWr S5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/d iCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhH J9Uo63wYaTk=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240411000000 20240321000000 20326 . O0vGYTKgo9dbfR72zHKDkcpIgpdo7ccdhxHEd4s8A5yACOTeBU1mhmZf o+GZdAB9Knc9FnCnKV4AU6vYh9uKvT5a9VdUImN4+AvlJW4Roc71ulNd jADINA0vN5fVYot3UtMP82XFXXOwgkv4EIOw44pj8navK+19gR5QdL76 EhrqbXMKAnVVyxG+BTOfey4PTjLp7D0LUqFaIZsHS3hGsW4Zn/mpEeJP fnDnN9+qoXZSdfud9kcilvvBiNW1YzSDK6oeuICYmWvzFgIFKFDYRHG5 sw4EgXKQgSS4jw1y/XAO8KRHwIWe1M5yBd6tollNboNTzSK32GQGuRD2 QJNrSg==
-.					      86400 IN ZONEMD	2024032801 1 1 A1AA017418B8C79C8B96329BBD33038CEF0074BE904380517E3AA999 D6A1D6C60AC2BA3110D5E123EE6344C08165CB0A
+.					      86400 IN ZONEMD	2024032802 1 1 17BF67EB79E25B91E1E09FA00D1BBB7F93E9B0CF61364DD0E09C186F BF792638C7809C853C7188D248E0C488815579A5
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -11154,7 +11154,6 @@ d.nic.lplfinancial.			      172800 IN	AAAA	2a04:2b00:13ff::93
 lr.					      172800 IN	NS	rip.psg.com.
 lr.					      172800 IN	NS	fork.sth.dnsnode.net.
 lr.					      172800 IN	NS	ns-lr.afrinic.net.
-lr.					      86400 IN DS	29984 8 1 A5E2025D5C3B1F4853BDDA21AA6A751E552DC715
 lr.					      86400 IN DS	29984 8 2 AA0EC78A15474B054759A26A2BE9D85A97F5FE9FE485A206E68B4F83 B07789F8
 lr.					      86400 IN NSEC	ls. NS DS RRSIG NSEC
 ls.					      172800 IN	NS	ns1.nic.ls.
@@ -16535,7 +16534,6 @@ sg.					      172800 IN	NS	dsany.sgnic.sg.
 sg.					      172800 IN	NS	dsany2.sgnic.sg.
 sg.					      172800 IN	NS	dsany3.sgnic.sg.
 sg.					      86400 IN DS	26329 8 2 404A15E6CA2F4CE259D8B2BD13894C7823A9513973103C962FF52BFC 57A380AF
-sg.					      86400 IN DS	46664 8 2 B9E9522B9E345FD54E73E8EBF3D3CFFF9A09189FED03F5106D8EE3E3 45FB80B5
 sg.					      86400 IN NSEC	sh. NS DS RRSIG NSEC
 dsany.sgnic.sg.				      172800 IN	A	120.29.253.11
 dsany.sgnic.sg.				      172800 IN	AAAA	2001:dcd:7::11
@@ -18134,7 +18132,6 @@ tiaa.					      172800 IN	NS	v0n2.nic.tiaa.
 tiaa.					      172800 IN	NS	v0n3.nic.tiaa.
 tiaa.					      172800 IN	NS	v2n0.nic.tiaa.
 tiaa.					      172800 IN	NS	v2n1.nic.tiaa.
-tiaa.					      86400 IN DS	9186 8 2 5214D8971EC4DC7CD349205BCB13F84D4446AAFA4D87D07C8C5443A1 80741FEA
 tiaa.					      86400 IN DS	14185 8 2 14D2BA968E8BDA466149FEBEC577C50ECA9CB7759996FA762A5F8081 C424B825
 tiaa.					      86400 IN NSEC	tickets. NS DS RRSIG NSEC
 v0n0.nic.tiaa.				      172800 IN	A	65.22.108.7
@@ -18831,6 +18828,7 @@ ns.anycast.co.tz.			      172800 IN	AAAA	2001:500:14:6015:ad::1
 ns2.tznic.or.tz.			      172800 IN	A	196.216.162.67
 ns2.tznic.or.tz.			      172800 IN	AAAA	2001:43f8:e0:1::67
 ua.					      172800 IN	NS	bg.ns.ua.
+ua.					      172800 IN	NS	cz.ns.ua.
 ua.					      172800 IN	NS	nn.ns.ua.
 ua.					      172800 IN	NS	ho1.ns.ua.
 ua.					      172800 IN	NS	in1.ns.ua.
@@ -18847,6 +18845,8 @@ bg.ns.ua.				      172800 IN	A	185.136.96.185
 bg.ns.ua.				      172800 IN	A	185.136.97.185
 bg.ns.ua.				      172800 IN	AAAA	2a06:fb00:1::2:185
 bg.ns.ua.				      172800 IN	AAAA	2a06:fb00:1::4:185
+cz.ns.ua.				      172800 IN	A	185.43.134.15
+cz.ns.ua.				      172800 IN	AAAA	2001:148f:fffd::15
 ho1.ns.ua.				      172800 IN	A	195.47.253.1
 ho1.ns.ua.				      172800 IN	AAAA	2001:67c:258::1
 in1.ns.ua.				      172800 IN	A	74.123.224.40
@@ -20733,7 +20733,6 @@ xn--clchc0ea0b2g2a9gcd.			      172800 IN	NS	dsany.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.			      172800 IN	NS	dsany2.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.			      172800 IN	NS	dsany3.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.			      86400 IN DS	47752 8 2 F76B1D7F3857A37138B77BEED55B38160EE01FC53DAE8DEDB41B91B4 C443BE71
-xn--clchc0ea0b2g2a9gcd.			      86400 IN DS	48176 8 2 C1C692E8BB1ECAB17A80C5829445D6301787A275B6091A95754C4AC9 681FB50E
 xn--clchc0ea0b2g2a9gcd.			      86400 IN NSEC	xn--czr694b. NS DS RRSIG NSEC
 xn--czr694b.				      172800 IN	NS	a.zdnscloud.com.
 xn--czr694b.				      172800 IN	NS	b.zdnscloud.com.
@@ -21819,7 +21818,6 @@ xn--yfro4i67o.				      172800 IN	NS	dsany.sgnic.sg.
 xn--yfro4i67o.				      172800 IN	NS	dsany2.sgnic.sg.
 xn--yfro4i67o.				      172800 IN	NS	dsany3.sgnic.sg.
 xn--yfro4i67o.				      86400 IN DS	42197 8 2 D8001FE0B7A80F256A0EE1789C909F320BBB43964FB8E211274AB222 20074C41
-xn--yfro4i67o.				      86400 IN DS	52561 8 2 8C1B2380F8EF57DAA14B40AB3F447A62838CA148D2D778E048AEE2D6 FF374755
 xn--yfro4i67o.				      86400 IN NSEC	xn--ygbi2ammx. NS DS RRSIG NSEC
 xn--ygbi2ammx.				      172800 IN	NS	ps.cctld.authdns.ripe.net.
 xn--ygbi2ammx.				      172800 IN	NS	idn.pnina.ps.
