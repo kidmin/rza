@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240505170000 20240422160000 5613 . Ab97FoEd0kUztoPOVeKmsAANvls2953k466hO0xd2Mpjp8cTpR+vFmLZ 1k6E9ei0w7yHWK0vqNvMu9MgMpa3Q1dGk6YRjSLg4bBKx9HQrrdWG8jl 4X8mns/8N5gz6D/alN+0cg+KZByxt0MfSVscguzF1K/AJ/HEFWkWy/oL uoIy4A44LfKU/JyqpsIY7rQfBfoFjW9e/BFwhBOUhcCEpeS4AMLMMFW1 xjfEQlejOJiGEds30DE55KJ7mmfve4HwOKc7sCFpuBNP+0/g09GW+dwN 5+TIGSF7v+M2bCGm2hu4sDhP7cyqQZjY0K1reya8Uanjq844aWY8N5UB YjUUcA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240505210000 20240422200000 5613 . hayrPyO66rQ0BLTiA2GkFF/geZa5gFzBjUcSS9/ANQel5f0v+by9GJGZ rKspkPciU5BW3cLDFXbTIsZ3vmf/gSvQf/rO1xV4QZVcgiqhYzJ7y9vP jRXnmIUSfoCRJ+3T/nmaKvlL7mZreA4Bjy20NHdV6TXyDF7I0JzMQ3yx /9NvTly5wEECTbdw5yBBcQEjQqMDwBAldvy/Lj/A7bR9KrLR2coi4Vpi Y7d0BNiTP9ywn88f4IW9nRUkKlaBE8r9903XXO5dsLIa2zwTWajlJOpE wbRQJx1omtxxd+dPgQ/6so58ljb9pfk2rEF7+AKlxwqIFTQ2rbaC+6yv 98DnsQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240512000000 20240421000000 20326 . chrbIYUGGLqwnTPAoPqkezDjL8sO2WS6icjHEvOp7RFmEXqfmadcW71m I3bFaZy/wcCo5DElwFYzAY+1hFstrlD3rZHh7GLYf2NFotdlq5dSHYOg AAdnZBz/pXhUKOsOCEUSm7jIGdr5eMfD6BGQShNyDm+1BRNwYXp8A0K7 ulYtd3QY+n5nA0QGsUbYtVWMLK5cnHruWD7DynxHYffu8QXToX132qIs bQZd/cctNgwhppBCWHyO7Y5XzNG4z/ZvEVF8OUezro+7dvGQdsF0yj11 zjnTUdtTten9naNzMwPgxK4OQImcChmYbKk25IrSSl8Rpvo/y1vzaa1p laxQlQ==
-.					      86400 IN ZONEMD	2024042201 1 1 0A86B06640A3565AB5F8C872D87A0C0171E2D32E2CA444AAFFC6B56A A2971F88EBCD28680FA7769D1F5FC3B900CE71D6
+.					      86400 IN ZONEMD	2024042202 1 1 2BD67245C698A0CD3D7587F2286C5B43FCEDFF4A2709603CD1F83966 8F2F6C1EFFD085A678F230DD92216E49C4A19301
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -277,19 +277,12 @@ v2n0.nic.actor.				      172800 IN	AAAA	2a01:8840:25::60
 v2n1.nic.actor.				      172800 IN	A	161.232.17.60
 v2n1.nic.actor.				      172800 IN	AAAA	2a01:8840:fb::60
 ad.					      172800 IN	NS	ad.ns.nic.es.
-ad.					      172800 IN	NS	ad.cctld.authdns.ripe.net.
 ad.					      172800 IN	NS	ns3.nic.fr.
-ad.					      172800 IN	NS	dnsc.ad.
-ad.					      172800 IN	NS	dnsm.ad.
 ad.					      172800 IN	NS	anycast9.irondns.net.
 ad.					      172800 IN	NS	anycast23.irondns.net.
 ad.					      86400 IN DS	10624 8 2 732AC3921E40EAC6C01B0C467BEDA420F42BF38B7C462E86D01D1D2C 4EB9DA37
 ad.					      86400 IN DS	50617 8 2 12432422B23EA8F82751D15041DF27F6E2C8C408C3D7A18DCAC51165 2E5E263D
 ad.					      86400 IN NSEC	ads. NS DS RRSIG NSEC
-dnsc.ad.				      172800 IN	A	194.158.74.10
-dnsc.ad.				      172800 IN	AAAA	2a02:8060:32fa::b
-dnsm.ad.				      172800 IN	A	194.158.74.9
-dnsm.ad.				      172800 IN	AAAA	2a02:8060:32fa::a
 ads.					      172800 IN	NS	ns-tld1.charlestonroadregistry.com.
 ads.					      172800 IN	NS	ns-tld2.charlestonroadregistry.com.
 ads.					      172800 IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -1534,8 +1527,6 @@ bar.					      172800 IN	NS	ns01.trs-dns.net.
 bar.					      172800 IN	NS	ns01.trs-dns.org.
 bar.					      172800 IN	NS	ns01.trs-dns.info.
 bar.					      86400 IN DS	44209 8 2 53ED75BDC08A244E1C088D80EA97A39B5AAD3E9121F58DE1D22AE72C 58D84A1F
-bar.					      86400 IN DS	55406 8 1 EECF54C6DAB2CF3FA76EFFCE97B78F432050DA9E
-bar.					      86400 IN DS	55406 8 2 8E8E102E6751DA62E354BD322C9BDD42C29BF6A413B29DA5BDC579E2 ED3C8DA1
 bar.					      86400 IN NSEC	barcelona. NS DS RRSIG NSEC
 barcelona.				      172800 IN	NS	anycast9.irondns.net.
 barcelona.				      172800 IN	NS	anycast10.irondns.net.
@@ -8793,6 +8784,7 @@ hu.					      172800 IN	NS	d.hu.
 hu.					      172800 IN	NS	e.hu.
 hu.					      172800 IN	NS	f.hu.
 hu.					      86400 IN DS	2104 8 2 65F5D64B860F26FEAE0BDE3CA51B730B38381678C8C316F16B37E551 105EBAC5
+hu.					      86400 IN DS	46162 8 2 09B29528CB5F451DF8E98BE0D82126E931A6A0A45349C4BF6516C49C 8A64041B
 hu.					      86400 IN NSEC	hughes. NS DS RRSIG NSEC
 a.hu.					      172800 IN	A	5.28.0.97
 a.hu.					      172800 IN	AAAA	2a00:e6a0:3:1014::97
@@ -12843,8 +12835,6 @@ ns15.rcode0.net.			      172800 IN	A	194.0.25.15
 ns15.rcode0.net.			      172800 IN	AAAA	2001:678:20::15
 ns31.rcode0.net.			      172800 IN	A	194.0.25.31
 ns31.rcode0.net.			      172800 IN	AAAA	2001:678:20::31
-ad.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.53
-ad.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::53
 ar.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.59
 ar.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::59
 bi.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.62
@@ -15061,6 +15051,7 @@ re.					      172800 IN	NS	e.ext.nic.fr.
 re.					      172800 IN	NS	f.ext.nic.fr.
 re.					      172800 IN	NS	g.ext.nic.fr.
 re.					      86400 IN DS	49754 13 2 CE6C40407ED006C7A2D34B04F01EA0D825A64FA2418D6E994192AD05 AD24FF68
+re.					      86400 IN DS	61047 13 2 6A6546F44C8680C705612F9722A591DBBB88BF0D40E89E1CB45FAD18 EEE3D4EA
 re.					      86400 IN NSEC	read. NS DS RRSIG NSEC
 read.					      172800 IN	NS	dns1.nic.read.
 read.					      172800 IN	NS	dns2.nic.read.
@@ -15406,8 +15397,6 @@ rest.					      172800 IN	NS	ns01.trs-dns.net.
 rest.					      172800 IN	NS	ns01.trs-dns.org.
 rest.					      172800 IN	NS	ns01.trs-dns.info.
 rest.					      86400 IN DS	1306 8 2 291A11F18605131354F74CCD032E1EBC65CF837656234B50BB526690 88112AFF
-rest.					      86400 IN DS	25199 8 1 C43AF7DEC8B165D6C8B832BCB984C2407EF5ED8D
-rest.					      86400 IN DS	25199 8 2 8F477474F47C387D246B6849202CA0C54C4D5A50D322C79718A98100 314D08B7
 rest.					      86400 IN NSEC	restaurant. NS DS RRSIG NSEC
 restaurant.				      172800 IN	NS	v0n0.nic.restaurant.
 restaurant.				      172800 IN	NS	v0n1.nic.restaurant.
