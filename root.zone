@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042401 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240507170000 20240424160000 5613 . RDS2Z0poAjcg58A/n5zGJZ1Bn1zyhPf3L4D8dci8gU3hqP6tDwQ86KI0 GQHvnyXmJu2gFccLaGD0hYbAsU9Dv68Gkk+/whlw72mnVF0i0zUj+lXq lTJak+/K0tY7/KsDaDbTPiTRtvXH9A+84Cbkchq3n6N7qjVCdZQROBbB O3l8Hi9TORaUDKCHASw6mWL/DzPP1p2wm532US+TJi39zkGnxn+b583q Fhxuj0pI/6abrScv0ESlal0yrOk98vm77W5mLcCGnzgx9XOUEJyrMoid TLHuor/fBVpK0Ueb7hGpiVT9VaEcVedNxrnsNEM8JhsDoSN/CXs3ufRP UC3iFA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042402 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240507210000 20240424200000 5613 . dZiiJQgZz997tX8XFfqyUTYEqMZ00OU9oTUig10u+ixgrlWQ0t/SzAV5 iW3jYdcCwGRtp4p1qaXZxTWjDoozrUGgTmu/lAY8TIVyg5dtNImL2Lda a8tLQdxAnYo7Pay727YL15piSYunKuDDkI7qtyexeyDHjqaHPvdbc8e4 p4nnBJYA+qRLhaBs8pljDhfSzEw+tsZYHkoaD2HvpECrn+HxRS4ileBl v0MtXdcEWRdtFuYOlXH3I0sDRrhmtYkMXCFBE9+K+1B8rSBfpVd3YfDp 2YSlTgKRRkCTxYiGGdQigiPLQXGoRTUi7v8qkAITH8eeXotPzsA4zPb4 BOl7JA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240512000000 20240421000000 20326 . chrbIYUGGLqwnTPAoPqkezDjL8sO2WS6icjHEvOp7RFmEXqfmadcW71m I3bFaZy/wcCo5DElwFYzAY+1hFstrlD3rZHh7GLYf2NFotdlq5dSHYOg AAdnZBz/pXhUKOsOCEUSm7jIGdr5eMfD6BGQShNyDm+1BRNwYXp8A0K7 ulYtd3QY+n5nA0QGsUbYtVWMLK5cnHruWD7DynxHYffu8QXToX132qIs bQZd/cctNgwhppBCWHyO7Y5XzNG4z/ZvEVF8OUezro+7dvGQdsF0yj11 zjnTUdtTten9naNzMwPgxK4OQImcChmYbKk25IrSSl8Rpvo/y1vzaa1p laxQlQ==
-.					      86400 IN ZONEMD	2024042401 1 1 48417BE6F27F0A1B343086FDBDA992C15071D70E9B5A8A9D131061A0 3CC503D8C3345F3F7F010E8333BCEB7BE67716A4
+.					      86400 IN ZONEMD	2024042402 1 1 D90CAC1B5DCE6ED0A1BC60014A6064D51FC9FD897439301B8587DE9E 2286C481E233709FD16382D0A8DFE5D99A159317
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1083,14 +1083,14 @@ at.					      172800 IN	NS	ns9.univie.ac.at.
 at.					      86400 IN DS	1253 13 2 BA17C1BACB3FB49F7760AD1F7E71E17AB39EE0DF3E9D3BF23FD3D70D 6CF1719E
 at.					      86400 IN DS	18942 13 2 AE5F0BD73C8F48F3D55CDC4070F9407873176C364DE4BC92BF968876 85E6E55F
 at.					      86400 IN NSEC	athleta. NS DS RRSIG NSEC
+dns-eg.univie.ac.at.			      172800 IN	A	78.104.145.8
+dns-eg.univie.ac.at.			      172800 IN	AAAA	2001:628:453:bb::8
 dns-mk.univie.ac.at.			      172800 IN	A	78.104.145.4
 dns-mk.univie.ac.at.			      172800 IN	AAAA	2001:628:453:bb::4
 ns1.univie.ac.at.			      172800 IN	A	78.104.144.2
 ns1.univie.ac.at.			      172800 IN	AAAA	2001:628:2030:4301::2
 ns2.univie.ac.at.			      172800 IN	A	192.92.125.2
 ns2.univie.ac.at.			      172800 IN	AAAA	2001:678:1c::2
-ns5.univie.ac.at.			      172800 IN	A	193.171.255.77
-ns5.univie.ac.at.			      172800 IN	AAAA	2001:628:453:4305::53
 ns9.univie.ac.at.			      172800 IN	A	194.0.10.100
 ns9.univie.ac.at.			      172800 IN	AAAA	2001:678:d::cafe
 d.ns.at.				      172800 IN	A	81.91.161.98
@@ -5408,7 +5408,6 @@ diy.					      172800 IN	NS	ns01.trs-dns.com.
 diy.					      172800 IN	NS	ns01.trs-dns.net.
 diy.					      172800 IN	NS	ns01.trs-dns.org.
 diy.					      172800 IN	NS	ns01.trs-dns.info.
-diy.					      86400 IN DS	25674 8 2 06C661D544490AAF9C0EFA121F0FD66AE957CB1900309FDAE4A670AC 4AF1D37D
 diy.					      86400 IN DS	41150 8 2 D206FA304919C1B109784EFE3704271919A8DA8AB5DFE8637C22E1AE 7C8C46AB
 diy.					      86400 IN NSEC	dj. NS DS RRSIG NSEC
 dj.					      172800 IN	NS	bow1.intnet.dj.
@@ -5810,9 +5809,9 @@ b.tld.ee.				      172800 IN	AAAA	2001:67c:1010:28::53
 e.tld.ee.				      172800 IN	A	204.61.216.36
 e.tld.ee.				      172800 IN	AAAA	2001:678:94:53::53
 ns.tld.ee.				      172800 IN	A	195.43.87.10
-eg.					      172800 IN	NS	ns5.univie.ac.at.
 eg.					      172800 IN	NS	rip.psg.com.
 eg.					      172800 IN	NS	frcu.eun.eg.
+eg.					      172800 IN	NS	dns-eg.univie.ac.at.
 eg.					      86400 IN NSEC	email. NS RRSIG NSEC
 ns1.dotmasr.eg.				      172800 IN	A	81.21.97.155
 ns2.dotmasr.eg.				      172800 IN	A	81.21.99.11
@@ -6863,7 +6862,6 @@ food.					      172800 IN	NS	ns01.trs-dns.net.
 food.					      172800 IN	NS	ns01.trs-dns.org.
 food.					      172800 IN	NS	ns01.trs-dns.info.
 food.					      86400 IN DS	3415 8 2 CA071E56345C271F2097DEA2FD030A761869D20ACAF34540F56C26EB 484A4EEA
-food.					      86400 IN DS	42180 8 2 4AA1F08B292B3835FD27B5692D0CD0C1CD0119BF1455A69506E50CDC 6C47D761
 food.					      86400 IN NSEC	football. NS DS RRSIG NSEC
 football.				      172800 IN	NS	v0n0.nic.football.
 football.				      172800 IN	NS	v0n1.nic.football.
@@ -8362,6 +8360,10 @@ hiphop.					      172800 IN	NS	ns1.uniregistry.net.
 hiphop.					      172800 IN	NS	ns2.uniregistry.info.
 hiphop.					      172800 IN	NS	ns3.uniregistry.net.
 hiphop.					      172800 IN	NS	ns4.uniregistry.info.
+hiphop.					      172800 IN	NS	ns01.trs-dns.com.
+hiphop.					      172800 IN	NS	ns01.trs-dns.net.
+hiphop.					      172800 IN	NS	ns01.trs-dns.org.
+hiphop.					      172800 IN	NS	ns01.trs-dns.info.
 hiphop.					      86400 IN DS	7668 13 2 DE0BDE4365798B5080D31D7A5A8E7182D4924938761BFD506AF371EA 5CB36AB0
 hiphop.					      86400 IN NSEC	hisamitsu. NS DS RRSIG NSEC
 hisamitsu.				      172800 IN	NS	a.gmoregistry.net.
@@ -10756,7 +10758,6 @@ lifestyle.				      172800 IN	NS	ns01.trs-dns.net.
 lifestyle.				      172800 IN	NS	ns01.trs-dns.org.
 lifestyle.				      172800 IN	NS	ns01.trs-dns.info.
 lifestyle.				      86400 IN DS	19435 8 2 4FAE9DA930DA43CA7D112ABEEB973FC22DE2A72B39F7570DBD1D7CF8 25AAE708
-lifestyle.				      86400 IN DS	43470 8 2 BC977BF20BAF75A4593E81D3E773F044543DE7C3DB7C8B0A7059E6F3 70A5C86C
 lifestyle.				      86400 IN NSEC	lighting. NS DS RRSIG NSEC
 lighting.				      172800 IN	NS	v0n0.nic.lighting.
 lighting.				      172800 IN	NS	v0n1.nic.lighting.
@@ -10928,7 +10929,6 @@ living.					      172800 IN	NS	ns01.trs-dns.com.
 living.					      172800 IN	NS	ns01.trs-dns.net.
 living.					      172800 IN	NS	ns01.trs-dns.org.
 living.					      172800 IN	NS	ns01.trs-dns.info.
-living.					      86400 IN DS	9429 8 2 341CE294DED797DD426A6B6AFEAA0C85BA65BBC8EC3D5A7895D77DEE 88435DF4
 living.					      86400 IN DS	59309 8 2 276C77D08EFE6388824F1726E7C6D754189F9EA1747718D4960C5EE6 6AE2837A
 living.					      86400 IN NSEC	lk. NS DS RRSIG NSEC
 lk.					      172800 IN	NS	c.nic.lk.
@@ -13488,7 +13488,6 @@ observer.				      172800 IN	NS	ns01.trs-dns.com.
 observer.				      172800 IN	NS	ns01.trs-dns.net.
 observer.				      172800 IN	NS	ns01.trs-dns.org.
 observer.				      172800 IN	NS	ns01.trs-dns.info.
-observer.				      86400 IN DS	46084 8 2 366C4C042DBBAA5636C254A7AB2331102545DCA6F2C81C8CE6B42C6D D0CADEB4
 observer.				      86400 IN DS	61001 8 2 73AD12C51E27B349F25A52045C94B7E62EE76EA3061C1ADDDA4CED8F C3038C94
 observer.				      86400 IN NSEC	office. NS DS RRSIG NSEC
 office.					      172800 IN	NS	a.nic.office.
@@ -19118,7 +19117,6 @@ vana.					      172800 IN	NS	ns01.trs-dns.net.
 vana.					      172800 IN	NS	ns01.trs-dns.org.
 vana.					      172800 IN	NS	ns01.trs-dns.info.
 vana.					      86400 IN DS	16105 8 2 F270CC6904F1292FBE949FC33C20CF64887D06CC82D2243413ECCAEB 98E7221C
-vana.					      86400 IN DS	51813 8 2 93BAEC1BC806C42034F1BA91345D8AA439242EA114157951BF6B7E9F 79FC9E0C
 vana.					      86400 IN NSEC	vanguard. NS DS RRSIG NSEC
 vanguard.				      172800 IN	NS	a0.nic.vanguard.
 vanguard.				      172800 IN	NS	a2.nic.vanguard.
