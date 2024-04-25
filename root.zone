@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240508170000 20240425160000 5613 . Wkt8wrslwk90iVeptPudl8V+4a6kTK+8Z7gIfmhok2LDcnXWOPMEasLN 0cYOUAC6MZ/3ubba3sz/jJXSQWddAT8B8D2YxjRjut+kCc5rEQhV6Ew2 lhLlw+d7ApUZCbsKYuYSoHUTGuX6vEj7JfXDJvjleEhoIFcyrvfRBxen pdnY018ur3lje9ZkyI0PF7FkalZ+wBgUgXra04ezCtnD+CC6+xbmVtJ8 zW0iJSMo7qDbENvCSayrh9e1P1nR3UTBJ1sKwvlSeMD3aGStRb/KNUEr ei8RdiWEyl5Fe6GNpGvr+uHg+aDYv57NNGwV4zzDCGFi4FduonD1ng1W l/wh8g==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240508210000 20240425200000 5613 . NelxSF4eml+E4HVe6wOiWbr5O2SieHkR0/E733d0rxrDsdgQkSBAW/0/ 0x1U/38k2c4MRgsSYkQlv/QgkSp5VmEGW+BRRk7A2u572TLKuLOK2qbF upDbn4XwxH0kBBehg0ymRur/8/fNQA+Ms10UD2GEINKMqD2miVoXVqlY VT51jDXC08gk8/UpJtGictw+aM2eE/7guMMumzfRWhAomTpNl19By6U5 zWS20ST6J7qe/9QW+qVmmCi1ijq17rU/3U9lG4RuJH6pfo0EYMaNdGq0 eKFb6V4MD3BUSAn7+Jcrp/rSxKSCJdU3C1va8Becp2B5Ub/ulCMoPj+/ XDLxuw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240512000000 20240421000000 20326 . chrbIYUGGLqwnTPAoPqkezDjL8sO2WS6icjHEvOp7RFmEXqfmadcW71m I3bFaZy/wcCo5DElwFYzAY+1hFstrlD3rZHh7GLYf2NFotdlq5dSHYOg AAdnZBz/pXhUKOsOCEUSm7jIGdr5eMfD6BGQShNyDm+1BRNwYXp8A0K7 ulYtd3QY+n5nA0QGsUbYtVWMLK5cnHruWD7DynxHYffu8QXToX132qIs bQZd/cctNgwhppBCWHyO7Y5XzNG4z/ZvEVF8OUezro+7dvGQdsF0yj11 zjnTUdtTten9naNzMwPgxK4OQImcChmYbKk25IrSSl8Rpvo/y1vzaa1p laxQlQ==
-.					      86400 IN ZONEMD	2024042501 1 1 E3ED326F024320E62B9D81F67649EEEB4C09CA684527808BDA85A5F9 930AF93AE97B6E21D4CBFD814D78DE251820B957
+.					      86400 IN ZONEMD	2024042502 1 1 EDEACE456D5929140F74F95571A4B2B8FB47C564043A4F7A7B8C3D4F 4B2D9ECFD5139B1638972FB5C2DA4D37CB12B084
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -3825,6 +3825,10 @@ click.					      172800 IN	NS	ns1.uniregistry.net.
 click.					      172800 IN	NS	ns2.uniregistry.info.
 click.					      172800 IN	NS	ns3.uniregistry.net.
 click.					      172800 IN	NS	ns4.uniregistry.info.
+click.					      172800 IN	NS	ns01.trs-dns.com.
+click.					      172800 IN	NS	ns01.trs-dns.net.
+click.					      172800 IN	NS	ns01.trs-dns.org.
+click.					      172800 IN	NS	ns01.trs-dns.info.
 click.					      86400 IN DS	65517 13 2 D09A2C14C4382634EDCCF9634FB32E91511E1E642F3C38468BA2407F 1D1BAD24
 click.					      86400 IN NSEC	clinic. NS DS RRSIG NSEC
 clinic.					      172800 IN	NS	v0n0.nic.clinic.
@@ -3881,10 +3885,6 @@ v2n0.nic.clothing.			      172800 IN	A	65.22.27.13
 v2n0.nic.clothing.			      172800 IN	AAAA	2a01:8840:1d::13
 v2n1.nic.clothing.			      172800 IN	A	161.232.13.13
 v2n1.nic.clothing.			      172800 IN	AAAA	2a01:8840:f7::13
-cloud.					      172800 IN	NS	ns1.uniregistry.net.
-cloud.					      172800 IN	NS	ns2.uniregistry.info.
-cloud.					      172800 IN	NS	ns3.uniregistry.net.
-cloud.					      172800 IN	NS	ns4.uniregistry.info.
 cloud.					      172800 IN	NS	ns01.trs-dns.com.
 cloud.					      172800 IN	NS	ns01.trs-dns.net.
 cloud.					      172800 IN	NS	ns01.trs-dns.org.
@@ -4450,10 +4450,6 @@ v2n0.nic.cool.				      172800 IN	A	65.22.27.38
 v2n0.nic.cool.				      172800 IN	AAAA	2a01:8840:1d::38
 v2n1.nic.cool.				      172800 IN	A	161.232.13.38
 v2n1.nic.cool.				      172800 IN	AAAA	2a01:8840:f7::38
-coop.					      172800 IN	NS	ns1.uniregistry.net.
-coop.					      172800 IN	NS	ns2.uniregistry.info.
-coop.					      172800 IN	NS	ns3.uniregistry.net.
-coop.					      172800 IN	NS	ns4.uniregistry.info.
 coop.					      172800 IN	NS	ns01.trs-dns.com.
 coop.					      172800 IN	NS	ns01.trs-dns.net.
 coop.					      172800 IN	NS	ns01.trs-dns.org.
@@ -4469,6 +4465,10 @@ country.				      172800 IN	NS	ns1.uniregistry.net.
 country.				      172800 IN	NS	ns2.uniregistry.info.
 country.				      172800 IN	NS	ns3.uniregistry.net.
 country.				      172800 IN	NS	ns4.uniregistry.info.
+country.				      172800 IN	NS	ns01.trs-dns.com.
+country.				      172800 IN	NS	ns01.trs-dns.net.
+country.				      172800 IN	NS	ns01.trs-dns.org.
+country.				      172800 IN	NS	ns01.trs-dns.info.
 country.				      86400 IN DS	28436 13 2 94DD44E372B69204CB1FE63DDD1D7A831642D96D00E9DDA589DDAA02 E0922CDD
 country.				      86400 IN NSEC	coupon. NS DS RRSIG NSEC
 coupon.					      172800 IN	NS	a.nic.coupon.
@@ -8382,6 +8382,10 @@ hiv.					      172800 IN	NS	ns1.uniregistry.net.
 hiv.					      172800 IN	NS	ns2.uniregistry.info.
 hiv.					      172800 IN	NS	ns3.uniregistry.net.
 hiv.					      172800 IN	NS	ns4.uniregistry.info.
+hiv.					      172800 IN	NS	ns01.trs-dns.com.
+hiv.					      172800 IN	NS	ns01.trs-dns.net.
+hiv.					      172800 IN	NS	ns01.trs-dns.org.
+hiv.					      172800 IN	NS	ns01.trs-dns.info.
 hiv.					      86400 IN DS	50937 13 2 139053A1DD36C05B171D5ADB695CEDCD3DB6EEA7B7A2B0700AADC4C8 712B1344
 hiv.					      86400 IN NSEC	hk. NS DS RRSIG NSEC
 hk.					      172800 IN	NS	c.hkirc.net.hk.
@@ -11030,7 +11034,6 @@ locker.					      172800 IN	NS	ns01.trs-dns.com.
 locker.					      172800 IN	NS	ns01.trs-dns.net.
 locker.					      172800 IN	NS	ns01.trs-dns.org.
 locker.					      172800 IN	NS	ns01.trs-dns.info.
-locker.					      86400 IN DS	6301 8 2 2A62E4284AD1157A9994BE5022A76CF66C2C233CEEDE058C673D065F EE63B90E
 locker.					      86400 IN DS	12691 8 2 DB488867DE794AE457267A654FE9266D4D03DDE9031DA92DD58A14E5 51B6DA01
 locker.					      86400 IN NSEC	locus. NS DS RRSIG NSEC
 locus.					      172800 IN	NS	dns1.nic.locus.
@@ -11108,10 +11111,6 @@ b0.nic.lotto.				      172800 IN	A	65.22.29.25
 b0.nic.lotto.				      172800 IN	AAAA	2a01:8840:1f::25
 c0.nic.lotto.				      172800 IN	A	65.22.30.25
 c0.nic.lotto.				      172800 IN	AAAA	2a01:8840:20::25
-love.					      172800 IN	NS	ns1.uniregistry.net.
-love.					      172800 IN	NS	ns2.uniregistry.info.
-love.					      172800 IN	NS	ns3.uniregistry.net.
-love.					      172800 IN	NS	ns4.uniregistry.info.
 love.					      172800 IN	NS	ns01.trs-dns.com.
 love.					      172800 IN	NS	ns01.trs-dns.net.
 love.					      172800 IN	NS	ns01.trs-dns.org.
@@ -14803,6 +14802,10 @@ property.				      172800 IN	NS	ns1.uniregistry.net.
 property.				      172800 IN	NS	ns2.uniregistry.info.
 property.				      172800 IN	NS	ns3.uniregistry.net.
 property.				      172800 IN	NS	ns4.uniregistry.info.
+property.				      172800 IN	NS	ns01.trs-dns.com.
+property.				      172800 IN	NS	ns01.trs-dns.net.
+property.				      172800 IN	NS	ns01.trs-dns.org.
+property.				      172800 IN	NS	ns01.trs-dns.info.
 property.				      86400 IN DS	33049 13 2 6DFF521D658293FD458E615DEBB6CA0C76341775F72F340BCD396085 1B4C536F
 property.				      86400 IN NSEC	protection. NS DS RRSIG NSEC
 protection.				      172800 IN	NS	a.nic.protection.
