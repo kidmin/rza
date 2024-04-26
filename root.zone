@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240509170000 20240426160000 5613 . MFSyW8lIGrHXa8IryEOS+9rJ+5VvpCHPAX+3llNQEezKPATEY5/3lOpp qu6JFJs1oAlHOV04qhuip8lc3ck0IJVk/H+OfPQw6Y+P72xcHHVha1Oq cI5qdkRTauAJsHfAUWdvBqLgyUvZf16oYbRJg8nktvQHApQ0xijM+FZo UICjg9mGy3u3End4fJeu3sU9x/aF9UDerml2Xv4qaF5HdKkWWUSEPqkZ kS8XGKjG3uIYKlM2/vJ/88PQ7M0zY8cyJ3pCWeC85BPYA2TwDOkX3c+4 9Iz5tsYyQH826i1XR3frr+eFAj4p150Y6+3FZQ70XK4su8JeQFgBmIUw tixEPg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240509200000 20240426190000 5613 . FAd67802oDUgEiHTAIaCjWwEXZNwTr/8YQ5bB9KfDr/hMIPI1Wp07JW6 iempIsN9uF8IS/hMftAQj1hsFKJOPStAMdIQUS6Nw+RIRax4UDkf1wrV JFORuhDfXoB1nslJLG3XfZLApqC+mLvxxRYO8QkB96QT/PuqRSSMHS7Z 49BshPTKaTuYOgYQv0Znki1wvEAm2H/cG4PEL+DydCFn3/ySm65l38bH 3XX/m1CYAQ3IYexhurhp7o5Bzx8iZug1RvlkGwvTWlGyia1tC+V4hs5d U38/kmZiHeWRe8JCbA1S6Foa1ceATwGy0uqrtUEBVBq6Ovaw7Z5NesZB tU6cvQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240512000000 20240421000000 20326 . chrbIYUGGLqwnTPAoPqkezDjL8sO2WS6icjHEvOp7RFmEXqfmadcW71m I3bFaZy/wcCo5DElwFYzAY+1hFstrlD3rZHh7GLYf2NFotdlq5dSHYOg AAdnZBz/pXhUKOsOCEUSm7jIGdr5eMfD6BGQShNyDm+1BRNwYXp8A0K7 ulYtd3QY+n5nA0QGsUbYtVWMLK5cnHruWD7DynxHYffu8QXToX132qIs bQZd/cctNgwhppBCWHyO7Y5XzNG4z/ZvEVF8OUezro+7dvGQdsF0yj11 zjnTUdtTten9naNzMwPgxK4OQImcChmYbKk25IrSSl8Rpvo/y1vzaa1p laxQlQ==
-.					      86400 IN ZONEMD	2024042601 1 1 0E1C690DFE7EA07D23B76688522C95BEF0E16D5B806A766F5472097B 85BD4558FCDB4A6E6E7ABFDF86F45717EC3A9734
+.					      86400 IN ZONEMD	2024042602 1 1 5AFE5A4CC4219FDBF8FB4EA19DA2E35A5DA495B6664B1D1A90E45AB8 8D0AD95824B503EF361870CEA1877639465B3BDD
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -3821,10 +3821,6 @@ v2n0.nic.cleaning.			      172800 IN	A	65.22.23.27
 v2n0.nic.cleaning.			      172800 IN	AAAA	2a01:8840:19::27
 v2n1.nic.cleaning.			      172800 IN	A	161.232.11.27
 v2n1.nic.cleaning.			      172800 IN	AAAA	2a01:8840:f5::27
-click.					      172800 IN	NS	ns1.uniregistry.net.
-click.					      172800 IN	NS	ns2.uniregistry.info.
-click.					      172800 IN	NS	ns3.uniregistry.net.
-click.					      172800 IN	NS	ns4.uniregistry.info.
 click.					      172800 IN	NS	ns01.trs-dns.com.
 click.					      172800 IN	NS	ns01.trs-dns.net.
 click.					      172800 IN	NS	ns01.trs-dns.org.
@@ -4461,10 +4457,6 @@ corsica.				      172800 IN	NS	f.ext.nic.fr.
 corsica.				      172800 IN	NS	g.ext.nic.fr.
 corsica.				      86400 IN DS	16766 13 2 FB25F2D69835BF52CD5389473CD4B0C58D581385EE40B1D1A357135A 8CE26997
 corsica.				      86400 IN NSEC	country. NS DS RRSIG NSEC
-country.				      172800 IN	NS	ns1.uniregistry.net.
-country.				      172800 IN	NS	ns2.uniregistry.info.
-country.				      172800 IN	NS	ns3.uniregistry.net.
-country.				      172800 IN	NS	ns4.uniregistry.info.
 country.				      172800 IN	NS	ns01.trs-dns.com.
 country.				      172800 IN	NS	ns01.trs-dns.net.
 country.				      172800 IN	NS	ns01.trs-dns.org.
@@ -8378,10 +8370,6 @@ hitachi.				      172800 IN	NS	k.gmoregistry.net.
 hitachi.				      172800 IN	NS	l.gmoregistry.net.
 hitachi.				      86400 IN DS	14525 8 2 03EA91AC19AEB9FFA37874A5F0F27F2A04C6EEAE162FD7D9C87F0834 47D31E5F
 hitachi.				      86400 IN NSEC	hiv. NS DS RRSIG NSEC
-hiv.					      172800 IN	NS	ns1.uniregistry.net.
-hiv.					      172800 IN	NS	ns2.uniregistry.info.
-hiv.					      172800 IN	NS	ns3.uniregistry.net.
-hiv.					      172800 IN	NS	ns4.uniregistry.info.
 hiv.					      172800 IN	NS	ns01.trs-dns.com.
 hiv.					      172800 IN	NS	ns01.trs-dns.net.
 hiv.					      172800 IN	NS	ns01.trs-dns.org.
@@ -14798,10 +14786,6 @@ v2n0.nic.properties.			      172800 IN	A	65.22.23.46
 v2n0.nic.properties.			      172800 IN	AAAA	2a01:8840:19::46
 v2n1.nic.properties.			      172800 IN	A	161.232.11.46
 v2n1.nic.properties.			      172800 IN	AAAA	2a01:8840:f5::46
-property.				      172800 IN	NS	ns1.uniregistry.net.
-property.				      172800 IN	NS	ns2.uniregistry.info.
-property.				      172800 IN	NS	ns3.uniregistry.net.
-property.				      172800 IN	NS	ns4.uniregistry.info.
 property.				      172800 IN	NS	ns01.trs-dns.com.
 property.				      172800 IN	NS	ns01.trs-dns.net.
 property.				      172800 IN	NS	ns01.trs-dns.org.
@@ -15064,7 +15048,6 @@ re.					      172800 IN	NS	d.nic.fr.
 re.					      172800 IN	NS	e.ext.nic.fr.
 re.					      172800 IN	NS	f.ext.nic.fr.
 re.					      172800 IN	NS	g.ext.nic.fr.
-re.					      86400 IN DS	49754 13 2 CE6C40407ED006C7A2D34B04F01EA0D825A64FA2418D6E994192AD05 AD24FF68
 re.					      86400 IN DS	61047 13 2 6A6546F44C8680C705612F9722A591DBBB88BF0D40E89E1CB45FAD18 EEE3D4EA
 re.					      86400 IN NSEC	read. NS DS RRSIG NSEC
 read.					      172800 IN	NS	dns1.nic.read.
@@ -15307,7 +15290,6 @@ ren.					      172800 IN	NS	f.zdnscloud.com.
 ren.					      172800 IN	NS	g.zdnscloud.com.
 ren.					      172800 IN	NS	i.zdnscloud.com.
 ren.					      172800 IN	NS	j.zdnscloud.com.
-ren.					      86400 IN DS	770 8 2 897EA15932FA4407809D32CA7C7DA4B0C0E455316A897970F152109F 18CE6CD9
 ren.					      86400 IN DS	6712 8 2 06090FB53AE539CE051D9236A0C6B5FD58361167BC0D7F5E8E9EAB4F 62D4FFFB
 ren.					      86400 IN NSEC	rent. NS DS RRSIG NSEC
 rent.					      172800 IN	NS	a.nic.rent.
