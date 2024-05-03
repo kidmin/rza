@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024050301 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240516170000 20240503160000 5613 . G0o7eJ/HFqREwuu9A8TVFx7oL4obuwAJCjMIa8GgW31E7foW4khFnmsq OE7+IeU0QwVHqy7KA76V4Fs3TG1bune/tAAf+Glnb793oeNQNyRzIu3W OvVxmKlAz3Xh7sWl0mM9s8NV/vA8zYRRltokVvj/B0mzx8ErtvARoz20 BPdVaA6s0zYuFQV/GvRYVDLxkq7qOLUYC+sGBjf2UbkuV3vGMiKoV1Lh bZD2zMrbzylxf6SLsBOyUWxpKPwQvYMSIDLkfKoHrCZ5/Ziq/HKi05QJ FVv0jDq23li+OGFjjgLi543G98U4VCZaMKwnKAIuGmHDGtr5kLPfpxHA f4w90Q==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024050302 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240516210000 20240503200000 5613 . IpapqPQY1dLLLWSvRKu4kmLF2QqdWFKEDtBhryo5iw5dDTxxuAYSVqeA 7UgXE9mDfGuYCwXClbPQRFc50qE/ZgT+PD19bQ1RgdGl7uGiEcdX9Ntu lI9ToTky14XQFNDyxS6uKR9Xy2zJc4gYywu5K9s8HIcZCkEEeMqtAnUz CDAVNI6K4E15QVk5JNc9k8lwD+JtCkUNrdN7M2mvLI36isuMz6Ghtdrh biU2kzYXgtlDNkxpMMiqsbDosXGTQlWUPmVm0Zg5ylDmD74T2V6VvqqI DiibLN9gah2tZE+dqVtPnmygBofOrxBr1qeIDjZoRlcbjzTZ1qUGjjlI vlOt3A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240522000000 20240501000000 20326 . awTuko2X1TeMs5PiiykeIU5gBu4OdnsQunhjJSJHIvlFHEqP9Fbxj/CF BcWky41kCmn++2hPza/78LDNcNv3fXt8tlg3Ul1svtt+f2dVkc8/P9S8 XZiPFm3Hgjti6apgdeIxGSaL+xfVX7bM6jueDJcF1GhxqzR+wY+9Sk6r 6q4tKS+zA6ewFym/OeOiZQy2F5IrKs3BJcqq56VpaKL7zF+l5cCVUYhS /XY4DBCln9u//jRYljzprwlkguTL7wLCJXnWsiqyKoOpeY5WPE3WU9VE Wsh41aGHgE80qe8svfpRh+XrWaQHNpWDBZf18NviSPOsbU/vk6aLq3fI fM99jA==
-.					      86400 IN ZONEMD	2024050301 1 1 0D450C9E879FA3840C1A7832FBCE135E13F089DECC382D7DDB2FD363 EBFF3AD7CCC387FE786035B5D702A0B28AD3EE26
+.					      86400 IN ZONEMD	2024050302 1 1 4E03102AF0644A1209DBB9986F61951A4445ECBDA08A072F37FC17E1 6BD7074EF7757C23DD999227ACDCC4FCB9CDA2B5
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -10298,10 +10298,6 @@ d.nic.kw.				      172800 IN	A	185.42.137.135
 d.nic.kw.				      172800 IN	AAAA	2a01:3f0:400:8001::135
 pch.nic.kw.				      172800 IN	A	204.61.216.118
 pch.nic.kw.				      172800 IN	AAAA	2001:500:14:6118:ad::1
-ky.					      172800 IN	NS	ns1.uniregistry.net.
-ky.					      172800 IN	NS	ns2.uniregistry.info.
-ky.					      172800 IN	NS	ns3.uniregistry.net.
-ky.					      172800 IN	NS	ns4.uniregistry.info.
 ky.					      172800 IN	NS	ns01.trs-dns.com.
 ky.					      172800 IN	NS	ns01.trs-dns.net.
 ky.					      172800 IN	NS	ns01.trs-dns.org.
@@ -10876,10 +10872,6 @@ ns2.dns.nic.lincoln.			      172800 IN	A	156.154.145.105
 ns2.dns.nic.lincoln.			      172800 IN	AAAA	2610:a1:1072::69
 ns3.dns.nic.lincoln.			      172800 IN	A	156.154.159.105
 ns3.dns.nic.lincoln.			      172800 IN	AAAA	2610:a1:1073::69
-link.					      172800 IN	NS	ns1.uniregistry.net.
-link.					      172800 IN	NS	ns2.uniregistry.info.
-link.					      172800 IN	NS	ns3.uniregistry.net.
-link.					      172800 IN	NS	ns4.uniregistry.info.
 link.					      172800 IN	NS	ns01.trs-dns.com.
 link.					      172800 IN	NS	ns01.trs-dns.net.
 link.					      172800 IN	NS	ns01.trs-dns.org.
