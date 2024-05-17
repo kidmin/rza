@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024051701 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240530170000 20240517160000 5613 . LyRx8tGwmFZ7iu/bnWLl7/k1AW0cmfZh8BKDwNvgbGlu3Mbzsjfb6H7E Q8S56kQyAR6LJb2mUs8MvB2sIRLgIjm7JwYz83bkrn029Dc9XJNlFeDe 7zHQLx17Kt+RPT+5cwYM4tvhLLBTzFqQHsRb1ov7HvFMas4XykJSqPAc UVbTcrR8h652g34Ef0i5p4Qjr6uBgHX65Ikcv+yZZrTWxdA57b5pesHm YFvS7BYQvpyhNx3dwanfJGxjtbs/gaR4qmMMt6AeBs9Mfeyu2dV0esMe fz7czgXSre+7TWG2yNH5tG+hYK61iU52s//ljv640/EboN+ya7pg4WB2 Q99q5w==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024051702 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240530200000 20240517190000 5613 . Nr+0wmOvmmWJGMlBsmB2Dx6P/5vvdugQ58A4WfXHzaLhwaI1/NITPbFP +cl7PUHOW09yoU1LbBqUW6/qX2eKxWCx5nCdU0wWn1oyBtDmkqJXm9z1 QTgJvLl95Uey9LHCEHRyL38VQzUxrB8rk2xmNVKekErSeIGnQD294qvH tgfvl4Z/J5pmEJQpZTduzrBKkE6714G7rmiCQ2x0hqJSGXUVgP+Keh+G 7ZT5P7SS6Bl2CJZzbWvrSjaVRCXBELuuzB7z4tV8O1iSCLN+Z6HItMxv riZ0FlkIQ6G1kAjsmlZhHnx7JVWkKMHhbG1BEo9pHwb9/1iWIw9iYPtZ y+BG2Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240601000000 20240511000000 20326 . OgCibhptSNJS9XS2WD2CXYw0HsdjPXn82iYAtzkE7ma1H2BfchG8nRnF ZJ9fbrCjXAhDPnKCkuId8cuJ2PGuLzy9Q3d4zIt7Ow5o8YkpKGEJB6uV i1BRauxVzKgH7u5QnKf8d1AlKFikFdBHHLaZ97XGci02qRRm1jpe+aY4 sLnKHx1kTJozHJp+Xaml/nCiS4AXrCxNyc4EH2/oraODfaewFIOQjpsA MeAwtPrccpst4ZL/9jmZUdRSs3IHwMk9gvSwpZI0YVBWZocKg96CmQQg q9NNNGhpI5gXXdbP++bu4myTGIx8wR1vjK7nau9GJK+76Bt4bc+1FIfp q4mbSg==
-.					      86400 IN ZONEMD	2024051701 1 1 7E96BCB3F5FDEF6F72F5F8CD6905D43B750CE797C9DE6F55460D5AD3 3360C12F95DA6C3203CB4F2AC42A83BE23321E94
+.					      86400 IN ZONEMD	2024051702 1 1 0C7F03A41458418D204DF69B053194FB5B6E8BACFD04E470BB854F3B D5B31AC328D0AD99C834504934F8CF4CB52CE9F1
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -3440,6 +3440,7 @@ c.nic.cfd.				      172800 IN	AAAA	2a04:2b00:13ee::122
 d.nic.cfd.				      172800 IN	A	212.18.249.122
 d.nic.cfd.				      172800 IN	AAAA	2a04:2b00:13ff::122
 cg.					      172800 IN	NS	sunic.sunet.se.
+cg.					      172800 IN	NS	dns-ca.dnsafrica.net.
 cg.					      172800 IN	NS	dns-fr.dnsafrica.net.
 cg.					      172800 IN	NS	dns-sg.dnsafrica.net.
 cg.					      172800 IN	NS	dns-za.dnsafrica.net.
@@ -12684,6 +12685,8 @@ n.de.net.				      172800 IN	A	194.146.107.6
 n.de.net.				      172800 IN	AAAA	2001:67c:1011:1::53
 s.de.net.				      172800 IN	A	195.243.137.26
 s.de.net.				      172800 IN	AAAA	2003:8:14::53
+dns-ca.dnsafrica.net.			      172800 IN	A	54.39.22.36
+dns-ca.dnsafrica.net.			      172800 IN	AAAA	2607:5300:201:3100::2b7c
 dns-fr.dnsafrica.net.			      172800 IN	A	151.80.35.161
 dns-sg.dnsafrica.net.			      172800 IN	A	51.79.160.242
 dns-sg.dnsafrica.net.			      172800 IN	AAAA	2402:1f00:8000:800::25ed
