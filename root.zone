@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024060300 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240616050000 20240603040000 5613 . dgwQ6dJ7MeeP59PghmewJ0a7S7LZWeZldcGuk6gvlDm1DNbZ8Ax1p83D Y30apOjH+2K5BDzCtcTmZNYR8x+cX3CfdWEfn7Q22NuOK6gD2fu08oRt v/TmC+f38CeirAsFDoHn2+vec/W3oS+WOtPvEAa3B+cnWWzfr4nKAGdU vFKOjqFJWS2Xzui9A1W1nV7LHOB0jGo/sfqEYzmQz/d1zE/gdEwXS7d/ PrrITOC0bZ87i19FK1HNGvs3lNla2N1Roo86LBeLg1KpETG3QT13Iuuh siraS6+45hXQKG/Pqf+Q30TaSqWP87jID6NXE94g5mvGK0tQFGQdF0In L3WWCg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024060301 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240616170000 20240603160000 5613 . S5sf7fcpTlZaoyE1JLM0ypdq15e4BEHJU/xyM2GdDodC9lk8LZTmYMiO 9IMR8sN6bqaSdAqHEjsoPXr2sMJpP4X7RsG4FyAAgxZ77AmM7YDfJp5b zH4Gs59E6BMnMG0J0/rI96T6cpLLtCEcBXWGXKqaoEgTpFHCJIwjrEKz uVzslEjOLjXeQWkXDEPzdrYKiFOXmBYIzmTSbvSDjmf9H8yZT/Il6tZa XNuYvYPOP8JRDm/xr3ZIRKHt8zcBTMNvWDyc4mdSvyJcY94RcCVM39Ii YiaAh/KSvddM44wIdthDaAutVHXQgidAi5PV3u4m3eL6aCTtMcXOl64M AMsBHQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtr BvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1co L5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfO HYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDu q9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOX DHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8k UVSJHZtQiI0=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240621000000 20240531000000 20326 . axzhlvsjvXefBmyQv7pZSJsEJ5BW2poXC95oU5D4itI8yejNJmehpcjB lVodnaqSQ0nNRVnvhVqC0eGzwOc/A+DCIS8tt+w93GIHhMAIkydLuxGo fblreMIdD2/WNP4QQgCf4H7ANDNURozqDaFg9rq+GEHBBucHL4jt1t3d xcDcOyKaEo+2Z28NjsucYdqAENVm0Gcy9AJ4bd/a5N7DuxzdIn9F1jdO xDUbjx4Cp6+701fbnScjW7Ebd2MXcESaTwMWr021uF16p3evTJHupQi8 dGfpQdbn9Jlja2LhHD83oYT5bRArjw/ayMnDYcV4KPZjidzagV9sL7R/ gbU+QA==
-.					      86400 IN ZONEMD	2024060300 1 1 50A77D7A14415776F4B203A496D48ADA99B02F3F5D4C891C1724F085 8FC4B3DA987E4EA297E159FF15539C105D856A16
+.					      86400 IN ZONEMD	2024060301 1 1 D6C484045F1D655DBF67BC4C799677FC0DFE1F13210DDDDBAC9D62D4 A0B87E6FEDD00E61503AAE668AA980CF2579AF7F
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -13858,7 +13858,9 @@ pa.					      172800 IN	NS	a.lactld.org.
 pa.					      172800 IN	NS	ns.pa.
 pa.					      172800 IN	NS	ns.dns.br.
 pa.					      172800 IN	NS	ns.nic.pa.
+pa.					      172800 IN	NS	ns1.anycastdns.cz.
 pa.					      172800 IN	NS	ns2.pa.
+pa.					      172800 IN	NS	ns2.anycastdns.cz.
 pa.					      172800 IN	NS	dns-ext.nic.cr.
 pa.					      172800 IN	NS	ssdns-tld.nic.cl.
 pa.					      86400 IN NSEC	page. NS RRSIG NSEC
@@ -18042,6 +18044,7 @@ th.					      172800 IN	NS	b.thains.co.th.
 th.					      172800 IN	NS	c.thains.co.th.
 th.					      172800 IN	NS	p.thains.co.th.
 th.					      172800 IN	NS	ns.thnic.net.
+th.					      172800 IN	NS	nn1.thains.co.th.
 th.					      86400 IN DS	19117 8 2 E26BF35F73234AC50C600632FC717AE491F4A8B4F662FB29234F5499 ACFEBF64
 th.					      86400 IN NSEC	thd. NS DS RRSIG NSEC
 a.thains.co.th.				      172800 IN	A	122.155.23.64
@@ -18050,6 +18053,8 @@ b.thains.co.th.				      172800 IN	A	203.159.64.64
 b.thains.co.th.				      172800 IN	AAAA	2405:3340:e011:3000::30
 c.thains.co.th.				      172800 IN	A	194.0.1.28
 c.thains.co.th.				      172800 IN	AAAA	2001:678:4::1c
+nn1.thains.co.th.			      172800 IN	A	194.146.106.154
+nn1.thains.co.th.			      172800 IN	AAAA	2001:67c:1010:39::53
 p.thains.co.th.				      172800 IN	A	204.61.216.126
 p.thains.co.th.				      172800 IN	AAAA	2001:500:14:6126:ad::1
 thd.					      172800 IN	NS	a0.nic.thd.
@@ -21490,6 +21495,7 @@ xn--o3cw4h.				      172800 IN	NS	a.thains.co.th.
 xn--o3cw4h.				      172800 IN	NS	b.thains.co.th.
 xn--o3cw4h.				      172800 IN	NS	p.thains.co.th.
 xn--o3cw4h.				      172800 IN	NS	ns.thnic.net.
+xn--o3cw4h.				      172800 IN	NS	nn1.thains.co.th.
 xn--o3cw4h.				      86400 IN DS	27061 8 2 53856679AC45EA6562EF4ECD2DE7AEA57D786870979F09C4BC1D5244 C2E2A9C9
 xn--o3cw4h.				      86400 IN NSEC	xn--ogbpf8fl. NS DS RRSIG NSEC
 xn--ogbpf8fl.				      172800 IN	NS	sy.cctld.authdns.ripe.net.
