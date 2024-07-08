@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024070802 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240721170000 20240708160000 20038 . U/9gbsFNX+xa67WB9b5RcS0czIxkIP2p+5RI8ykvjuzKrmRDA7QttOa0 +iYOaR2r9vgE6JLY8re5BPkCscZW+qNb/dsZSOIQhZzXp3+de0UH/Qxo fIfGMpadHQbgX1k6APevd4oORqpbW15JvvqIGFVIS8d+Vnnmea9cyrqJ hrbdUfvSiSvgl65V1CfiAcrlXnX0kk2nak6DlR9mwDqHx5KK+6R31ats 6/47t2o9kBWZkYQpjOjwymQZ5hUUju+u2KJ3KLDfh5Ql8atOR076QMn6 WPFBUV2KLHQtN+VvjVxseW/CUZKJp56dRJ7DjihFHiGvKuMi3vplC2kY OvrjNQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024070803 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240721210000 20240708200000 20038 . WtklFURtEF1LPDzjaytXQFmqec/07siwb0vLhuUaKQ0EOq8qAzwzj5W0 rPQD7oYQRiNtz0fLLGhk6FkoIwk++HuTO+eKUR9SAs+FuIcvqlOrBqw0 Eh6o8l0CW2KpufEKVe/kqTcFNR3dYf21idqLW631OKP4tn43dnx3HX1N Bm8ylYitXXURC34R5Bq8vaniDBE4PEeOwvr/5yjCudyE90lVmLpfWuvm 92C4Na9HeX3sKrgVoeMIi2Lt2SebwOYLohLq0oPHj49VEXGAyPO4RmKO k19HxeW9ZpRAit8wW4MFtxeHymljluYszfivD9iJjAyphEe8Nx4aMbxO 1LoaTg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240722000000 20240701000000 20326 . IRkOIo4RPaeDlUtaTAsGWDXy9MsMmQwM4Jgs/OXU5On4C/qlzmrxzq1A Orvi2/x9OEzDooArbDeRYPruoFEtQNYElMooGMYFbdrZtQQHjdKG1JLo +EjGfEAU+KJcMAIbebabfkr4BIkFolZ1jIfdhG2PIk40tnMQRyZjuO5c RROqi3A1kcaXzg8BIhGmD6Z4dYYO6TNnusJCrJE7uk9qkdXpC+vHaON8 vuWFoT7ngN3RVvbkcTbHFjS5QnPyC63nGZGYfo9i/1UttGpsMkcRcyU8 2uNsdknwnSkUxzgqZrjUmK+hsjrRwlrmwcuK8WRVGeE3ybhyCZTgAYH9 1QKzUA==
-.					      86400 IN ZONEMD	2024070802 1 1 252D6B0F90EBD966446958F3689CC7351FD870B79C08C52429C99801 81FB303BA71E90799DBFD6307B5449AD0923C43D
+.					      86400 IN ZONEMD	2024070803 1 1 D9E379EE073F6744E1324851B961F9573FB8E05A66FC6EB7953D4607 047E500EE0AD2416B61E00AF9012CFE0896699DF
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -44,6 +44,7 @@ aarp.					      172800 IN	NS	ac2.nstld.com.
 aarp.					      172800 IN	NS	ac3.nstld.com.
 aarp.					      172800 IN	NS	ac4.nstld.com.
 aarp.					      86400 IN DS	5751 8 2 7E8A14AB8F85009B9F19859815FA695954233FD9DAA6AB359044D126 21A77E9F
+aarp.					      86400 IN DS	26254 8 2 BFF5BD7C3F7A468CDCC7CAF66E978A5D9B5211F39241039A5218B82A A62FB6C6
 aarp.					      86400 IN NSEC	abb. NS DS RRSIG NSEC
 abb.					      172800 IN	NS	a0.nic.abb.
 abb.					      172800 IN	NS	a2.nic.abb.
@@ -684,6 +685,7 @@ americanfamily.				      172800 IN	NS	ac1.nstld.com.
 americanfamily.				      172800 IN	NS	ac2.nstld.com.
 americanfamily.				      172800 IN	NS	ac3.nstld.com.
 americanfamily.				      172800 IN	NS	ac4.nstld.com.
+americanfamily.				      86400 IN DS	16975 8 2 50D98DC6D7A2BC4CE8121A409EF96E22EA6FF8B0334F0629151093AC 247BD80F
 americanfamily.				      86400 IN DS	61398 8 2 F6890DE22C9B4261C9FCFAC53FE0849FAA9B573EE95E027E070ABA27 0CD966AF
 americanfamily.				      86400 IN NSEC	amex. NS DS RRSIG NSEC
 amex.					      172800 IN	NS	a.nic.amex.
@@ -711,6 +713,7 @@ amfam.					      172800 IN	NS	ac2.nstld.com.
 amfam.					      172800 IN	NS	ac3.nstld.com.
 amfam.					      172800 IN	NS	ac4.nstld.com.
 amfam.					      86400 IN DS	4101 8 2 D2C0246802AA5B615CFC8B700A5245ADFCA49477B37F870499A44AB2 72989A7D
+amfam.					      86400 IN DS	56680 8 2 18AFBE180BF3DDDE328E5F7E0D2BB7869DB47AB073A3D4F29A7BE3E6 5BDCA003
 amfam.					      86400 IN NSEC	amica. NS DS RRSIG NSEC
 amica.					      172800 IN	NS	a.nic.amica.
 amica.					      172800 IN	NS	b.nic.amica.
@@ -6219,14 +6222,14 @@ v2n0.nic.fail.				      172800 IN	A	65.22.23.56
 v2n0.nic.fail.				      172800 IN	AAAA	2a01:8840:19::56
 v2n1.nic.fail.				      172800 IN	A	161.232.11.56
 v2n1.nic.fail.				      172800 IN	AAAA	2a01:8840:f5::56
-fairwinds.				      172800 IN	NS	nsa.nominetdns.uk.
-fairwinds.				      172800 IN	NS	nsb.nominetdns.uk.
-fairwinds.				      172800 IN	NS	nsc.nominetdns.uk.
-fairwinds.				      172800 IN	NS	nsd.nominetdns.uk.
 fairwinds.				      172800 IN	NS	dns1.nic.fairwinds.
 fairwinds.				      172800 IN	NS	dns2.nic.fairwinds.
 fairwinds.				      172800 IN	NS	dns3.nic.fairwinds.
 fairwinds.				      172800 IN	NS	dns4.nic.fairwinds.
+fairwinds.				      172800 IN	NS	dnsa.nic.fairwinds.
+fairwinds.				      172800 IN	NS	dnsb.nic.fairwinds.
+fairwinds.				      172800 IN	NS	dnsc.nic.fairwinds.
+fairwinds.				      172800 IN	NS	dnsd.nic.fairwinds.
 fairwinds.				      86400 IN DS	48074 8 2 4375DA09C7286DCDE9ACC036596D3F2B9F1347E1A83F13A1E98C7E98 21D2EAD9
 fairwinds.				      86400 IN NSEC	faith. NS DS RRSIG NSEC
 dns1.nic.fairwinds.			      172800 IN	A	213.248.219.135
@@ -6237,6 +6240,14 @@ dns3.nic.fairwinds.			      172800 IN	A	213.248.223.135
 dns3.nic.fairwinds.			      172800 IN	AAAA	2a01:618:407::135
 dns4.nic.fairwinds.			      172800 IN	A	43.230.51.135
 dns4.nic.fairwinds.			      172800 IN	AAAA	2401:fd80:407::135
+dnsa.nic.fairwinds.			      172800 IN	A	156.154.100.3
+dnsa.nic.fairwinds.			      172800 IN	AAAA	2001:502:ad09::3
+dnsb.nic.fairwinds.			      172800 IN	A	156.154.101.3
+dnsb.nic.fairwinds.			      172800 IN	AAAA	2001:502:2eda::3
+dnsc.nic.fairwinds.			      172800 IN	A	156.154.102.3
+dnsc.nic.fairwinds.			      172800 IN	AAAA	2610:a1:1009::3
+dnsd.nic.fairwinds.			      172800 IN	A	156.154.103.3
+dnsd.nic.fairwinds.			      172800 IN	AAAA	2610:a1:1010::3
 faith.					      172800 IN	NS	a.nic.faith.
 faith.					      172800 IN	NS	b.nic.faith.
 faith.					      172800 IN	NS	c.nic.faith.
@@ -18935,14 +18946,6 @@ dns3.nominetdns.uk.			      172800 IN	A	213.248.223.254
 dns3.nominetdns.uk.			      172800 IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.			      172800 IN	A	43.230.51.254
 dns4.nominetdns.uk.			      172800 IN	AAAA	2401:fd80:407::254
-nsa.nominetdns.uk.			      172800 IN	A	156.154.100.3
-nsa.nominetdns.uk.			      172800 IN	AAAA	2001:502:ad09::3
-nsb.nominetdns.uk.			      172800 IN	A	156.154.101.3
-nsb.nominetdns.uk.			      172800 IN	AAAA	2001:502:2eda::3
-nsc.nominetdns.uk.			      172800 IN	A	156.154.102.3
-nsc.nominetdns.uk.			      172800 IN	AAAA	2610:a1:1009::3
-nsd.nominetdns.uk.			      172800 IN	A	156.154.103.3
-nsd.nominetdns.uk.			      172800 IN	AAAA	2610:a1:1010::3
 unicom.					      172800 IN	NS	a.zdnscloud.com.
 unicom.					      172800 IN	NS	b.zdnscloud.com.
 unicom.					      172800 IN	NS	c.zdnscloud.com.
