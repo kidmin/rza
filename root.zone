@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024070901 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240722170000 20240709160000 20038 . 0Cbfc4cGsscRyvPgZ9vZtHBrioZU+aemJ+MIdsCoqoNH2qPkDOASvX2I f4mm6CI4TmaAalZSp7qycoreCraH1a72L87+8cI8Qcq9pr6EIcXXBmhQ oUwOJs8Q9vwJ105Uew2SIpyAIAhnRMqOvr68aM/pHLzMpXhQfgpMVgT9 XkI/zd4W7mSI0MGhtK/zgrCBr5GdgjWDQMQxuWsVtQ2pLammKH9Vo3X4 G3fzzhiZvU2gaMQvkCprwYxfd7Px0XxVBFFz09ztPMK4qmNRSk9BtlUs RHy4/EVK0FelvxhMBVOG13pHs1gTOKcBFIOvHOSFE/VAVb9+r5tAnAjS Do612Q==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024070902 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240722200000 20240709190000 20038 . ZswLb/yNn4iYwnxr32UHVSyBv4aiqTT1oajaOQjocopC2XdDYSYekFTv 4iWvFsKx1t+wwbwh0vICmtpPy5cNDymGHnOektOYySPyxbtP3xihvS3+ jD1wM5eQxaZwQ7PTxlgRVUOH5xAzi8zGqyVRINZaHwmAcrCjKypIIaPM pxYp/Bz4hqY0lL2GzoyEsL1J/ohyhHPVD6UZywJmjG8Jvwzzx2ZskCDu 0Y+mxzOTLA4QOjqzihx2RIhajOP2SQ3rP6bCFPbiEIvcUkgy9saVG3+d T0+9z1XZojwUCesJ2ZdV2m/uXUyFR1/oNsUQFgBW6ulYr6OIOePZv++q +Ive9Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240722000000 20240701000000 20326 . IRkOIo4RPaeDlUtaTAsGWDXy9MsMmQwM4Jgs/OXU5On4C/qlzmrxzq1A Orvi2/x9OEzDooArbDeRYPruoFEtQNYElMooGMYFbdrZtQQHjdKG1JLo +EjGfEAU+KJcMAIbebabfkr4BIkFolZ1jIfdhG2PIk40tnMQRyZjuO5c RROqi3A1kcaXzg8BIhGmD6Z4dYYO6TNnusJCrJE7uk9qkdXpC+vHaON8 vuWFoT7ngN3RVvbkcTbHFjS5QnPyC63nGZGYfo9i/1UttGpsMkcRcyU8 2uNsdknwnSkUxzgqZrjUmK+hsjrRwlrmwcuK8WRVGeE3ybhyCZTgAYH9 1QKzUA==
-.					      86400 IN ZONEMD	2024070901 1 1 AFCEDD59CA19AC5E8BAC628BFB087213A4E6D8A6FA13363EAE6E0C6A 5FC5C65ABA0E91562BEAEE0742B30AD060BD03A9
+.					      86400 IN ZONEMD	2024070902 1 1 2ED9DE1F97F9B8F1A17D270224839EF0DF5C2EEF055AF763335D7C01 6AE63FDAED4128E5F4C793D6EAE052769E3C73B8
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -16564,21 +16564,7 @@ sharp.					      172800 IN	NS	b.gmoregistry.net.
 sharp.					      172800 IN	NS	k.gmoregistry.net.
 sharp.					      172800 IN	NS	l.gmoregistry.net.
 sharp.					      86400 IN DS	3872 8 2 9FBCF0AFCB45E677CB42680FF35DEFD79F8ACCACAAA47DF92CFD08E7 3A8AFCB6
-sharp.					      86400 IN NSEC	shaw. NS DS RRSIG NSEC
-shaw.					      172800 IN	NS	a0.nic.shaw.
-shaw.					      172800 IN	NS	a2.nic.shaw.
-shaw.					      172800 IN	NS	b0.nic.shaw.
-shaw.					      172800 IN	NS	c0.nic.shaw.
-shaw.					      86400 IN DS	29284 8 2 A5D4CF180AE979A32069CFC69304AD40F0BD7E0B6CFBD0B5611E49D1 540EDBA4
-shaw.					      86400 IN NSEC	shell. NS DS RRSIG NSEC
-a0.nic.shaw.				      172800 IN	A	65.22.88.17
-a0.nic.shaw.				      172800 IN	AAAA	2a01:8840:56::17
-a2.nic.shaw.				      172800 IN	A	65.22.91.17
-a2.nic.shaw.				      172800 IN	AAAA	2a01:8840:59::17
-b0.nic.shaw.				      172800 IN	A	65.22.89.17
-b0.nic.shaw.				      172800 IN	AAAA	2a01:8840:57::17
-c0.nic.shaw.				      172800 IN	A	65.22.90.17
-c0.nic.shaw.				      172800 IN	AAAA	2a01:8840:58::17
+sharp.					      86400 IN NSEC	shell. NS DS RRSIG NSEC
 shell.					      172800 IN	NS	ac1.nstld.com.
 shell.					      172800 IN	NS	ac2.nstld.com.
 shell.					      172800 IN	NS	ac3.nstld.com.
