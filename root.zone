@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024071601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240729170000 20240716160000 20038 . mit5e2m7VNDsdA2JRX9O47Si+BKW/fa9tF2qHAfOpQM1Y0k/9O0AaZ/P qhi5t+ZoVCdlN3W1ZkJcUx+Ffa+H62BVpm1E7gTQXWb/yIeC9zWNJxMM 6jTWKQOqzopo6pV2DWuDHDsTyDwN3NFj1DXD5PV1Wg4hvCIxhvGf7V5u EqrpTrG59M+3qX1SZetbM4n6b2h5O+wIgtJj0jgm4+YRTgnECR0xpDlg c+oBTJt5xrynu7CIRyPGFtREpe2wz0GbtVzfoIK7ytIBJu4sFfr/C/YH prUkEe+uuw9rfRsqOxd1t2AnyvrxNqqqOnog+/N0mK5FMuHsCZs9zv0/ 5FYjHA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024071602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240729180000 20240716170000 20038 . B+Ba+ZwZj1hSPHSY15bsT8LbIoh8KdJczj8kaO8DyDCcGjmJpnYOrtRw KXNP/hzs3HXmHH4d4YcMfqvC9Oe/2m4jj/UoR7TJYCSR/7hPB2nZ88yd pZOZVM32oPpO5Ojvahzt4Wn9w/Ak0j9vQw1YKOWal2j5SNyS5UjNYrkv q1RdBPGaRVYDsLAWgzBLOh1RydZPCSpuIYusxzu7e79C+l3XM5BOFa1p bwwh8QtW/m0DdIURSUTMoltjxs9pyhMIILvHyEQ1zCrZ9BHf7yXBKQTQ NCpzQhrc/0JKIJLycVQlMmIlXuSnNgsXtRtAYlB1hKQHFAsLnaLZHYfB tvaebw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240801000000 20240711000000 20326 . Y5hQWB90MU1Rvzcd8YLhAHe7SCZkpW0osHHdFVcFPz7J+TEWCehlXFK9 xerSYhfY3HTdfLMyJgmTsRgxWyjv748jxyn6zlOwCADaK9K6qwyA6qye e3b3TMWUn+iyc1bsUe/OYFw7hWgX2qNI4WC2BRTNNen+Lvi/CYGacKwU yau3G8iP0r1Fe2lmJeuQant9/PMie2k90/X5CBPj2jF0jfufYQBCueVk 5zBhqgH+LQ5LIDk4X4mAuhjMADHzvU8c2EboMMuEQAQuhZ3y9cXcKIFf MPtEOxc5vVTh3afge9SZ6B3DYHq/THh7XxYeXZ0p09hFx9Ji23OuulsD rwLHIA==
-.					      86400 IN ZONEMD	2024071601 1 1 4FFAE213BE759BA9E66CA58BE0718F640FF9FD94C31CB114E8AEF5DA 6C1400E3C84315883CECDC503DB55D5F33827DDF
+.					      86400 IN ZONEMD	2024071602 1 1 099AB5D0AF2C3D2675A165A3CD9152FDF826275F2147999A46364CC9 00C8D3F42BF0F3A40B6F334742928F8434708319
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -13910,18 +13910,18 @@ paris.					      172800 IN	NS	g.ext.nic.fr.
 paris.					      172800 IN	NS	h.ext.nic.fr.
 paris.					      86400 IN DS	36157 13 2 E9AA567B3FFAD9AA9F2C6A0BC0B7FED6D338C5150BD5627812A5F995 7969C37D
 paris.					      86400 IN NSEC	pars. NS DS RRSIG NSEC
-pars.					      172800 IN	NS	a.ns.nic.pars.
-pars.					      172800 IN	NS	b.ns.nic.pars.
-pars.					      172800 IN	NS	ns1.anycastdns.cz.
-pars.					      172800 IN	NS	ns2.anycastdns.cz.
+pars.					      172800 IN	NS	dns1.emdns.uk.
+pars.					      172800 IN	NS	dns2.emdns.uk.
+pars.					      172800 IN	NS	dns3.emdns.uk.
+pars.					      172800 IN	NS	dns4.emdns.uk.
+pars.					      172800 IN	NS	dnsa.emdns.uk.
+pars.					      172800 IN	NS	dnsb.emdns.uk.
+pars.					      172800 IN	NS	dnsc.emdns.uk.
+pars.					      172800 IN	NS	dnsd.emdns.uk.
 pars.					      86400 IN DS	2911 8 2 BD1468967B866D21C106F1A2B92906604380E7787BE97AC2855219DD E2CD2285
 pars.					      86400 IN DS	25579 8 2 3267932DB504F8EBD2CE521DE598C9DCF92096C158DCACB57A96395D 4CC5798F
 pars.					      86400 IN DS	55552 8 2 C84D8D2021692FB2A427DFEB7A89E6BCF042886082F9F8A3C9A11398 96BDC7BD
 pars.					      86400 IN NSEC	partners. NS DS RRSIG NSEC
-a.ns.nic.pars.				      172800 IN	A	72.0.49.5
-a.ns.nic.pars.				      172800 IN	AAAA	2620:171:a01:ad::5
-b.ns.nic.pars.				      172800 IN	A	72.42.113.5
-b.ns.nic.pars.				      172800 IN	AAAA	2620:171:d01:dc::5
 partners.				      172800 IN	NS	v0n0.nic.partners.
 partners.				      172800 IN	NS	v0n1.nic.partners.
 partners.				      172800 IN	NS	v0n2.nic.partners.
@@ -16612,18 +16612,18 @@ shell.					      172800 IN	NS	ac3.nstld.com.
 shell.					      172800 IN	NS	ac4.nstld.com.
 shell.					      86400 IN DS	55158 8 2 BE8C4AB62CE5F9AC998C8C1383340F7800A43A6A903F061791B19AF6 F6DBB9D5
 shell.					      86400 IN NSEC	shia. NS DS RRSIG NSEC
-shia.					      172800 IN	NS	a.ns.nic.shia.
-shia.					      172800 IN	NS	b.ns.nic.shia.
-shia.					      172800 IN	NS	ns1.anycastdns.cz.
-shia.					      172800 IN	NS	ns2.anycastdns.cz.
+shia.					      172800 IN	NS	dns1.emdns.uk.
+shia.					      172800 IN	NS	dns2.emdns.uk.
+shia.					      172800 IN	NS	dns3.emdns.uk.
+shia.					      172800 IN	NS	dns4.emdns.uk.
+shia.					      172800 IN	NS	dnsa.emdns.uk.
+shia.					      172800 IN	NS	dnsb.emdns.uk.
+shia.					      172800 IN	NS	dnsc.emdns.uk.
+shia.					      172800 IN	NS	dnsd.emdns.uk.
 shia.					      86400 IN DS	29999 8 2 4335C4460B7DBBBF0CE080C4D91E89A972ABB52D0DE7D242AC52A3C2 1D7D505D
 shia.					      86400 IN DS	52972 8 2 0E769D37171FBF3C34BA8E53E42B91907541A7438D9EFD4B249F702C 97D2CE70
 shia.					      86400 IN DS	60644 8 2 DD38466778B19A58A550B69E4C5B0ACEFC7AAB903B766A805DEAB97F 282C913E
 shia.					      86400 IN NSEC	shiksha. NS DS RRSIG NSEC
-a.ns.nic.shia.				      172800 IN	A	72.0.49.7
-a.ns.nic.shia.				      172800 IN	AAAA	2620:171:a01:ad::7
-b.ns.nic.shia.				      172800 IN	A	72.42.113.7
-b.ns.nic.shia.				      172800 IN	AAAA	2620:171:d01:dc::7
 shiksha.				      172800 IN	NS	a0.nic.shiksha.
 shiksha.				      172800 IN	NS	a2.nic.shiksha.
 shiksha.				      172800 IN	NS	b0.nic.shiksha.
@@ -17488,7 +17488,7 @@ su.					      172800 IN	NS	b.dns.ripn.net.
 su.					      172800 IN	NS	d.dns.ripn.net.
 su.					      172800 IN	NS	e.dns.ripn.net.
 su.					      172800 IN	NS	f.dns.ripn.net.
-su.					      86400 IN DS	2074 8 2 9982CACC6DE539A854C63D5657960120D4367845CC64BE2999013BC2 8463C9F2
+su.					      86400 IN DS	52180 8 2 6C71A8D6B0C8B8C40A853C38E247D53011D2B4662164F0E645B8274C E2CF7C5B
 su.					      86400 IN NSEC	sucks. NS DS RRSIG NSEC
 sucks.					      172800 IN	NS	a.nic.sucks.
 sucks.					      172800 IN	NS	b.nic.sucks.
@@ -17909,18 +17909,18 @@ root7.zone.tc.				      172800 IN	A	119.9.93.69
 root7.zone.tc.				      172800 IN	AAAA	2401:1800:7800:102:ab3b:e6a7:859f:a6c7
 root8.zone.tc.				      172800 IN	A	162.13.87.182
 root8.zone.tc.				      172800 IN	AAAA	2a00:1a48:7806:115:d994:9fe:9eb2:e68d
-tci.					      172800 IN	NS	a.ns.nic.tci.
-tci.					      172800 IN	NS	b.ns.nic.tci.
-tci.					      172800 IN	NS	ns1.anycastdns.cz.
-tci.					      172800 IN	NS	ns2.anycastdns.cz.
+tci.					      172800 IN	NS	dns1.emdns.uk.
+tci.					      172800 IN	NS	dns2.emdns.uk.
+tci.					      172800 IN	NS	dns3.emdns.uk.
+tci.					      172800 IN	NS	dns4.emdns.uk.
+tci.					      172800 IN	NS	dnsa.emdns.uk.
+tci.					      172800 IN	NS	dnsb.emdns.uk.
+tci.					      172800 IN	NS	dnsc.emdns.uk.
+tci.					      172800 IN	NS	dnsd.emdns.uk.
 tci.					      86400 IN DS	12317 8 2 1D37F5016C69D56F3A3732434A0471FFF1FFFD580E4A7CE26816BC52 5095DE83
 tci.					      86400 IN DS	51364 8 2 8528CE5B798DFC0C1E84294ADDEBC0E2CB0F4F5BBB9E0C9AC735ECAF 41013BF7
 tci.					      86400 IN DS	52844 8 2 8C7871967D2F0D9C396AF5F498EDCCBB2BB4F9B29031AEAF3D103343 C45C2EA7
 tci.					      86400 IN NSEC	td. NS DS RRSIG NSEC
-a.ns.nic.tci.				      172800 IN	A	72.0.49.8
-a.ns.nic.tci.				      172800 IN	AAAA	2620:171:a01:ad::8
-b.ns.nic.tci.				      172800 IN	A	72.42.113.8
-b.ns.nic.tci.				      172800 IN	AAAA	2620:171:d01:dc::8
 td.					      172800 IN	NS	pch.nic.td.
 td.					      172800 IN	NS	ns-td.afrinic.net.
 td.					      172800 IN	NS	anycastdns1.nic.td.
@@ -21382,18 +21382,18 @@ z.nic.xn--mgbi4ecexp.			      172800 IN	AAAA	2610:a1:1076::1:82
 xn--mgbpl2fh.				      172800 IN	NS	pch.sis.sd.
 xn--mgbpl2fh.				      172800 IN	NS	ans1.sis.sd.
 xn--mgbpl2fh.				      86400 IN NSEC	xn--mgbt3dhd. NS RRSIG NSEC
-xn--mgbt3dhd.				      172800 IN	NS	a.ns.nic.xn--mgbt3dhd.
-xn--mgbt3dhd.				      172800 IN	NS	b.ns.nic.xn--mgbt3dhd.
-xn--mgbt3dhd.				      172800 IN	NS	ns1.anycastdns.cz.
-xn--mgbt3dhd.				      172800 IN	NS	ns2.anycastdns.cz.
+xn--mgbt3dhd.				      172800 IN	NS	dns1.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dns2.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dns3.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dns4.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dnsa.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dnsb.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dnsc.emdns.uk.
+xn--mgbt3dhd.				      172800 IN	NS	dnsd.emdns.uk.
 xn--mgbt3dhd.				      86400 IN DS	11567 8 2 7C846E4D86211C362CECBCC868123AEE04F14232306937417F4E8B15 148D0C43
 xn--mgbt3dhd.				      86400 IN DS	38630 8 2 6BCB581D386795131792F97E7E96F22F60A2451C023C65A148522A36 256A6097
 xn--mgbt3dhd.				      86400 IN DS	62006 8 2 AB5034009BAABB6B126126BEB35C57815683CE80935135F3A6F116DD C6DC0ABC
 xn--mgbt3dhd.				      86400 IN NSEC	xn--mgbtx2b. NS DS RRSIG NSEC
-a.ns.nic.xn--mgbt3dhd.			      172800 IN	A	72.0.49.9
-a.ns.nic.xn--mgbt3dhd.			      172800 IN	AAAA	2620:171:a01:ad::9
-b.ns.nic.xn--mgbt3dhd.			      172800 IN	A	72.42.113.9
-b.ns.nic.xn--mgbt3dhd.			      172800 IN	AAAA	2620:171:d01:dc::9
 xn--mgbtx2b.				      172800 IN	NS	ns.cmc.iq.
 xn--mgbtx2b.				      172800 IN	NS	ns01.trs-dns.com.
 xn--mgbtx2b.				      172800 IN	NS	ns01.trs-dns.net.
