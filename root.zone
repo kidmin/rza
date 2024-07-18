@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024071800 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240731050000 20240718040000 20038 . JeHH2DzIUYIFL2AB/mBpOCOIOXsQpA6f/u6dNrL4AtrvaXCmaojtDUVF E03cYHDSoowbyAk0U0mxP3fRVDnGPfeOJtVhrIxYX8yQXCnNXegXgJa0 Qkphq1CQW1yFZfGVHDfTGPIPindqFQF0k1wwE66SXQMAcZkGGmnwdOBZ tiYjYAoGj/Yc82/iCONUCIqAO/I3uYAGKhDVFrBk716IuhhVA1grhLWN QT64ZwM1iK5iaDaaicqvtclmBRNzcH51oC7wepOqUOurTKS55An5rJrc 4AeoIGVde2Rw0WNQ6ZyAS15IiiJZXqQ4lerYyza6rzMQkuZolklRsvTq AWU2QQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024071801 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240731170000 20240718160000 20038 . dea4uzPcLe3I1meiINkk7hcg1uoMewp32Azf5JVrie5QdT3ppEEZ71i3 O65IppMgDGGOzAT2+9qagwVDDTOOhlmEKSDgnt6RknvovJB85eYReOvq uKf1gE77Ssvbp+rMcdkgI9KbuIvsQ4EzEFw0+7qHuxQCB4zq1N4Hz0A3 T0UsLw/uzW/UT1HBGOsRRxgGjPmOA82eiC2fsRhB2dUZ40UehBThKYyH vZrLCRyz7FA1jKLcgg7zQEg+/q1aRdZKUwvd7Y54Hm0SKsQPFgjsNAig 5lGW4QIZmbbV64F1GjUo0P8mfZErLU8ui/mbKQHMmpFh6eiv8n0o0ZxD cAz4KA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240801000000 20240711000000 20326 . Y5hQWB90MU1Rvzcd8YLhAHe7SCZkpW0osHHdFVcFPz7J+TEWCehlXFK9 xerSYhfY3HTdfLMyJgmTsRgxWyjv748jxyn6zlOwCADaK9K6qwyA6qye e3b3TMWUn+iyc1bsUe/OYFw7hWgX2qNI4WC2BRTNNen+Lvi/CYGacKwU yau3G8iP0r1Fe2lmJeuQant9/PMie2k90/X5CBPj2jF0jfufYQBCueVk 5zBhqgH+LQ5LIDk4X4mAuhjMADHzvU8c2EboMMuEQAQuhZ3y9cXcKIFf MPtEOxc5vVTh3afge9SZ6B3DYHq/THh7XxYeXZ0p09hFx9Ji23OuulsD rwLHIA==
-.					      86400 IN ZONEMD	2024071800 1 1 F6E1038EB218BA0C9499A1F623D10FA95AF559EDFB44438086EF67A3 69F193DCB007328EFE9F916EAD2D8DA58E35D1A2
+.					      86400 IN ZONEMD	2024071801 1 1 6088DCD3F81E7F0B89A74BF4280F3E29FA7331A8D273E9315D3D9319 E0164AFD0D1FC01FBC51C714E9335215703CA9A6
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -99,13 +99,27 @@ dnsc.nic.abbvie.			      172800 IN	A	156.154.102.3
 dnsc.nic.abbvie.			      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.abbvie.			      172800 IN	A	156.154.103.3
 dnsd.nic.abbvie.			      172800 IN	AAAA	2610:a1:1010::3
-abc.					      172800 IN	NS	ac1.nstld.com.
-abc.					      172800 IN	NS	ac2.nstld.com.
-abc.					      172800 IN	NS	ac3.nstld.com.
-abc.					      172800 IN	NS	ac4.nstld.com.
+abc.					      172800 IN	NS	v0n0.nic.abc.
+abc.					      172800 IN	NS	v0n1.nic.abc.
+abc.					      172800 IN	NS	v0n2.nic.abc.
+abc.					      172800 IN	NS	v0n3.nic.abc.
+abc.					      172800 IN	NS	v2n0.nic.abc.
+abc.					      172800 IN	NS	v2n1.nic.abc.
 abc.					      86400 IN DS	39900 8 2 7ABC5A1F64FBBFAD550CFE06953AA56A030BE7212A77A60813FF633D E705DEC8
 abc.					      86400 IN DS	43549 8 2 7A1D01C238B756BAA6E99C5ADD35FB9FC23BF4EDADDB98CC42AB0A39 F45F8F1B
 abc.					      86400 IN NSEC	able. NS DS RRSIG NSEC
+v0n0.nic.abc.				      172800 IN	A	65.22.104.28
+v0n0.nic.abc.				      172800 IN	AAAA	2a01:8840:66::28
+v0n1.nic.abc.				      172800 IN	A	65.22.105.28
+v0n1.nic.abc.				      172800 IN	AAAA	2a01:8840:67::28
+v0n2.nic.abc.				      172800 IN	A	65.22.106.28
+v0n2.nic.abc.				      172800 IN	AAAA	2a01:8840:68::28
+v0n3.nic.abc.				      172800 IN	A	161.232.30.28
+v0n3.nic.abc.				      172800 IN	AAAA	2a01:8840:106::28
+v2n0.nic.abc.				      172800 IN	A	65.22.107.28
+v2n0.nic.abc.				      172800 IN	AAAA	2a01:8840:69::28
+v2n1.nic.abc.				      172800 IN	A	161.232.31.28
+v2n1.nic.abc.				      172800 IN	AAAA	2a01:8840:107::28
 able.					      172800 IN	NS	a.nic.able.
 able.					      172800 IN	NS	b.nic.able.
 able.					      172800 IN	NS	c.nic.able.
@@ -18481,6 +18495,7 @@ toshiba.				      86400 IN NSEC	total. NS DS RRSIG NSEC
 total.					      172800 IN	NS	d.nic.fr.
 total.					      172800 IN	NS	f.ext.nic.fr.
 total.					      172800 IN	NS	g.ext.nic.fr.
+total.					      86400 IN DS	2568 13 2 9AC9895253012C60A05E701FE237F2C356BA4A446F5F1669557FC11C 7E029549
 total.					      86400 IN DS	60785 13 2 EB38C07816FDF6CF8277071F558AC0C7C787088263271B55EEE4E599 81414D93
 total.					      86400 IN NSEC	tours. NS DS RRSIG NSEC
 tours.					      172800 IN	NS	v0n0.nic.tours.
@@ -20477,6 +20492,7 @@ xn--55qw42g.				      172800 IN	NS	ns2.conac.cn.
 xn--55qw42g.				      172800 IN	NS	ns3.conac.cn.
 xn--55qw42g.				      172800 IN	NS	ns4.conac.cn.
 xn--55qw42g.				      172800 IN	NS	ns5.conac.cn.
+xn--55qw42g.				      86400 IN DS	21055 8 2 0D6F3AA00BB63F959E87931FEA3F5D6E18A7C0F9F1408BFDF34113D8 8B191D37
 xn--55qw42g.				      86400 IN DS	48226 8 2 A16754C480E58C0D17126B3BAF93F32BAC39A916CF9D1F6F3A1F5C33 687BE80F
 xn--55qw42g.				      86400 IN NSEC	xn--55qx5d. NS DS RRSIG NSEC
 xn--55qx5d.				      172800 IN	NS	a.ngtld.cn.
@@ -21351,7 +21367,7 @@ xn--mgberp4a5d4ar.			      172800 IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	s1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	sh1.dns.sa.
-xn--mgberp4a5d4ar.			      86400 IN DS	10444 8 2 ADE9D322EACE5B4843BEC6973FCCC5862BF52238076C973ADBD7F166 543EB298
+xn--mgberp4a5d4ar.			      86400 IN DS	51067 8 2 71A90D5298B157332CF6DC7BC2105982054A8D5F5C74C67DEBBBEE3A FBE114D3
 xn--mgberp4a5d4ar.			      86400 IN NSEC	xn--mgbgu82a. NS DS RRSIG NSEC
 xn--mgbgu82a.				      172800 IN	NS	ns1.registry.in.
 xn--mgbgu82a.				      172800 IN	NS	ns2.registry.in.
@@ -21852,6 +21868,7 @@ xn--zfr164b.				      172800 IN	NS	ns2.conac.cn.
 xn--zfr164b.				      172800 IN	NS	ns3.conac.cn.
 xn--zfr164b.				      172800 IN	NS	ns4.conac.cn.
 xn--zfr164b.				      172800 IN	NS	ns5.conac.cn.
+xn--zfr164b.				      86400 IN DS	8245 8 2 EE6F394BD32D4BB28D43D2F2172121C90941E133D5B5BDBDCB72F867 65BB95EB
 xn--zfr164b.				      86400 IN DS	51421 8 2 9D673623E84D7E10B2AA5B376A3F617665F8B38EF442E8A7E86F0F18 161C7801
 xn--zfr164b.				      86400 IN NSEC	xxx. NS DS RRSIG NSEC
 xxx.					      172800 IN	NS	a.nic.xxx.
