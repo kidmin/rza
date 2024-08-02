@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024080201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240815170000 20240802160000 20038 . UgMYwMVzyF3SvcpAUV1Rg1vFp1UdwD7SZ0OMwYvZUaCGq0U7OyJRIybr PReg4Ayvbfo+KRF4iZV1P+aU9TwN6yVm7C9Q76juK7iqzDUazn/iwUEp QGRzRsKZZ8WoAvKYpuBPtqrQl1cxDFj1Ex8Si3BgazpnVVKnOsc2p7F+ IB7zC17KTiyXKb7IFAgV1pWwiP5ATz78b9QirafK/Pj8p4IBSATRUAEs xYfk8njO+qP/pP4bKtkMl7+2dKSFb8dAL1lk2/OWCV+IHAn1bTELNLyj rLN+pm84ttmhg6CSxUEl+rs6krW8FCt+LYPeaJRR4lgCTK4UVVFpnlSQ k8DQZg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024080202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240815210000 20240802200000 20038 . Acdv/9QeS5DUEBJ6/MCIhFaCVdg/3YZhW5c39Y6/R33IxQ27BCbBXLYX tS8zNoCQjSFmrAAlkTiPdMUHbMGMqxUDyV5shP+KEH7fDkjfok4rWWhn FnyfHzWwc1Hvdqy9uR9yd0Dk8yPdQTxsOCeAm8wRw9lU4azuPld22T0P glQv1rEkBTs7UdA4kCqMpmUYXIHOwOeTPRlbcjDFhQ5A712xgxRzSZbz W60eT4ICnM/n4Nn1mjrIcaa/CJEa/6WLuDp6YkZIySFhWM1bgSKs0oIb 1TMI+eimIm5d5ZAer6eQWl3FNgijiVxFzDe+73NY7vnmJblh7FUDc0tx pywHKQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240821000000 20240731000000 20326 . nHDuf7nmTPAArgH6GxJh+0CAcNGGE1HHuhyChRZ+eWA27Bz4nYrOaUTp MfMP0jfj0m55OqzO9duKE1lz3SubXXUa0pINMRv5GOngAsL9YVJ7UgK+ aCnDycWszawA5zuhgaZC7Z0QT/cqKkGr0nA34BrGeFQFhASD+T9ZzD4x sZXvFHiXDAvYRacPf+ITTB5FhATEFgWLjgAMXrOTkDl8x5x/b4qaVkQR g2AUVnjW/Sgsln4depa02M9qdKNYhb1JmcvfYTI1sx5ILRvnxL2t6Diu FIbzXW4iGx6oXM2tYZPFdRJv+V/ujR4nfiAxSNJ0YiaoDlnR72B6oZCA oHfmJA==
-.					      86400 IN ZONEMD	2024080201 1 1 4E007B3EA6B2D520181AE28374D17812EA8B039534B91DCA458CCBCA 22DA65C46013F57D7482B4E5C5A63A5C6A55F27C
+.					      86400 IN ZONEMD	2024080202 1 1 D0328BBD7EB3BA13A9F4CCE76A2CF1894DE638D6A330C52F8E6CE931 1F593C8E521C2A78D39F47D5C1A44EAE1CCDDBB5
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -18598,24 +18598,24 @@ v2n0.nic.toys.				      172800 IN	A	65.22.23.23
 v2n0.nic.toys.				      172800 IN	AAAA	2a01:8840:19::23
 v2n1.nic.toys.				      172800 IN	A	161.232.11.23
 v2n1.nic.toys.				      172800 IN	AAAA	2a01:8840:f5::23
-tr.					      172800 IN	NS	ns41.nic.tr.
-tr.					      172800 IN	NS	ns42.nic.tr.
-tr.					      172800 IN	NS	ns61.nic.tr.
-tr.					      172800 IN	NS	ns71.nic.tr.
-tr.					      172800 IN	NS	ns72.nic.tr.
-tr.					      172800 IN	NS	ns73.nic.tr.
-tr.					      172800 IN	NS	ns74.nic.tr.
+tr.					      172800 IN	NS	ns41.ns.tr.
+tr.					      172800 IN	NS	ns42.ns.tr.
+tr.					      172800 IN	NS	ns61.ns.tr.
+tr.					      172800 IN	NS	ns71.ns.tr.
+tr.					      172800 IN	NS	ns72.ns.tr.
+tr.					      172800 IN	NS	ns73.ns.tr.
+tr.					      172800 IN	NS	ns74.ns.tr.
 tr.					      86400 IN DS	52321 13 2 31FCA215AA6690C3D1C265D141CC879576D16F8F06DBFB99D38893E8 F9E33D23
 tr.					      86400 IN NSEC	trade. NS DS RRSIG NSEC
-ns41.nic.tr.				      172800 IN	A	185.7.0.2
-ns42.nic.tr.				      172800 IN	A	185.7.0.3
-ns61.nic.tr.				      172800 IN	A	206.51.254.1
-ns61.nic.tr.				      172800 IN	AAAA	2620:171:804:ad2::1
-ns71.nic.tr.				      172800 IN	A	185.67.32.53
-ns72.nic.tr.				      172800 IN	A	40.68.114.66
-ns72.nic.tr.				      172800 IN	AAAA	2603:1020:201:10::111
-ns73.nic.tr.				      172800 IN	A	31.145.253.159
-ns74.nic.tr.				      172800 IN	A	31.145.253.160
+ns41.ns.tr.				      172800 IN	A	185.7.0.2
+ns42.ns.tr.				      172800 IN	A	185.7.0.3
+ns61.ns.tr.				      172800 IN	A	206.51.254.1
+ns61.ns.tr.				      172800 IN	AAAA	2620:171:804:ad2::1
+ns71.ns.tr.				      172800 IN	A	185.67.32.53
+ns72.ns.tr.				      172800 IN	A	40.68.114.66
+ns72.ns.tr.				      172800 IN	AAAA	2603:1020:201:10::111
+ns73.ns.tr.				      172800 IN	A	31.145.253.159
+ns74.ns.tr.				      172800 IN	A	31.145.253.160
 trade.					      172800 IN	NS	a.nic.trade.
 trade.					      172800 IN	NS	b.nic.trade.
 trade.					      172800 IN	NS	c.nic.trade.
