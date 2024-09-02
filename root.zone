@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024090200 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240915050000 20240902040000 20038 . lN0TqxK+0VcKHDWToEWbz1VUgj5iV057keZcYrGWVXepyagXN9+FrHta /U7f41svv7WfLsRWiwi9DsDnAPODNCp/vio4wcEjvP8cUPwlHWer/lFV PsOmRyqWT6saKc0xgeq3+dB0BK+59RK63i5sGbGtC5FhL5wVlqPwE3Kt 0/loa1qL/IBoD4uWHkzAIZ5pAYv+mfmyI5SRAXiPbEQz+iBs3GJ1loaV MJ10bvhU/83Y+yV9bLqWw5TO6TabvxrHV7VSC5U+zVYesuPG8IcfONFZ ukaN8b1dVjL95Uf7VmiwLzd/seuN86IqyGfOKsOYWoJ16s6TpGk5IAmV QV5eWQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024090201 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240915170000 20240902160000 20038 . pKO13oc4fp19z3BozG9PGKJRMyYuV0kyebO1LdlMpw2sj/uOf+tig7JJ CZc6E77TAgSvNAwcz7VO9b5rKUcyhdZ+UUxqssPSd2A5+0a8ltwP3l1j IRaxqwHGz4IVtTLYucc1oWdBgAAcJ0WXViphMBH3ysqz3zsgOjGW4cZH YPeAnnaQiR4fRfpga55TGFk/jRfPAGutBKALArXnDlYHiIM5PukfIBeq 3AD08txWHBJxjR9b03YxpE3RhwoM/sQUZYQtbf2Qtt6nsL7FEqi3wiKN g3Cja34sp+3rYtsoeRirvqzUgLjxn3ca3ItCWMEZWheCHCoPETRQlD3J UKaf2g==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240920000000 20240830000000 20326 . EaIMPt/CkTr3713no0YhuwCSwpn4+CcpVh3w2tezZ9iAft6ynifFTyWe jvJX+61X5XHmvjSbgzGNuPdnveIq2GIeK669S9+NHw0IKUS+KYc14tTg g3I6yVFCuzH89QWigyT7aQdUvxwVAujGflfE0sF2qgiQWlbg+t+iVwiT TGK10rjgHIA/S6BWA0ihoUUI/eCniojGTUx+sWvqwx4BHSjJT3NsTkfs O44+d9RiDPB277BwHcj11jq3KD44xz2KR24z6dlHJSykYrP7zuLGkeSN wo6/IflA9g7kRZnLYL2ynwrCiz3Swb+EA+gYkN+FIvX0Ud+JGGstmnp8 1p+F2g==
-.					      86400 IN ZONEMD	2024090200 1 1 F52D845E64BEE0502C22E267210194E6C3EE6045EC93F52618BBF53D A7F6FAC87372C7AC352B7A3E435CD6B99F52B631
+.					      86400 IN ZONEMD	2024090201 1 1 36640D8ADAC8ACE413543380E4B6A54D7708DA17AD337624ECE0C289 F227E98745C4239FB9DA7A0CF0D7D736C6F77FCD
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -15864,9 +15864,9 @@ sa.					      172800 IN	NS	m1.dns.sa.
 sa.					      172800 IN	NS	m2.dns.sa.
 sa.					      172800 IN	NS	n1.dns.sa.
 sa.					      172800 IN	NS	p1.dns.sa.
+sa.					      172800 IN	NS	s1.dns.sa.
 sa.					      172800 IN	NS	s2.dns.sa.
 sa.					      172800 IN	NS	sh1.dns.sa.
-sa.					      172800 IN	NS	s1.dns.sa.
 sa.					      86400 IN DS	62932 8 2 2E80B1231D370F4933A26F19487946EACA1DB9D41A53831C2A9E7336 8BBBAAB5
 sa.					      86400 IN NSEC	saarland. NS DS RRSIG NSEC
 c1.dns.sa.				      172800 IN	A	86.111.192.9
@@ -16954,8 +16954,8 @@ skype.					      172800 IN	NS	c.nic.skype.
 skype.					      172800 IN	NS	ns1.dns.nic.skype.
 skype.					      172800 IN	NS	ns2.dns.nic.skype.
 skype.					      172800 IN	NS	ns3.dns.nic.skype.
-skype.					      86400 IN DS	56554 8 2 FFA94DC331D59FBE4B7B2E51871B8CEEEC8CE9BAA00EFB2A9553F09F 84804E6A
 skype.					      86400 IN DS	25544 8 2 2AAA5A12F194B174E8545DC683E987AE649CE73C0F8F979B9BAEE765 C90AE78B
+skype.					      86400 IN DS	56554 8 2 FFA94DC331D59FBE4B7B2E51871B8CEEEC8CE9BAA00EFB2A9553F09F 84804E6A
 skype.					      86400 IN NSEC	sl. NS DS RRSIG NSEC
 a.nic.skype.				      172800 IN	A	37.209.192.9
 a.nic.skype.				      172800 IN	AAAA	2001:dcd:1::9
@@ -19106,11 +19106,11 @@ c0.nic.ups.				      172800 IN	AAAA	2a01:8840:ec::1
 us.					      172800 IN	NS	b.cctld.us.
 us.					      172800 IN	NS	f.cctld.us.
 us.					      172800 IN	NS	k.cctld.us.
+us.					      172800 IN	NS	m.cctld.us.
+us.					      172800 IN	NS	n.cctld.us.
 us.					      172800 IN	NS	w.cctld.us.
 us.					      172800 IN	NS	x.cctld.us.
 us.					      172800 IN	NS	y.cctld.us.
-us.					      172800 IN	NS	m.cctld.us.
-us.					      172800 IN	NS	n.cctld.us.
 us.					      86400 IN DS	59017 8 2 7DAF469D42B5D8E5537FD4DD4B6057710E9A61F72C32EB7FB6526F52 277EC2B0
 us.					      86400 IN NSEC	uy. NS DS RRSIG NSEC
 ns5.asnic.us.				      172800 IN	A	194.146.106.86
@@ -21410,9 +21410,9 @@ xn--mgberp4a5d4ar.			      172800 IN	NS	m1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	m2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	p1.dns.sa.
+xn--mgberp4a5d4ar.			      172800 IN	NS	s1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	sh1.dns.sa.
-xn--mgberp4a5d4ar.			      172800 IN	NS	s1.dns.sa.
 xn--mgberp4a5d4ar.			      86400 IN DS	51067 8 2 71A90D5298B157332CF6DC7BC2105982054A8D5F5C74C67DEBBBEE3A FBE114D3
 xn--mgberp4a5d4ar.			      86400 IN NSEC	xn--mgbgu82a. NS DS RRSIG NSEC
 xn--mgbgu82a.				      172800 IN	NS	ns1.registry.in.
