@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024090901 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240922170000 20240909160000 20038 . REzN2IMfgjFgy1evUfXAY380Y9Qfmf7XymK/51AKR6KS+5MBHycgJGF+ vaFQbw19a/V/p8TFePSw72/xBBEWyM93XbeFSGCI+b3IlHzyjNWeXEfd za7Rh6pGf8Yh8SzEiYVyo2EPXRqEgYQaT5wn3uTio9pa2rpycwev71cK E+d7zX2PbH+HjSu+x7UWejCcut2TgKrfLH1W/RUv4FuG51uYkQNfZBWo H9mMbG1S0j7u8mfn5GXjC2KeGgRGheK6cw7b2wXV2GAKvhjxT9INAuaJ hnYno41ZHuVKW3JaVX4DEk8bCKsQd6wiaZtD0SeX3SytnhPB8VwT4fLm LiI+gA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024090902 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240922200000 20240909190000 20038 . R04gU0FjlTE44TQ/tuf8ci9HfanVytymPJARRImf6sC58nU4ABmgAXB1 zYRX+xQ+6bu/cMO5mAgkSNIF0Wzt1lJR3Lyna9SNu2oMwTsQjSaOPto3 TO1X8+SQEDc+Z9HvLejJ/v1LfZLE8kkec+N8WxuDVVw6NgqlFrI8FXNG mRoFSZFbLzQrsZloljZFQP2SkYE4/TAhzCJuibEP4tIUtMN6YU1rh+pj 9Mn5OSEhhwwBAXqV4GwkuWueYNkXLsVWkQd6bv0aZ7jrxvX5IqTnDgkP RF04lWfkGQJQvB6+3GOFx28D7JpE6vqrJ9ZDc5+kDl+6rAN12n0u6R1S oaP/wg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240930000000 20240909000000 20326 . jZIAHsafL2dClPOKpy90cvgU37CJ/WHCgOp/ipODonJbD9u4v2yxuig6 BrvpSMmTRXh5DpsqEEY7DvgUAaHvIW1LbUK/NShsACs4oyZ9U4E7czeE 8O8U4dwBzdeKDLohT3PqYICEZBLlQID+PXx338yIW60KtlcTwvVMwb59 xw4iv+crJ1oRJrzPbjgY4iP4XEuAtja0c3g382twsEogre5R1X+TRlny 4FwQgkLbLLQEAwkEwsC2/0o/hTFes3AOrxx3BmpOcZYTHXJ17M+rGoJ8 ztcYus8l/G5bWLSc4ghbrOoAXwvs6ZNXoWmp6LfuEOiw/NDtmXe9i3Bh YYgvAg==
-.					      86400 IN ZONEMD	2024090901 1 1 519622D652F405F6BB3946C0E2B0796CBDF8189023003776A5181E52 6368AB6216E43BB2BD30B17179FC8EFE87A22B90
+.					      86400 IN ZONEMD	2024090902 1 1 A5DEA00DFC104CB4061FAB010F14E229E4CA53185AC2AF7C7DAAC74C 0ADE32D7F67410252148B387092FE65741E860A8
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -7082,7 +7082,6 @@ ns2.dns.nic.fox.			      172800 IN	AAAA	2610:a1:1072::3f
 ns3.dns.nic.fox.			      172800 IN	A	156.154.159.63
 ns3.dns.nic.fox.			      172800 IN	AAAA	2610:a1:1073::3f
 fr.					      172800 IN	NS	d.nic.fr.
-fr.					      172800 IN	NS	e.ext.nic.fr.
 fr.					      172800 IN	NS	f.ext.nic.fr.
 fr.					      172800 IN	NS	g.ext.nic.fr.
 fr.					      86400 IN DS	29133 13 2 1303E8DA8FB60DB500D5BEA1EE5DC9A2BCC93DFE2FC43D346576658F ECCF5749
@@ -7091,8 +7090,6 @@ dns.inria.fr.				      172800 IN	A	193.51.208.13
 dns-tld.ird.fr.				      172800 IN	A	13.39.116.127
 d.nic.fr.				      172800 IN	A	194.0.9.1
 d.nic.fr.				      172800 IN	AAAA	2001:678:c::1
-e.ext.nic.fr.				      172800 IN	A	193.176.144.22
-e.ext.nic.fr.				      172800 IN	AAAA	2a00:d78:0:102:193:176:144:22
 f.ext.nic.fr.				      172800 IN	A	194.146.106.46
 f.ext.nic.fr.				      172800 IN	AAAA	2001:67c:1010:11::53
 g.ext.nic.fr.				      172800 IN	A	194.0.36.1
@@ -14587,7 +14584,6 @@ v2n0.nic.plus.				      172800 IN	AAAA	2a01:8840:25::39
 v2n1.nic.plus.				      172800 IN	A	161.232.17.39
 v2n1.nic.plus.				      172800 IN	AAAA	2a01:8840:fb::39
 pm.					      172800 IN	NS	d.nic.fr.
-pm.					      172800 IN	NS	e.ext.nic.fr.
 pm.					      172800 IN	NS	f.ext.nic.fr.
 pm.					      172800 IN	NS	g.ext.nic.fr.
 pm.					      86400 IN DS	6926 13 2 A6C8233FC45F53C788EE2ADFEEA7DAC7ABB8B7108C25E38B56A3FA68 48715F48
@@ -15137,7 +15133,6 @@ radio.					      172800 IN	NS	anycast24.irondns.net.
 radio.					      86400 IN DS	62727 10 2 3863E4A0C36A262785C1703B5CFF54CDBD56CD40BB414B45599848CE 972E26B9
 radio.					      86400 IN NSEC	re. NS DS RRSIG NSEC
 re.					      172800 IN	NS	d.nic.fr.
-re.					      172800 IN	NS	e.ext.nic.fr.
 re.					      172800 IN	NS	f.ext.nic.fr.
 re.					      172800 IN	NS	g.ext.nic.fr.
 re.					      86400 IN DS	61047 13 2 6A6546F44C8680C705612F9722A591DBBB88BF0D40E89E1CB45FAD18 EEE3D4EA
@@ -18130,7 +18125,6 @@ ns2.dns.nic.teva.			      172800 IN	AAAA	2610:a1:1072::a0
 ns3.dns.nic.teva.			      172800 IN	A	156.154.159.160
 ns3.dns.nic.teva.			      172800 IN	AAAA	2610:a1:1073::a0
 tf.					      172800 IN	NS	d.nic.fr.
-tf.					      172800 IN	NS	e.ext.nic.fr.
 tf.					      172800 IN	NS	f.ext.nic.fr.
 tf.					      172800 IN	NS	g.ext.nic.fr.
 tf.					      86400 IN DS	61832 13 2 9B5C9089B84D2138E6C30163D9B169E6E793236827CE2A0EEDAB7CB9 6C644D83
@@ -19986,7 +19980,6 @@ b0.nic.weir.				      172800 IN	AAAA	2a01:8840:6f::75
 c0.nic.weir.				      172800 IN	A	65.22.114.75
 c0.nic.weir.				      172800 IN	AAAA	2a01:8840:70::75
 wf.					      172800 IN	NS	d.nic.fr.
-wf.					      172800 IN	NS	e.ext.nic.fr.
 wf.					      172800 IN	NS	f.ext.nic.fr.
 wf.					      172800 IN	NS	g.ext.nic.fr.
 wf.					      86400 IN DS	19250 13 2 6FA97D147253C2AFB0CFCF18EDB8C97E592D05E0845B6C644C3793FE D8A756DD
@@ -22099,7 +22092,6 @@ youtube.				      172800 IN	NS	ns-tld5.charlestonroadregistry.com.
 youtube.				      86400 IN DS	63811 8 2 704005247382F846EAC39D9654488F071934FDF3E96C05BE32660095 93F60617
 youtube.				      86400 IN NSEC	yt. NS DS RRSIG NSEC
 yt.					      172800 IN	NS	d.nic.fr.
-yt.					      172800 IN	NS	e.ext.nic.fr.
 yt.					      172800 IN	NS	f.ext.nic.fr.
 yt.					      172800 IN	NS	g.ext.nic.fr.
 yt.					      86400 IN DS	2488 13 2 185AED42DC3641EA53EC74C474AEAF72F049556FE306DED0E748B60C 5FED1000
