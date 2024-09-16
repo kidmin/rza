@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024091601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240929170000 20240916160000 20038 . eClrKvRLPIz66xTqik08oddOo2ZCK8JBtRauqAlmigM5PtKWFT/KXHB0 7AK6uzdCxFAvLRF9HhiTmA6ox8Gpiw1aCrTAOK0q3pccHLri/K1LBX5a RrFoubfflTeeS1XkM2Zn6gJq96iPyr6jUQUsStvU8KqmtyLCzF9ObgjV P/7vQYdlb33uwc/FHI4QUm2lOhYbDO1jvWBm0UgaP9ut/6AitUAkdHG5 7PoBvpMwGmxFUwWnRgt7II+ey1K/eJ1qSneUIuvlpMMcoTlmf/r/57im ICEoyRIKvGooavjASXu91zJzj5yVuD0IesyaHcf48Vknm/BDbXbRFGTv E8qcEw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024091602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240929200000 20240916190000 20038 . kGYr/0DNDvopHk4/sQTA+Ybl4VD/JyPi7pw466/otvt2css69ZwdPbtr AsVfwb7nGU6Zak5jyjv5nmvj7zJONo7VBTTXKBrjc2N27/0YZWCFnDzx yVNAxQnleIAsiIehoXT+CNKAA6VeR3KDPm59dpVO5K/4eH2o8jDxZT2c lSJ2KNt12iUXUXB1kG8T3r6URajUxBtnl1w2o9Pu0HhYJiGgA3WCvgYX 7MDAOdqWFP7u5yl7XBRmEv+fQ3EA4OBiabCtWpjgYxDrybTB5GO5rNfA fZYDAQU8QEyuPJU7DumuMNQoMJOtMTv7lC8db6F/B/8pPklnsCuUQ2eG qyDQzg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240930000000 20240909000000 20326 . jZIAHsafL2dClPOKpy90cvgU37CJ/WHCgOp/ipODonJbD9u4v2yxuig6 BrvpSMmTRXh5DpsqEEY7DvgUAaHvIW1LbUK/NShsACs4oyZ9U4E7czeE 8O8U4dwBzdeKDLohT3PqYICEZBLlQID+PXx338yIW60KtlcTwvVMwb59 xw4iv+crJ1oRJrzPbjgY4iP4XEuAtja0c3g382twsEogre5R1X+TRlny 4FwQgkLbLLQEAwkEwsC2/0o/hTFes3AOrxx3BmpOcZYTHXJ17M+rGoJ8 ztcYus8l/G5bWLSc4ghbrOoAXwvs6ZNXoWmp6LfuEOiw/NDtmXe9i3Bh YYgvAg==
-.					      86400 IN ZONEMD	2024091601 1 1 DE99E49085DCCC8BE6CE43BFD31CB81EC5A3D4F07CF3BE682754BA8A 94468D2A82D50E6C70F871012D13BC32B16B1449
+.					      86400 IN ZONEMD	2024091602 1 1 FC0E5D7EFDCC58F0F1842AA02CF28AD0C47C59F930D4417B2CC87B08 602C6CE5AC5F2392828FAF11BB12F35BCE94ABF3
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -644,7 +644,6 @@ z.nic.ally.				      172800 IN	AAAA	2610:a1:1076::1:82
 alsace.					      172800 IN	NS	d.nic.fr.
 alsace.					      172800 IN	NS	f.ext.nic.fr.
 alsace.					      172800 IN	NS	g.ext.nic.fr.
-alsace.					      86400 IN DS	7047 13 2 40AC4EDA437F376B0A772AC6F570055A6AA58D635AC07946A778ABEB B8E5C024
 alsace.					      86400 IN DS	8797 13 2 9AF8C74E940ED2D43EDED6C22C4DDE7ACAA49F00F02BF85B8CD15B82 0E06821A
 alsace.					      86400 IN NSEC	alstom. NS DS RRSIG NSEC
 alstom.					      172800 IN	NS	anycast9.irondns.net.
@@ -14346,10 +14345,6 @@ v2n0.nic.pictures.			      172800 IN	A	65.22.23.16
 v2n0.nic.pictures.			      172800 IN	AAAA	2a01:8840:19::16
 v2n1.nic.pictures.			      172800 IN	A	161.232.11.16
 v2n1.nic.pictures.			      172800 IN	AAAA	2a01:8840:f5::16
-pid.					      172800 IN	NS	a.nic.pid.
-pid.					      172800 IN	NS	b.nic.pid.
-pid.					      172800 IN	NS	c.nic.pid.
-pid.					      172800 IN	NS	d.nic.pid.
 pid.					      172800 IN	NS	ns01.trs-dns.com.
 pid.					      172800 IN	NS	ns01.trs-dns.net.
 pid.					      172800 IN	NS	ns01.trs-dns.org.
@@ -14357,14 +14352,6 @@ pid.					      172800 IN	NS	ns01.trs-dns.info.
 pid.					      86400 IN DS	40310 8 2 2415BF6A21E16AA37DB85091772FD176CA35AC24CA8AB1C95B81DF13 F7FA0754
 pid.					      86400 IN DS	59747 8 2 787344F262181E467E0ADDE855B6015F6020A0136BA6EE835B1719E2 98879304
 pid.					      86400 IN NSEC	pin. NS DS RRSIG NSEC
-a.nic.pid.				      172800 IN	A	194.169.218.47
-a.nic.pid.				      172800 IN	AAAA	2001:67c:13cc::1:47
-b.nic.pid.				      172800 IN	A	185.24.64.47
-b.nic.pid.				      172800 IN	AAAA	2a04:2b00:13cc::1:47
-c.nic.pid.				      172800 IN	A	212.18.248.47
-c.nic.pid.				      172800 IN	AAAA	2a04:2b00:13ee::47
-d.nic.pid.				      172800 IN	A	212.18.249.47
-d.nic.pid.				      172800 IN	AAAA	2a04:2b00:13ff::47
 pin.					      172800 IN	NS	dns1.nic.pin.
 pin.					      172800 IN	NS	dns2.nic.pin.
 pin.					      172800 IN	NS	dns3.nic.pin.
