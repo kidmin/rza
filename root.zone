@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024091700 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20240930050000 20240917040000 20038 . hzajs3r7/LynAweS2ksgUXwefb3NO7rmY9cmQPPI/ldT1BXXTY4LELMX ZtpQMbv94DYnvXiPfI6mbfKV6yJOEz8HWhVEP291r+QiUb1mijFLKXUp MQvCHp1UzJXxM0chcc3Wn0V4mC+YxaJJ4sP3aATWXDRWloynJFP9aL92 1uPm7yNkXwifs3zKbvWGd2NtlqxZaMgd4Q5DmDJBpV4vMt6Utv1VVtbu IA5cLqCLxmGIGgmb2hvNFuxdD5vejQkz+pI/osQC9PAG3mSXdQmVF9pF 3NruWFNheGrm4WrulUKPinvmlGCm7hWQpcY5ffqJIR191mKUeoUzLCxz UgCLTg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024091701 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20240930140000 20240917130000 20038 . js/uiENDVMyS8peEAQUq7vzxjBEviu7ty9vPBz1XnSahUBpWTOn5BP0h dOp4gcuBgXpU1w0lVaH1mLNuDAKpe1umlfMhcxKp6D01a5D7hMxEPmAB Zid3M/pwL5AfrcXb3grAt7Gd0okxYbn5Z+LQrTnd02Lv4jEdeWlsTQGk ueqFZCQAT/piFmYQZx+KbRZCfqGw9NCKfJQ/22ypCBVOPNgjInXWNfth DjKnasg802pXoMkZrhEAfjnrSdXim8xLqTPXhXF5a54WLKeH0juKJS/q o8UBZtJ0lVnORxGkQmYaKxr9Metd+awrK72Xpqk+Tp2pIUnvlP28d4Ak 3ch+vw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20240930000000 20240909000000 20326 . jZIAHsafL2dClPOKpy90cvgU37CJ/WHCgOp/ipODonJbD9u4v2yxuig6 BrvpSMmTRXh5DpsqEEY7DvgUAaHvIW1LbUK/NShsACs4oyZ9U4E7czeE 8O8U4dwBzdeKDLohT3PqYICEZBLlQID+PXx338yIW60KtlcTwvVMwb59 xw4iv+crJ1oRJrzPbjgY4iP4XEuAtja0c3g382twsEogre5R1X+TRlny 4FwQgkLbLLQEAwkEwsC2/0o/hTFes3AOrxx3BmpOcZYTHXJ17M+rGoJ8 ztcYus8l/G5bWLSc4ghbrOoAXwvs6ZNXoWmp6LfuEOiw/NDtmXe9i3Bh YYgvAg==
-.					      86400 IN ZONEMD	2024091700 1 1 7AFB42FDB6D9C5E5F5D0F2BC17CC090AD28702A041FF71D2DD2263D9 2C692DFD0698D01FBA0D2E9EB143CBC97C61F0E3
+.					      86400 IN ZONEMD	2024091701 1 1 B85EF1FC1AFD9BAD8E7C8F72A4892F62EA4A89A07933BC4F17D4A1A8 1EDA38ABBFF1D22AD113ED6DAF7DFA26C57984CA
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -13557,27 +13557,17 @@ observer.				      172800 IN	NS	ns01.trs-dns.org.
 observer.				      172800 IN	NS	ns01.trs-dns.info.
 observer.				      86400 IN DS	15964 13 2 406B287804778738DCF0B6D94BF410455D500E7A3DCEAF8D34C5AFA8 6C91A6E1
 observer.				      86400 IN NSEC	office. NS DS RRSIG NSEC
-office.					      172800 IN	NS	a.nic.office.
-office.					      172800 IN	NS	b.nic.office.
-office.					      172800 IN	NS	c.nic.office.
-office.					      172800 IN	NS	ns1.dns.nic.office.
-office.					      172800 IN	NS	ns2.dns.nic.office.
-office.					      172800 IN	NS	ns3.dns.nic.office.
+office.					      172800 IN	NS	dns1.nic.microsoft.
+office.					      172800 IN	NS	dns2.nic.microsoft.
+office.					      172800 IN	NS	dns3.nic.microsoft.
+office.					      172800 IN	NS	dns4.nic.microsoft.
+office.					      172800 IN	NS	dnsa.nic.microsoft.
+office.					      172800 IN	NS	dnsb.nic.microsoft.
+office.					      172800 IN	NS	dnsc.nic.microsoft.
+office.					      172800 IN	NS	dnsd.nic.microsoft.
 office.					      86400 IN DS	9475 8 2 8193E9E63984C0EEBAC5E602C134CA712C7843002BCDDEF3C08A199A C9D4308D
 office.					      86400 IN DS	16229 8 2 274A1641DDCC58B8FA48DB227DD26A8785B201363BB99A9EDE5B5D26 93B15DEF
 office.					      86400 IN NSEC	okinawa. NS DS RRSIG NSEC
-a.nic.office.				      172800 IN	A	37.209.192.9
-a.nic.office.				      172800 IN	AAAA	2001:dcd:1::9
-b.nic.office.				      172800 IN	A	37.209.194.9
-b.nic.office.				      172800 IN	AAAA	2001:dcd:2::9
-c.nic.office.				      172800 IN	A	37.209.196.9
-c.nic.office.				      172800 IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.office.			      172800 IN	A	156.154.144.126
-ns1.dns.nic.office.			      172800 IN	AAAA	2610:a1:1071::7e
-ns2.dns.nic.office.			      172800 IN	A	156.154.145.126
-ns2.dns.nic.office.			      172800 IN	AAAA	2610:a1:1072::7e
-ns3.dns.nic.office.			      172800 IN	A	156.154.159.126
-ns3.dns.nic.office.			      172800 IN	AAAA	2610:a1:1073::7e
 okinawa.				      172800 IN	NS	a.gmoregistry.net.
 okinawa.				      172800 IN	NS	b.gmoregistry.net.
 okinawa.				      172800 IN	NS	k.gmoregistry.net.
@@ -16934,27 +16924,17 @@ dnsc.nic.sky.				      172800 IN	A	156.154.102.3
 dnsc.nic.sky.				      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.sky.				      172800 IN	A	156.154.103.3
 dnsd.nic.sky.				      172800 IN	AAAA	2610:a1:1010::3
-skype.					      172800 IN	NS	a.nic.skype.
-skype.					      172800 IN	NS	b.nic.skype.
-skype.					      172800 IN	NS	c.nic.skype.
-skype.					      172800 IN	NS	ns1.dns.nic.skype.
-skype.					      172800 IN	NS	ns2.dns.nic.skype.
-skype.					      172800 IN	NS	ns3.dns.nic.skype.
+skype.					      172800 IN	NS	dns1.nic.microsoft.
+skype.					      172800 IN	NS	dns2.nic.microsoft.
+skype.					      172800 IN	NS	dns3.nic.microsoft.
+skype.					      172800 IN	NS	dns4.nic.microsoft.
+skype.					      172800 IN	NS	dnsa.nic.microsoft.
+skype.					      172800 IN	NS	dnsb.nic.microsoft.
+skype.					      172800 IN	NS	dnsc.nic.microsoft.
+skype.					      172800 IN	NS	dnsd.nic.microsoft.
 skype.					      86400 IN DS	25544 8 2 2AAA5A12F194B174E8545DC683E987AE649CE73C0F8F979B9BAEE765 C90AE78B
 skype.					      86400 IN DS	56554 8 2 FFA94DC331D59FBE4B7B2E51871B8CEEEC8CE9BAA00EFB2A9553F09F 84804E6A
 skype.					      86400 IN NSEC	sl. NS DS RRSIG NSEC
-a.nic.skype.				      172800 IN	A	37.209.192.9
-a.nic.skype.				      172800 IN	AAAA	2001:dcd:1::9
-b.nic.skype.				      172800 IN	A	37.209.194.9
-b.nic.skype.				      172800 IN	AAAA	2001:dcd:2::9
-c.nic.skype.				      172800 IN	A	37.209.196.9
-c.nic.skype.				      172800 IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.skype.			      172800 IN	A	156.154.144.151
-ns1.dns.nic.skype.			      172800 IN	AAAA	2610:a1:1071::97
-ns2.dns.nic.skype.			      172800 IN	A	156.154.145.151
-ns2.dns.nic.skype.			      172800 IN	AAAA	2610:a1:1072::97
-ns3.dns.nic.skype.			      172800 IN	A	156.154.159.151
-ns3.dns.nic.skype.			      172800 IN	AAAA	2610:a1:1073::97
 sl.					      172800 IN	NS	ns1.neoip.com.
 sl.					      172800 IN	NS	ns2.neoip.com.
 sl.					      86400 IN NSEC	sling. NS RRSIG NSEC
