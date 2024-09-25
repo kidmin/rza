@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024092501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241008170000 20240925160000 20038 . Wbx2acl016IY4syF7pU8hXfBZUK6waCje4mdpbSIzu8CcZlJsR/k63d3 ye9YJM31MD20TIxGxcjWLAphkGfvqnP8hFjA+xG4ZrwreGSSrWmUnLR7 jXgsAHrAosoGPxNXZtRcrq3x8A+CMsB+RausUbhjY5YxBMPRd4v/KkEl dWBLL1BrhU2R8ETUWz7hlG/f2xoSXbZKNQX+Tok/Ch9kns+PDSIwVPu3 gZ1Z5ZJ8pHwHqVXjQ0SRotI8eAzdcnyKayLt6Bqzj+OskwKYHxM2v/TN w/3EyCGmhFMQ2gc9mQc0tufdEnAI6z9sCRzd0BHThWatw36vlbdmSW7X 6X+xAQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024092502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241008200000 20240925190000 20038 . r197zwVkMnpUEgjSb8Zm43LUKwJWAxM9TFfX4ZsD59oX8fJ+/QvR1E1J MUVdlOmGMMdm1OEaVcNVc+MrG6SvPiSDZ95Q65gvUe+s8GB1yy1YpDBq fBJjJoE47/vwszXbuNrE6P2kab7Urm4O1Ap6VGtk67q/6tAsoUmRmjQa muIVzm1bwzgpz/2MPkvGUJIb4oa1d9kJutIwJCx6EoNRk1Lt+zDhY/Dh PrLyHhLveq1TGMjDUuWCxs2E5VBzH0SxNajehpWN9M9E5lg+Gn6w1wf0 HxxzFuuuJeK8wHUVPUVk/ZRTo6iDQBkblt3KOP2gP0ov32hZH1ph2RNc rt68Tw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241010000000 20240919000000 20326 . a9nlgBllKW93EmoBhIbqkuXFLRElIUw51JFslF6VpL+5SROks4IkDYb1 MvushJUV1KRarnqzxtFjigN8oGRluO9Rvxo3/XpyGgsuepmQtFvlyr5b Vcd0rCZTASou5FuQQwVeSVj4o4Y42ylEZTO/FzbIwMM8+MsOtwEDzlZs 6wKCK2o77oFHdgOyVk3/eIJV73vTH5HIXlwEw8Z5YlwYUxdBtCKvx6Wt aj7wmp+rbFqick8iHCafKOeeocunUz8kZxCvoWeju3zGczKV/1plUSJr RPfxLGw3G1dtW+WMbFLH/lQGrCsVHEb8nrDy15ePvy6/6bSS6yzgG9xX SA2pPA==
-.					      86400 IN ZONEMD	2024092501 1 1 232B4C5875C17D7774E27D409D3AB77ECF4DC0115D82366CDEEF56D2 325BAE4C3AD030DA142D4A6FC25DE7D4EC8338ED
+.					      86400 IN ZONEMD	2024092502 1 1 4FFB50D4F6057C28BA03298B341581924D2F1C19B89E9B935CC6135F 3667112850D75D5EE9D873280135A5DEE6AB4E81
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4884,7 +4884,7 @@ cz.					      172800 IN	NS	b.ns.nic.cz.
 cz.					      172800 IN	NS	c.ns.nic.cz.
 cz.					      172800 IN	NS	d.ns.nic.cz.
 cz.					      86400 IN DS	20237 13 2 CFF0F3ECDBC529C1F0031BA1840BFB835853B9209ED1E508FFF48451 D7B778E2
-cz.					      86400 IN NSEC	dabur. NS DS RRSIG NSEC
+cz.					      86400 IN NSEC	dad. NS DS RRSIG NSEC
 gt.anycastdns.cz.			      172800 IN	A	185.28.194.194
 gt.anycastdns.cz.			      172800 IN	A	185.38.108.108
 gt.anycastdns.cz.			      172800 IN	AAAA	2a00:fea0:dead::beef
@@ -4915,20 +4915,6 @@ mw-e.ns.nic.cz.				      172800 IN	A	185.43.134.10
 mw-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::10
 tz-e.ns.nic.cz.				      172800 IN	A	185.43.134.11
 tz-e.ns.nic.cz.				      172800 IN	AAAA	2001:148f:fffd::11
-dabur.					      172800 IN	NS	a0.nic.dabur.
-dabur.					      172800 IN	NS	a2.nic.dabur.
-dabur.					      172800 IN	NS	b0.nic.dabur.
-dabur.					      172800 IN	NS	c0.nic.dabur.
-dabur.					      86400 IN DS	12355 8 2 BC18991E60B16ED8791D94EA935D83E9D40E2CBA9AC8B824A40191E5 F5F50AE4
-dabur.					      86400 IN NSEC	dad. NS DS RRSIG NSEC
-a0.nic.dabur.				      172800 IN	A	65.22.180.25
-a0.nic.dabur.				      172800 IN	AAAA	2a01:8840:ae::25
-a2.nic.dabur.				      172800 IN	A	65.22.183.25
-a2.nic.dabur.				      172800 IN	AAAA	2a01:8840:b1::25
-b0.nic.dabur.				      172800 IN	A	65.22.181.25
-b0.nic.dabur.				      172800 IN	AAAA	2a01:8840:af::25
-c0.nic.dabur.				      172800 IN	A	65.22.182.25
-c0.nic.dabur.				      172800 IN	AAAA	2a01:8840:b0::25
 dad.					      172800 IN	NS	ns-tld1.charlestonroadregistry.com.
 dad.					      172800 IN	NS	ns-tld2.charlestonroadregistry.com.
 dad.					      172800 IN	NS	ns-tld3.charlestonroadregistry.com.
