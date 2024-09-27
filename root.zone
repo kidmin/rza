@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024092701 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241010170000 20240927160000 20038 . ytRSbeRJC4qVa8BxTVtcGxJ9OwrYqDsC51cYEutheOoASFfL82xfeGk4 bmFUH5jhLsPysE9dM9+7tJgKp1tKdgnvzuAHagD9mSchA1wQIA/TI1Zw ee77PsJZkhA3yp5KBsRNsJEQIMUmGLQv9mU2m7yOpGBAheFkClxb+N7O yCDcAxJAVs+JNQ4XfMR5MPetBNLp/Qc1Ue2Q1NIiLr891ej8uf6W+DRZ DYQXRc/p6L68+lLT/zapD30wJ+gKtcLgD5PcP6w+vDMVImQ2aOpvKL1x hUbH9XmZ6XlqHxlMUsJqj4SOTya/8EeGdpbFZIAqdn7Ew4SF/fvV1YDy jze8sw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024092702 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241010200000 20240927190000 20038 . cwIKjT1eOaEHe+PjTmDiQ0S+ln0n93M+AfdReSnITGbbVu4SP8lmhrVq RSNhlPFRo9sevYZh7eLsYq/O3QnVy81C5vkIX8X4/hVlLT+6muB1FT8K qa8znb/sIOJ9PhLGFDq35em34EpBrjZOVqMrl4K44xtlxKMatgC310e6 tfc3IZBh+n5OObxyuOHsiF3USig5ik7KZu4TJS/9iYE09ewp2mLP4qiB XneiHRPObiw8DH4gKsfJGo65QQE0zRzAaC4hiBu4rj/KFfdn5ATpl0wt JLVVJWns+I7lAlxj72/+Q7Eyj+qzil8KnDIljX/J2qMly3hznjox+6Hq 2wjiGw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241010000000 20240919000000 20326 . a9nlgBllKW93EmoBhIbqkuXFLRElIUw51JFslF6VpL+5SROks4IkDYb1 MvushJUV1KRarnqzxtFjigN8oGRluO9Rvxo3/XpyGgsuepmQtFvlyr5b Vcd0rCZTASou5FuQQwVeSVj4o4Y42ylEZTO/FzbIwMM8+MsOtwEDzlZs 6wKCK2o77oFHdgOyVk3/eIJV73vTH5HIXlwEw8Z5YlwYUxdBtCKvx6Wt aj7wmp+rbFqick8iHCafKOeeocunUz8kZxCvoWeju3zGczKV/1plUSJr RPfxLGw3G1dtW+WMbFLH/lQGrCsVHEb8nrDy15ePvy6/6bSS6yzgG9xX SA2pPA==
-.					      86400 IN ZONEMD	2024092701 1 1 E81341723117523DD66946C5433B1E3CC0188080A4F9031613EA8B73 F3DA2AF2A96025C2581B77050090C79D4C859203
+.					      86400 IN ZONEMD	2024092702 1 1 27295A051280CD5328B2610D18D22E84549334E10F479C34834C5771 E9FD2D252EFEFDC98ADA7F9F58C8D4AB1176F908
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -12515,11 +12515,15 @@ mx.					      86400 IN NSEC	my. NS DS RRSIG NSEC
 c.mx-ns.mx.				      172800 IN	A	192.100.224.1
 c.mx-ns.mx.				      172800 IN	AAAA	2001:1258::1
 e.mx-ns.mx.				      172800 IN	A	189.201.244.1
+e.mx-ns.mx.				      172800 IN	AAAA	2801:c4:c0::1
 i.mx-ns.mx.				      172800 IN	A	207.248.68.1
+i.mx-ns.mx.				      172800 IN	AAAA	2801:c4:d0::1
 m.mx-ns.mx.				      172800 IN	A	200.94.176.1
 m.mx-ns.mx.				      172800 IN	AAAA	2001:13c7:7000::1
 o.mx-ns.mx.				      172800 IN	A	200.23.1.1
+o.mx-ns.mx.				      172800 IN	AAAA	2001:1201::1
 x.mx-ns.mx.				      172800 IN	A	201.131.252.1
+x.mx-ns.mx.				      172800 IN	AAAA	2001:1201:10::1
 my.					      172800 IN	NS	a.nic.my.
 my.					      172800 IN	NS	a.mynic.centralnic-dns.com.
 my.					      172800 IN	NS	b.mynic.centralnic-dns.com.
@@ -13630,6 +13634,7 @@ omega.					      172800 IN	NS	ac2.nstld.com.
 omega.					      172800 IN	NS	ac3.nstld.com.
 omega.					      172800 IN	NS	ac4.nstld.com.
 omega.					      86400 IN DS	4269 8 2 439D91ED221DE512CB04F3A7218DB1B019340B8D6228AB73DEAD0DF3 0AB5CF7B
+omega.					      86400 IN DS	49055 8 2 7FEB12A48D98DC3497171FA326DC92352F0C755D2CB7247950C3F42F E6F35871
 omega.					      86400 IN NSEC	one. NS DS RRSIG NSEC
 one.					      172800 IN	NS	a.nic.one.
 one.					      172800 IN	NS	b.nic.one.
@@ -16632,6 +16637,7 @@ shell.					      172800 IN	NS	ac2.nstld.com.
 shell.					      172800 IN	NS	ac3.nstld.com.
 shell.					      172800 IN	NS	ac4.nstld.com.
 shell.					      86400 IN DS	55158 8 2 BE8C4AB62CE5F9AC998C8C1383340F7800A43A6A903F061791B19AF6 F6DBB9D5
+shell.					      86400 IN DS	63424 8 2 8429208F879143266AA1EEC685057C5C099912031D27BD1E0BC61732 036B4D50
 shell.					      86400 IN NSEC	shia. NS DS RRSIG NSEC
 shia.					      172800 IN	NS	dns1.emdns.uk.
 shia.					      172800 IN	NS	dns2.emdns.uk.
@@ -17637,6 +17643,7 @@ swatch.					      172800 IN	NS	ac2.nstld.com.
 swatch.					      172800 IN	NS	ac3.nstld.com.
 swatch.					      172800 IN	NS	ac4.nstld.com.
 swatch.					      86400 IN DS	46125 8 2 F8F63257D53D748EAC6844C412A246DB125E330F646D32922FD947E9 F6A1FAC2
+swatch.					      86400 IN DS	63214 8 2 2CCA5B625235170EEA1B1151293B5EC127A83984BC6DD2AF8CCE71DD 93D2A495
 swatch.					      86400 IN NSEC	swiss. NS DS RRSIG NSEC
 swiss.					      172800 IN	NS	g.nic.swiss.
 swiss.					      172800 IN	NS	u.nic.swiss.
