@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024100801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241021170000 20241008160000 61050 . ZTEwrvbH1/hD32R5KswiJkR3modEMUKesyK9wH2t+nPk7Qs/r6KQIFGI QaPM+jZwFfTpzrxaRiKtKYz9v/uPM0ECP9ze+QDcTnTPmy2G3NUuSqBB Oegv39hcquGRsee4Og1XpQVsKH4tS0/8WFWllvQS8mPNEIVhMAwP1oIV 2iHch2o+SF5fgx445QHjT7URaag5KkSTp+Mvs0af7/2ZB1Sgzk3w2rxt aZrqRRHyiEEDG7bO98/03e4PIc6aWfkgw68cJHOzDAkLWm+UmKxnBCLl 1DUWY+u+oimzlBzevP4CjJ23sYRDV0/aab5E0pCPXVs3awx3N4guRgHU bPX2+g==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024100802 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241021210000 20241008200000 61050 . O9WSyYTC3RbBQmKGxZYiz8c/JwmSsZZrcVF5uHqJXq7CM9eedGIB3RSJ /P+P0P1JF0RZEt2IC88KxBPQXxXxMPrxne9ijsk0hVsNyMXgJstuAJ/h X7DgbG1yRwXJCVSBmR9unsOP44oHTJa3uxbCFk0eUCv9QL4Rhl/krnwI gn3mp00m3zeYqJHOhgBo2ScuOfqX8XPOg2TGR0hUojxfu4k/Ks4tUFYz hBLf/iuX+v35r/EP/5PkjkPTt5kHGsPE7N0pmnAz59MROVwT/CI1y/sO HzbbHgaz9t4ZizUSNTZ0J3wa9DJd1gZ7tzKoLvlL8iZwugHp1k/jjEu4 5k7sTg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37A vIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNH iMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3 Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5 R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1 xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd /NG2bMMw6nM=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241022000000 20241001000000 20326 . MJPbxtlDyEDXAYkmWTAd77Yz2ZtqVT/Jgp97LSdFejlDIJVMBbuq8QfH Q636W6lLN89GERq0LjGAxRo5FP4ahmy8+jCoqjWfJ9UKQE5qbbcMjYYm OGKyxi4dhwTLVt88nRRxxxkFEOLtc5EKljjpusCIWoyzB55BGup3Q5fa D6+5k8bB6Xe+VXEVa1wCGFhy1UQY+R6w/TtZzi1s3AjjvKXF7uoK3cCT T4anSWqdYKEFgGX6jml9WCbZBHn+p4GZEg5yM2VtO2lGNe+n+xXuMT/G 4B+46mrCX71UB7Yje6gpsYM0coT9Fh5EcNo6CdTD06FD8LfUy6z9V6B0 ddm0Mg==
-.					      86400 IN ZONEMD	2024100801 1 1 339E48FCAA38ADF8A1D72C1325F6588C9CEBDB08BD95024EF8D6A6DE 1239F97A4C0B60409004CECE328177E32EFCE28D
+.					      86400 IN ZONEMD	2024100802 1 1 DA4AB6C2F609B2C9C6F1AC39C132274C45E3B0908B5DC84052A16634 0F6C7591522C9ABCEF49EAA59604678D8CF77973
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -12482,7 +12482,6 @@ music.					      172800 IN	NS	ns01.trs-dns.com.
 music.					      172800 IN	NS	ns01.trs-dns.net.
 music.					      172800 IN	NS	ns01.trs-dns.org.
 music.					      172800 IN	NS	ns01.trs-dns.info.
-music.					      86400 IN DS	8489 8 2 A9A8A4740C96DC2BF6C31BAF38DC0C7F50862BFEED32DB9DF7E3956B F552AD10
 music.					      86400 IN DS	14632 13 2 68F411322E670C84337B2182422AF6E8F95C367C24E79CD4326B2276 F52F4603
 music.					      86400 IN NSEC	mv. NS DS RRSIG NSEC
 mv.					      172800 IN	NS	ns.dhivehinet.net.mv.
@@ -13634,12 +13633,14 @@ ns1.registry.om.			      172800 IN	A	185.27.88.50
 ns1.registry.om.			      172800 IN	AAAA	2a00:9120:1::50
 ns2.registry.om.			      172800 IN	A	185.27.89.50
 ns2.registry.om.			      172800 IN	AAAA	2a00:9120:2::50
-omega.					      172800 IN	NS	ac3.nstld.com.
-omega.					      172800 IN	NS	ac4.nstld.com.
 omega.					      172800 IN	NS	dns1.nic.omega.
 omega.					      172800 IN	NS	dns2.nic.omega.
 omega.					      172800 IN	NS	dns3.nic.omega.
 omega.					      172800 IN	NS	dns4.nic.omega.
+omega.					      172800 IN	NS	dnsa.nic.omega.
+omega.					      172800 IN	NS	dnsb.nic.omega.
+omega.					      172800 IN	NS	dnsc.nic.omega.
+omega.					      172800 IN	NS	dnsd.nic.omega.
 omega.					      86400 IN DS	4269 8 2 439D91ED221DE512CB04F3A7218DB1B019340B8D6228AB73DEAD0DF3 0AB5CF7B
 omega.					      86400 IN DS	49055 8 2 7FEB12A48D98DC3497171FA326DC92352F0C755D2CB7247950C3F42F E6F35871
 omega.					      86400 IN NSEC	one. NS DS RRSIG NSEC
@@ -13651,6 +13652,14 @@ dns3.nic.omega.				      172800 IN	A	213.248.223.140
 dns3.nic.omega.				      172800 IN	AAAA	2a01:618:407::140
 dns4.nic.omega.				      172800 IN	A	43.230.51.140
 dns4.nic.omega.				      172800 IN	AAAA	2401:fd80:407::140
+dnsa.nic.omega.				      172800 IN	A	156.154.100.3
+dnsa.nic.omega.				      172800 IN	AAAA	2001:502:ad09::3
+dnsb.nic.omega.				      172800 IN	A	156.154.101.3
+dnsb.nic.omega.				      172800 IN	AAAA	2001:502:2eda::3
+dnsc.nic.omega.				      172800 IN	A	156.154.102.3
+dnsc.nic.omega.				      172800 IN	AAAA	2610:a1:1009::3
+dnsd.nic.omega.				      172800 IN	A	156.154.103.3
+dnsd.nic.omega.				      172800 IN	AAAA	2610:a1:1010::3
 one.					      172800 IN	NS	a.nic.one.
 one.					      172800 IN	NS	b.nic.one.
 one.					      172800 IN	NS	c.nic.one.
@@ -14346,7 +14355,6 @@ pid.					      172800 IN	NS	ns01.trs-dns.net.
 pid.					      172800 IN	NS	ns01.trs-dns.org.
 pid.					      172800 IN	NS	ns01.trs-dns.info.
 pid.					      86400 IN DS	43839 13 2 A8997EC116A3E8E9BEFF3C5170352C427956DDD9E3FBAA5166108D1A 61574246
-pid.					      86400 IN DS	59747 8 2 787344F262181E467E0ADDE855B6015F6020A0136BA6EE835B1719E2 98879304
 pid.					      86400 IN NSEC	pin. NS DS RRSIG NSEC
 pin.					      172800 IN	NS	dns1.nic.pin.
 pin.					      172800 IN	NS	dns2.nic.pin.
@@ -16649,12 +16657,14 @@ sharp.					      172800 IN	NS	k.gmoregistry.net.
 sharp.					      172800 IN	NS	l.gmoregistry.net.
 sharp.					      86400 IN DS	3872 8 2 9FBCF0AFCB45E677CB42680FF35DEFD79F8ACCACAAA47DF92CFD08E7 3A8AFCB6
 sharp.					      86400 IN NSEC	shell. NS DS RRSIG NSEC
-shell.					      172800 IN	NS	ac3.nstld.com.
-shell.					      172800 IN	NS	ac4.nstld.com.
 shell.					      172800 IN	NS	dns1.nic.shell.
 shell.					      172800 IN	NS	dns2.nic.shell.
 shell.					      172800 IN	NS	dns3.nic.shell.
 shell.					      172800 IN	NS	dns4.nic.shell.
+shell.					      172800 IN	NS	dnsa.nic.shell.
+shell.					      172800 IN	NS	dnsb.nic.shell.
+shell.					      172800 IN	NS	dnsc.nic.shell.
+shell.					      172800 IN	NS	dnsd.nic.shell.
 shell.					      86400 IN DS	55158 8 2 BE8C4AB62CE5F9AC998C8C1383340F7800A43A6A903F061791B19AF6 F6DBB9D5
 shell.					      86400 IN DS	63424 8 2 8429208F879143266AA1EEC685057C5C099912031D27BD1E0BC61732 036B4D50
 shell.					      86400 IN NSEC	shia. NS DS RRSIG NSEC
@@ -16666,6 +16676,14 @@ dns3.nic.shell.				      172800 IN	A	213.248.223.137
 dns3.nic.shell.				      172800 IN	AAAA	2a01:618:407::137
 dns4.nic.shell.				      172800 IN	A	43.230.51.137
 dns4.nic.shell.				      172800 IN	AAAA	2401:fd80:407::137
+dnsa.nic.shell.				      172800 IN	A	156.154.100.3
+dnsa.nic.shell.				      172800 IN	AAAA	2001:502:ad09::3
+dnsb.nic.shell.				      172800 IN	A	156.154.101.3
+dnsb.nic.shell.				      172800 IN	AAAA	2001:502:2eda::3
+dnsc.nic.shell.				      172800 IN	A	156.154.102.3
+dnsc.nic.shell.				      172800 IN	AAAA	2610:a1:1009::3
+dnsd.nic.shell.				      172800 IN	A	156.154.103.3
+dnsd.nic.shell.				      172800 IN	AAAA	2610:a1:1010::3
 shia.					      172800 IN	NS	dns1.emdns.uk.
 shia.					      172800 IN	NS	dns2.emdns.uk.
 shia.					      172800 IN	NS	dns3.emdns.uk.
@@ -17665,12 +17683,14 @@ sv.					      172800 IN	NS	sir.red.sv.
 sv.					      172800 IN	NS	dns-ext.nic.cr.
 sv.					      86400 IN NSEC	swatch. NS RRSIG NSEC
 sir.red.sv.				      172800 IN	A	131.100.140.162
-swatch.					      172800 IN	NS	ac3.nstld.com.
-swatch.					      172800 IN	NS	ac4.nstld.com.
 swatch.					      172800 IN	NS	dns1.nic.swatch.
 swatch.					      172800 IN	NS	dns2.nic.swatch.
 swatch.					      172800 IN	NS	dns3.nic.swatch.
 swatch.					      172800 IN	NS	dns4.nic.swatch.
+swatch.					      172800 IN	NS	dnsa.nic.swatch.
+swatch.					      172800 IN	NS	dnsb.nic.swatch.
+swatch.					      172800 IN	NS	dnsc.nic.swatch.
+swatch.					      172800 IN	NS	dnsd.nic.swatch.
 swatch.					      86400 IN DS	46125 8 2 F8F63257D53D748EAC6844C412A246DB125E330F646D32922FD947E9 F6A1FAC2
 swatch.					      86400 IN DS	63214 8 2 2CCA5B625235170EEA1B1151293B5EC127A83984BC6DD2AF8CCE71DD 93D2A495
 swatch.					      86400 IN NSEC	swiss. NS DS RRSIG NSEC
@@ -17682,6 +17702,14 @@ dns3.nic.swatch.			      172800 IN	A	213.248.223.139
 dns3.nic.swatch.			      172800 IN	AAAA	2a01:618:407::139
 dns4.nic.swatch.			      172800 IN	A	43.230.51.139
 dns4.nic.swatch.			      172800 IN	AAAA	2401:fd80:407::139
+dnsa.nic.swatch.			      172800 IN	A	156.154.100.3
+dnsa.nic.swatch.			      172800 IN	AAAA	2001:502:ad09::3
+dnsb.nic.swatch.			      172800 IN	A	156.154.101.3
+dnsb.nic.swatch.			      172800 IN	AAAA	2001:502:2eda::3
+dnsc.nic.swatch.			      172800 IN	A	156.154.102.3
+dnsc.nic.swatch.			      172800 IN	AAAA	2610:a1:1009::3
+dnsd.nic.swatch.			      172800 IN	A	156.154.103.3
+dnsd.nic.swatch.			      172800 IN	AAAA	2610:a1:1010::3
 swiss.					      172800 IN	NS	g.nic.swiss.
 swiss.					      172800 IN	NS	u.nic.swiss.
 swiss.					      172800 IN	NS	ns15.rcode0.net.
