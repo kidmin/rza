@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024101400 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241027050000 20241014040000 61050 . FaHQK98db/FQe65E16upiWr3I76AjAvu7Z9uPg1JNVjt3NN/g8pl7Mk5 VTOIaU61N6GZDVZezPgFO5sBPd6e3M277j8DgqJd921VxH55T+yiTk4R XlmnRCLu4MswehZzrXPkeexXp0VrZR2wBc7Z1keK3u1sJKPfx0dFrf4i 84zDbkVKmzknvkgkUcjB9JTGiKHrWH87XjfZpevdJDOeVHvLSFVB1WiG 77/H8ZM9Az+0GCnQUOyZBTuhyKn3uk/PlHrxCwjQ++36GEvXBP5YMz1Z 5qWyN00Flm5Y5gmsYNKeKb1Dsl2sYRdOt39owefyyywVle8guYv2Ncmi XW8UzA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024101401 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241027130000 20241014120000 61050 . DXzXY0nSgz7MMKlK5fYPiEaueEn4wVYj+RwGF/tGrduShV6Jfl5HGcgf ZEC2oU4KPmUWJGMX1itHxBChmsgkdxEY5SGWf0KDjzOxIPHOiP2XoILp tidY/CJczFpG0+w3yLWESrjemZowqSh9fJGMqodu7vsLeEA0yUdv/O1z v3NzfB+4vhWT3/ySJ5IThVtpPcg2Ub1OmZiNqrrTQjhKdXZV4C+CFQ+8 ++QMS1TSYcmIdVzeUqJktVB/VR6kNmGgStTSoytSJr2W3RSuSix021VM QejcDFAPWYaTg0WVVcxkcEOQC045iNEjA5v2cpwlQFwxVKzXGHmjF+i/ pDly7g==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrM GkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu 1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D 6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz 8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCR GjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdf eIAEIv68FTs=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241101000000 20241011000000 20326 . aA+m3YA9Bcrh9TblnApamOx9eSL7dPcKbcFsVBvqD7UlHGz0GY8iHeR8 OXvjIKg0Y9qw7mgN1N4vOk0DXpMAxzbtPeUGEmnvIsGS0TJKF+mFELMO ne5Qno7//GMWbaZ5fr7KlMPL514OXzFM+RgA7w5Hs28QV/fLAOHsvp7y okvPhZ6wOCHsvkgox/gZ1KAhMJI7zW16NYgBXViFBsjKh6POQeLeT1iH 2tYNL+QkVApGib3MN0F4VhcpCPhJp7bsEnCXrWiRxULzq5OyFljKHtbX /0W03PDBQSwSCHq/ute5mksEh3jmJFc/p7OX/zE2/3vluUYY6uR5XXf1 I8hbvA==
-.					      86400 IN ZONEMD	2024101400 1 1 209636A6F9F8685E750FE808DBA2590C5C2F809B97CF9ADE457624B6 7353BC9B9A2F1814F7C0A2D2E07168DC92A383C1
+.					      86400 IN ZONEMD	2024101401 1 1 79A889512981DECC3760B3ED818C89D1E1DCE9BB2CA70E147671AF1C FE63FFD3EE670F18ECBCDC669544C2FB7D024E6A
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -11360,11 +11360,11 @@ d.nic.luxury.				      172800 IN	A	212.18.249.98
 d.nic.luxury.				      172800 IN	AAAA	2a04:2b00:13ff::98
 lv.					      172800 IN	NS	a.nic.lv.
 lv.					      172800 IN	NS	b.nic.lv.
-lv.					      172800 IN	NS	c.nic.lv.
 lv.					      172800 IN	NS	d.nic.lv.
 lv.					      172800 IN	NS	n.nic.lv.
 lv.					      172800 IN	NS	nu.nic.lv.
 lv.					      172800 IN	NS	sunic.sunet.se.
+lv.					      172800 IN	NS	c.nic.lv.
 lv.					      86400 IN DS	42018 8 2 7E932A4F9CF9B1CD047C277E3CD323A53D42347D47C7BF1DD6018FF4 B344FC1C
 lv.					      86400 IN NSEC	ly. NS DS RRSIG NSEC
 a.nic.lv.				      172800 IN	A	194.0.48.1
@@ -18627,13 +18627,13 @@ v2n1.nic.toys.				      172800 IN	A	161.232.11.23
 v2n1.nic.toys.				      172800 IN	AAAA	2a01:8840:f5::23
 tr.					      172800 IN	NS	ns41.ns.tr.
 tr.					      172800 IN	NS	ns42.ns.tr.
-tr.					      172800 IN	NS	ns43.ns.tr.
-tr.					      172800 IN	NS	ns44.ns.tr.
 tr.					      172800 IN	NS	ns61.ns.tr.
 tr.					      172800 IN	NS	ns71.ns.tr.
 tr.					      172800 IN	NS	ns72.ns.tr.
 tr.					      172800 IN	NS	ns73.ns.tr.
 tr.					      172800 IN	NS	ns74.ns.tr.
+tr.					      172800 IN	NS	ns43.ns.tr.
+tr.					      172800 IN	NS	ns44.ns.tr.
 tr.					      86400 IN DS	52321 13 2 31FCA215AA6690C3D1C265D141CC879576D16F8F06DBFB99D38893E8 F9E33D23
 tr.					      86400 IN NSEC	trade. NS DS RRSIG NSEC
 ns41.ns.tr.				      172800 IN	A	185.7.0.2
