@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024102501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241107170000 20241025160000 61050 . SkaGSloMpAuhGIqtcfNjPBiThshca2bKCGUQ0z9u3Y7BYPIvIN3Fz2KP rxzsF6qxtwNvyIATDabDx3gpOwf2+HixrmbX5fA1G9zKL0ytDi0XXGGQ 2gJL+ygA9Vsni4o1EztBUrBw2T8MQS/Qw1dixJP1rAbLeOrw+GCTR8kZ hjWwMuMJHwnMnyl+6ZL8lpDMsaCzoRK9mnhh3z8yiy2Br3kdcYDDMEou 9DnJHZIQzWgSmrRnrBclttfQN7fPusSCT2LZGhbLry/56GbPFMGBKdhw N8shHdfq4KH+h6ljF/VsKCG4wpW6OFDMCQ2MtR/efLsTmONlaC8ifGhD ESjwVQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024102502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241107190000 20241025180000 61050 . FOiXKo/DJV8DYnWIos/OlbaPjPsYnQcZvlWOJ6c4++fHfIYZrDKN2ZTz FRGgkGO7AtAjfgqRqpBbZuV7yKIv5rylJM0bNeeyT9AsCMbV6Oonptzh 3SEtV7MJn7igeE4H2llvHXgtmU8ZFuRZisYmxkyARSeGWEgMWoBjpcoU 0kjUBJKxHcE8h50TLq6V5ZOgKrAaPqQkxt+e5uo2CWWFIFRy4Q/krd2s 7TOK0ekLzsh8GR9sRGYCCgaeZVvuPMftUJfo4P3yCBUX7MMP/CsO4L3P +jK4AsfvzumQ8AhQNaAZ7qnyKupeYZgL+mEhEOAfLHtl0WmDPBYCl3kn /5WdKA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrM GkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu 1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D 6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz 8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCR GjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdf eIAEIv68FTs=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241111000000 20241021000000 20326 . alCFgDZS+0l5zcpQ/7R+5OFeCrk9KGkNP2F9ynXIXG6QigPj/9qjm0xx ItRJUUim+SrJywAmLKe+48oTUeSRyDKVVg3LGDekLKcIVz0EBqTL2y44 usDlUlxqx5O0LQVHy4h/hm9+dCXFiSBWoV0LcAplV9OYWhxi+CxmxZU5 8vK6eVAde8E2JHdeDuy23WF5lxYEg1q7ehEt5EdRvZ7hZzfawEFR3Qv3 WMootO2eBAAneIe94daJP/i1iwQJ4p+bGVCZ4sJk+Pk9J7lwEQq6Ghkd SpLsRxArUhvoVgtnh0LkAV7TsajYk8K2JRt7wHNDbBV6+Vdq2bh7ZPGv LiGkIQ==
-.					      86400 IN ZONEMD	2024102501 1 1 9D469D790BD7804DA57A49D066F5DA488750F645DEF7BD37FE8C1657 6D7A2112EAE1B217147250AE1245204A9D77A9F8
+.					      86400 IN ZONEMD	2024102502 1 1 6C9AF6DDB85651BBFB3D9BD0CF045D0A595CE38B024660043FAC85F5 FBD3DDA059DE7E4F818CC4C7F09B65E685296754
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -510,13 +510,27 @@ ns2.dns.nic.aig.			      172800 IN	A	156.154.145.6
 ns2.dns.nic.aig.			      172800 IN	AAAA	2610:a1:1072::6
 ns3.dns.nic.aig.			      172800 IN	A	156.154.159.6
 ns3.dns.nic.aig.			      172800 IN	AAAA	2610:a1:1073::6
-airbus.					      172800 IN	NS	ac1.nstld.com.
-airbus.					      172800 IN	NS	ac2.nstld.com.
-airbus.					      172800 IN	NS	ac3.nstld.com.
-airbus.					      172800 IN	NS	ac4.nstld.com.
+airbus.					      172800 IN	NS	v0n0.nic.airbus.
+airbus.					      172800 IN	NS	v0n1.nic.airbus.
+airbus.					      172800 IN	NS	v0n2.nic.airbus.
+airbus.					      172800 IN	NS	v0n3.nic.airbus.
+airbus.					      172800 IN	NS	v2n0.nic.airbus.
+airbus.					      172800 IN	NS	v2n1.nic.airbus.
 airbus.					      86400 IN DS	31023 8 2 FAFDD4F89FA42D1396B42A972019BD3DE013BD1708888FD77BD7DADA 8A38936D
 airbus.					      86400 IN DS	51547 8 2 982B16E3BAE278AB7146E3BDEDAF3BFC9C8C46D7DB3485321019D10C 7F5108EE
 airbus.					      86400 IN NSEC	airforce. NS DS RRSIG NSEC
+v0n0.nic.airbus.			      172800 IN	A	65.22.108.10
+v0n0.nic.airbus.			      172800 IN	AAAA	2a01:8840:6a::10
+v0n1.nic.airbus.			      172800 IN	A	65.22.109.10
+v0n1.nic.airbus.			      172800 IN	AAAA	2a01:8840:6b::10
+v0n2.nic.airbus.			      172800 IN	A	65.22.110.10
+v0n2.nic.airbus.			      172800 IN	AAAA	2a01:8840:6c::10
+v0n3.nic.airbus.			      172800 IN	A	161.232.32.10
+v0n3.nic.airbus.			      172800 IN	AAAA	2a01:8840:108::10
+v2n0.nic.airbus.			      172800 IN	A	65.22.111.10
+v2n0.nic.airbus.			      172800 IN	AAAA	2a01:8840:6d::10
+v2n1.nic.airbus.			      172800 IN	A	161.232.33.10
+v2n1.nic.airbus.			      172800 IN	AAAA	2a01:8840:109::10
 airforce.				      172800 IN	NS	v0n0.nic.airforce.
 airforce.				      172800 IN	NS	v0n1.nic.airforce.
 airforce.				      172800 IN	NS	v0n2.nic.airforce.
@@ -19517,13 +19531,27 @@ dnsc.nic.virgin.			      172800 IN	A	156.154.102.3
 dnsc.nic.virgin.			      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.virgin.			      172800 IN	A	156.154.103.3
 dnsd.nic.virgin.			      172800 IN	AAAA	2610:a1:1010::3
-visa.					      172800 IN	NS	ac1.nstld.com.
-visa.					      172800 IN	NS	ac2.nstld.com.
-visa.					      172800 IN	NS	ac3.nstld.com.
-visa.					      172800 IN	NS	ac4.nstld.com.
+visa.					      172800 IN	NS	v0n0.nic.visa.
+visa.					      172800 IN	NS	v0n1.nic.visa.
+visa.					      172800 IN	NS	v0n2.nic.visa.
+visa.					      172800 IN	NS	v0n3.nic.visa.
+visa.					      172800 IN	NS	v2n0.nic.visa.
+visa.					      172800 IN	NS	v2n1.nic.visa.
 visa.					      86400 IN DS	55863 8 2 B7D4DD6E17C137C8D9121055EC796100868870D2D31AC0DC5A2CE197 2F692CB4
 visa.					      86400 IN DS	61366 8 2 94D6F007F7A3CD81D061701497A7E54F801A495E219370723BAB6F27 07B68D6E
 visa.					      86400 IN NSEC	vision. NS DS RRSIG NSEC
+v0n0.nic.visa.				      172800 IN	A	65.22.108.20
+v0n0.nic.visa.				      172800 IN	AAAA	2a01:8840:6a::20
+v0n1.nic.visa.				      172800 IN	A	65.22.109.20
+v0n1.nic.visa.				      172800 IN	AAAA	2a01:8840:6b::20
+v0n2.nic.visa.				      172800 IN	A	65.22.110.20
+v0n2.nic.visa.				      172800 IN	AAAA	2a01:8840:6c::20
+v0n3.nic.visa.				      172800 IN	A	161.232.32.20
+v0n3.nic.visa.				      172800 IN	AAAA	2a01:8840:108::20
+v2n0.nic.visa.				      172800 IN	A	65.22.111.20
+v2n0.nic.visa.				      172800 IN	AAAA	2a01:8840:6d::20
+v2n1.nic.visa.				      172800 IN	A	161.232.33.20
+v2n1.nic.visa.				      172800 IN	AAAA	2a01:8840:109::20
 vision.					      172800 IN	NS	v0n0.nic.vision.
 vision.					      172800 IN	NS	v0n1.nic.vision.
 vision.					      172800 IN	NS	v0n2.nic.vision.
