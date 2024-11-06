@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024110601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241119170000 20241106160000 61050 . Lyb5zgHu8EMSBhFhx3J+xL41PES+U6bGbhsBTtNFrC8uN04tuzbwm6/r kk9EvgwRr0sx8To5c+YETiURchYUgr3YovlmjwhqLzZYIp87mHwHkJ+t 0omC9l8hiiyTmE/B7c+YGMwRdZQMOLX7CI/7PK5dgdFQrPl8yiomYMnq oF2GOKHDeRO5veh0LHJjd1E4Zr0C0yWTvECxph4w3K8lXJanFex70dIi +0OJJaJjOxSXFd7ILPYuuBNGQyRdNn4SVqMY4WenHaxkCS2eGUvd+gWo Dq5RNMcUicR7NUKwrDY00T3HDcRFF03xzwKu3OnGQWzYT0JY8HhupVyw GCpKxQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024110602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241119210000 20241106200000 61050 . o7DiCFOMnC9+AKnTRchT72rmiBNTu0KDyGZ6mVw7miNo3CzONemmNeHC p47TiHGR+2uh4GUyzMKww9Hnmao0WX8CP0KGHkdfXS7YnKerpQUZhGLK 1+cFT+6rjmXmovfnnyGlotVgxLs6kPs5umcX3h9M+dTT9i9QcPFlmZg8 rBrJagSEEMWnFsf7cduQ/S5Rs/rSgiNovvx8WGAeSObl6fAVKmaq6MeQ m2Bdjisjty6aBrCDc7XF+FfFJv9AtdH8xuhB6UqcsZ/CyNDc0dty7dO5 nWCThxno1Ees5nXSIZhuqdha6woeRQtDfkn2wB+06sssnS9mkzKwc/p2 db4e5A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrM GkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu 1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D 6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz 8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCR GjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdf eIAEIv68FTs=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241121000000 20241031000000 20326 . guknao8E8o7kxfIB/XbQjNz70XbtHa4gEtCfekSXTxLJunSBHPmdWrOm 5AIU9c2lcZS/Q2t2O7GMns+gqxIgGr1KzrckLgyjgagNCI4Syn0YVP+8 Knopf/0+8evDwdPqbzJLDE6u6cY4e35tY7lMtxK/6rNtqEIOPimnLgdv iDaky2zDGH+PeGKNK7HuE3BH/46c2IAzDntONnRqHn/Uimi/cIEfqt72 5uESM7FBfUw6QWz+EMk5RpfIHXVwczM8nmrVhPzimoSrCT1GP3hzWUE1 a/8VchnT2nHGoyHQBs1K5hipmxBxMMmLpz50c6P1Jh+Rd8e+aU5yAwky vaw0zA==
-.					      86400 IN ZONEMD	2024110601 1 1 6CD713BC4428A29AD877647C95EF46C9EFDAD25AA6C3C671643616A2 2E796CE035E607DC14892F3334B80D499748FBFF
+.					      86400 IN ZONEMD	2024110602 1 1 2959E6678DD18DE757919C31F62F49D2E88489DE3AFD291C5EFEDB65 C6BA6453C1B568A3C4D1A6C000DEE9D9109ABE3B
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -7573,21 +7573,27 @@ v2n0.nic.genting.			      172800 IN	A	65.22.111.13
 v2n0.nic.genting.			      172800 IN	AAAA	2a01:8840:6d::13
 v2n1.nic.genting.			      172800 IN	A	161.232.33.13
 v2n1.nic.genting.			      172800 IN	AAAA	2a01:8840:109::13
-george.					      172800 IN	NS	a0.nic.george.
-george.					      172800 IN	NS	a2.nic.george.
-george.					      172800 IN	NS	b0.nic.george.
-george.					      172800 IN	NS	c0.nic.george.
+george.					      172800 IN	NS	a.nic.george.
+george.					      172800 IN	NS	b.nic.george.
+george.					      172800 IN	NS	c.nic.george.
+george.					      172800 IN	NS	x.nic.george.
+george.					      172800 IN	NS	y.nic.george.
+george.					      172800 IN	NS	z.nic.george.
 george.					      86400 IN DS	1759 8 2 0CAA1F5AE9C0E736030B351AB71BB351053798CE39B3B662CEEFDB95 6057D5FE
 george.					      86400 IN DS	52471 8 2 2075B42F79F6AC18BAAA19256564296DC9A53B1A24F2BF84550E0052 06B4E2D3
 george.					      86400 IN NSEC	gf. NS DS RRSIG NSEC
-a0.nic.george.				      172800 IN	A	65.22.112.49
-a0.nic.george.				      172800 IN	AAAA	2a01:8840:6e::49
-a2.nic.george.				      172800 IN	A	65.22.115.49
-a2.nic.george.				      172800 IN	AAAA	2a01:8840:71::49
-b0.nic.george.				      172800 IN	A	65.22.113.49
-b0.nic.george.				      172800 IN	AAAA	2a01:8840:6f::49
-c0.nic.george.				      172800 IN	A	65.22.114.49
-c0.nic.george.				      172800 IN	AAAA	2a01:8840:70::49
+a.nic.george.				      172800 IN	A	37.209.192.9
+a.nic.george.				      172800 IN	AAAA	2001:dcd:1::9
+b.nic.george.				      172800 IN	A	37.209.194.9
+b.nic.george.				      172800 IN	AAAA	2001:dcd:2::9
+c.nic.george.				      172800 IN	A	37.209.196.9
+c.nic.george.				      172800 IN	AAAA	2001:dcd:3::9
+x.nic.george.				      172800 IN	A	156.154.172.82
+x.nic.george.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.george.				      172800 IN	A	156.154.173.82
+y.nic.george.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.george.				      172800 IN	A	156.154.174.82
+z.nic.george.				      172800 IN	AAAA	2610:a1:1076::1:82
 gf.					      172800 IN	NS	ns1-fr.mediaserv.net.
 gf.					      172800 IN	NS	ns1-gp.mediaserv.net.
 gf.					      172800 IN	NS	ns1-mq.mediaserv.net.
@@ -8104,21 +8110,27 @@ v2n0.nic.gripe.				      172800 IN	A	65.22.27.33
 v2n0.nic.gripe.				      172800 IN	AAAA	2a01:8840:1d::33
 v2n1.nic.gripe.				      172800 IN	A	161.232.13.33
 v2n1.nic.gripe.				      172800 IN	AAAA	2a01:8840:f7::33
-grocery.				      172800 IN	NS	a0.nic.grocery.
-grocery.				      172800 IN	NS	a2.nic.grocery.
-grocery.				      172800 IN	NS	b0.nic.grocery.
-grocery.				      172800 IN	NS	c0.nic.grocery.
+grocery.				      172800 IN	NS	a.nic.grocery.
+grocery.				      172800 IN	NS	b.nic.grocery.
+grocery.				      172800 IN	NS	c.nic.grocery.
+grocery.				      172800 IN	NS	x.nic.grocery.
+grocery.				      172800 IN	NS	y.nic.grocery.
+grocery.				      172800 IN	NS	z.nic.grocery.
 grocery.				      86400 IN DS	18634 8 2 03D573C990BFB36FCE9A9ECEBF706B50BC42D96772D9C39C76AF6172 25C02B34
 grocery.				      86400 IN DS	58537 8 2 3306B36E70FE436FC00B50ACD0D7C0DAB84DB02062907F3FF5CECE68 F09CB68C
 grocery.				      86400 IN NSEC	group. NS DS RRSIG NSEC
-a0.nic.grocery.				      172800 IN	A	65.22.112.50
-a0.nic.grocery.				      172800 IN	AAAA	2a01:8840:6e::50
-a2.nic.grocery.				      172800 IN	A	65.22.115.50
-a2.nic.grocery.				      172800 IN	AAAA	2a01:8840:71::50
-b0.nic.grocery.				      172800 IN	A	65.22.113.50
-b0.nic.grocery.				      172800 IN	AAAA	2a01:8840:6f::50
-c0.nic.grocery.				      172800 IN	A	65.22.114.50
-c0.nic.grocery.				      172800 IN	AAAA	2a01:8840:70::50
+a.nic.grocery.				      172800 IN	A	37.209.192.10
+a.nic.grocery.				      172800 IN	AAAA	2001:dcd:1::10
+b.nic.grocery.				      172800 IN	A	37.209.194.10
+b.nic.grocery.				      172800 IN	AAAA	2001:dcd:2::10
+c.nic.grocery.				      172800 IN	A	37.209.196.10
+c.nic.grocery.				      172800 IN	AAAA	2001:dcd:3::10
+x.nic.grocery.				      172800 IN	A	156.154.172.82
+x.nic.grocery.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.grocery.				      172800 IN	A	156.154.173.82
+y.nic.grocery.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.grocery.				      172800 IN	A	156.154.174.82
+z.nic.grocery.				      172800 IN	AAAA	2610:a1:1076::1:82
 group.					      172800 IN	NS	v0n0.nic.group.
 group.					      172800 IN	NS	v0n1.nic.group.
 group.					      172800 IN	NS	v0n2.nic.group.
@@ -9947,7 +9959,7 @@ jp.					      172800 IN	NS	e.dns.jp.
 jp.					      172800 IN	NS	f.dns.jp.
 jp.					      172800 IN	NS	g.dns.jp.
 jp.					      172800 IN	NS	h.dns.jp.
-jp.					      86400 IN DS	22111 8 2 E5A43534B9BEAFBF35D6C6B3EAA1E9AE7FE2B4D8961252126FD67B51 72322286
+jp.					      86400 IN DS	35821 8 2 41AD6EC23454A202D05BD75D9C323825C9822B9850CB1793CAB2DA28 14C74140
 jp.					      86400 IN NSEC	jpmorgan. NS DS RRSIG NSEC
 a.dns.jp.				      172800 IN	A	203.119.1.1
 a.dns.jp.				      172800 IN	AAAA	2001:dc4::1
@@ -16016,21 +16028,27 @@ v2n0.nic.salon.				      172800 IN	A	65.22.31.58
 v2n0.nic.salon.				      172800 IN	AAAA	2a01:8840:21::58
 v2n1.nic.salon.				      172800 IN	A	161.232.15.58
 v2n1.nic.salon.				      172800 IN	AAAA	2a01:8840:f9::58
-samsclub.				      172800 IN	NS	a0.nic.samsclub.
-samsclub.				      172800 IN	NS	a2.nic.samsclub.
-samsclub.				      172800 IN	NS	b0.nic.samsclub.
-samsclub.				      172800 IN	NS	c0.nic.samsclub.
+samsclub.				      172800 IN	NS	a.nic.samsclub.
+samsclub.				      172800 IN	NS	b.nic.samsclub.
+samsclub.				      172800 IN	NS	c.nic.samsclub.
+samsclub.				      172800 IN	NS	x.nic.samsclub.
+samsclub.				      172800 IN	NS	y.nic.samsclub.
+samsclub.				      172800 IN	NS	z.nic.samsclub.
 samsclub.				      86400 IN DS	35602 8 2 29E4496BEA5E1CEC89FCB45CBD4D9C45D0A024EB2B3BB1245F67EF66 BA89D210
 samsclub.				      86400 IN DS	60532 8 2 3D5123DE8729F24800C0715726142C8317B27134AF028DC67F541DE5 0903643B
 samsclub.				      86400 IN NSEC	samsung. NS DS RRSIG NSEC
-a0.nic.samsclub.			      172800 IN	A	65.22.112.66
-a0.nic.samsclub.			      172800 IN	AAAA	2a01:8840:6e::66
-a2.nic.samsclub.			      172800 IN	A	65.22.115.66
-a2.nic.samsclub.			      172800 IN	AAAA	2a01:8840:71::66
-b0.nic.samsclub.			      172800 IN	A	65.22.113.66
-b0.nic.samsclub.			      172800 IN	AAAA	2a01:8840:6f::66
-c0.nic.samsclub.			      172800 IN	A	65.22.114.66
-c0.nic.samsclub.			      172800 IN	AAAA	2a01:8840:70::66
+a.nic.samsclub.				      172800 IN	A	37.209.192.9
+a.nic.samsclub.				      172800 IN	AAAA	2001:dcd:1::9
+b.nic.samsclub.				      172800 IN	A	37.209.194.9
+b.nic.samsclub.				      172800 IN	AAAA	2001:dcd:2::9
+c.nic.samsclub.				      172800 IN	A	37.209.196.9
+c.nic.samsclub.				      172800 IN	AAAA	2001:dcd:3::9
+x.nic.samsclub.				      172800 IN	A	156.154.172.82
+x.nic.samsclub.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.samsclub.				      172800 IN	A	156.154.173.82
+y.nic.samsclub.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.samsclub.				      172800 IN	A	156.154.174.82
+z.nic.samsclub.				      172800 IN	AAAA	2610:a1:1076::1:82
 samsung.				      172800 IN	NS	ns1.samsung.centralnic-dns.com.
 samsung.				      172800 IN	NS	ns2.samsung.centralnic-dns.com.
 samsung.				      172800 IN	NS	ns3.samsung.centralnic-dns.com.
@@ -19799,21 +19817,27 @@ dnsc.nic.wales.				      172800 IN	A	156.154.102.3
 dnsc.nic.wales.				      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.wales.				      172800 IN	A	156.154.103.3
 dnsd.nic.wales.				      172800 IN	AAAA	2610:a1:1010::3
-walmart.				      172800 IN	NS	a0.nic.walmart.
-walmart.				      172800 IN	NS	a2.nic.walmart.
-walmart.				      172800 IN	NS	b0.nic.walmart.
-walmart.				      172800 IN	NS	c0.nic.walmart.
+walmart.				      172800 IN	NS	a.nic.walmart.
+walmart.				      172800 IN	NS	b.nic.walmart.
+walmart.				      172800 IN	NS	c.nic.walmart.
+walmart.				      172800 IN	NS	x.nic.walmart.
+walmart.				      172800 IN	NS	y.nic.walmart.
+walmart.				      172800 IN	NS	z.nic.walmart.
 walmart.				      86400 IN DS	4411 8 2 CEE1000FC9A5A5C1E205308AC36910953C589174CA5D18516DCB0549 EA450886
 walmart.				      86400 IN DS	34531 8 2 E09B4CCFA8A68B1D6A13042FA28A343782D0D1B4BF3E79C6A1415D3B 2825B922
 walmart.				      86400 IN NSEC	walter. NS DS RRSIG NSEC
-a0.nic.walmart.				      172800 IN	A	65.22.112.74
-a0.nic.walmart.				      172800 IN	AAAA	2a01:8840:6e::74
-a2.nic.walmart.				      172800 IN	A	65.22.115.74
-a2.nic.walmart.				      172800 IN	AAAA	2a01:8840:71::74
-b0.nic.walmart.				      172800 IN	A	65.22.113.74
-b0.nic.walmart.				      172800 IN	AAAA	2a01:8840:6f::74
-c0.nic.walmart.				      172800 IN	A	65.22.114.74
-c0.nic.walmart.				      172800 IN	AAAA	2a01:8840:70::74
+a.nic.walmart.				      172800 IN	A	37.209.192.9
+a.nic.walmart.				      172800 IN	AAAA	2001:dcd:1::9
+b.nic.walmart.				      172800 IN	A	37.209.194.9
+b.nic.walmart.				      172800 IN	AAAA	2001:dcd:2::9
+c.nic.walmart.				      172800 IN	A	37.209.196.9
+c.nic.walmart.				      172800 IN	AAAA	2001:dcd:3::9
+x.nic.walmart.				      172800 IN	A	156.154.172.82
+x.nic.walmart.				      172800 IN	AAAA	2610:a1:1074::1:82
+y.nic.walmart.				      172800 IN	A	156.154.173.82
+y.nic.walmart.				      172800 IN	AAAA	2610:a1:1075::1:82
+z.nic.walmart.				      172800 IN	A	156.154.174.82
+z.nic.walmart.				      172800 IN	AAAA	2610:a1:1076::1:82
 walter.					      172800 IN	NS	a.nic.walter.
 walter.					      172800 IN	NS	b.nic.walter.
 walter.					      172800 IN	NS	c.nic.walter.
