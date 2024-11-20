@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024112000 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20241203050000 20241120040000 61050 . Rn90IKJHsqeT4OvdKnW4LBrJJbbOcCm4CsN2x4/UoUBkth3qSPRc/yzw HyGSjoXpTLc0yzPxpOKartT7f6Y+82MhDRKwN65oAIEb7b1xTe/GL/dB uLw8swdq4OXA7YfKlFsxgheGQ7eEwsNHo3KLJTD08NK8pXlCAqRYeFn8 gyG6b3Qb5Ho1EeUIzPgV8sp6e8rbf2lmCerCzWQHc95itkdt8GkTXF4q XCadpEUuAg2G07nWt63orEGMrKzk9eama3pecy9b+nLl7Qa5Mc1HW9yg VmzDpR8ypxty0FAQ4vm1pNGGLVJX4cKXFz+NHu28mQVcMiAMqWssevQT rb+7iw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024112001 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20241203150000 20241120140000 61050 . MszWIYNSPZGSngDVdSYaYAi2IeH+6GQ34/Dr/4SsQqdN7nDpRY1fxoez Q0ayCKVb8ZByr2XQIhRu2AVdk0cbnOGzdueSxMTxr38LTlvLUh3F+73q wqMEUu9uXEAfL5svZpmcRXNGiZ2x0cxY+v/N/1ZwS8fcVYtntBAmj4yg jr96gQz3tGG5qDTZjoEbd8bYecyDM6WUm4IuoRFiOn2zbLb4m1JWnkbB MemzJdsVWDEOm3AmIQWnq6ASPziQjkdvvTCTJ65fSnL2JeOmBMRTizkt mv9qoGxU37LcrK4cUk55yR78RZwZ9V5V4hc7p292VEf6Q1IoFoGBASRp bc+9mA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -17,7 +17,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrM GkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu 1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D 6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz 8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCR GjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdf eIAEIv68FTs=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20241211000000 20241120000000 20326 . rHkeh+xkmliumsXauoWZKkik68pYa7SRMItqPyBibSnyK2FIhPPWgR0o DKiS+6RR74/Eu1q/L1NGt3phSSuUF9Y1XV1gbdlv3CwTd6CnOFyYZr1h G6YP3oNcKCZsVZG9+nEC71LywlG2ZVzl+6mJNOQmP4f6RGqXq97vwFMy 1S8pCmDMcVX57Y5Kdp9BfqvP//YgZ4rtqkif8H1ENRsEtQVINRWpWftq 1jdcZ/N7wyLlkeNa17VS+/2WNMsaNusX+TmCdTJG1Xd2LRRxfK5dORku 9f0Pq6rhXUkKY7coGF8wI4EVmW37lBAsPdnI50x9UmGvlx6mOdSnVrxs eLA5+A==
-.					      86400 IN ZONEMD	2024112000 1 1 26F091FD5477D7CAFADFCD6A09AE31128801B2901B97DAD36676CFBB E4BD105C68572EAE2C2947EF1CAF20D59638109E
+.					      86400 IN ZONEMD	2024112001 1 1 76A553F28977E3EFFAAA07FB010B531E5B4C5E73A809A1A6D5568D95 A695D3D551727E15A7245B7F8A51E8A37F2E273F
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -8114,8 +8114,8 @@ grocery.				      172800 IN	NS	c.nic.grocery.
 grocery.				      172800 IN	NS	x.nic.grocery.
 grocery.				      172800 IN	NS	y.nic.grocery.
 grocery.				      172800 IN	NS	z.nic.grocery.
-grocery.				      86400 IN DS	18634 8 2 03D573C990BFB36FCE9A9ECEBF706B50BC42D96772D9C39C76AF6172 25C02B34
 grocery.				      86400 IN DS	58537 8 2 3306B36E70FE436FC00B50ACD0D7C0DAB84DB02062907F3FF5CECE68 F09CB68C
+grocery.				      86400 IN DS	18634 8 2 03D573C990BFB36FCE9A9ECEBF706B50BC42D96772D9C39C76AF6172 25C02B34
 grocery.				      86400 IN NSEC	group. NS DS RRSIG NSEC
 a.nic.grocery.				      172800 IN	A	37.209.192.10
 a.nic.grocery.				      172800 IN	AAAA	2001:dcd:1::10
@@ -14515,8 +14515,8 @@ pl.					      172800 IN	NS	d-dns.pl.
 pl.					      172800 IN	NS	f-dns.pl.
 pl.					      172800 IN	NS	h-dns.pl.
 pl.					      172800 IN	NS	j-dns.pl.
-pl.					      86400 IN DS	42290 8 2 01CB881BEC8BEE893CD6C45B9F3185825C5FAF619AFB51F3C11FE1CD 2C1A3785
 pl.					      86400 IN DS	48559 8 2 6C7D94C6F25556EEB180EF5E3E9237F2247597F28DCA8D7FA63B3A1A 45B79A4F
+pl.					      86400 IN DS	42290 8 2 01CB881BEC8BEE893CD6C45B9F3185825C5FAF619AFB51F3C11FE1CD 2C1A3785
 pl.					      86400 IN NSEC	place. NS DS RRSIG NSEC
 a-dns.pl.				      172800 IN	A	192.102.225.53
 a-dns.pl.				      172800 IN	AAAA	2001:7f9::53
@@ -14961,8 +14961,8 @@ ps.					      172800 IN	NS	ps.cctld.authdns.ripe.net.
 ps.					      172800 IN	NS	ns1.pnina.ps.
 ps.					      172800 IN	NS	rip.psg.com.
 ps.					      172800 IN	NS	fork.sth.dnsnode.net.
-ps.					      172800 IN	NS	bilal.pnina.ps.
 ps.					      172800 IN	NS	ps-ns.anycast.pch.net.
+ps.					      172800 IN	NS	bilal.pnina.ps.
 ps.					      86400 IN NSEC	pt. NS RRSIG NSEC
 dns1.gov.ps.				      172800 IN	A	213.244.82.147
 dns3.gov.ps.				      172800 IN	A	185.153.163.3
@@ -16031,8 +16031,8 @@ samsclub.				      172800 IN	NS	c.nic.samsclub.
 samsclub.				      172800 IN	NS	x.nic.samsclub.
 samsclub.				      172800 IN	NS	y.nic.samsclub.
 samsclub.				      172800 IN	NS	z.nic.samsclub.
-samsclub.				      86400 IN DS	35602 8 2 29E4496BEA5E1CEC89FCB45CBD4D9C45D0A024EB2B3BB1245F67EF66 BA89D210
 samsclub.				      86400 IN DS	60532 8 2 3D5123DE8729F24800C0715726142C8317B27134AF028DC67F541DE5 0903643B
+samsclub.				      86400 IN DS	35602 8 2 29E4496BEA5E1CEC89FCB45CBD4D9C45D0A024EB2B3BB1245F67EF66 BA89D210
 samsclub.				      86400 IN NSEC	samsung. NS DS RRSIG NSEC
 a.nic.samsclub.				      172800 IN	A	37.209.192.9
 a.nic.samsclub.				      172800 IN	AAAA	2001:dcd:1::9
@@ -17164,14 +17164,14 @@ v2n0.nic.software.			      172800 IN	A	65.22.35.10
 v2n0.nic.software.			      172800 IN	AAAA	2a01:8840:25::10
 v2n1.nic.software.			      172800 IN	A	161.232.17.10
 v2n1.nic.software.			      172800 IN	AAAA	2a01:8840:fb::10
-sohu.					      172800 IN	NS	a.zdnscloud.cn.
-sohu.					      172800 IN	NS	b.zdnscloud.cn.
 sohu.					      172800 IN	NS	c.zdnscloud.com.
 sohu.					      172800 IN	NS	d.zdnscloud.com.
-sohu.					      172800 IN	NS	f.zdnscloud.cn.
 sohu.					      172800 IN	NS	g.zdnscloud.com.
-sohu.					      172800 IN	NS	i.zdnscloud.cn.
 sohu.					      172800 IN	NS	j.zdnscloud.com.
+sohu.					      172800 IN	NS	a.zdnscloud.cn.
+sohu.					      172800 IN	NS	b.zdnscloud.cn.
+sohu.					      172800 IN	NS	f.zdnscloud.cn.
+sohu.					      172800 IN	NS	i.zdnscloud.cn.
 sohu.					      86400 IN DS	61396 8 2 44F80A22B60D8C7A4E02D5C1B57AF36DA11D0CEFE4320E588E20DCD4 B2A80F09
 sohu.					      86400 IN NSEC	solar. NS DS RRSIG NSEC
 solar.					      172800 IN	NS	v0n0.nic.solar.
@@ -17765,8 +17765,8 @@ sx.					      172800 IN	NS	ns1.ns.sx.
 sx.					      172800 IN	NS	ns2.ns.sx.
 sx.					      172800 IN	NS	ns3.ns.sx.
 sx.					      172800 IN	NS	ns4.ns.sx.
-sx.					      86400 IN DS	13049 8 2 30D0C7552EEBF0586E848FD4CB7FB02C2CE377042AABE923304FA598 BE7082B4
 sx.					      86400 IN DS	34036 8 2 8FBC9761B3375B5A00AD9A7C0E1D22F7574C87EFBBCDD5249845A977 8F876CE6
+sx.					      86400 IN DS	13049 8 2 30D0C7552EEBF0586E848FD4CB7FB02C2CE377042AABE923304FA598 BE7082B4
 sx.					      86400 IN NSEC	sy. NS DS RRSIG NSEC
 ns1.ns.sx.				      172800 IN	A	185.159.197.10
 ns1.ns.sx.				      172800 IN	AAAA	2620:10a:80aa::10
@@ -19817,8 +19817,8 @@ walmart.				      172800 IN	NS	c.nic.walmart.
 walmart.				      172800 IN	NS	x.nic.walmart.
 walmart.				      172800 IN	NS	y.nic.walmart.
 walmart.				      172800 IN	NS	z.nic.walmart.
-walmart.				      86400 IN DS	4411 8 2 CEE1000FC9A5A5C1E205308AC36910953C589174CA5D18516DCB0549 EA450886
 walmart.				      86400 IN DS	34531 8 2 E09B4CCFA8A68B1D6A13042FA28A343782D0D1B4BF3E79C6A1415D3B 2825B922
+walmart.				      86400 IN DS	4411 8 2 CEE1000FC9A5A5C1E205308AC36910953C589174CA5D18516DCB0549 EA450886
 walmart.				      86400 IN NSEC	walter. NS DS RRSIG NSEC
 a.nic.walmart.				      172800 IN	A	37.209.192.9
 a.nic.walmart.				      172800 IN	AAAA	2001:dcd:1::9
@@ -21797,14 +21797,14 @@ xn--s9brj9c.				      172800 IN	NS	ns5.registry.in.
 xn--s9brj9c.				      172800 IN	NS	ns6.registry.in.
 xn--s9brj9c.				      86400 IN DS	47272 8 2 5A0F20A974FED08735863B1A312EF3582290C5A25CA6FA79C32FCC37 40CDBC3E
 xn--s9brj9c.				      86400 IN NSEC	xn--ses554g. NS DS RRSIG NSEC
-xn--ses554g.				      172800 IN	NS	a.zdnscloud.cn.
-xn--ses554g.				      172800 IN	NS	b.zdnscloud.cn.
 xn--ses554g.				      172800 IN	NS	c.zdnscloud.com.
 xn--ses554g.				      172800 IN	NS	d.zdnscloud.com.
-xn--ses554g.				      172800 IN	NS	f.zdnscloud.cn.
 xn--ses554g.				      172800 IN	NS	g.zdnscloud.com.
-xn--ses554g.				      172800 IN	NS	i.zdnscloud.cn.
 xn--ses554g.				      172800 IN	NS	j.zdnscloud.com.
+xn--ses554g.				      172800 IN	NS	a.zdnscloud.cn.
+xn--ses554g.				      172800 IN	NS	b.zdnscloud.cn.
+xn--ses554g.				      172800 IN	NS	f.zdnscloud.cn.
+xn--ses554g.				      172800 IN	NS	i.zdnscloud.cn.
 xn--ses554g.				      86400 IN DS	34994 8 2 5EF0D396751EDE7D6B87B3DDA8D9ECC7883A45B21C1A8D60FBF0FF92 B5C2C445
 xn--ses554g.				      86400 IN NSEC	xn--t60b56a. NS DS RRSIG NSEC
 xn--t60b56a.				      172800 IN	NS	ac1.nstld.com.
