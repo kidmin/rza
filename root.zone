@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024122001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250102170000 20241220160000 61050 . ocUdgKWKy/36mmxbHgQCpOb9c5t9S+WRsXVZwljoPy8IykrHvJHed+Bw O5cUmF/TBnQd8+Z8Mk4OtVEmGzDcUa2jx/4E3P2CDsmag7kZJrpEHGOh f5wHSKTFRCSmQtRpvIyUp0CPTjUE55p62faAeiMFtsvRLtOOwpzUTV3C IGRAm0DORSzisKZ+b6I0B9rkdSZsO4OUEpmcyHlsLIAc2BiO7MhJwn0U enlppyTym6STnyWkrSVRvX5rYSguFPyS4I/xVfN8A3VggPMfTIlHLjKf Ms15h42WmFGpEUy99Me2K2OIwS5l1dqD6G55wYnV/nfybvVm2YLwT5n8 WbFWTg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2024122002 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250102210000 20241220200000 61050 . Gd3l5/1d33QdlhM4tvzaTDDPs7kV9S0Oby0oYNEns6kYcS1Rg/uCSG1K cBcYADjx9TuB5TAfmNMGJ7a28d/YgZQfQ6sDFOWaW2UJ8RIE1bPctHCL wNZOE4vFx7y+PzBJvXRBMfiR5ThDXgj+ESmrHOJgiMHELufDWAeIsbfF gU+zALbreBOtr/uQACnCKLs1c2EiLdcQ7aaydJ9w+GDLBtlp7MQlO8Ca 1Zs5fG9x6EECGmYFId2ltYSfxfhg/pYhEe02KDszlLdqa6/NTFyqodfU VTi9gm8ekAW1Mham8kqYJQzggno6oTrpYMbLuVZqbZFd7yC8Oc2o5Eg1 BW53dQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrM GkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu 1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D 6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz 8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCR GjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdf eIAEIv68FTs=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250110000000 20241220000000 20326 . TRezQfFGSfoE+btPQphJdezAP8Fb1WaI3i1xrBcM0oXaf9xXBX6mFbon rvg58mjcOD5U3jH/jUdidmB6alA/vuoqFp9YtrRzmfQdrv+whaMkp5fr v54Pd1C059+iER+0TjnnwFh6yvHToxQhwk6phwTTO+fIFnfsNPldjYPw Ah327fEOVfLxY9yyQZgXD7oNJkciy+QjIYNSFOLk4gMuKrcE4oUwctTk 0jPoRNqx5Muh0miFT0yrfjAiCMyKJVzAcKfatd0j4iGFy10y9c6TmbuD Kp8bhUj28Si9/Mt9slrePsQy61yua1WGfykQS1OsU81Gxd8WrB1IvZQn arODQQ==
-.					      86400 IN ZONEMD	2024122001 1 1 F078A9A659B878A81E9E313997AF23522BA38F175600522511C4BEC7 F15D3D21E9AE36739D0F3D6079A2BF5E209446E1
+.					      86400 IN ZONEMD	2024122002 1 1 7737729562CD7A336B2BEF2892391CB4EA84253AEED050A40A06EC40 3A74C9A96AD37FAF268EB5095EEC487C49EC0B84
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2885,7 +2885,7 @@ pch.nic.net.bw.				      172800 IN	AAAA	2001:500:14:6070:ad::1
 by.					      172800 IN	NS	dns1.tld.becloudby.com.
 by.					      172800 IN	NS	dns2.tld.becloudby.com.
 by.					      172800 IN	NS	dns3.tld.becloudby.com.
-by.					      172800 IN	NS	dns4.tld.becloudby.com.
+by.					      172800 IN	NS	dns4.tld.becloudby.tech.
 by.					      172800 IN	NS	dns7.tld.becloudby.com.
 by.					      86400 IN DS	495 13 2 2D14284F8E47B53F839BD8068D438680B4B6C7A645769C9D89B47DF0 C5359B7B
 by.					      86400 IN NSEC	bz. NS DS RRSIG NSEC
@@ -4216,8 +4216,6 @@ dns2.tld.becloudby.com.			      172800 IN	A	93.125.25.73
 dns2.tld.becloudby.com.			      172800 IN	AAAA	2a00:c827:a:3::2
 dns3.tld.becloudby.com.			      172800 IN	A	185.98.83.4
 dns3.tld.becloudby.com.			      172800 IN	AAAA	2a01:ba80:e:c:1::4c
-dns4.tld.becloudby.com.			      172800 IN	A	31.44.1.137
-dns4.tld.becloudby.com.			      172800 IN	AAAA	2a0e:b81:8001:1001::2
 dns7.tld.becloudby.com.			      172800 IN	A	31.44.5.245
 ns.blacknightsolutions.com.		      172800 IN	A	81.17.240.204
 ns.blacknightsolutions.com.		      172800 IN	AAAA	2a01:a8:dc1:33::33
@@ -18102,6 +18100,8 @@ tech.					      172800 IN	NS	f.nic.tech.
 tech.					      86400 IN DS	28487 8 2 EA62FA86A9C863738597A42D28762B1F75D42F7D77AA6767425DE138 F8B0E78C
 tech.					      86400 IN DS	50095 8 2 83F40D01141484D8F07305E5D2E44AC5663149054C598D6E9D993C66 1686C6EE
 tech.					      86400 IN NSEC	technology. NS DS RRSIG NSEC
+dns4.tld.becloudby.tech.		      172800 IN	A	31.44.1.137
+dns4.tld.becloudby.tech.		      172800 IN	AAAA	2a0e:b81:8001:1001::2
 a.nic.tech.				      172800 IN	A	194.169.218.60
 a.nic.tech.				      172800 IN	AAAA	2001:67c:13cc::1:60
 b.nic.tech.				      172800 IN	A	185.24.64.60
@@ -18576,13 +18576,13 @@ v2n0.nic.tools.				      172800 IN	A	65.22.31.44
 v2n0.nic.tools.				      172800 IN	AAAA	2a01:8840:21::44
 v2n1.nic.tools.				      172800 IN	A	161.232.15.44
 v2n1.nic.tools.				      172800 IN	AAAA	2a01:8840:f9::44
-top.					      172800 IN	NS	a.zdnscloud.com.
-top.					      172800 IN	NS	b.zdnscloud.com.
+top.					      172800 IN	NS	a.zdnscloud.cn.
+top.					      172800 IN	NS	b.zdnscloud.cn.
 top.					      172800 IN	NS	c.zdnscloud.com.
 top.					      172800 IN	NS	d.zdnscloud.com.
-top.					      172800 IN	NS	f.zdnscloud.com.
+top.					      172800 IN	NS	f.zdnscloud.cn.
 top.					      172800 IN	NS	g.zdnscloud.com.
-top.					      172800 IN	NS	i.zdnscloud.com.
+top.					      172800 IN	NS	i.zdnscloud.cn.
 top.					      172800 IN	NS	j.zdnscloud.com.
 top.					      86400 IN DS	26780 8 2 5D6E7869EE8E3B536A617DE89482DDD1DCB9DB9DBB1AC33D6ED351E2 CA095B1B
 top.					      86400 IN NSEC	toray. NS DS RRSIG NSEC
@@ -20752,7 +20752,7 @@ xn--90ae.				      86400 IN NSEC	xn--90ais. NS DS RRSIG NSEC
 xn--90ais.				      172800 IN	NS	dns1.tld.becloudby.com.
 xn--90ais.				      172800 IN	NS	dns2.tld.becloudby.com.
 xn--90ais.				      172800 IN	NS	dns3.tld.becloudby.com.
-xn--90ais.				      172800 IN	NS	dns4.tld.becloudby.com.
+xn--90ais.				      172800 IN	NS	dns4.tld.becloudby.tech.
 xn--90ais.				      172800 IN	NS	dns7.tld.becloudby.com.
 xn--90ais.				      86400 IN DS	43354 13 2 E3288FD293924279D5C2CDDAAC9875052D0D3CAC2476F03CFD546EA5 12740699
 xn--90ais.				      86400 IN NSEC	xn--9dbq2a. NS DS RRSIG NSEC
