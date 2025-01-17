@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025011701 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250130170000 20250117160000 26470 . P/Uz1skY4EF2r840fVOVH8lS7FgrbCe2zYhHptduE7YO1vMjrbx6m+yx ITtqQO7JgoFGhW4O0nWPhZ/1A14AYcD4/xX90bTSS2ovrLcH6/FxZ469 s7iPhTc9Sf+zcTlNRYgICScREcdao4WetOdIEsdvbT8IFbITJiOyxO36 SIj8xGZpSyci05fCnLCMe3mGoC3ZueVXIrTNsf7d5MkD2OyvMKg/8+2R yN/6OjlPcNh+HfdSClXUPQrLWK92ZXFrY3d2is5PEGEBKPinQMTscNF/ XuJ+qIcg/2VU0DaBUldPfn6f9O7TOEBjR52+8tR98pueROrXbjDc1c4t /fc+ng==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025011702 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250130210000 20250117200000 26470 . DozLJTnSNmkwLkcsAdDj5r7HklfB5QKiOA11kp5uxHC8ljiS/hjFK29x ZRwIRt2wsY6k3/Hagba0MdLEX44INc9ROHFDsofMGVW9obBRzQklb9Dw OvJK85TXqELgsjkYuhQifqlgL6dg/ptIHoN37FBNYZb1xum5WKvStqMq ASzmiMR5cdgrb+bpzR0vo6WePfk9iXvER8Tv0iojVUYCZWJ4bDk7SdEy cjYW7R+u4W4UKLNBiiFtbXfWg68JoXZBdCXzWskanMJcWVu1Lu5qc7EI DwuMfgMxxLGw4P8H28QMlptIDzIylRF4rMlaF1NB9le4BSiQ8jDD3Vk1 L77hUA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250201000000 20250111000000 20326 . SpcnGEovWE8yDo63HScxdtFPdjxN6o7rJqYbv6nUbCtLWN7xuA0wMWvK xQN8+2TdFlc5wK5HPfehsqAh9gbJOa73IolbkT2osEZDH2AHj2qGqoyj /cmgSpP+pAdUqjGx5y4nQDZR5lRHlj3l6A7xoZHdaBwJHtIcVRhLtBFd tlBgYmn7yxAjFJiI0x84g0WfNPengnAPIlaoWlroVo/JJDtPML0/3doZ T9FJlA5a1dbhc4mFy2cBeyjIOkLJq5HZMBGLYQpEr3jNQ4UApD3KXcju Tc9mi7STYJCadbZFaA1EZoAPrciR4p/M61APbaNuC/4Te3/CIFuQbJ7P SPvX9Q==
-.					      86400 IN ZONEMD	2025011701 1 1 74E389079F795B627EFEBF18EE4981991066A39163076EA7BE8755ED 6C5BCE2850DB292E176F8268CA471DC0698D7D1E
+.					      86400 IN ZONEMD	2025011702 1 1 6DC9BB6A7A028700D271F0AC73FAD1644EDF933CA555B03034DC831E BB97B1F58990D1BED4EB398D00DB95C0231E6A9D
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -3312,8 +3312,8 @@ v2n0.nic.casino.			      172800 IN	A	65.22.23.18
 v2n0.nic.casino.			      172800 IN	AAAA	2a01:8840:19::18
 v2n1.nic.casino.			      172800 IN	A	161.232.11.18
 v2n1.nic.casino.			      172800 IN	AAAA	2a01:8840:f5::18
+cat.					      172800 IN	NS	cat.ns.nic.es.
 cat.					      172800 IN	NS	cat.pch.net.
-cat.					      172800 IN	NS	ns1.nic.es.
 cat.					      172800 IN	NS	nsc.nic.de.
 cat.					      172800 IN	NS	anyc1.irondns.net.
 cat.					      172800 IN	NS	switch.nic.cat.
@@ -6079,8 +6079,8 @@ h.nic.es.				      172800 IN	A	194.0.33.53
 h.nic.es.				      172800 IN	AAAA	2001:678:40::53
 ad.ns.nic.es.				      172800 IN	A	194.69.254.15
 ad.ns.nic.es.				      172800 IN	AAAA	2001:67c:21cc:2000::64:47
-ns1.nic.es.				      172800 IN	A	194.69.254.1
-ns1.nic.es.				      172800 IN	AAAA	2001:67c:21cc:2000::64:41
+cat.ns.nic.es.				      172800 IN	A	194.69.254.15
+cat.ns.nic.es.				      172800 IN	AAAA	2001:67c:21cc:2000::64:47
 esq.					      172800 IN	NS	ns-tld1.charlestonroadregistry.com.
 esq.					      172800 IN	NS	ns-tld2.charlestonroadregistry.com.
 esq.					      172800 IN	NS	ns-tld3.charlestonroadregistry.com.
