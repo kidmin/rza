@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025021201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250225170000 20250212160000 26470 . ewDsY7lukF7PMDnRsi+zD5noeRPA19VBkJR6lGctyMTOw2C+7J/dzwEl 1NVWxNRTUsTZpW9oux4oP02+McwV/gDCJ6J/vtmWXavsl5Gbe+BQ/V+G wzUBvCTRkgokUQcd5AI48TO3VQnwTQX+k9SvZp66zxRfjhCMKhJmF3uq YY3FjGZEdSPlN9fevTnO8TdN1nRIhcLi9RTNqBrou+udyOUQpFl9XNTo rqG9vgY0G8vo6Slj5dSLO+hbzV1StrmUa5pkVP4hLI+pjm2rKmbUrQn6 wShVY2Q0N1pta0BKLhlCtbItmf4F1Z4p4csxoNaqEYguse9PiOQm7k/a tK2PSg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025021202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250225210000 20250212200000 26470 . nZhWx96PVdAzw/Gz0jmS2aEN1Es7ucG2Hi4kJyZmstmYISgRnW2/g7F6 aL4DpXTBMxFbU98M1pt+tv+9vMXpIeb0sBfVCr07+g2ZdGcvsMX6R1uh Mn067zRAdoqZH+O5fZVRW+XtmrkaRcVzyxr2jSdzttIEp2ipBT/W46z+ tTOrpxfBO+asESynryBnAVei8IHtARilGXUfAXe+2YM9DeTDdDkTPJ7H EMzFbNiVi2W/1yTS2iDpn325lQXD8O0jxke3ULCeGp6neDWbeXABVBIX c5gPgRHg1OxFOYtlFu6uw+RrlRX3zEbhZUwKmCARyj6+1G9Q1YTIcNOM ahlm+A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250303000000 20250210000000 20326 . ZmOemMGLOMIaulJ6x69cRQw2fXloQIbGRJIBAfey6RVjlI9KFDkuaiaK /GDX1z3VgHM3BFfe5Mt5y3q7bjb4lte/4rKybSu2y9GUUV0AOAPORu46 B5f3nhOpWVlDefHmYhqAgHkPq/qsX27wp+XkNnPuUsjN+Ki+EbmSJCMv CfD3+mzirmtrDLC7hrCwKcBx3vEncFuv+e8xp4V8kHWYMeaEj+PqA9Jr FcDNNLtZPbcgJsCBYia0WQPwVYBKtVlJHzzOR7bjlxkwwaGgtqGm2fUY hl2BsYk8bPmjg2Wj774CWEu7ssM0ynnwP+nDxCK9RJej2mY9cD7SBDEz zVni1w==
-.					      86400 IN ZONEMD	2025021201 1 1 44D2A84B17FEB451F98E3BBE68974041AF755084AC1FFB8388760FD0 370EE5A4CACB4F27B0FB837E5B0E8FF4CD927A74
+.					      86400 IN ZONEMD	2025021202 1 1 43E3726CA55D2E352C0521FA1031A93455AC93DD74D65D6BD4ECE76E F2732C15498F4C99B4A03F6BC5ABC2261368BFFA
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -5791,6 +5791,7 @@ eco.					      172800 IN	NS	a.ns.nic.eco.
 eco.					      172800 IN	NS	b.ns.nic.eco.
 eco.					      172800 IN	NS	c.ns.nic.eco.
 eco.					      172800 IN	NS	d.ns.nic.eco.
+eco.					      86400 IN DS	20969 8 2 D64FDE1CC6A5C7A2AEF1B29A4FBD00C294129C64506AF54A3DF182C9 E658C66C
 eco.					      86400 IN DS	34597 8 2 BCE820D516CFE81DF04C38FBCB7CF80C2ECCC473B57A295948FA50AC 1AFF9800
 eco.					      86400 IN NSEC	edeka. NS DS RRSIG NSEC
 a.ns.nic.eco.				      172800 IN	A	185.159.197.4
@@ -10222,6 +10223,7 @@ kiwi.					      172800 IN	NS	b.ns.nic.kiwi.
 kiwi.					      172800 IN	NS	c.ns.nic.kiwi.
 kiwi.					      172800 IN	NS	d.ns.nic.kiwi.
 kiwi.					      86400 IN DS	28462 8 2 A1C28EF63FE4B2CA5DE823951A0A0EDF27F73601ECA4371DA74B6001 90846F7D
+kiwi.					      86400 IN DS	64594 8 2 653865C0ADA0492012931CA7746A7EC815B9E7681E202F4CE73657AA 79CFE0E9
 kiwi.					      86400 IN NSEC	km. NS DS RRSIG NSEC
 a.ns.nic.kiwi.				      172800 IN	A	185.159.197.1
 a.ns.nic.kiwi.				      172800 IN	AAAA	2620:10a:80aa::1
@@ -12478,15 +12480,25 @@ ns3.nic.mtr.				      172800 IN	A	169.54.247.173
 ns3.nic.mtr.				      172800 IN	AAAA	2607:f0d0:1b02:b9::4
 ns4.nic.mtr.				      172800 IN	A	135.90.90.24
 ns4.nic.mtr.				      172800 IN	AAAA	2401:c900:2101:2a::b
-mu.					      172800 IN	NS	fork.sth.dnsnode.net.
-mu.					      172800 IN	NS	udns1.tld.mu.
-mu.					      172800 IN	NS	udns2.tld.mu.
-mu.					      172800 IN	NS	anycast1.irondns.net.
+mu.					      172800 IN	NS	v0n0.tld.mu.
+mu.					      172800 IN	NS	v0n1.tld.mu.
+mu.					      172800 IN	NS	v0n2.tld.mu.
+mu.					      172800 IN	NS	v0n3.tld.mu.
+mu.					      172800 IN	NS	v2n0.tld.mu.
+mu.					      172800 IN	NS	v2n1.tld.mu.
 mu.					      86400 IN NSEC	museum. NS RRSIG NSEC
-udns1.tld.mu.				      172800 IN	A	204.61.216.10
-udns1.tld.mu.				      172800 IN	AAAA	2001:500:14:6010:ad::1
-udns2.tld.mu.				      172800 IN	A	193.0.9.98
-udns2.tld.mu.				      172800 IN	AAAA	2001:67c:e0::98
+v0n0.tld.mu.				      172800 IN	A	199.254.59.33
+v0n0.tld.mu.				      172800 IN	AAAA	2001:500:25::33
+v0n1.tld.mu.				      172800 IN	A	199.254.60.33
+v0n1.tld.mu.				      172800 IN	AAAA	2001:500:26::33
+v0n2.tld.mu.				      172800 IN	A	199.254.61.33
+v0n2.tld.mu.				      172800 IN	AAAA	2001:500:27::33
+v0n3.tld.mu.				      172800 IN	A	199.254.62.33
+v0n3.tld.mu.				      172800 IN	AAAA	2001:500:28::33
+v2n0.tld.mu.				      172800 IN	A	199.249.116.33
+v2n0.tld.mu.				      172800 IN	AAAA	2001:500:44::33
+v2n1.tld.mu.				      172800 IN	A	199.249.124.33
+v2n1.tld.mu.				      172800 IN	AAAA	2001:500:4c::33
 museum.					      172800 IN	NS	d.nic.fr.
 museum.					      172800 IN	NS	f.ext.nic.fr.
 museum.					      172800 IN	NS	g.ext.nic.fr.
@@ -12524,6 +12536,7 @@ mx.					      172800 IN	NS	i.mx-ns.mx.
 mx.					      172800 IN	NS	m.mx-ns.mx.
 mx.					      172800 IN	NS	o.mx-ns.mx.
 mx.					      172800 IN	NS	x.mx-ns.mx.
+mx.					      86400 IN DS	12884 8 2 250B2B75DF2DF867E7B8E362C52EE6E994D8AA0E4F850DD8BB94099D AEF2461D
 mx.					      86400 IN DS	62752 8 2 1B2F55DBF6CFB9EB66B0963DAA6BBE2CBBDCB851598FEC25EC2CCDC9 A3785A12
 mx.					      86400 IN NSEC	my. NS DS RRSIG NSEC
 c.mx-ns.mx.				      172800 IN	A	192.100.224.1
@@ -12866,8 +12879,6 @@ anyc1.irondns.net.			      172800 IN	A	195.253.64.4
 anyc1.irondns.net.			      172800 IN	AAAA	2a01:5b0:4::4
 anyc2.irondns.net.			      172800 IN	A	195.253.64.7
 anyc2.irondns.net.			      172800 IN	AAAA	2a01:5b0:4::7
-anycast1.irondns.net.			      172800 IN	A	195.253.64.5
-anycast1.irondns.net.			      172800 IN	AAAA	2a01:5b0:4::5
 anycast10.irondns.net.			      172800 IN	A	195.253.64.12
 anycast10.irondns.net.			      172800 IN	AAAA	2a01:5b0:4::c
 anycast23.irondns.net.			      172800 IN	A	195.253.65.11
@@ -18816,6 +18827,7 @@ tube.					      172800 IN	NS	ns1.dns.nic.tube.
 tube.					      172800 IN	NS	ns2.dns.nic.tube.
 tube.					      172800 IN	NS	ns3.dns.nic.tube.
 tube.					      86400 IN DS	52096 8 2 03E03ACED82968F08EBE79B3D8641A366AEB3A9600B6B29671DCE8AF 94492287
+tube.					      86400 IN DS	63079 8 2 F4D6217A7FF5A1E65A2C31FBD8DA3305A4EFE10562C3AB82D459421C 1437B62D
 tube.					      86400 IN NSEC	tui. NS DS RRSIG NSEC
 a.nic.tube.				      172800 IN	A	37.209.192.10
 a.nic.tube.				      172800 IN	AAAA	2001:dcd:1::10
