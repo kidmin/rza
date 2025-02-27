@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025022702 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250312190000 20250227180000 26470 . N0VJl+isinC/o0FFVxaTaTIYohphQ7XU9ZoND6K5+nyB4d3VCj+z5Fvt 7UvxpdYKtrf+xyeoDCyH3hAwYlOGC6C1DDTL8Fj0vRV9+medtyftZv7h oRcbLPZFDybMqFX50Bht05XPCLmA2PRUVp/A8s+Gt6otn0wjz31Bz2NN FGB1A5jQynD7LeP7rnT7/MHMXy7tQuyfS7wVEUeEnlJ23RkSjfrxj8qg w0rmz95Kjp0TjB4s4QCue3DkTGrGyL/X6fsrMP8ZCWaMffGYTPG/RqLg iCyGkbMilhTcJOwMDEvlK8b4oUVGSrPCFMEk8NBtoSYJXF0zVU9zbPed XNT8wA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025022703 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250312220000 20250227210000 26470 . PU8DaKP1jUzuzOYEBl8fxjltL86hzPdlLvDJ/vYySmExd8SfK+Y34qAk 4IUlI04EY3GebMQT35YfPvDFTytkq51aU4CuJU1kcuRAOl63k6keCX40 NmQ2wP5/TVVRNfpEeJ3OjI49K8lqvRbc/K6erQsmRKRt026dYgDGOnGp Uf3UXpzN8MoscC9rkNbolAa90BQVpv0L4VWQz2W8RAASMn2G3i/XROA7 gklYYTa8BZrO7Zs6CPIv82hBy61TYZilLmCq/25E+gXeIuvhDbvMC4K/ dfOMj8lmf93XcYOmIatjNcpl+OSWSDHW0LeQ6NIB/QQX9iWIbv6jBWZB x4+FYw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250313000000 20250220000000 20326 . FMyRymsnPhqor6zY3bJ/HSBTUWTK153PVhaitud5+0o3vEcR3B8Od935 DFj2k/dK1O3LI8444CM9wlq2Gk38maNWrvTOUS7a6155BVCR2z6dmkoQ 1ZOYJ2Btqz8Y1b4nIrkFHIlmqHnn6bs6xmyhVo7zZuY6Up3JSNfzxHk/ KF86uYLVorMOLLE1bNVUTiizhdwDLPRJIvQvwl5lKOydPS6cbbqyCzPL yjAQjeV48RF7DAx2xUFwbgjLILRaHjSlcH9aMdG7q0YSpM9QCx335cpU kjc86wupEmS3QrQ/YB0WW3aXYUtqrvbtrMRpBLbxiriMwi9erfTsLkTA KDgcIA==
-.					      86400 IN ZONEMD	2025022702 1 1 14785215FFC3306720F93A1A8B0A6D66036F371E30DCD6C574BDC348 BCCFA6F4954B3E96728B8C2ECA516CDB82EC762A
+.					      86400 IN ZONEMD	2025022703 1 1 B305ABF406DC43ECF50F831871A8C1A3CDDA12DCA175D8480BB55B8A EDC82DF2AF5942C874F2927FF9A718AC0904E5F0
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -10056,7 +10056,7 @@ kerryhotels.				      172800 IN	NS	a2.nic.kerryhotels.
 kerryhotels.				      172800 IN	NS	b0.nic.kerryhotels.
 kerryhotels.				      172800 IN	NS	c0.nic.kerryhotels.
 kerryhotels.				      86400 IN DS	59119 8 2 CABC1873EC8BC994E11443766B2EB1E6AAAA0F01CA1472B7FF03C4C7 B818838A
-kerryhotels.				      86400 IN NSEC	kerrylogistics. NS DS RRSIG NSEC
+kerryhotels.				      86400 IN NSEC	kerryproperties. NS DS RRSIG NSEC
 a0.nic.kerryhotels.			      172800 IN	A	65.22.112.53
 a0.nic.kerryhotels.			      172800 IN	AAAA	2a01:8840:6e::53
 a2.nic.kerryhotels.			      172800 IN	A	65.22.115.53
@@ -10065,20 +10065,6 @@ b0.nic.kerryhotels.			      172800 IN	A	65.22.113.53
 b0.nic.kerryhotels.			      172800 IN	AAAA	2a01:8840:6f::53
 c0.nic.kerryhotels.			      172800 IN	A	65.22.114.53
 c0.nic.kerryhotels.			      172800 IN	AAAA	2a01:8840:70::53
-kerrylogistics.				      172800 IN	NS	a0.nic.kerrylogistics.
-kerrylogistics.				      172800 IN	NS	a2.nic.kerrylogistics.
-kerrylogistics.				      172800 IN	NS	b0.nic.kerrylogistics.
-kerrylogistics.				      172800 IN	NS	c0.nic.kerrylogistics.
-kerrylogistics.				      86400 IN DS	3604 8 2 2AE824F545E34C607A660D6EEDBD7D2938EE47BCBCC39CF3D269370C 533BBA51
-kerrylogistics.				      86400 IN NSEC	kerryproperties. NS DS RRSIG NSEC
-a0.nic.kerrylogistics.			      172800 IN	A	65.22.112.54
-a0.nic.kerrylogistics.			      172800 IN	AAAA	2a01:8840:6e::54
-a2.nic.kerrylogistics.			      172800 IN	A	65.22.115.54
-a2.nic.kerrylogistics.			      172800 IN	AAAA	2a01:8840:71::54
-b0.nic.kerrylogistics.			      172800 IN	A	65.22.113.54
-b0.nic.kerrylogistics.			      172800 IN	AAAA	2a01:8840:6f::54
-c0.nic.kerrylogistics.			      172800 IN	A	65.22.114.54
-c0.nic.kerrylogistics.			      172800 IN	AAAA	2a01:8840:70::54
 kerryproperties.			      172800 IN	NS	a0.nic.kerryproperties.
 kerryproperties.			      172800 IN	NS	a2.nic.kerryproperties.
 kerryproperties.			      172800 IN	NS	b0.nic.kerryproperties.
@@ -10982,21 +10968,7 @@ link.					      172800 IN	NS	ns01.trs-dns.net.
 link.					      172800 IN	NS	ns01.trs-dns.org.
 link.					      172800 IN	NS	ns01.trs-dns.info.
 link.					      86400 IN DS	16766 13 2 40F1045035D7BA48D27A66442B2C71CA159D219756D3AD4D35CF1E80 419228B5
-link.					      86400 IN NSEC	lipsy. NS DS RRSIG NSEC
-lipsy.					      172800 IN	NS	a0.nic.lipsy.
-lipsy.					      172800 IN	NS	a2.nic.lipsy.
-lipsy.					      172800 IN	NS	b0.nic.lipsy.
-lipsy.					      172800 IN	NS	c0.nic.lipsy.
-lipsy.					      86400 IN DS	14890 8 2 AF1FCD22DC45F40EE44921A2CDB562F28F3412B8E9FD8648DD393282 C29DD449
-lipsy.					      86400 IN NSEC	live. NS DS RRSIG NSEC
-a0.nic.lipsy.				      172800 IN	A	65.22.112.59
-a0.nic.lipsy.				      172800 IN	AAAA	2a01:8840:6e::59
-a2.nic.lipsy.				      172800 IN	A	65.22.115.59
-a2.nic.lipsy.				      172800 IN	AAAA	2a01:8840:71::59
-b0.nic.lipsy.				      172800 IN	A	65.22.113.59
-b0.nic.lipsy.				      172800 IN	AAAA	2a01:8840:6f::59
-c0.nic.lipsy.				      172800 IN	A	65.22.114.59
-c0.nic.lipsy.				      172800 IN	AAAA	2a01:8840:70::59
+link.					      86400 IN NSEC	live. NS DS RRSIG NSEC
 live.					      172800 IN	NS	v0n0.nic.live.
 live.					      172800 IN	NS	v0n1.nic.live.
 live.					      172800 IN	NS	v0n2.nic.live.
