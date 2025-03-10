@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025031001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250323170000 20250310160000 26470 . LW6r5hlwrfN8NW8xkPD+7rXvQqarnDM97nvNq09DoczPMvvYGgZVp/pc zoObv5rpdYbO5KpWhQPvUkcMUlWDrDh+RRaGn2dFBsXedNOYi8jATmAF 0/HCst4yV0XFVKIVTYvrmf3oPXmFX/sHytFNRbX6cLvd0kB7v24lDhus nw/Po9RlH5kyjiHj04Fa2tkWeWwlsSeX97ZCrDtMe6bZmonHtRCilrE1 5J0GSN/OJazIuNE7Avqqae/q7FvKJ0U/b8YJO+r09n5wZCX/8t8gjTzD 6AguHKetNpdFEYUXmy1Cv+frOb26mS3JnDjmCRAmfzaqk4ncN4z3vqQ1 r1+LoQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025031002 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250323200000 20250310190000 26470 . dEhQGcTff6itc2bUBxPGZDjDN/o+dWGWvG/KGYhb2m1+rj/+54oTMKQr w2UxehMNhVWn+HfJbSgOlYt6CUE7xC7PBFpNwXQreYkXAuCcpg6y6kGR 0esc7aAE6AoE7tDRcnQe62GX1sEAkJp/IMvzvnW/WERW0yX5M04TgHt3 KqYfKfDQpaMo2V5IoxacMKrYUV051icmt1yVjHPSqV7VvnMsmehNVygr BJgajvpiPWW9KM9JPmKSDuE5zdZE2inhTFRjw4GydK/nf/BigYtB4pT+ W3fHu6ET7nrumg7hsAoKTiAeAWxaHaP6z40+eBtOr1u5qdeyzT7SXtCU 3a4K4w==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250323000000 20250302000000 20326 . h2OxNX8SQLMC/57VgNagNv9d+/tCinYarNZAvy5Bs/g1WrEEaBFHW32k bqeVHgxM5NfESzS5pi9120r4oFXtoDIfvZJmL3meP5YvL0bpGAUtR94F N4w+LRQQjpMu0+ZEdQSvDfpE16Pz7TWUsL9LxrOcIjm1vQhNzvqWCH7r 3bKQOlelQGRv83aEePTEoIAUcb8jAAvX39uZ9HunN+V0lf2hNLbO4Xdi zVaQP8s1yMkpy+xGz0sRVPaQ0UeRW6ryGjQ5CcEme/vPJEEgiHpic0Wg 6/YE7KR/IlF1oLg1iNhq2SW4M3eberGU7uzmTiKsCHRYF7/sidTGwXsn cWpGMQ==
-.					      86400 IN ZONEMD	2025031001 1 1 9970CD564C6FA906B6DEF4FFA87083B17C60A189376A44FBD4DFBA71 E8C17FC35BD4D91930FDB12052B9DAF5630A80D6
+.					      86400 IN ZONEMD	2025031002 1 1 92CF9658E8061C4E41298E9909BD75B12EA2EA1FB6C6F7D6F81F9046 F931599115B1177C5DDC4ACF2B7DD56566FA2E2E
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -15852,7 +15852,6 @@ sa.					      172800 IN	NS	m2.dns.sa.
 sa.					      172800 IN	NS	n1.dns.sa.
 sa.					      172800 IN	NS	p1.dns.sa.
 sa.					      172800 IN	NS	s1.dns.sa.
-sa.					      172800 IN	NS	s2.dns.sa.
 sa.					      172800 IN	NS	sh1.dns.sa.
 sa.					      86400 IN DS	62932 8 2 2E80B1231D370F4933A26F19487946EACA1DB9D41A53831C2A9E7336 8BBBAAB5
 sa.					      86400 IN NSEC	saarland. NS DS RRSIG NSEC
@@ -15872,8 +15871,6 @@ p1.dns.sa.				      172800 IN	A	204.61.216.41
 p1.dns.sa.				      172800 IN	AAAA	2001:500:14:6041:ad::1
 s1.dns.sa.				      172800 IN	A	37.107.223.170
 s1.dns.sa.				      172800 IN	AAAA	2001:16a0:1:3002::2
-s2.dns.sa.				      172800 IN	A	37.107.255.170
-s2.dns.sa.				      172800 IN	AAAA	2001:16a0:2:3002::2
 sh1.dns.sa.				      172800 IN	A	213.236.36.92
 sh1.dns.sa.				      172800 IN	AAAA	2a02:d70:64:68::2
 saarland.				      172800 IN	NS	a.nic.saarland.
@@ -21473,7 +21470,6 @@ xn--mgberp4a5d4ar.			      172800 IN	NS	m2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	s1.dns.sa.
-xn--mgberp4a5d4ar.			      172800 IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	sh1.dns.sa.
 xn--mgberp4a5d4ar.			      86400 IN DS	51067 8 2 71A90D5298B157332CF6DC7BC2105982054A8D5F5C74C67DEBBBEE3A FBE114D3
 xn--mgberp4a5d4ar.			      86400 IN NSEC	xn--mgbgu82a. NS DS RRSIG NSEC
