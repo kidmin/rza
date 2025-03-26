@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025032601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250408140000 20250326130000 26470 . aEdzmHzhySUg0dRGUTw1LswxZRS9d7PzhNGOFF8ji3dMVXDSPq8yBH6T eJsDc7hgt1gxdmO/2C8U9NLe6DZf0c77/sFNyE5PmfYPkmqrjEF/DeLf LzTAxpoFHZ03WJ4xiXGh/LUgrUc4PRjOcemut0Fg62Oidvf8bLVqBu/K qxY645ExYvL+IOLqH7l4pM4DNHeVDhBDGn0nT2Xf0qaNc2fPALzzY2Bg vejQnJQp9ZlxscABnun3KQzCQI1toiEdwya+PqkPmMzu+YSwf1ZryeJz fbMKKPWCVCCvr0d6N/PvP5+cmWlRUY6Q7QJJTGT6491eIbv51SAtTXFl 5YRVmg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025032602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250408200000 20250326190000 26470 . Mvf3ZK2dLjUBYbjSeuGplQsf6y/2cVPzlTWczal/0qXzDKqThDDTikMr J60nIJ4I9Vn6RTryAqUU8m/UBBsVWWUMIkXyo1HLMz68rmkzhmWDqAW3 xe4j0sp2GpMxiC796/JHi2sVsOd5Q0aP54esHRbhGSakabiu8owhS9tt s6G5SQILIwn1jufe6vq79NClFIsp0NLIsftPbaPPMub8j7zo27fW42zZ RctZOrI4hc1jfazafoOMC/IO51/J+g/dKJJuwrWSj3ayiBcGIxHwoTPZ n1uRBGLMws9guJn9JSGe4Kx3tGIXwQwqRZCvOsB6bhHSXjOrByEt8Ra9 vKmwcw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250412000000 20250322000000 20326 . b2kcHcO2v3F/EEvNO86YQXeOTVzFdOgE2DfKaLv76yf5ysmz+W2/2Nyk 8c6l+JRyclrKXPeWjI2k6E2MneyTCXosQLDMXxw/aQ+lxVWJzBqC1c5r tlTD11cbYV1KQQl/AIdrKheI5FMmmwi7e+LV7pN9MV1Q7oImWQoRpCjh wic3zBmLUs3wUc2hb6nBswUQsecqOxkBQeqfCb8tOwiylzr8rg5G7dTe YzMtpJqSOoL/QfsuoQrGNZOEkMHKesbg8FP+tCF/iQpWU1zLpZ/jB7sF 0C/FJFo9dKn6lzPKvL+VoJfrNO7GcXUspveBZUXlSbFlcbw8QmVmVxjA vHcrtg==
-.					      86400 IN ZONEMD	2025032601 1 1 28704D8E7A654401621CEB7F6238A28ABC4A92D2270476AA727D1F6B 6D544F47FB00D09E4DB082F68A0E391F00853CD3
+.					      86400 IN ZONEMD	2025032602 1 1 FBBF0FD4A62D55FA0BCF319B634DFC67B838CA4644E1F1E36CF800E0 7B98753B4FAE09D90C8BB99CDA78F19ED3B90CFE
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -16776,7 +16776,6 @@ si.					      172800 IN	NS	i.dns.si.
 si.					      172800 IN	NS	k.dns.si.
 si.					      172800 IN	NS	l.dns.si.
 si.					      86400 IN DS	1635 13 2 C2977306E3439D4F8D40A1A7F5DEA9E93A408C9FB3C5AA32BAD08FEB F0EB848B
-si.					      86400 IN DS	39905 8 2 870232FE9BCD2671DE9D5FA3513269507CCE116D2D8DB5CE54B3ED05 B638E11F
 si.					      86400 IN NSEC	silk. NS DS RRSIG NSEC
 b.dns.si.				      172800 IN	A	153.5.81.140
 b.dns.si.				      172800 IN	AAAA	2001:1470:8000:53::44
@@ -18780,20 +18779,13 @@ pch.nic.tt.				      172800 IN	A	204.61.216.63
 pch.nic.tt.				      172800 IN	AAAA	2001:500:14:6063:ad::1
 ripe.nic.tt.				      172800 IN	A	193.0.9.50
 ripe.nic.tt.				      172800 IN	AAAA	2001:67c:e0::50
-tube.					      172800 IN	NS	a.nic.tube.
-tube.					      172800 IN	NS	ns1.dns.nic.tube.
-tube.					      172800 IN	NS	ns2.dns.nic.tube.
 tube.					      172800 IN	NS	anycast9.irondns.net.
+tube.					      172800 IN	NS	anycast10.irondns.net.
 tube.					      172800 IN	NS	anycast23.irondns.net.
+tube.					      172800 IN	NS	anycast24.irondns.net.
 tube.					      86400 IN DS	52096 8 2 03E03ACED82968F08EBE79B3D8641A366AEB3A9600B6B29671DCE8AF 94492287
 tube.					      86400 IN DS	63079 8 2 F4D6217A7FF5A1E65A2C31FBD8DA3305A4EFE10562C3AB82D459421C 1437B62D
 tube.					      86400 IN NSEC	tui. NS DS RRSIG NSEC
-a.nic.tube.				      172800 IN	A	37.209.192.10
-a.nic.tube.				      172800 IN	AAAA	2001:dcd:1::10
-ns1.dns.nic.tube.			      172800 IN	A	156.154.169.80
-ns1.dns.nic.tube.			      172800 IN	AAAA	2610:a1:1071::1:50
-ns2.dns.nic.tube.			      172800 IN	A	156.154.170.80
-ns2.dns.nic.tube.			      172800 IN	AAAA	2610:a1:1072::1:50
 tui.					      172800 IN	NS	a.nic.tui.
 tui.					      172800 IN	NS	b.nic.tui.
 tui.					      172800 IN	NS	c.nic.tui.
