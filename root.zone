@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025041900 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250502050000 20250419040000 53148 . C44hXkOEwfIK7FIpE9p2H3dTcwmUu33pkD/8UeNn1JKv1WdLI3LzaJc/ Rjpaa727cXTNPmhifzOvprkmHbieaHAmD8sXmyC53QyYkaf8bl7JrXkY hJR51KErvJBoMbr2SJETviSnbXypssLUwVjfCrz5aVrbo9JEK8rp/nyD Yey8MSaSsss2Z9zMYGHqH2oUDo1sTjvGjC3nt3NqCoui0CIqPGY7gNuu yZoeMJqXbx8o1zZQhVVMQmoFkMAyM/j0gKJOng21EAqQgKfH+Rez7Z4T ezuSlmgOuUHp80tjErAn5ZUlBrAsg+2w4NCpEvLZTwpmdtK9o5Mm6GYz Kk7v2Q==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025041901 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250502110000 20250419100000 53148 . MzLQSVpJfBrfiSqSjYYZTZctOn+2D/efNpAl1kRmgf/qfB32YGoAvUQC BELUuO3kFWnbbfFbM5vjiU2X8j0UjhDjFYBkFtBxU+L4cMgGwaYCiIS4 j/x4oNItYCrt3OEPL7dx2qmzYgDRLkOAQw4YCN163JV1TVQ8P9jb722X brKXmcU2VCp687jL+RtyioYUMylX5Je+sCJXpkmEbDb90QNLNKoZUzjp CvHFxpL0lw/P2QqXfA/jOXyBAMDkV2Z9Dd/l/VSydz4zokyRAyS3HFcc pBcRL1LH3S9wQwbj+AT4g2QUDFumUL2yudy05QKUYgb7TlFGRRzluGhj XapoAg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250502000000 20250411000000 20326 . MXk19CR8RYvMVdyjDkPzhMKfxFR67/eLn7L9grrlA9L2Cw1Y9O6xAMw+ NZ4iJs4sYiLpMoo5GJvsTXc7W/q6UYr5j69SzHXacBM+l+9r93gS71Y7 vj1T9zEEWzq44LOGY2FAzfvBUtuVrLj/rN+d4hn13upjthufaJ2uH0AM IQ3CEAFhYW3g627IkFMfNwO7FHxYi3Fb+jKB2F8p15IWQPGqMt9ykF2p dPMwLx/4dpLt7kIhNQ5fsI6CgiMUt+ArW66ToNQvLx3QBbaAxqZO9AEc 4Oli5GXJuHA8j4XQ3Mi9fLR1q7L99zmptwWYgUX145DVk4BRNndyV8eN Clv8/w==
-.					      86400 IN ZONEMD	2025041900 1 1 A30F6EBA64CBF128B41216049CFDDF780D42C56DB0E43B085DE16565 CC8770B2B873873C239A65318ACE829E48C72E23
+.					      86400 IN ZONEMD	2025041901 1 1 5F28104B783305553178DA0ABA1DDB44ADADC60E86886CB3AF020881 B9C34D8BECC2F65140BDCF93151F52EF61A592BA
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2275,9 +2275,12 @@ b0.nic.blockbuster.			      172800 IN	A	65.22.93.25
 b0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5b::25
 c0.nic.blockbuster.			      172800 IN	A	65.22.94.25
 c0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5c::25
+blog.					      172800 IN	NS	a.ns.nic.blog.
 blog.					      172800 IN	NS	a.nic.blog.
+blog.					      172800 IN	NS	b.ns.nic.blog.
 blog.					      172800 IN	NS	b.nic.blog.
 blog.					      172800 IN	NS	c.nic.blog.
+blog.					      172800 IN	NS	d.ns.nic.blog.
 blog.					      172800 IN	NS	d.nic.blog.
 blog.					      86400 IN DS	6766 8 2 65581CC0C38868BB708CB1C981F61B8D332C201A9A25B71DCB91AE99 59443C32
 blog.					      86400 IN DS	17455 8 2 C0D6CD12FCB746BB819DF417DFA43ED0D4227BD62195F749537AF85A 939D2A21
@@ -2290,6 +2293,12 @@ c.nic.blog.				      172800 IN	A	212.18.248.94
 c.nic.blog.				      172800 IN	AAAA	2a04:2b00:13ee::94
 d.nic.blog.				      172800 IN	A	212.18.249.94
 d.nic.blog.				      172800 IN	AAAA	2a04:2b00:13ff::94
+a.ns.nic.blog.				      172800 IN	A	185.159.197.9
+a.ns.nic.blog.				      172800 IN	AAAA	2620:10a:80aa::9
+b.ns.nic.blog.				      172800 IN	A	185.159.198.9
+b.ns.nic.blog.				      172800 IN	AAAA	2620:10a:80ab::9
+d.ns.nic.blog.				      172800 IN	A	185.159.199.9
+d.ns.nic.blog.				      172800 IN	AAAA	2620:10a:80ac::9
 bloomberg.				      172800 IN	NS	v0n0.nic.bloomberg.
 bloomberg.				      172800 IN	NS	v0n1.nic.bloomberg.
 bloomberg.				      172800 IN	NS	v0n2.nic.bloomberg.
