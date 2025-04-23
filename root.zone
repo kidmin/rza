@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025042300 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250506050000 20250423040000 53148 . JPnp73SyFdAcomtZCiFaDSilORPkjoWV/wDnMBCzsIE4oHOzsRwCZ9qe JtcCa9QYSEuCRY4UA715Z355F+6yGAQG5szFTG94xMfxOzW60siq2vfo ZN4UFqJd4sSW9C8UKJOfh8OmbpeSqqIyY1NygXLMyH6ZX1lKK5IwqJJT wxGsbX9LOg+M6aIFKu1GQDJiihb1DHSsniGftY9uXJPea7IfBQqsHLdf iqz1E5/+yHuO2qUML6pw4w74SVmn25EEpku7TrpcXL3UclIUTbKvCMGF /Fj2KIVWNZZICcZ+LeaMa6JOjLOvLXo7stYmFTDTrOOODPf8zXykU4am 0dGc6w==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025042301 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250506170000 20250423160000 53148 . bPKOnvOk5/RuEMITjikG3IttBaMQCkrZXYraxOTufQIm90M2mMt3MA77 dlF+KTJE74hGF1gbPXgRNdrjeggWKPtSxd3drjgCgSzV+Gwhsbi17Avi /sXlVulq6rIC39i2xbEOyUWUs+9WjWOByHKnLiv+FrL6r7Q5T+i1bkAN W6eoWuuGnTKVNMZ3dJ871QCfL07qU/aFiuOBmcpNit8/ANJ34xhtm+VW wc+JxjlYeRnoRdVFeO2Awp4w6i9ku4pjH3YUQ6sg+twrLBLrGkKANBdK Gx+kfnabS8q2o90S+DxOBL5j4pmEtt2DFLi+cPxiDNVs3vwkaj8CbDbx +lc9cg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250512000000 20250421000000 20326 . d57ThXzGZNbeW1yPlvFiOt+aiFXSHAsVopf8jxG/JBBNh6Hko6Ey94OI 82FSawKHQoc63C7Gt2sDZ4HDn6anc8jy5U4E47VDka/vxOCubiJbD+tU 62ADZxENh0mHr/jwODZ1kwbtfFZK2LYoqF2FiDswIFLZ0serEa73QKNZ HPnGOuZgeQMJyBNjovFfAYfLQnOeDHjMTlfp6Ly0l5w+OqS37KjkdXvM Ud4Mi4ls1PNAPq3OyB2QgCcigUtrjx0Bxuu/4yVVCkRyGaa4L3tI9yID TCHI2+gI48DpxZaN602BJvVgJDaSIqJ5F4I02bJWuI4ksAxB9Pdsae3J eU5ZbQ==
-.					      86400 IN ZONEMD	2025042300 1 1 935C4B4E62947E2B12C700D6E3DD906C01B6BFC3BAB2BBE38E0054A6 C2D8F427E31DA6FD76CA963A4B498EE7C0CDF80F
+.					      86400 IN ZONEMD	2025042301 1 1 64745883882ECA542580D527C5C9532C9CCD115B75A0DA72152CAE4F ACA021C3F1B34628DA1BFA6C873457F12D465621
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1916,7 +1916,7 @@ beer.					      172800 IN	NS	x.nic.beer.
 beer.					      172800 IN	NS	y.nic.beer.
 beer.					      172800 IN	NS	z.nic.beer.
 beer.					      86400 IN DS	39367 8 2 32940AB06D3524457F9DDEAD6C3C0C76729EEC27C5CC02244CEA24E9 FD9E47F4
-beer.					      86400 IN NSEC	bentley. NS DS RRSIG NSEC
+beer.					      86400 IN NSEC	berlin. NS DS RRSIG NSEC
 a.nic.beer.				      172800 IN	A	37.209.192.10
 a.nic.beer.				      172800 IN	AAAA	2001:dcd:1::10
 b.nic.beer.				      172800 IN	A	37.209.194.10
@@ -1929,32 +1929,6 @@ y.nic.beer.				      172800 IN	A	156.154.173.82
 y.nic.beer.				      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.beer.				      172800 IN	A	156.154.174.82
 z.nic.beer.				      172800 IN	AAAA	2610:a1:1076::1:82
-bentley.				      172800 IN	NS	dns1.nic.bentley.
-bentley.				      172800 IN	NS	dns2.nic.bentley.
-bentley.				      172800 IN	NS	dns3.nic.bentley.
-bentley.				      172800 IN	NS	dns4.nic.bentley.
-bentley.				      172800 IN	NS	dnsa.nic.bentley.
-bentley.				      172800 IN	NS	dnsb.nic.bentley.
-bentley.				      172800 IN	NS	dnsc.nic.bentley.
-bentley.				      172800 IN	NS	dnsd.nic.bentley.
-bentley.				      86400 IN DS	56257 8 2 CF15159EC1841AE2CF91D95B5889EB14574EFBCFB069132903E02534 5A39AF7B
-bentley.				      86400 IN NSEC	berlin. NS DS RRSIG NSEC
-dns1.nic.bentley.			      172800 IN	A	213.248.219.5
-dns1.nic.bentley.			      172800 IN	AAAA	2a01:618:403::5
-dns2.nic.bentley.			      172800 IN	A	103.49.83.5
-dns2.nic.bentley.			      172800 IN	AAAA	2401:fd80:403::5
-dns3.nic.bentley.			      172800 IN	A	213.248.223.5
-dns3.nic.bentley.			      172800 IN	AAAA	2a01:618:407::5
-dns4.nic.bentley.			      172800 IN	A	43.230.51.5
-dns4.nic.bentley.			      172800 IN	AAAA	2401:fd80:407::5
-dnsa.nic.bentley.			      172800 IN	A	156.154.100.3
-dnsa.nic.bentley.			      172800 IN	AAAA	2001:502:ad09::3
-dnsb.nic.bentley.			      172800 IN	A	156.154.101.3
-dnsb.nic.bentley.			      172800 IN	AAAA	2001:502:2eda::3
-dnsc.nic.bentley.			      172800 IN	A	156.154.102.3
-dnsc.nic.bentley.			      172800 IN	AAAA	2610:a1:1009::3
-dnsd.nic.bentley.			      172800 IN	A	156.154.103.3
-dnsd.nic.bentley.			      172800 IN	AAAA	2610:a1:1010::3
 berlin.					      172800 IN	NS	a.dns.nic.berlin.
 berlin.					      172800 IN	NS	m.dns.nic.berlin.
 berlin.					      172800 IN	NS	n.dns.nic.berlin.
@@ -2276,23 +2250,11 @@ b0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5b::25
 c0.nic.blockbuster.			      172800 IN	A	65.22.94.25
 c0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5c::25
 blog.					      172800 IN	NS	a.ns.nic.blog.
-blog.					      172800 IN	NS	a.nic.blog.
 blog.					      172800 IN	NS	b.ns.nic.blog.
-blog.					      172800 IN	NS	b.nic.blog.
-blog.					      172800 IN	NS	c.nic.blog.
 blog.					      172800 IN	NS	d.ns.nic.blog.
-blog.					      172800 IN	NS	d.nic.blog.
 blog.					      86400 IN DS	6766 8 2 65581CC0C38868BB708CB1C981F61B8D332C201A9A25B71DCB91AE99 59443C32
 blog.					      86400 IN DS	17455 8 2 C0D6CD12FCB746BB819DF417DFA43ED0D4227BD62195F749537AF85A 939D2A21
 blog.					      86400 IN NSEC	bloomberg. NS DS RRSIG NSEC
-a.nic.blog.				      172800 IN	A	194.169.218.94
-a.nic.blog.				      172800 IN	AAAA	2001:67c:13cc::1:94
-b.nic.blog.				      172800 IN	A	185.24.64.94
-b.nic.blog.				      172800 IN	AAAA	2a04:2b00:13cc::1:94
-c.nic.blog.				      172800 IN	A	212.18.248.94
-c.nic.blog.				      172800 IN	AAAA	2a04:2b00:13ee::94
-d.nic.blog.				      172800 IN	A	212.18.249.94
-d.nic.blog.				      172800 IN	AAAA	2a04:2b00:13ff::94
 a.ns.nic.blog.				      172800 IN	A	185.159.197.9
 a.ns.nic.blog.				      172800 IN	AAAA	2620:10a:80aa::9
 b.ns.nic.blog.				      172800 IN	A	185.159.198.9
@@ -4030,7 +3992,8 @@ cm.					      172800 IN	NS	ns-cm.nic.fr.
 cm.					      172800 IN	NS	ns-cm.afrinic.net.
 cm.					      172800 IN	NS	auth02.ns.uu.net.
 cm.					      172800 IN	NS	phloem.uoregon.edu.
-cm.					      86400 IN NSEC	cn. NS RRSIG NSEC
+cm.					      86400 IN DS	45784 13 2 BC03884AE075280B78A03306EBCD816E29E014A74247C68887FF1B37 D22F81F5
+cm.					      86400 IN NSEC	cn. NS DS RRSIG NSEC
 ns1.nic.cm.				      172800 IN	A	195.24.205.60
 ns2.nic.cm.				      172800 IN	A	195.24.205.61
 cn.					      172800 IN	NS	a.dns.cn.
