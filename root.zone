@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025042901 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250512170000 20250429160000 53148 . Ul4b39xuvmQeX775c+mElQwG21s0wHP0kLLcZ0W7jba0wju3HewRJDwi B0vedGa1unGkdhlLKzivjjkPNjRxfmgw0C+1K+PUSVZctIwaSOBbamla m1tWpSkZb7BjvCS7zNw21NW85XuBTLmHyDv7ZV8fls94yaBamF18BsAW 5JtWcg7doNbsV2DcmvjSQTqp4SyB9XYDFGx42LKJS7F0GEj7xdcXaGCz Q6nTx/gLFx1YFym3aZMowlxEwp3x3HobXBEhxvpd1Jg3jZz3oqPDwjwq w5HkaAKXupqsXlae3HItLUwvr7vFNZQweEHfcnyGNVU38b/s6/+ntFGe M+AfAg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025042902 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250512200000 20250429190000 53148 . CNRIaS9cTLZHRhGJ+8AU1j4U+PBDYJyjV4aNW3q7o986O5m5s/99cuii y23Nimvtt+oZiWpY92IjkxF/CFHE2ZelQs0WK/SlCgdMpaYsksDKYtmQ teiIc2bTOBqqxcWuaL7QPRRqhQC/McG3/yRqz/F96axqkxvidGGmBxle yGu2C48UnWaHwJlkNGrOzmmhk0u3pnG897LM0vU9TEyGyieZphrrgLFp TrtrlRVgpBjER0gjHmuDyWliG8d8gICPidQNnZ0l/S3UAL/XKytu2uaE 986aVk2v0h/hC4nt48CePShHri0GpPwqy72XAVKM+SwBBnYk+DSPkOZh llA6qw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250512000000 20250421000000 20326 . d57ThXzGZNbeW1yPlvFiOt+aiFXSHAsVopf8jxG/JBBNh6Hko6Ey94OI 82FSawKHQoc63C7Gt2sDZ4HDn6anc8jy5U4E47VDka/vxOCubiJbD+tU 62ADZxENh0mHr/jwODZ1kwbtfFZK2LYoqF2FiDswIFLZ0serEa73QKNZ HPnGOuZgeQMJyBNjovFfAYfLQnOeDHjMTlfp6Ly0l5w+OqS37KjkdXvM Ud4Mi4ls1PNAPq3OyB2QgCcigUtrjx0Bxuu/4yVVCkRyGaa4L3tI9yID TCHI2+gI48DpxZaN602BJvVgJDaSIqJ5F4I02bJWuI4ksAxB9Pdsae3J eU5ZbQ==
-.					      86400 IN ZONEMD	2025042901 1 1 CDD51FA759AA0C98FC22C3C08B923AE9AEA516D04C679C38C62AE3FF 13A6DEAF2E95649945691EDE50A4F57A612ADD5B
+.					      86400 IN ZONEMD	2025042902 1 1 CD62F8E7F2C273F6585825BDF44BB922A46496A9985D6D8BBED643BB 0198BE9337AAFF568A0E861EF3023804CB8C591F
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -7046,8 +7046,6 @@ f.ext.nic.fr.				      172800 IN	A	194.146.106.46
 f.ext.nic.fr.				      172800 IN	AAAA	2001:67c:1010:11::53
 g.ext.nic.fr.				      172800 IN	A	194.0.36.1
 g.ext.nic.fr.				      172800 IN	AAAA	2001:678:4c::1
-h.ext.nic.fr.				      172800 IN	A	195.253.66.2
-h.ext.nic.fr.				      172800 IN	AAAA	2a01:5b0:6::2
 ci.hosting.nic.fr.			      172800 IN	A	192.134.0.49
 ci.hosting.nic.fr.			      172800 IN	AAAA	2001:660:3006:1::1:1
 ns-bf.nic.fr.				      172800 IN	A	194.0.9.1
@@ -10407,7 +10405,7 @@ lamer.					      172800 IN	NS	a2.nic.lamer.
 lamer.					      172800 IN	NS	b0.nic.lamer.
 lamer.					      172800 IN	NS	c0.nic.lamer.
 lamer.					      86400 IN DS	59092 8 2 F92E0E3F77B71FC4D1D69D18D013EEDCEF963C1C889B7DD1CFCE17A7 E4E5B1C8
-lamer.					      86400 IN NSEC	lancaster. NS DS RRSIG NSEC
+lamer.					      86400 IN NSEC	land. NS DS RRSIG NSEC
 a0.nic.lamer.				      172800 IN	A	65.22.52.25
 a0.nic.lamer.				      172800 IN	AAAA	2a01:8840:32::25
 a2.nic.lamer.				      172800 IN	A	65.22.55.25
@@ -10416,11 +10414,6 @@ b0.nic.lamer.				      172800 IN	A	65.22.53.25
 b0.nic.lamer.				      172800 IN	AAAA	2a01:8840:33::25
 c0.nic.lamer.				      172800 IN	A	65.22.54.25
 c0.nic.lamer.				      172800 IN	AAAA	2a01:8840:34::25
-lancaster.				      172800 IN	NS	d.nic.fr.
-lancaster.				      172800 IN	NS	f.ext.nic.fr.
-lancaster.				      172800 IN	NS	g.ext.nic.fr.
-lancaster.				      86400 IN DS	13478 13 2 BFBD5142E935C01A65A186D56F01124D6832AC3CDC6EDE681F50A12F F9C73EAD
-lancaster.				      86400 IN NSEC	land. NS DS RRSIG NSEC
 land.					      172800 IN	NS	v0n0.nic.land.
 land.					      172800 IN	NS	v0n1.nic.land.
 land.					      172800 IN	NS	v0n2.nic.land.
@@ -13926,7 +13919,6 @@ panasonic.				      86400 IN NSEC	paris. NS DS RRSIG NSEC
 paris.					      172800 IN	NS	d.nic.fr.
 paris.					      172800 IN	NS	f.ext.nic.fr.
 paris.					      172800 IN	NS	g.ext.nic.fr.
-paris.					      172800 IN	NS	h.ext.nic.fr.
 paris.					      86400 IN DS	29441 13 2 2A63E38EB019AD4300A2D9533FAE0DB139328CEFFD0861CD8DB1C401 CA0258D9
 paris.					      86400 IN NSEC	pars. NS DS RRSIG NSEC
 pars.					      172800 IN	NS	dns1.emdns.uk.
