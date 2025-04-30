@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025043001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250513170000 20250430160000 53148 . Pa47jmbfyLhG2qUpGhq0o9FRoNtR/VrCMUmPDURgeAnY6wzp21AkFkfP NDALyBIrUNycmRRDhxPz/l70AvkrVD9Zr03KHOHdcNM3A7aYi1f4t8XN mQ/QxySJD+1s+y7r8wjitslYEJ/MiSgTZCKAp66dVHqP18LETN3bTcse xCZdQR48NkhfDCEJ6VbjehWgaIWlcOUfexRW5cfN375BK/iRdwSmEK6L YkzyCSmtRNxVi/2nFyZi6g5wQJsfAnHAHwro7feRbFzuZ3AnSgF5SKqU bmJQsC2lElRQ5XyLDQKRuwPwwpl29BCdd0GfEuSn6OxEqPrS32MCy8T6 SdFYUg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025043002 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250513200000 20250430190000 53148 . ljRfjed1Aq7jSQyccnr8aj9G+VL/OiVVhXoQ3VmO/7GByebBTRKvcRpR qhmS/aXQQ+0vduPo4ZE4uGNh5nDjzPgmWkJoGzGvm+iJK1s8sdr09xlk Z9Lc0YS/xrG7CsWzrAqKR8/TA4vqsYbOx9eKaTeH1zXewYSduZWyAhp3 hDwnQ/5LmnyEtDlNfYHz5gu3yoeXq06uTKW6ETxDr9CSKCnI4VD94HZq T/rqz236pD6wNarXzCZGYdoP34TpxIuOvm9FUfQSoTjbkbODfW95K0E+ bZdXmOwF7YH+s8LVnQlmeQAlV/YXyrAMVxy2uN8zC4DFrC5IN+c9lYfn at2ckg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250512000000 20250421000000 20326 . d57ThXzGZNbeW1yPlvFiOt+aiFXSHAsVopf8jxG/JBBNh6Hko6Ey94OI 82FSawKHQoc63C7Gt2sDZ4HDn6anc8jy5U4E47VDka/vxOCubiJbD+tU 62ADZxENh0mHr/jwODZ1kwbtfFZK2LYoqF2FiDswIFLZ0serEa73QKNZ HPnGOuZgeQMJyBNjovFfAYfLQnOeDHjMTlfp6Ly0l5w+OqS37KjkdXvM Ud4Mi4ls1PNAPq3OyB2QgCcigUtrjx0Bxuu/4yVVCkRyGaa4L3tI9yID TCHI2+gI48DpxZaN602BJvVgJDaSIqJ5F4I02bJWuI4ksAxB9Pdsae3J eU5ZbQ==
-.					      86400 IN ZONEMD	2025043001 1 1 2DFEFFC6CF699D2CB6614955ADD3A2C9C3BCB2EF00D35759F96A9002 A5DB4F579C83840521A22C98712CF6B96B224960
+.					      86400 IN ZONEMD	2025043002 1 1 097A977EA982D648CEC582C3A3CD064B8DE911CBC3E93DA6074FC2D8 8C566A776E01AD961E5A01B877CF61AA7E48A8AC
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1989,7 +1989,8 @@ bf.					      172800 IN	NS	a.registre.bf.
 bf.					      172800 IN	NS	pch.ns.registre.bf.
 bf.					      172800 IN	NS	ns-bf.nic.fr.
 bf.					      172800 IN	NS	dns-tld.ird.fr.
-bf.					      86400 IN NSEC	bg. NS RRSIG NSEC
+bf.					      86400 IN DS	59875 13 2 FE5713C51EAFD6B7117AC4B7D1D6EA7C6085EB66FE1021235986622D DCF34DCE
+bf.					      86400 IN NSEC	bg. NS DS RRSIG NSEC
 a.registre.bf.				      172800 IN	A	212.52.146.50
 pch.ns.registre.bf.			      172800 IN	A	204.61.216.141
 pch.ns.registre.bf.			      172800 IN	AAAA	2001:500:14:6141:ad::1
@@ -5395,27 +5396,27 @@ v2n0.nic.discount.			      172800 IN	A	65.22.31.57
 v2n0.nic.discount.			      172800 IN	AAAA	2a01:8840:21::57
 v2n1.nic.discount.			      172800 IN	A	161.232.15.57
 v2n1.nic.discount.			      172800 IN	AAAA	2a01:8840:f9::57
-discover.				      172800 IN	NS	a.nic.discover.
-discover.				      172800 IN	NS	b.nic.discover.
-discover.				      172800 IN	NS	c.nic.discover.
-discover.				      172800 IN	NS	ns1.dns.nic.discover.
-discover.				      172800 IN	NS	ns2.dns.nic.discover.
-discover.				      172800 IN	NS	ns3.dns.nic.discover.
+discover.				      172800 IN	NS	v0n0.nic.discover.
+discover.				      172800 IN	NS	v0n1.nic.discover.
+discover.				      172800 IN	NS	v0n2.nic.discover.
+discover.				      172800 IN	NS	v0n3.nic.discover.
+discover.				      172800 IN	NS	v2n0.nic.discover.
+discover.				      172800 IN	NS	v2n1.nic.discover.
 discover.				      86400 IN DS	4225 8 2 D90804DC84C5E0542F8DA2011BABD12624318D1992483525EC125125 CD576553
 discover.				      86400 IN DS	11395 8 2 47124D6ED5EC3C86D3C52D6B2A4E60471E84227E9B6D8C16A6F85723 C9F5F072
 discover.				      86400 IN NSEC	dish. NS DS RRSIG NSEC
-a.nic.discover.				      172800 IN	A	37.209.192.9
-a.nic.discover.				      172800 IN	AAAA	2001:dcd:1::9
-b.nic.discover.				      172800 IN	A	37.209.194.9
-b.nic.discover.				      172800 IN	AAAA	2001:dcd:2::9
-c.nic.discover.				      172800 IN	A	37.209.196.9
-c.nic.discover.				      172800 IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.discover.			      172800 IN	A	156.154.144.48
-ns1.dns.nic.discover.			      172800 IN	AAAA	2610:a1:1071::30
-ns2.dns.nic.discover.			      172800 IN	A	156.154.145.48
-ns2.dns.nic.discover.			      172800 IN	AAAA	2610:a1:1072::30
-ns3.dns.nic.discover.			      172800 IN	A	156.154.159.48
-ns3.dns.nic.discover.			      172800 IN	AAAA	2610:a1:1073::30
+v0n0.nic.discover.			      172800 IN	A	65.22.108.30
+v0n0.nic.discover.			      172800 IN	AAAA	2a01:8840:6a::30
+v0n1.nic.discover.			      172800 IN	A	65.22.109.30
+v0n1.nic.discover.			      172800 IN	AAAA	2a01:8840:6b::30
+v0n2.nic.discover.			      172800 IN	A	65.22.110.30
+v0n2.nic.discover.			      172800 IN	AAAA	2a01:8840:6c::30
+v0n3.nic.discover.			      172800 IN	A	161.232.32.30
+v0n3.nic.discover.			      172800 IN	AAAA	2a01:8840:108::30
+v2n0.nic.discover.			      172800 IN	A	65.22.111.30
+v2n0.nic.discover.			      172800 IN	AAAA	2a01:8840:6d::30
+v2n1.nic.discover.			      172800 IN	A	161.232.33.30
+v2n1.nic.discover.			      172800 IN	AAAA	2a01:8840:109::30
 dish.					      172800 IN	NS	a0.nic.dish.
 dish.					      172800 IN	NS	a2.nic.dish.
 dish.					      172800 IN	NS	b0.nic.dish.
@@ -7053,6 +7054,7 @@ ns-bf.nic.fr.				      172800 IN	AAAA	2001:678:c::1
 ns-bj.nic.fr.				      172800 IN	A	194.0.9.1
 ns-bj.nic.fr.				      172800 IN	AAAA	2001:678:c::1
 ns-cm.nic.fr.				      172800 IN	A	194.0.9.1
+ns-cm.nic.fr.				      172800 IN	AAAA	2001:678:c::1
 ns-gp.nic.fr.				      172800 IN	A	194.0.9.1
 ns-gp.nic.fr.				      172800 IN	AAAA	2001:678:c::1
 ns-ht.nic.fr.				      172800 IN	A	194.0.9.1
@@ -12632,6 +12634,7 @@ ns-bw.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::72
 ns-ci.afrinic.net.			      172800 IN	A	196.216.168.30
 ns-ci.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::30
 ns-cm.afrinic.net.			      172800 IN	A	196.216.168.67
+ns-cm.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::67
 ns-dz.afrinic.net.			      172800 IN	A	196.216.168.36
 ns-dz.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::36
 ns-gm.afrinic.net.			      172800 IN	A	196.216.168.29
@@ -21689,11 +21692,8 @@ xn--rhqv96g.				      172800 IN	NS	ns1.teleinfo.cn.
 xn--rhqv96g.				      172800 IN	NS	ns2.teleinfoo.com.
 xn--rhqv96g.				      172800 IN	NS	ns3.teleinfo.cn.
 xn--rhqv96g.				      172800 IN	NS	ns4.teleinfoo.com.
-xn--rhqv96g.				      86400 IN DS	167 8 1 5A8EBBDDFE4D0E442138737A5FC1D3E34EBAE03F
-xn--rhqv96g.				      86400 IN DS	167 8 2 34F9402AB776FFB050D28976320570ACAAB0AFCE393A589494C7CEA6 1DA3D53E
-xn--rhqv96g.				      86400 IN DS	17089 8 1 122B5A9CCCDDD8FBCA1164643630FF6D75D856DA
-xn--rhqv96g.				      86400 IN DS	17089 8 2 0CAB870792E42B0EF02EBCEF64C3A4FE22D1BE9EF91DD64004473741 347A11F4
 xn--rhqv96g.				      86400 IN DS	27565 8 2 B53C43C6B3F1146CC9969545C292FAE4823D43B81DA05141646F8374 51E92375
+xn--rhqv96g.				      86400 IN DS	33427 8 2 9351EDBE1EA6275C59BACCCB774672A3298A58351728C6F763AF54F3 3B9D5EA6
 xn--rhqv96g.				      86400 IN NSEC	xn--rovu88b. NS DS RRSIG NSEC
 xn--rovu88b.				      172800 IN	NS	a.nic.xn--rovu88b.
 xn--rovu88b.				      172800 IN	NS	b.nic.xn--rovu88b.
