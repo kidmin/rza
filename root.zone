@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025051601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250529170000 20250516160000 53148 . McfGDB9KqcGpTkcq9MEz9zg0FTsJHqy18Xr0AFGEohlCJFQdLOWhj+H8 kybqc4nIBvMKeAuxNF2EzWljVk0boPpwO4+uYS+xI42jIy0QHoFQKPDH 1tR+jckgWKKT7Nvvr9UkFsSoAxpuVv+Z+iTARskusK6MJZvZI8ooooMV ntNXMi0coHZ38yWCgE4mK1o+ysqhdRCciyvoSVRVKulKXbQUba4NCTnD 1HlTtx5VGgztXHEnMukfkFPegXzaWs3c/kEsnbtYYtrkxxDzNEGK0I7G zMjBWMwMrx4O2wwQqV+atNrw3741dSxIz/2ZbQetnE8QH01pM5BVFjRV J8nCkQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025051602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250529200000 20250516190000 53148 . IH54xh7BVOl19frVQpuud62pgHA1RVDL/dJsybjfIvl5Ob2zuColmKxI r8KmsMS5ZYhqn92g7znQu4o7tZvNvGzq0y/l9fVhumPqF/x4qKNXzWnH axTZTR1eExo9jaN+zA3DllOQmgjP2MFvdknUdjlBsVKOeQNi6+jRBh/X VYHLDnh3Hru5SBlD4pyZNI5uWUVs9WfJ70goDrMSiiTJL/QoDzme7kgA 2Xb7XEXPtzo7Ul/iuR0q46tfmXWMUB7Bcbo22Sg5bQDrT/uEs9Z7Bl6F G3obuYo5MU4lHo3YG1VTU5qoD9y08ywCWtvj1N4+056GMuvQn9JIqGwf eoBAlg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250601000000 20250511000000 20326 . VWTPvGJYPHue7aTc+b49y1cCggFM0t6ULKEPuAeITCgRgd5aAee5yrqE irwkq/Us7zDM1g1HliOOL8kCVbZ6ub5esuVSjlZ/mcEOdlOrkXt4I6Ai VhAbaaCaOsEO7XiNaEWbNqiSQ0RcS7h2/A1E7thxF4xr9n8IXSI9bzyo GsH+HBf01Pne5ko34JgS2AuQj6pmksimN0GZ+/TTTtuo0w+mBbWswth1 HCB65KuFuKfT4T97pLDK1ElPsFR2Ue7m7HMZeKfsb4nWg7LOCfGQVVu+ bOVlgqIduXVgu/MsGbGd1A4+/Wq7j5l7451NQeXfapnGtgJK9tsD1e1y Z83AbQ==
-.					      86400 IN ZONEMD	2025051601 1 1 93CA578FF1082430B818E21C166C9143C9CC97055BE7DA42D7A06A75 EE0256611A7F629B069A9113C1051E6DCC7EB391
+.					      86400 IN ZONEMD	2025051602 1 1 8C5DF3C319E6A51C47EBB85A4E1B7DD5A6EC4CF267D9D31253C2BB68 4F7043347DA1D85B4FFF60AF17783F63F43EE179
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -14648,27 +14648,7 @@ pr.					      172800 IN	NS	c0.pr.afilias-nst.info.
 pr.					      172800 IN	NS	d0.pr.afilias-nst.org.
 pr.					      172800 IN	NS	pr-dns.denic.de.
 pr.					      86400 IN DS	5134 8 2 2E7F12833596203DBEF32DBCEBC2CFD2F6D3AA4432A9BB39927394C6 CF1A844A
-pr.					      86400 IN NSEC	pramerica. NS DS RRSIG NSEC
-pramerica.				      172800 IN	NS	a.nic.pramerica.
-pramerica.				      172800 IN	NS	b.nic.pramerica.
-pramerica.				      172800 IN	NS	c.nic.pramerica.
-pramerica.				      172800 IN	NS	ns1.dns.nic.pramerica.
-pramerica.				      172800 IN	NS	ns2.dns.nic.pramerica.
-pramerica.				      172800 IN	NS	ns3.dns.nic.pramerica.
-pramerica.				      86400 IN DS	22411 8 2 55E42F1140C47CA9A71E1306D0487E31DCA919961409E9121765627E 563FDB3C
-pramerica.				      86400 IN NSEC	praxi. NS DS RRSIG NSEC
-a.nic.pramerica.			      172800 IN	A	37.209.192.9
-a.nic.pramerica.			      172800 IN	AAAA	2001:dcd:1::9
-b.nic.pramerica.			      172800 IN	A	37.209.194.9
-b.nic.pramerica.			      172800 IN	AAAA	2001:dcd:2::9
-c.nic.pramerica.			      172800 IN	A	37.209.196.9
-c.nic.pramerica.			      172800 IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.pramerica.			      172800 IN	A	156.154.144.138
-ns1.dns.nic.pramerica.			      172800 IN	AAAA	2610:a1:1071::8a
-ns2.dns.nic.pramerica.			      172800 IN	A	156.154.145.138
-ns2.dns.nic.pramerica.			      172800 IN	AAAA	2610:a1:1072::8a
-ns3.dns.nic.pramerica.			      172800 IN	A	156.154.159.138
-ns3.dns.nic.pramerica.			      172800 IN	AAAA	2610:a1:1073::8a
+pr.					      86400 IN NSEC	praxi. NS DS RRSIG NSEC
 praxi.					      172800 IN	NS	a.nic.praxi.
 praxi.					      172800 IN	NS	b.nic.praxi.
 praxi.					      172800 IN	NS	c.nic.praxi.
