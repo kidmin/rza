@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025052902 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250611170000 20250529160000 53148 . GGYKngBLFQ6Yc18QGtHIqAAXPzzI4P6oyREiAqti8tdvIMYWNthD2Bxq guXuDnt05UXQFTNXzgNnkBHHgFEeysWF0oNldra6jhdBWuxxZ/K/CGCB QMk6Cy378aENN1aSwurtj9DvHxBk/VS4bQr493y4HeGGWtkUa8eqTQDU 6+MPT0Gl2fEKM6SgE3uWlBc0ld1x8TKJyKDB0ontgxpoJjBdEtxXCKh0 idJ7r68hhnCJFz+6bP8YCWeckRA1X9jfYigQ7zAPJ88LAcgsOH3i9rLa bh8UGyovoJUMKaxajkmLjToTDaP0iHfdPrKN3FuZcXr1sFrJIloVIjf3 qRqBFw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025052903 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250611200000 20250529190000 53148 . gIOR64S0w00j7v7e3b49GUmfhjBRslQOjSjsMf74LghQ2rjjVt9tOzt1 ejZiRC55elRDHYGdiJ7ihOa3QncadhUSqlIpDvbKGYoavLfnma4MSThr F/+1b5p19qVYgIMgl4M5iLKBIAZVIY/vcj1pyenkihZkYpe8otueB05g xmOLeeQ3gwjqk6DK7zghnSXGcEJ7TM4kEGGXzJMQuXYwVCaYrgLSSuuD PzJak+IKAEjYV1GQBZQ9PMNIv8W8cocYXZUAjFyW1uFjDEdvC1TvOwMM 1PMAM+92D0gsW2ct3BGhjmNuq6vNQtO24lrmxqQwNyNSkEKcAje+Ggw7 +FcxoQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250611000000 20250521000000 20326 . ki8fK9M8rb/I+LSCC+6ZKil/CLh4jxV//8F/PDAFtzupjzeyCotFHL+T m6kwL2wEOrZaz0a6rEbaZFhLGP+Z1XV0WJb45V0ajLFhU+IV4VCDVbzl XKQ3isrKymu8U7zrj3d/NoPbZAbxGkMfI56xv6EvFvRYa9bjnIm0Id94 ONqFclrlQTNEL25Nq+tDOH/Ro709M4j0NOcW5Ui6gIlILfsvEma+g+rH VMeJN7Yu5FpOzaCvajJKdDGf4O3e1BI4UGrvxsLaZZGSUkeUifobG6Fr Tpewm9vDkU0kHfGKPqZurEukmXcfCb/jevjBQhGG8HwoAQy4nS6IjWGf CjK3CQ==
-.					      86400 IN ZONEMD	2025052902 1 1 92766E991156AC03208E0E1DF1FCFF842EC16ACB465AE2F92F2C761F 1D1361E0B7BE1059E3DE0A439CF5B57B325F3907
+.					      86400 IN ZONEMD	2025052903 1 1 AB814504CBB8B5857EDAF652719E166BB1BF6E582181D2510DC996A0 D7A0127FE63C4CADF50966D95BB8B98FA19BE97B
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -5407,7 +5407,6 @@ discover.				      172800 IN	NS	v0n2.nic.discover.
 discover.				      172800 IN	NS	v0n3.nic.discover.
 discover.				      172800 IN	NS	v2n0.nic.discover.
 discover.				      172800 IN	NS	v2n1.nic.discover.
-discover.				      86400 IN DS	4225 8 2 D90804DC84C5E0542F8DA2011BABD12624318D1992483525EC125125 CD576553
 discover.				      86400 IN DS	11395 8 2 47124D6ED5EC3C86D3C52D6B2A4E60471E84227E9B6D8C16A6F85723 C9F5F072
 discover.				      86400 IN NSEC	dish. NS DS RRSIG NSEC
 v0n0.nic.discover.			      172800 IN	A	65.22.108.30
@@ -10978,6 +10977,7 @@ p.nic.lk.				      172800 IN	A	204.61.216.27
 p.nic.lk.				      172800 IN	AAAA	2001:500:14:6027:ad::1
 t.nic.lk.				      172800 IN	A	203.94.66.129
 t.nic.lk.				      172800 IN	AAAA	2402:d000:100c::129
+y.nic.lk.				      172800 IN	A	194.0.1.27
 z.nic.lk.				      172800 IN	A	185.38.108.108
 z.nic.lk.				      172800 IN	AAAA	2a00:fea0:dead::beef
 llc.					      172800 IN	NS	a0.nic.llc.
@@ -21850,14 +21850,12 @@ xn--xhq521b.				      172800 IN	NS	td.ngtld.cn.
 xn--xhq521b.				      172800 IN	NS	te.ngtld.cn.
 xn--xhq521b.				      86400 IN DS	2506 8 2 AAB3B1CBC1B41DA41348F9B7546B700CE2356D7627B9026FD616320F 18B08FE8
 xn--xhq521b.				      86400 IN NSEC	xn--xkc2al3hye2a. NS DS RRSIG NSEC
-xn--xkc2al3hye2a.			      172800 IN	NS	lk.communitydns.net.
-xn--xkc2al3hye2a.			      172800 IN	NS	nic.lk-anycast.pch.net.
+xn--xkc2al3hye2a.			      172800 IN	NS	h.nic.lk.
+xn--xkc2al3hye2a.			      172800 IN	NS	m.nic.lk.
+xn--xkc2al3hye2a.			      172800 IN	NS	p.nic.lk.
+xn--xkc2al3hye2a.			      172800 IN	NS	t.nic.lk.
+xn--xkc2al3hye2a.			      172800 IN	NS	y.nic.lk.
 xn--xkc2al3hye2a.			      172800 IN	NS	ns1.ac.lk.
-xn--xkc2al3hye2a.			      172800 IN	NS	ns3.ac.lk.
-xn--xkc2al3hye2a.			      172800 IN	NS	ns-c.nic.lk.
-xn--xkc2al3hye2a.			      172800 IN	NS	ns-d.nic.lk.
-xn--xkc2al3hye2a.			      172800 IN	NS	ns-l.nic.lk.
-xn--xkc2al3hye2a.			      172800 IN	NS	ns-t.nic.lk.
 xn--xkc2al3hye2a.			      86400 IN NSEC	xn--xkc2dl3a5ee0h. NS RRSIG NSEC
 xn--xkc2dl3a5ee0h.			      172800 IN	NS	ns01.trs-dns.com.
 xn--xkc2dl3a5ee0h.			      172800 IN	NS	ns01.trs-dns.net.
