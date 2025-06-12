@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025061102 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250624210000 20250611200000 53148 . hUkgwHKjqYz+3HFY15srTTt5YYU0+4yesjw4fpPMydLh8Nd1nNWRwfrk qvDkXvoY47+QJeVDB11sra1wL7g4jwyZ3ZSl+RuWFN0XanN0uCVBcX50 eR2jSEdfa66mSztWCz/IM2DbL1/CznoZJB59cE2Y8m+HhWBHWLRnkcoM 86spU5YKsby2iZPnxSLLwMcdaear7WY3gPwJX52lxlM3t0jqu3rr/PLT 0Rcs2unjEzgfbbgZ07m3gy1LoUOMAb6mcCgaIjEbD5sfxqvXY8NKnmXs kB+CxkhVuznRvx6mYbShOMJcpsTXebZaypi59GB32mQOrvEgP5MBxblT hSqQaw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025061200 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250625000000 20250611230000 53148 . CBSbymU6ixTvjgr5E0SzjglfQyE+Bq3hNekqUTafFdJ3WilSR1jFB9ZF 4Xyvmk9HkSxw76XKXbpOPvizNfW1Xo2LqRIWByDwMA5WsLHMj3DXfvS6 G+we0yvLFhzcnUAOEOOtJuBE9IbSBvTga9Q/3dT3zjAGSPoeZlcuW8yS Qh8iysj0VWjntWF3ifDTJ9jE1bdZfevRSBBJ1bPplPT6nw+6HIgMH53/ O277D4rSJymT7u7TbXJbboHMyQOTDlQHCPRRTPRNZMYOzLRJ+K5VvLZg ApowLpJdQVk8elRw5CpjwMZeNhOoVpyjVMCPXRGsiHZkSGJumBMHJHVg UERf3Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250701000000 20250610000000 20326 . OHe0Mpi7CjfdHb6mzoMdtiIK2AeOV8gzZ0SAtAWNRQUAp5LfxOTjnrIT KSaiXdqMcbirMKzxvnhY7LKJj2f+Qbua+1bJ5IWvirUOISxrr/VUnvUD ThogSUj2KaO9c674g/SUUmh+k5NHaTOlebsvMl3DurfKqZlY725GKHhX UxqBcbVjnCDNN4JB5lZ38qSp3WReJ8O+RKcg3h3cLVy3Y9eRzJpxk3mn R6mD79fhqoV760hk0b/FrGlZcA33mLSIsvDBxzgICsQeMEA5I3/fAL3p SCtxeU2f5ThltB8qnb9uldrjZI+7yYdSTmpYoQ6j8IcGowEcL4zwRG52 ezQMaQ==
-.					      86400 IN ZONEMD	2025061102 1 1 9C674F60AB2FB585BF5F6866A0775662EDFC466C7A2455F130C768AE 43713F11D6AF6076EB802255B477F3A9B9AE4AB3
+.					      86400 IN ZONEMD	2025061200 1 1 356A12D3AB66D8DCCDA0F23C4CDCEA3BE31412D0D0DA998B0AFACFB6 675BBE7EC5C6B564634E18F9B4E35339177FA045
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2237,10 +2237,6 @@ y.nic.blackfriday.			      172800 IN	A	156.154.173.82
 y.nic.blackfriday.			      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.blackfriday.			      172800 IN	A	156.154.174.82
 z.nic.blackfriday.			      172800 IN	AAAA	2610:a1:1076::1:82
-blockbuster.				      172800 IN	NS	a0.nic.blockbuster.
-blockbuster.				      172800 IN	NS	a2.nic.blockbuster.
-blockbuster.				      172800 IN	NS	b0.nic.blockbuster.
-blockbuster.				      172800 IN	NS	c0.nic.blockbuster.
 blockbuster.				      172800 IN	NS	ns01.trs-dns.com.
 blockbuster.				      172800 IN	NS	ns01.trs-dns.net.
 blockbuster.				      172800 IN	NS	ns01.trs-dns.org.
@@ -2248,14 +2244,6 @@ blockbuster.				      172800 IN	NS	ns01.trs-dns.info.
 blockbuster.				      86400 IN DS	20059 8 2 7CC46EE5DB147183B41BDA17AC3A5CE97963064F139E80A7C2B60AA8 BD5200E7
 blockbuster.				      86400 IN DS	27901 8 2 6D3D995AE2008BAEE36910857E7DE15422EC34E56E004BAE5167ED8B 0AD4F4AE
 blockbuster.				      86400 IN NSEC	blog. NS DS RRSIG NSEC
-a0.nic.blockbuster.			      172800 IN	A	65.22.92.25
-a0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5a::25
-a2.nic.blockbuster.			      172800 IN	A	65.22.95.25
-a2.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5d::25
-b0.nic.blockbuster.			      172800 IN	A	65.22.93.25
-b0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5b::25
-c0.nic.blockbuster.			      172800 IN	A	65.22.94.25
-c0.nic.blockbuster.			      172800 IN	AAAA	2a01:8840:5c::25
 blog.					      172800 IN	NS	a.ns.nic.blog.
 blog.					      172800 IN	NS	b.ns.nic.blog.
 blog.					      172800 IN	NS	c.ns.nic.blog.
@@ -10455,10 +10443,6 @@ c.nic.lat.				      172800 IN	A	212.18.248.156
 c.nic.lat.				      172800 IN	AAAA	2a04:2b00:13ee::156
 d.nic.lat.				      172800 IN	A	212.18.249.156
 d.nic.lat.				      172800 IN	AAAA	2a04:2b00:13ff::156
-latino.					      172800 IN	NS	a0.nic.latino.
-latino.					      172800 IN	NS	a2.nic.latino.
-latino.					      172800 IN	NS	b0.nic.latino.
-latino.					      172800 IN	NS	c0.nic.latino.
 latino.					      172800 IN	NS	ns01.trs-dns.com.
 latino.					      172800 IN	NS	ns01.trs-dns.net.
 latino.					      172800 IN	NS	ns01.trs-dns.org.
@@ -10466,14 +10450,6 @@ latino.					      172800 IN	NS	ns01.trs-dns.info.
 latino.					      86400 IN DS	4019 8 2 290969823C216A34FE78BE351BAD859AFC8B86079500AD5E55ACAE2A BE4F9144
 latino.					      86400 IN DS	28831 8 2 38D9082C093D8C2E653B0C2BFA3EAA463FC401FE31ED28C62B0A2B50 6BCF9D24
 latino.					      86400 IN NSEC	latrobe. NS DS RRSIG NSEC
-a0.nic.latino.				      172800 IN	A	65.22.92.17
-a0.nic.latino.				      172800 IN	AAAA	2a01:8840:5a::17
-a2.nic.latino.				      172800 IN	A	65.22.95.17
-a2.nic.latino.				      172800 IN	AAAA	2a01:8840:5d::17
-b0.nic.latino.				      172800 IN	A	65.22.93.17
-b0.nic.latino.				      172800 IN	AAAA	2a01:8840:5b::17
-c0.nic.latino.				      172800 IN	A	65.22.94.17
-c0.nic.latino.				      172800 IN	AAAA	2a01:8840:5c::17
 latrobe.				      172800 IN	NS	a.nic.latrobe.
 latrobe.				      172800 IN	NS	b.nic.latrobe.
 latrobe.				      172800 IN	NS	c.nic.latrobe.
