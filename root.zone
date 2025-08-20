@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082000 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250902050000 20250820040000 46441 . U0rHmrnnKTH2pduFk8vYzlGaBa7lIGNah2dgeLy51gYRZhLmZKK0oy+I Qfg+o7U43xbI8LcqzHVpEHUpEepeRkEhIUEWYRUrLela+mRkj9Q6Sr8R AvAx9etBaODuk4bXtIDG365X1ltwdweYm/OiewkTjOuSjOjzkql3r9th 59iISt6Kv87SXo6SviiwSsfEFYInz5s5tbtbxpZOkdWiI//7RBQTI8ki 38LX2vM+RSwUNrO5F7ZGsnqKQDpMt5RwO0zJsNFN0wPTkzvwTnDs+FFq aM8huEABeiw/PbANlBj3/d3AkurAlOsex18Z63G2BZpCuHSbO7OanhOP C1kTdA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082001 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250902120000 20250820110000 46441 . Tn2P5dIYmyLuMwIMdG4mBPKnM5h6Zg65m7KzqmPZboZQNMDuKlTxgzuE UXjwCKqgNbjb65fkruO6b5yVSHTH1tqpXmkAOWEac0AYKoU5icTzHZUL qOap9u732YMgNxv71LFuPd7ArvUTNa9vntA3YvcXGgItOqroMCAnNc0U dYEZVWO6O31vpL3Jy/xaahFhNUfEAtzPyB1ysynNKxAJRGRySEjHfSzE l80rlSDHtaWhyDcCAJj0Z0ZXzyNlJSBLVSWeH0xNHGOZtphSOf60A5PL xn+vYxkaP2mJEWvNLPAx8TwnOn8lJ0Q9BWT+Ioopm5ovoFb/GlfnkRz1 LiPwjQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250910000000 20250820000000 20326 . a/y7JFGTViPkNk0wGIyQF0o84Sf9q3MEKbS9NsUilc/Py1NNT5SP10Az 7+yCH3ggoPkX1JSW6nGdjdqm94Tyszh4WMlDb+2eEAUOFZl0wPykyZs3 MHy0r0fQ9WQFDswycc7iT8CH2xRDZrYZsBOlowm1ai9PzsBUCBCc6H+v WHfT1KA44er6B4dNIOWTv9/dL7M01HhgR8eiiy1i+e4YIR08k4ErjRKJ 0+XawUqJmCZ0V8zdanRq4BHD7rJVnYnECWM1YGL+3PEJEDfXwkSXimUs bcjyCjUE2r2cNYwpQrOSsaRda70OpDCZ8jt+5dmyJCnRRNocaJo5BD62 o6w9qA==
-.					      86400 IN ZONEMD	2025082000 1 1 EEC2B123D86962F4EE1CC7E472A03C45AB85AF63E684894E99E68163 80E98F68EC82E0334F67D04F2A555DB5CD71F73E
+.					      86400 IN ZONEMD	2025082001 1 1 C0F338E8909B40D78BED5606FC290956173DB3404AF2E84B5F2AE79A FEC3B8E705AE1E50E39BB63C20DF7D0AEFB3946F
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -434,9 +434,9 @@ y.nic.afl.				      172800 IN	A	156.154.173.82
 y.nic.afl.				      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.afl.				      172800 IN	A	156.154.174.82
 z.nic.afl.				      172800 IN	AAAA	2610:a1:1076::1:82
+africa.					      172800 IN	NS	coza1.dnsnode.net.
 africa.					      172800 IN	NS	ns.coza.net.za.
 africa.					      172800 IN	NS	ns4.dns.net.za.
-africa.					      172800 IN	NS	coza1.dnsnode.net.
 africa.					      86400 IN DS	51115 8 2 53248D4D36757A31135688EFA42C2C307591A7989523E6CD9CC24414 14349481
 africa.					      86400 IN NSEC	ag. NS DS RRSIG NSEC
 ans.dnsstudy.africa.			      172800 IN	A	192.96.24.69
@@ -3036,9 +3036,9 @@ canon.					      172800 IN	NS	k.gmoregistry.net.
 canon.					      172800 IN	NS	l.gmoregistry.net.
 canon.					      86400 IN DS	5225 8 2 9A1FC16A90ACF3C7D3233480F45F595DEBDEF3F71AE637BF3F809367 0DDA7D8A
 canon.					      86400 IN NSEC	capetown. NS DS RRSIG NSEC
+capetown.				      172800 IN	NS	coza1.dnsnode.net.
 capetown.				      172800 IN	NS	ns2.dns.net.za.
 capetown.				      172800 IN	NS	ns4.dns.net.za.
-capetown.				      172800 IN	NS	coza1.dnsnode.net.
 capetown.				      86400 IN DS	6749 8 2 3B828190E412D1780FD97C538547F6698F1DB01570FFAE56EFB91F4E 4735E6A6
 capetown.				      86400 IN NSEC	capital. NS DS RRSIG NSEC
 capital.				      172800 IN	NS	v0n0.nic.capital.
@@ -5638,9 +5638,9 @@ ns5.dns.nic.dupont.			      172800 IN	A	156.154.157.52
 ns5.dns.nic.dupont.			      172800 IN	AAAA	2610:a1:1075::34
 ns6.dns.nic.dupont.			      172800 IN	A	156.154.158.52
 ns6.dns.nic.dupont.			      172800 IN	AAAA	2610:a1:1076::34
+durban.					      172800 IN	NS	coza1.dnsnode.net.
 durban.					      172800 IN	NS	ns2.dns.net.za.
 durban.					      172800 IN	NS	ns4.dns.net.za.
-durban.					      172800 IN	NS	coza1.dnsnode.net.
 durban.					      86400 IN DS	62936 8 2 12F972C27BF0E22F2C4740BF8A4769D7113ED0BEFF1CF79C070AF070 203F81A1
 durban.					      86400 IN NSEC	dvag. NS DS RRSIG NSEC
 dvag.					      172800 IN	NS	a.nic.dvag.
@@ -9788,9 +9788,9 @@ dnsc.nic.jobs.				      172800 IN	A	156.154.102.3
 dnsc.nic.jobs.				      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.jobs.				      172800 IN	A	156.154.103.3
 dnsd.nic.jobs.				      172800 IN	AAAA	2610:a1:1010::3
+joburg.					      172800 IN	NS	coza1.dnsnode.net.
 joburg.					      172800 IN	NS	ns2.dns.net.za.
 joburg.					      172800 IN	NS	ns4.dns.net.za.
-joburg.					      172800 IN	NS	coza1.dnsnode.net.
 joburg.					      86400 IN DS	2855 8 2 D027F109B59BAEB30BC000DC1F2D34B57D9BA404923F899BB07E4BAD D0DC2136
 joburg.					      86400 IN NSEC	jot. NS DS RRSIG NSEC
 jot.					      172800 IN	NS	dns1.nic.jot.
@@ -15719,8 +15719,8 @@ sa.					      172800 IN	NS	m2.dns.sa.
 sa.					      172800 IN	NS	n1.dns.sa.
 sa.					      172800 IN	NS	p1.dns.sa.
 sa.					      172800 IN	NS	s1.dns.sa.
-sa.					      172800 IN	NS	s2.dns.sa.
 sa.					      172800 IN	NS	sh1.dns.sa.
+sa.					      172800 IN	NS	s2.dns.sa.
 sa.					      86400 IN DS	62932 8 2 2E80B1231D370F4933A26F19487946EACA1DB9D41A53831C2A9E7336 8BBBAAB5
 sa.					      86400 IN NSEC	saarland. NS DS RRSIG NSEC
 c1.dns.sa.				      172800 IN	A	86.111.192.9
@@ -21283,8 +21283,8 @@ xn--mgberp4a5d4ar.			      172800 IN	NS	m2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	s1.dns.sa.
-xn--mgberp4a5d4ar.			      172800 IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.			      172800 IN	NS	sh1.dns.sa.
+xn--mgberp4a5d4ar.			      172800 IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.			      86400 IN DS	51067 8 2 71A90D5298B157332CF6DC7BC2105982054A8D5F5C74C67DEBBBEE3A FBE114D3
 xn--mgberp4a5d4ar.			      86400 IN NSEC	xn--mgbgu82a. NS DS RRSIG NSEC
 xn--mgbgu82a.				      172800 IN	NS	ns01.trs-dns.com.
