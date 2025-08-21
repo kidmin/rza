@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082101 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250903170000 20250821160000 46441 . di86jmK+xNddwXhUB5uuI05IspuTK+nfk3Zlt2fPv5o/qpUNj4u1icX8 WWOUMCBBxTQKlq3yS77zzHjsrauM70rVz/7DwNER1AqLNvT7xDASqh+2 tWAxmt+9DeUUBO/9Q/AlWiDd5doj5NQ+ykztJbwAj6/wO7pnD8SMvf/9 Bfs9fEWeIpr2eRZS1M5badYwED0e/q+Q5Iwuf4nMDZ5UrJTv9NnfCgzA k8+L7FrLjFlnNYw0OWSonMpvqhmhty0UnuHbiWOEmP5UzzU6tscdXsKh Ka6wXuvlZ8GuKwZBrKUPcrX11EukYPz5Bq2khc4ysha5vJHpxxeN4uyh SI7YXg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082102 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250903200000 20250821190000 46441 . Sk5CsNV5iqwgETK4TpqebdjVlY5+222oT5NB+bQ5fa86I/Gx71z13T8T LMwYf/MXTHBOU8ejPWtZlF2UvE1RFZcniy/wEzN8VOP9XWj/5cseqDpf x6skBLxvM4rvfjobVzXTCpxDuWn9pW6/w33DWHRb5b61K1/IOeY7Knay rAM4NN5dClTpy/d0+F7iJIFh9/dNQdqj1uxvg1UxDkCilQInMBTeY8Cj PDBKhpcAuT1UcELZUm33PQA08jiLUzlljVV7Xi7svMaTWBta8K9bJkzx cls7+f9xfSE1ToL/BAMHB8TwbtG/6VNcZlyOsGMoh/DTHwTGeamNzE6b Qw5/ig==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250910000000 20250820000000 20326 . a/y7JFGTViPkNk0wGIyQF0o84Sf9q3MEKbS9NsUilc/Py1NNT5SP10Az 7+yCH3ggoPkX1JSW6nGdjdqm94Tyszh4WMlDb+2eEAUOFZl0wPykyZs3 MHy0r0fQ9WQFDswycc7iT8CH2xRDZrYZsBOlowm1ai9PzsBUCBCc6H+v WHfT1KA44er6B4dNIOWTv9/dL7M01HhgR8eiiy1i+e4YIR08k4ErjRKJ 0+XawUqJmCZ0V8zdanRq4BHD7rJVnYnECWM1YGL+3PEJEDfXwkSXimUs bcjyCjUE2r2cNYwpQrOSsaRda70OpDCZ8jt+5dmyJCnRRNocaJo5BD62 o6w9qA==
-.					      86400 IN ZONEMD	2025082101 1 1 FE9D8BED1F0D42B4FB911BB1A8D55FB316EB54940BD0E817BB9026EB 3320BEAAA35082E1DBA25748CBA726ED7C444E4A
+.					      86400 IN ZONEMD	2025082102 1 1 CCB13D0B15AE051DB38F50E0FEF1A0C55B9041AE46BAE395286EB2E1 50667A1C65363342570C14E1502F2178484FEF07
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -18709,7 +18709,9 @@ dnsd.nic.tushu.				      172800 IN	AAAA	2610:a1:1010::3
 tv.					      172800 IN	NS	a.nic.tv.
 tv.					      172800 IN	NS	b.nic.tv.
 tv.					      172800 IN	NS	c.nic.tv.
-tv.					      172800 IN	NS	d.nic.tv.
+tv.					      172800 IN	NS	x.nic.tv.
+tv.					      172800 IN	NS	y.nic.tv.
+tv.					      172800 IN	NS	z.nic.tv.
 tv.					      86400 IN DS	57277 8 2 CDF61FAF1EBC9D83D5BC3D9DE22E794AE8ACDB0475EA8CF27E92CC00 F0C3F5F9
 tv.					      86400 IN NSEC	tvs. NS DS RRSIG NSEC
 a.nic.tv.				      172800 IN	A	37.209.192.6
@@ -18718,8 +18720,12 @@ b.nic.tv.				      172800 IN	A	37.209.194.6
 b.nic.tv.				      172800 IN	AAAA	2001:dcd:2::6
 c.nic.tv.				      172800 IN	A	37.209.196.6
 c.nic.tv.				      172800 IN	AAAA	2001:dcd:3::6
-d.nic.tv.				      172800 IN	A	37.209.198.6
-d.nic.tv.				      172800 IN	AAAA	2001:dcd:4::6
+x.nic.tv.				      172800 IN	A	156.154.103.22
+x.nic.tv.				      172800 IN	AAAA	2610:a1:1010::22
+y.nic.tv.				      172800 IN	A	156.154.104.22
+y.nic.tv.				      172800 IN	AAAA	2610:a1:1011::22
+z.nic.tv.				      172800 IN	A	156.154.105.22
+z.nic.tv.				      172800 IN	AAAA	2610:a1:1012::22
 tvs.					      172800 IN	NS	a0.nic.tvs.
 tvs.					      172800 IN	NS	a2.nic.tvs.
 tvs.					      172800 IN	NS	b0.nic.tvs.
