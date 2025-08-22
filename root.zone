@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250904170000 20250822160000 46441 . mpSY+x9N8m+RIbXq9GJic9Z/1ONgqzrbmJzMRHaIcu5cqZwra4NBgL92 Ks8GjruVAS38HV2nN5p7E8FK50tmTLepfhFGAXQINyV2hmBQpjzPJBLJ RoU43spiX45Crwb7RKq2CM2KAFXjX/90pLsDq4JFtvGWATtq276auNI7 PZIJBvF/jciVxzgavluyV5M3leNkg+Djw0TBvU4EnHYPpVByUGST+c+2 nxyz5cd/N+MF6MwuaLc2Ga/Y54eshwYxZFNJfjjEiVxDFXaXHus0dttW 0jxoZ4POaZ4QgI4Zdf/QmyN8KL5yHkixkXxQFu6Ud5jNqmQi9riceXbc NtuITQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250904210000 20250822200000 46441 . YIcxwqKRlKCSNbUV7SGH5LEx19h5FWn5xscrNe+X8+gLNZKOuUp9rIVP vOQCXZIVHg382XAfFjf8dBRqLQNtZ/J3JlEobJDjESvMAvTcccKS3gOm 9THiB1xazJtlezyJ+i+1qN+8FYsW414RijhgFkt9YlgGahksJtYHzGXW x4qH7sEKMAshSlVvnVf8lY1h9lID5FDxlnYBoLVgTRorYncf48XDzMzP W4qA9MoAInnAIF2OVhYbn4DUI+VAzdcMXvm4XxFVM3RmBC8CGtZnwkQf jRvydfHX5GQ1mK8ETlGp8l7UKTdsrsBg78+J0CnlT2wf48CqAE0x5Ouf 3YQmAg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250910000000 20250820000000 20326 . a/y7JFGTViPkNk0wGIyQF0o84Sf9q3MEKbS9NsUilc/Py1NNT5SP10Az 7+yCH3ggoPkX1JSW6nGdjdqm94Tyszh4WMlDb+2eEAUOFZl0wPykyZs3 MHy0r0fQ9WQFDswycc7iT8CH2xRDZrYZsBOlowm1ai9PzsBUCBCc6H+v WHfT1KA44er6B4dNIOWTv9/dL7M01HhgR8eiiy1i+e4YIR08k4ErjRKJ 0+XawUqJmCZ0V8zdanRq4BHD7rJVnYnECWM1YGL+3PEJEDfXwkSXimUs bcjyCjUE2r2cNYwpQrOSsaRda70OpDCZ8jt+5dmyJCnRRNocaJo5BD62 o6w9qA==
-.					      86400 IN ZONEMD	2025082201 1 1 9214E4FBEC6946AB0BC797B2908A49985D2433A2041BB718ACF853BA C4A04D238BD501AF61D1D31ADD6BD784081F9B71
+.					      86400 IN ZONEMD	2025082202 1 1 7A8480FA9212458D6EB5D4201E6F323B1F912F7C47F4C01C7972ACCE BDBDC33DC2475AACF0665E3D69726AE515233797
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -439,7 +439,6 @@ africa.					      172800 IN	NS	ns4.dns.net.za.
 africa.					      172800 IN	NS	coza1.dnsnode.net.
 africa.					      86400 IN DS	51115 8 2 53248D4D36757A31135688EFA42C2C307591A7989523E6CD9CC24414 14349481
 africa.					      86400 IN NSEC	ag. NS DS RRSIG NSEC
-ans.dnsstudy.africa.			      172800 IN	A	192.96.24.69
 ag.					      172800 IN	NS	a0.cctld.afilias-nst.info.
 ag.					      172800 IN	NS	a2.cctld.afilias-nst.info.
 ag.					      172800 IN	NS	b0.cctld.afilias-nst.org.
@@ -12587,8 +12586,6 @@ ns-mz.afrinic.net.			      172800 IN	A	196.216.168.40
 ns-mz.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::40
 ns-ne.afrinic.net.			      172800 IN	A	196.216.168.45
 ns-ne.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::45
-ns-rw.afrinic.net.			      172800 IN	A	196.216.168.28
-ns-rw.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::28
 ns-sd.afrinic.net.			      172800 IN	A	196.216.168.26
 ns-sd.afrinic.net.			      172800 IN	AAAA	2001:43f8:120::26
 ns-ss.afrinic.net.			      172800 IN	A	196.216.168.27
@@ -15669,15 +15666,18 @@ v2n0.nic.run.				      172800 IN	A	65.22.35.40
 v2n0.nic.run.				      172800 IN	AAAA	2a01:8840:25::40
 v2n1.nic.run.				      172800 IN	A	161.232.17.40
 v2n1.nic.run.				      172800 IN	AAAA	2a01:8840:fb::40
-rw.					      172800 IN	NS	ans.dnsstudy.africa.
 rw.					      172800 IN	NS	ns1.ricta.org.rw.
 rw.					      172800 IN	NS	ns2.ricta.org.rw.
 rw.					      172800 IN	NS	ns3.ricta.org.rw.
 rw.					      172800 IN	NS	pch.ricta.org.rw.
-rw.					      172800 IN	NS	fork.sth.dnsnode.net.
-rw.					      172800 IN	NS	ns-rw.afrinic.net.
+rw.					      172800 IN	NS	dnsnode.ricta.org.rw.
+rw.					      172800 IN	NS	ns-afrinic.ricta.org.rw.
 rw.					      86400 IN DS	39755 8 2 005F7A73F0609A69CA7736158490764E1A8DC0652AB1D0E327941AF0 FE673111
 rw.					      86400 IN NSEC	rwe. NS DS RRSIG NSEC
+dnsnode.ricta.org.rw.			      172800 IN	A	77.72.229.254
+dnsnode.ricta.org.rw.			      172800 IN	AAAA	2a01:3f0:0:306::53
+ns-afrinic.ricta.org.rw.		      172800 IN	A	196.216.168.28
+ns-afrinic.ricta.org.rw.		      172800 IN	AAAA	2001:43f8:120::28
 ns1.ricta.org.rw.			      172800 IN	A	196.49.7.188
 ns1.ricta.org.rw.			      172800 IN	AAAA	2001:43f8:151:2504::188
 ns2.ricta.org.rw.			      172800 IN	A	196.49.7.186
