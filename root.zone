@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250908170000 20250826160000 46441 . q2vcKxcZRfVOzJjTsH3kV6gXJHlp8V5ixiLmiDL0aFrrswPtMslpc8Nr 0eCGftZj/iaQapivW/EexQLGQA2bbWREgrarafwIT21INqSNB0d+a51q YpeaHnXFYIHR6/QMGzjXgaKHvp8V7uuq3GYIo/d5Cz9jhtkfftl6hTV9 vAcHcgONRyk8FcyYbf1q+Pcmh3ePuLMzDRIMoMlPXdJHyGgNWk8SWzkq g35+acxNVVc+ph6ZAqoXpJR1la/toAJb2Fk0lw2PSN0Nql1qucaZ9yHV A11h8gmW6CrSwZhAo5QubK/5dbBoNdIvdHhVDJaHmAmd6B2+rgiV1ndi acG4WA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025082602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250908200000 20250826190000 46441 . YSBcmfTdntzN4yKlTKF2IRQhjVJ8pvR6pD9BHRWS1DB/RICG0fyMf/OZ 5oDUC++4iiNPeCfPPvm55jGasegSY+bJ9fKlDZUGiCghzj3qWSlUKA90 Y2+yxb4b44S8HbupxAczlJ3MkZcdX+9xSa5d0lppcgYrKb5NGuOjrowV I2jaBr6fd8Je+fjZHR4vy0nZwtUszfIZk6/6omhrsFumZ/vVpDTksU+X ALh924osNK9r2B25eqwZSfygK4PnG7HV5Bvu2HUCtYhdgW+zNon0TJOC Plc5+s/I0tP14WNtZs2KTnsziZI8ksVwZzZWXZc/IhErsja+cm18aTCk SXL5pA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250910000000 20250820000000 20326 . a/y7JFGTViPkNk0wGIyQF0o84Sf9q3MEKbS9NsUilc/Py1NNT5SP10Az 7+yCH3ggoPkX1JSW6nGdjdqm94Tyszh4WMlDb+2eEAUOFZl0wPykyZs3 MHy0r0fQ9WQFDswycc7iT8CH2xRDZrYZsBOlowm1ai9PzsBUCBCc6H+v WHfT1KA44er6B4dNIOWTv9/dL7M01HhgR8eiiy1i+e4YIR08k4ErjRKJ 0+XawUqJmCZ0V8zdanRq4BHD7rJVnYnECWM1YGL+3PEJEDfXwkSXimUs bcjyCjUE2r2cNYwpQrOSsaRda70OpDCZ8jt+5dmyJCnRRNocaJo5BD62 o6w9qA==
-.					      86400 IN ZONEMD	2025082601 1 1 ED31C9BBBBD3DDD17DE77E8BE18C3346A1BF608ACDEF018BA4118905 E19046B42145B74EC768E72EC1A7BC0966B120F8
+.					      86400 IN ZONEMD	2025082602 1 1 0080917DDD7510A4526B1303F65EB379E7217036C86A6BC5DA9E57FD C2D8F14FFD8019C1E56311F00A6206E0EBFDDB58
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -15094,7 +15094,7 @@ red.					      172800 IN	NS	a2.nic.red.
 red.					      172800 IN	NS	b0.nic.red.
 red.					      172800 IN	NS	c0.nic.red.
 red.					      86400 IN DS	20191 8 2 A838978F76DAB8C9A0057B3FDDDBD9883E760764E5AE1CEA04F0961D 61A4BB28
-red.					      86400 IN NSEC	redstone. NS DS RRSIG NSEC
+red.					      86400 IN NSEC	redumbrella. NS DS RRSIG NSEC
 a0.nic.red.				      172800 IN	A	65.22.36.25
 a0.nic.red.				      172800 IN	AAAA	2a01:8840:26::25
 a2.nic.red.				      172800 IN	A	65.22.39.25
@@ -15103,16 +15103,6 @@ b0.nic.red.				      172800 IN	A	65.22.37.25
 b0.nic.red.				      172800 IN	AAAA	2a01:8840:27::25
 c0.nic.red.				      172800 IN	A	65.22.38.25
 c0.nic.red.				      172800 IN	AAAA	2a01:8840:28::25
-redstone.				      172800 IN	NS	a.zdnscloud.cn.
-redstone.				      172800 IN	NS	b.zdnscloud.cn.
-redstone.				      172800 IN	NS	c.zdnscloud.com.
-redstone.				      172800 IN	NS	d.zdnscloud.com.
-redstone.				      172800 IN	NS	f.zdnscloud.cn.
-redstone.				      172800 IN	NS	g.zdnscloud.com.
-redstone.				      172800 IN	NS	i.zdnscloud.cn.
-redstone.				      172800 IN	NS	j.zdnscloud.com.
-redstone.				      86400 IN DS	49835 8 2 51A6A70D9A7C0F010D09FFAACA9CB6BBBE7FAD76FB48FDE6F940B606 C8CDE048
-redstone.				      86400 IN NSEC	redumbrella. NS DS RRSIG NSEC
 redumbrella.				      172800 IN	NS	a0.nic.redumbrella.
 redumbrella.				      172800 IN	NS	a2.nic.redumbrella.
 redumbrella.				      172800 IN	NS	b0.nic.redumbrella.
@@ -15667,6 +15657,7 @@ v2n0.nic.run.				      172800 IN	AAAA	2a01:8840:25::40
 v2n1.nic.run.				      172800 IN	A	161.232.17.40
 v2n1.nic.run.				      172800 IN	AAAA	2a01:8840:fb::40
 rw.					      172800 IN	NS	ns1.ricta.org.rw.
+rw.					      172800 IN	NS	ns1.gransy.ricta.org.rw.
 rw.					      172800 IN	NS	ns2.ricta.org.rw.
 rw.					      172800 IN	NS	ns3.ricta.org.rw.
 rw.					      172800 IN	NS	pch.ricta.org.rw.
@@ -15676,6 +15667,8 @@ rw.					      86400 IN DS	39755 8 2 005F7A73F0609A69CA7736158490764E1A8DC0652AB1
 rw.					      86400 IN NSEC	rwe. NS DS RRSIG NSEC
 dnsnode.ricta.org.rw.			      172800 IN	A	77.72.229.254
 dnsnode.ricta.org.rw.			      172800 IN	AAAA	2a01:3f0:0:306::53
+ns1.gransy.ricta.org.rw.		      172800 IN	A	185.38.108.108
+ns1.gransy.ricta.org.rw.		      172800 IN	AAAA	2a00:fea0:dead::beef
 ns-afrinic.ricta.org.rw.		      172800 IN	A	196.216.168.28
 ns-afrinic.ricta.org.rw.		      172800 IN	AAAA	2001:43f8:120::28
 ns1.ricta.org.rw.			      172800 IN	A	196.49.7.188
