@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025090901 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20250922170000 20250909160000 46441 . QY49Zma85s8605b4YK7WRHHLfyoB5yrxSH1cvdlS4JXlOlyS6jFVkt5p h1OhAShm6+C5bZl9UdwKc9Rk1wHO3tpOYprSzfQFUinDeRrAEvVxZcmH hx4MRa8NS0jDkqr/uwd5/a9ubZfYiaiRUNtvKzhD6ubXQqgTiIcTjxeR jTeU7euZ76rSmwpg1cl8tyYIKLufkbwVoqwjfq1MdrAmXpgSbM9AG+Ku EC5GEIsrVw44FFDjuKwPg2xeSf4ppad4y2Obm6/I4nZ3IIdM5DXsIKJW COKcuWcCS0e8AVXZQFg/y3ixZRrOi6YA0hbigd6+nNCite4OWselzSsS AD0tmg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025090902 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20250922200000 20250909190000 46441 . QEr3sR2unwCtEWz+7qfCJnXSFkC2OJkOa+K30lUUk1YvOD80TqMi4x2w rYkEX35QeDin+s2u+830tOEV15RuGNUE+4ht/8HGSx6j9jgJA1lZMY7l cXnJPrsZaYMYg7fAiT6MOxiy9wk+/J7cLF8pKtgwBL17V/2ZOemsOCMJ c4lj+NkcC1yqyQVjpfhd0tDzwW6wq8bo/7frydb/hO/WrkUFCsewTYXE +4LXrSGLgNvRKey4WJzgMVsYf2IUNtl6VRh3sTWmF7B+7I1BnnqEGaiO aMVpbIk1pjKm/vH72u7HT1/usrgIgT+WkwfNBPUx24DUq9Qc76IYW6Ai 1502Lg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20250930000000 20250909000000 20326 . aqj52+DKW6PhTa31l3xyxa0lbMd8T/UyK1sNUC42EY1+cSp0hSC0VlW8 2RsWYU5G5NmewrInT/SxglWFlFz94yVqiKAK7ZNQr94nRbA7okrrlfnl oiBi3cQ1IvEUgvNcmlZMLTeA6rINvdcBwS7ljMOHm0vQDce9IOxhQT7i Au23oiNORw5nWG/npNkYRFDD4yQvD3HsNeXFTuyDuc57ZEjs/pnIG5nk cqx7tp/ba3XbOGllDr/V/0ubak7OeWum1eckIljqUsx5BnfBfIA7rJ2J JBIT7JMJ/O/cflTKoJFHQoKGTVYrNVBq9vsnZ01Q4ss688IvI8vO3zkP 6LQLEA==
-.					      86400 IN ZONEMD	2025090901 1 1 48706F02C7CFFE5D8C39E910C1003E5D353F17E92AB8617257FC28A8 1F09E131BB204DC51306A6DEB64452984DA3FCE9
+.					      86400 IN ZONEMD	2025090902 1 1 1900953590BEA8521F1079B086232D7159776F8D39169636666CBB63 2020D0C4A30D3854DE83064CF276FE5B09E1F5D0
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -12802,7 +12802,7 @@ cw.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::86
 er.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.72
 er.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::72
 gp.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.76
-gp.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::76
+gp.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::76
 gu.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.78
 gu.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::78
 jm.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.82
