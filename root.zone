@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025092402 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251007170000 20250924160000 46441 . GyRoZne7lTho7HPM+7bg4Y7rMOHaLZ9tPySQ59iaHBjpucvQr49+bWb0 vLtH10y5p59BX1/L/5aldGigAuzgbF54AstINaVu8j3xg8uos4sYw9yF hWxj/OZvoZn82GnKXNCO2VQEd319Icx/VIHol/BFV/dD4P3VDSXk7s46 uKHr4B6NGz9Bw1KiRufA7GXRx9TVWE2oJg8p8JLjsh7/2fNtLECrMFbK oqHuja7xO3SpGmRwr6cQ97XvZ6zEVAcodJFMwgyqjEXhiNusbRiecvPj i478WUIPSaNacFbk7/okFozRXTVAwE/c+wHgvk8Y8q4n+NLeg+1v+60P 0QMmEA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025092403 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251007200000 20250924190000 46441 . N6kjWOeBxTkT27+gthCptARFh9C4aR+nfYOIvxdCBVUg91CqakC6z/AJ JyqfakhTwm+ZYCHjlutULAVBFTdt/8KVegl3lhUmcbn1m+UJ6meneApc AQDuk45Cu9GyTyVGRpzzBZa9IKdZ2PTIPJixojFuP0TB7GC2nxTMLw5w eWz6NYUpN/sv183da7nCfW1l4QWFq4b45bcRVX78NUKFaWqZKepTq5/Y 0jOWBq9UEug9hrvoMQyqtVR3QVTekcS+AylKA+ee5hTTB/88y0Ipnvwo ARfkbKomcjv2K1oZhjtb4eOTSEW/3ivBIBz1BVIbsWOGP0mTFa60E3Ry amKCOw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251010000000 20250919000000 20326 . CVcncT9kkS/apfuTXRvZJ3DDVmjulM9+z9vnInDMDsyFE0WwloiWDcRN VcDojWGeuhDhvggNqrYXm/FbeGRx3cwDk22+FPTaeAbrtMNI6hIEL0tZ hN+2NkogMwv8rByMbgoy2nNT2h9zM/4cUxVeZIl3/WM3MTfgq9WLEbTQ 09eAEmqB5B5HKN92JQobXSvfcqsxjI0xS6WplM1chyosBi9HDedsrdYy bpnIrEzYHqnnnxHEgrhJZU4kLaMS1i7cGIFKbNefJkUyoebtJewa0wzm FabP7fhc5Op4Kf2kGUjKxjVxtu6bSzxc/EQ5Ru9O09+86kKlIdzdDT2q TxrrBA==
-.					      86400 IN ZONEMD	2025092402 1 1 883ECE1CDEBB35A043EAFA70F99C000ECD1346533B27EA709F8234C8 B71EC28CD146FDD7D61EB8330F33417B9D890E5E
+.					      86400 IN ZONEMD	2025092403 1 1 6C2BCA173D6BA6918506B533C46DBA428C0488A865E507A2EA792A3A 69A96A1C5C2B993B4D640F18072AD1CCA5236973
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4064,14 +4064,12 @@ a.zdnscloud.cn.				      172800 IN	A	203.99.24.1
 b.zdnscloud.cn.				      172800 IN	A	203.99.25.1
 f.zdnscloud.cn.				      172800 IN	A	116.169.54.111
 i.zdnscloud.cn.				      172800 IN	AAAA	2401:8d00:1::1
+co.					      172800 IN	NS	a.registrydns.co.
+co.					      172800 IN	NS	b.registrydns.co.
 co.					      172800 IN	NS	ns1.cctld.co.
 co.					      172800 IN	NS	ns2.cctld.co.
-co.					      172800 IN	NS	ns3.cctld.co.
-co.					      172800 IN	NS	ns4.cctld.co.
-co.					      172800 IN	NS	ns5.cctld.co.
 co.					      172800 IN	NS	ns6.cctld.co.
 co.					      172800 IN	NS	ns7.cctld.co.
-co.					      172800 IN	NS	ns8.cctld.co.
 co.					      86400 IN DS	7786 8 2 EB84F864CBE86E913796D2C8DD81933AA2C94BBCFB73419A42250BC4 650B081B
 co.					      86400 IN DS	62110 8 2 4857EE1A85E661C92156AD09B40139DAE7D5BE37D117A1223289F0E2 0CF9D654
 co.					      86400 IN NSEC	coach. NS DS RRSIG NSEC
@@ -4079,18 +4077,14 @@ ns1.cctld.co.				      172800 IN	A	37.209.192.14
 ns1.cctld.co.				      172800 IN	AAAA	2001:dcd:1::14
 ns2.cctld.co.				      172800 IN	A	37.209.194.14
 ns2.cctld.co.				      172800 IN	AAAA	2001:dcd:2::14
-ns3.cctld.co.				      172800 IN	A	37.209.196.14
-ns3.cctld.co.				      172800 IN	AAAA	2001:dcd:3::14
-ns4.cctld.co.				      172800 IN	A	156.154.103.25
-ns4.cctld.co.				      172800 IN	AAAA	2610:a1:1010::21
-ns5.cctld.co.				      172800 IN	A	156.154.104.25
-ns5.cctld.co.				      172800 IN	AAAA	2610:a1:1011::21
 ns6.cctld.co.				      172800 IN	A	156.154.105.25
 ns6.cctld.co.				      172800 IN	AAAA	2610:a1:1012::21
 ns7.cctld.co.				      172800 IN	A	204.74.105.1
 ns7.cctld.co.				      172800 IN	AAAA	2610:a1:3180::53
-ns8.cctld.co.				      172800 IN	A	204.74.107.1
-ns8.cctld.co.				      172800 IN	AAAA	2610:a1:3280::53
+a.registrydns.co.			      172800 IN	A	194.169.218.57
+a.registrydns.co.			      172800 IN	AAAA	2001:67c:13cc::1:57
+b.registrydns.co.			      172800 IN	A	185.24.64.57
+b.registrydns.co.			      172800 IN	AAAA	2a04:2b00:13cc::1:57
 coach.					      172800 IN	NS	v0n0.nic.coach.
 coach.					      172800 IN	NS	v0n1.nic.coach.
 coach.					      172800 IN	NS	v0n2.nic.coach.
