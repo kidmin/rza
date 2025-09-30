@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025093000 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251013050000 20250930040000 46441 . cxjF2k/HCHhdUW/AaX3rwO49Jkb96PCHW4aA10B9BqNJL/3XllV5G3vT gRTtl40YKPXz7DxtVcVQz82iwvLPsgOiaU7o9F5jhPs5f8EjTusKRRgB MYwTxb7zUf6M5pJqz2I/MbvfO6sQ+WrKUzP1JeUyVnSxqgtcgasfgESa DUPoSFk92/jfBJXUp8g56yFYPasc5NQSsADcmBn1LiPkYAYWE5igKoVF sqgAu1B41jqWd+cO4VNMtOXQf0R7h1AR5Bhgs1YmtgWHnCqJaEj0/zRw THv43NJ17ZDt6xxzm+xbqbQg8qjI9QAXzKaxQ/od0gv4bO8JeVbSNI2j PFpOtQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025093001 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251013150000 20250930140000 46441 . G5HJspfXXOoKij4go5A5mYGgLuruhIWO6oR+2FSXuw1lQnIqJ1vWpnVF t7mB/mC7DpctMkQcrM79A+S5RLLoMIHgwCMsBaikuM0l4mG0kUmz6p4j YQU/STbQLhc5oY6eidUQuzNQWkuCXZ4mEHqaRxZbBtRg0qqn882CA23i d+WLCA0lVpmUQAO9KkMGOIifJOMgNORVUK9n445QJTpoJ5RlAsNaFnZl YzGplF1fyimiVeRp/Md5KgqG/J9lhKGlxCA26tcNM+9UR4CHYQ2JokfK x++EZM+HG4yvzCcbpm0RfIFiGKogCnV3ZqFfz1d7TlTHXTgeQkO3gz+V F2WSEA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251010000000 20250919000000 20326 . CVcncT9kkS/apfuTXRvZJ3DDVmjulM9+z9vnInDMDsyFE0WwloiWDcRN VcDojWGeuhDhvggNqrYXm/FbeGRx3cwDk22+FPTaeAbrtMNI6hIEL0tZ hN+2NkogMwv8rByMbgoy2nNT2h9zM/4cUxVeZIl3/WM3MTfgq9WLEbTQ 09eAEmqB5B5HKN92JQobXSvfcqsxjI0xS6WplM1chyosBi9HDedsrdYy bpnIrEzYHqnnnxHEgrhJZU4kLaMS1i7cGIFKbNefJkUyoebtJewa0wzm FabP7fhc5Op4Kf2kGUjKxjVxtu6bSzxc/EQ5Ru9O09+86kKlIdzdDT2q TxrrBA==
-.					      86400 IN ZONEMD	2025093000 1 1 19EE4E015CD1F6728FF9A6DC36799DB31C4371D39D0494A7DDDE45F8 71577124BEC101DA31973B817D685BBC0D6626FA
+.					      86400 IN ZONEMD	2025093001 1 1 F9C2773E8342312765244F206550128035D014B4B7F918BB30809F54 2B07504FA1D29A22ACD54FE97C7FB9F01C2C99D2
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4066,25 +4066,19 @@ f.zdnscloud.cn.				      172800 IN	A	116.169.54.111
 i.zdnscloud.cn.				      172800 IN	AAAA	2401:8d00:1::1
 co.					      172800 IN	NS	a.registrydns.co.
 co.					      172800 IN	NS	b.registrydns.co.
-co.					      172800 IN	NS	ns1.cctld.co.
-co.					      172800 IN	NS	ns2.cctld.co.
-co.					      172800 IN	NS	ns6.cctld.co.
-co.					      172800 IN	NS	ns7.cctld.co.
+co.					      172800 IN	NS	c.registrydns.co.
+co.					      172800 IN	NS	d.registrydns.co.
 co.					      86400 IN DS	7786 8 2 EB84F864CBE86E913796D2C8DD81933AA2C94BBCFB73419A42250BC4 650B081B
 co.					      86400 IN DS	62110 8 2 4857EE1A85E661C92156AD09B40139DAE7D5BE37D117A1223289F0E2 0CF9D654
 co.					      86400 IN NSEC	coach. NS DS RRSIG NSEC
-ns1.cctld.co.				      172800 IN	A	37.209.192.14
-ns1.cctld.co.				      172800 IN	AAAA	2001:dcd:1::14
-ns2.cctld.co.				      172800 IN	A	37.209.194.14
-ns2.cctld.co.				      172800 IN	AAAA	2001:dcd:2::14
-ns6.cctld.co.				      172800 IN	A	156.154.105.25
-ns6.cctld.co.				      172800 IN	AAAA	2610:a1:1012::21
-ns7.cctld.co.				      172800 IN	A	204.74.105.1
-ns7.cctld.co.				      172800 IN	AAAA	2610:a1:3180::53
 a.registrydns.co.			      172800 IN	A	194.169.218.57
 a.registrydns.co.			      172800 IN	AAAA	2001:67c:13cc::1:57
 b.registrydns.co.			      172800 IN	A	185.24.64.57
 b.registrydns.co.			      172800 IN	AAAA	2a04:2b00:13cc::1:57
+c.registrydns.co.			      172800 IN	A	212.18.248.57
+c.registrydns.co.			      172800 IN	AAAA	2a04:2b00:13ee::57
+d.registrydns.co.			      172800 IN	A	212.18.249.57
+d.registrydns.co.			      172800 IN	AAAA	2a04:2b00:13ff::57
 coach.					      172800 IN	NS	v0n0.nic.coach.
 coach.					      172800 IN	NS	v0n1.nic.coach.
 coach.					      172800 IN	NS	v0n2.nic.coach.
@@ -9895,7 +9889,7 @@ jprs.					      172800 IN	NS	tld2.nic.jprs.
 jprs.					      172800 IN	NS	tld3.nic.jprs.
 jprs.					      172800 IN	NS	tld4.nic.jprs.
 jprs.					      172800 IN	NS	tld5.nic.jprs.
-jprs.					      86400 IN DS	14500 8 2 1E07F9BC32099270BD8B9B91452FFBD6C04E5D4BF7B002703110D5C0 91DF045D
+jprs.					      86400 IN DS	1915 8 2 D2D8B07B59B3127E2890A593A1424CBA519989A20D39A1809B860314 A6BEC199
 jprs.					      86400 IN NSEC	juegos. NS DS RRSIG NSEC
 tld1.nic.jprs.				      172800 IN	A	103.47.2.1
 tld1.nic.jprs.				      172800 IN	AAAA	2001:dda::1
@@ -12851,7 +12845,7 @@ sz.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::114
 tj.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.117
 tj.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::117
 ug.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.52
-ug.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::52
+ug.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::52
 sec2.authdns.ripe.net.			      172800 IN	A	193.0.9.4
 sec2.authdns.ripe.net.			      172800 IN	AAAA	2a13:27c0:30::4
 a.dns.ripn.net.				      172800 IN	A	193.232.128.6
@@ -18852,7 +18846,6 @@ ug.					      172800 IN	NS	anycast.eahd.or.ug.
 ug.					      86400 IN DS	2767 8 2 4278D7C4B2B45738A39F310EAC36558411BD547812517BDF23F95FCB B4796B2E
 ug.					      86400 IN NSEC	uk. NS DS RRSIG NSEC
 anycast.eahd.or.ug.			      172800 IN	A	204.61.216.60
-anycast.eahd.or.ug.			      172800 IN	AAAA	2001:500:14:6060:ad::1
 root.eahd.or.ug.			      172800 IN	A	212.88.97.132
 uk.					      172800 IN	NS	nsa.nic.uk.
 uk.					      172800 IN	NS	nsb.nic.uk.
