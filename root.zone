@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025100101 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251014170000 20251001160000 61809 . TxPB49xyQYsZmEakD6wy+tvOUvOM9OQ7seGUd23ITiUgyP1UG5NlNOlG DIOKg9TlB+7eLytBi4D+qSvXo8zMRNkYFPdaVZP1xrSAZr5AebaOMR2h CHgs3Orv25tc0cJ0tRDxNq8zvcB5GjQu01irrlfG6vtDwyg2JvWfs+6p SJh8WRrAXuXlOI8c0orey2gLhfIXPiQEcB/O1xj2MWt3/sWVQREf/+Xt 5QyC0+yMjIEsuvkwpP5FtcU6P9DaECPm/BwVANIjJ4sKR6N2TlWR6K46 +bPtIfEhSctmwQ4caTB89mHpTj68gJKDXkBLWSLpAGYtIKtC1fduOUaA 1lpx5A==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025100102 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251014200000 20251001190000 61809 . W2DyVfVFj7VLgfvqL9sID5RQK11XP6vxW/pqVXzXK3OJebpoK6tzKVH5 T+oaEZtAIh6Ddec6QZKIiM04IWO+tPGBDRFcbI+9/+YjOfaGfkCb6tgX VqRIX4lbh+wuevNCgvFcA/7HuBENPLAYM8cRBBse6Gy/8NhYUB4RrZCB WhZftm3JjJCHOrKjn/l4XlcSGRXel/mv/ZbSBjjMQ+Hzm9NbgyXxxodM jn/GPu1N7rlSgoLyVdZAuZI9QyYwqWfqriVgVlSBeYzjKhUTWlXwecQJ DcL+4CzUQqQxlWh5l4f5sQv486pWtrbk0YNnkNX0OiI/iowTrX3YFQmE +ifW8w==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251022000000 20251001000000 20326 . QOZ2GCLbZvx1e4NZI62pD4+licTnWF8dBhO5rrx+yUy/Z4F+PqONc0eg 9VFuagS2wPbuWOhDdqL7aO63tJ4mExFDU2j0NvOzDEq/Cj2zwT9i3pOT pX8ooJ+D5dTNBbX3u3KQMu07oJPp4OXehEIYoHWUvdcI8MjaAwicWXic a9u85tP8GDAzNYO4w7iTzW0bmitCOSGiDvkk3Y9pJ2DKJZOEhs4kAh2H pAVo1REdgT9AhgD6iUPpAQkj6CftyGNilTsAE8IrI7fDuCde/XM9IjEq UdBdn0FEiTSLeK4yLOIKNAOYNKRQar6dfSuIb1nQ30cBHRfo5WoftuhZ mTQ8/w==
-.					      86400 IN ZONEMD	2025100101 1 1 3B2ED38F373ABA2FB259CD1C16A89299E3B4FAC99AEE92897E34C776 FF4332F3D4F7795D2E0AD7636ED7E0E4BC09563D
+.					      86400 IN ZONEMD	2025100102 1 1 EA34711671C8803398926353C2CCAA15FD9E4D2CE0F47E37D29DA612 78CD7F175CAC54B2EAEE7E5CF0D2B2AD2CA1157F
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1517,14 +1517,17 @@ dnsc.nic.azure.				      172800 IN	A	156.154.102.3
 dnsc.nic.azure.				      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.azure.				      172800 IN	A	156.154.103.3
 dnsd.nic.azure.				      172800 IN	AAAA	2610:a1:1010::3
-ba.					      172800 IN	NS	ns.ba.
+ba.					      172800 IN	NS	lim.utic.net.ba.
 ba.					      172800 IN	NS	una.utic.net.ba.
 ba.					      172800 IN	NS	sava.utic.net.ba.
+ba.					      172800 IN	NS	bosna.utic.net.ba.
 ba.					      86400 IN NSEC	baby. NS RRSIG NSEC
+bosna.utic.net.ba.			      172800 IN	A	195.130.35.5
+lim.utic.net.ba.			      172800 IN	A	194.0.25.38
+lim.utic.net.ba.			      172800 IN	AAAA	2001:678:20::38
 sava.utic.net.ba.			      172800 IN	A	195.130.35.3
 una.utic.net.ba.			      172800 IN	A	204.61.216.117
 una.utic.net.ba.			      172800 IN	AAAA	2001:500:14:6117:ad::1
-ns.ba.					      172800 IN	A	195.130.35.5
 baby.					      172800 IN	NS	a.nic.baby.
 baby.					      172800 IN	NS	b.nic.baby.
 baby.					      172800 IN	NS	c.nic.baby.
