@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025102101 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251103170000 20251021160000 61809 . Rk/StZqbBz7pCYWGQqpwCWn8T5WB7MT7NG4D2xL0ZSLij9aBH6acUFpH N2xEhgYvHUL2J7LUqzssEx5g4WLx5xjHQJPTTWiSBuRZCwa+uF0qZdd2 4MYvPOscJZFnryWi25gnHFXUW0dVvNk7d3KS6TFLxMwASXJvmtWsQ1M5 KkM7Xz4qGhf+FlXXdqOKB4YrDCr5TsP8anuxKBFbBRWfVKjW+hUy1pc0 muofjYFrFSUzauAqh3zuuFetaLPxzPAxL8JaHmWXH6opZC3KWleH7j4e GClBWCw1VzCnT1ZfKuy/SLucVuuDBOblSNinc5XQ1dtBYDGCsLNItG0i 6nJjkQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025102102 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251103200000 20251021190000 61809 . dFHgknhfbpMRYj0OrDcsWPEjL4tJ/42719PfrAuD+1euJwJ3DBnVeFac sy21IZxZLoYrpkqhAECWo0A3HUr8ChBPB5EYsKhFr3l/VA+dQl6mHJli 2SVWjw+uEcetiHCerxiPAz818giFRNY8Gzzs0/Dkttb4KU3lScB61SWV ltM+IdyTsT0IgMfiNATXwVpkGrnJhfrWLi/6k3HqU8iJajgxbLtke9Pf UqQnD6hqVG53TGtdaWgIL+WwSz2YCdZj4+J2LVoQCVjzLN2CC0jdj+g7 mg/yQe8F9tw/sHXs/Tglv2bxcuB5AU8nfusKUESfsBYH0INwGo994SG+ 5lzXjA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251111000000 20251021000000 20326 . qu+HIDWi0ILo1qOR9j+Z8KZsBjm3N+xbTPm0UrqtVgtDmcuA0BF/m4zE Q/Wf32rCnGxW2tlrw0lqLqpf/+1UtsfFhNCp6c88XVI19sLyeJwgAK0d YjZtSzObkArDsU9YHmKfB8ai18AN4XHD6Op1G5IoRJsNYsAyWg6GOkua FspxV9L+ddDhjRhCmDKl3vHcRc9PscgwI47Y5hJgucB0uVbK1XbiQmAg 8qqB0YiVdyWknzL3VYkbdpyMYTlBXuLY9cW2bWrclP6nAnLNJ2BuyXBK OKXYvPCLEeu6hkmBJc6twAJKrGtEZaETWnYUFUgUj3bQHKYLgInclkXI EtF7gQ==
-.					      86400 IN ZONEMD	2025102101 1 1 C2A54E30A047D3F515F9A3BD011C90732EED44B74BFEB70BB755E61B 0F0B6E6290889B370092CA43D2C33D5D081CD17A
+.					      86400 IN ZONEMD	2025102102 1 1 22CEEDD0772E210D4D6EAEBB77D969B6A442DB8404B9BF61CB430A59 1A4808ABD69D9BE6C59ADB8EF534B7C3B659590C
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -5590,21 +5590,7 @@ dubai.					      172800 IN	NS	gtld.delta.aridns.net.au.
 dubai.					      172800 IN	NS	gtld.gamma.aridns.net.au.
 dubai.					      86400 IN DS	32134 8 1 096078E36E111A0773BF2546212B8BAD920528EF
 dubai.					      86400 IN DS	32134 8 2 3B001EA7FB42657CE51E6D30DBF91A71B10EC5264C2A01B14082C5E3 BD9A6F9D
-dubai.					      86400 IN NSEC	dunlop. NS DS RRSIG NSEC
-dunlop.					      172800 IN	NS	a0.nic.dunlop.
-dunlop.					      172800 IN	NS	a2.nic.dunlop.
-dunlop.					      172800 IN	NS	b0.nic.dunlop.
-dunlop.					      172800 IN	NS	c0.nic.dunlop.
-dunlop.					      86400 IN DS	22897 8 2 03CD996F132FFD32BC1BB4F08122D4A4F6570BB9C2AB647BE9B1AF17 4E79AFAA
-dunlop.					      86400 IN NSEC	dupont. NS DS RRSIG NSEC
-a0.nic.dunlop.				      172800 IN	A	65.22.120.33
-a0.nic.dunlop.				      172800 IN	AAAA	2a01:8840:76::33
-a2.nic.dunlop.				      172800 IN	A	65.22.123.33
-a2.nic.dunlop.				      172800 IN	AAAA	2a01:8840:79::33
-b0.nic.dunlop.				      172800 IN	A	65.22.121.33
-b0.nic.dunlop.				      172800 IN	AAAA	2a01:8840:77::33
-c0.nic.dunlop.				      172800 IN	A	65.22.122.33
-c0.nic.dunlop.				      172800 IN	AAAA	2a01:8840:78::33
+dubai.					      86400 IN NSEC	dupont. NS DS RRSIG NSEC
 dupont.					      172800 IN	NS	a.nic.dupont.
 dupont.					      172800 IN	NS	b.nic.dupont.
 dupont.					      172800 IN	NS	c.nic.dupont.
@@ -15610,7 +15596,7 @@ ru.					      172800 IN	NS	b.dns.ripn.net.
 ru.					      172800 IN	NS	d.dns.ripn.net.
 ru.					      172800 IN	NS	e.dns.ripn.net.
 ru.					      172800 IN	NS	f.dns.ripn.net.
-ru.					      86400 IN DS	18374 8 2 8058D0C088D9B3F7F30080E2B8C9804944301722A2CCE9EE66F6AC74 FEB2E200
+ru.					      86400 IN DS	51575 8 2 34CF735353060D9BD6347FF81ECFAAC24EC8F11971DC800249C64A21 BC062775
 ru.					      86400 IN NSEC	rugby. NS DS RRSIG NSEC
 a.dns.flexireg.ru.			      172800 IN	A	31.177.70.1
 a.dns.flexireg.ru.			      172800 IN	AAAA	2a02:2090:6800::1
@@ -17775,7 +17761,7 @@ tatar.					      172800 IN	NS	b.dns.ripn.net.
 tatar.					      172800 IN	NS	d.dns.ripn.net.
 tatar.					      172800 IN	NS	e.dns.ripn.net.
 tatar.					      172800 IN	NS	f.dns.ripn.net.
-tatar.					      86400 IN DS	21416 8 2 E33B55B67391B0647FD2F59AEFDD211384B14B32AA2C2DA16B1D8A63 11A12396
+tatar.					      86400 IN DS	62327 8 2 D396BFD2DAA1C18EE0C05A112A18BC830BFD929BD8C278C1C7DC2D08 EA42B110
 tatar.					      86400 IN NSEC	tattoo. NS DS RRSIG NSEC
 tattoo.					      172800 IN	NS	a.nic.tattoo.
 tattoo.					      172800 IN	NS	b.nic.tattoo.
@@ -21498,7 +21484,7 @@ xn--p1ai.				      172800 IN	NS	b.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	d.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	e.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	f.dns.ripn.net.
-xn--p1ai.				      86400 IN DS	31990 8 2 16167B01147AFBC571BFE702A4E1BF2E83A44D5EAAA4C818D8B1F62F B1FDEB1A
+xn--p1ai.				      86400 IN DS	3769 8 2 FE4BB838E51156D5886E9ECF3AF43F7E2D181FBFF1C94A12C7E74274 3FD6A82D
 xn--p1ai.				      86400 IN NSEC	xn--pgbs0dh. NS DS RRSIG NSEC
 xn--pgbs0dh.				      172800 IN	NS	ns1.ati.tn.
 xn--pgbs0dh.				      172800 IN	NS	ns2.ati.tn.
