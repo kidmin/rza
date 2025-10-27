@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025102601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251108170000 20251026160000 61809 . BYwAK0vXl56rBucOEJvMnJ8qE57qKJccrkwAjzMUT1VErgMDw/laZOjN XmZWuYe5ZAuLEE85gKXvnIZUzpAWn6MwVJ1xIA/KC1jpOnYbi20GyHtc mGVywt1NCf+mjF+VwHAVaykdc6vJvuK0auS58Hm8TR+CF04Qxf53Youy dIdfil7EpmJ1A2zyE/tDKh9bq3uNcUHwm8FxQLWye62iWcSQst5e9BQ9 IZjWoEUBxopCjnMYEoe2iond8I7qPPkxe9W5hAXrmXVmWZTdaSLiqiZn XNt87Uk0k/Z+CI7MWhu9GDjK7mzvzNm8LI+wxpTO8A1HQ1Ht4+GkNvTc 230s1w==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025102700 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251109050000 20251027040000 61809 . bFRQc+gjyvLaBhcEPJBs7rR40ZlKLuQ6cwsDevZ4Qar3jtvUg/vQbOt2 yReTYdeAfiLxrtSLvcycvuQ8vmUByUCQzRmVPCmh5Oz8nkdbja4ujRuM wAFNbL0ih+AkFyA7UCBnojq6PwgNiN2P+02LVwtVDg93fdBrdHXaWLgb I9MxjRIUPSa+eWQBwjssitAhJ3fC6aFvBfAMohEZ9kRy0dx91qksmc/f 3Jb27u4TNyr7pYfsDAFfuEhZi2OPFRYuo92RYvPwiw6ffDZAmazjHmvK ob5KEaGcDGAKgCmwUSbM4hyQlUxuf3HcuEFP5gZ4wjGBG79K5O39BNCk 8TC8tQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251111000000 20251021000000 20326 . qu+HIDWi0ILo1qOR9j+Z8KZsBjm3N+xbTPm0UrqtVgtDmcuA0BF/m4zE Q/Wf32rCnGxW2tlrw0lqLqpf/+1UtsfFhNCp6c88XVI19sLyeJwgAK0d YjZtSzObkArDsU9YHmKfB8ai18AN4XHD6Op1G5IoRJsNYsAyWg6GOkua FspxV9L+ddDhjRhCmDKl3vHcRc9PscgwI47Y5hJgucB0uVbK1XbiQmAg 8qqB0YiVdyWknzL3VYkbdpyMYTlBXuLY9cW2bWrclP6nAnLNJ2BuyXBK OKXYvPCLEeu6hkmBJc6twAJKrGtEZaETWnYUFUgUj3bQHKYLgInclkXI EtF7gQ==
-.					      86400 IN ZONEMD	2025102601 1 1 C39B15C6879F0947A53682C3C173EF97FB0CB0692703ED2421DA1164 F9EC641B08BBC018C54B131C56B2F6F7BC87E0BA
+.					      86400 IN ZONEMD	2025102700 1 1 9FE539ECBFA1DDA4D5F651F8D24D321E7830AE885F27E901B0681581 CB5DD40C255809BFA79EB2EA58FEF295EC6D9F91
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1516,9 +1516,9 @@ dnsc.nic.azure.				      172800 IN	A	156.154.102.3
 dnsc.nic.azure.				      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.azure.				      172800 IN	A	156.154.103.3
 dnsd.nic.azure.				      172800 IN	AAAA	2610:a1:1010::3
-ba.					      172800 IN	NS	lim.utic.net.ba.
 ba.					      172800 IN	NS	una.utic.net.ba.
 ba.					      172800 IN	NS	sava.utic.net.ba.
+ba.					      172800 IN	NS	lim.utic.net.ba.
 ba.					      172800 IN	NS	bosna.utic.net.ba.
 ba.					      86400 IN NSEC	baby. NS RRSIG NSEC
 bosna.utic.net.ba.			      172800 IN	A	195.130.35.5
@@ -13171,8 +13171,8 @@ nissay.					      172800 IN	NS	ac1.nstld.com.
 nissay.					      172800 IN	NS	ac2.nstld.com.
 nissay.					      172800 IN	NS	ac3.nstld.com.
 nissay.					      172800 IN	NS	ac4.nstld.com.
-nissay.					      86400 IN DS	44131 8 2 32D4C201896F44DA75382B4AFBB92E9765F528FEAB2F80548A800FC4 B26442C1
 nissay.					      86400 IN DS	62124 8 2 B59D6BDA2C131F954A260174AAE128A43BA29580997FC822E4006148 960ACFD4
+nissay.					      86400 IN DS	44131 8 2 32D4C201896F44DA75382B4AFBB92E9765F528FEAB2F80548A800FC4 B26442C1
 nissay.					      86400 IN NSEC	nl. NS DS RRSIG NSEC
 nl.					      172800 IN	NS	ns1.dns.nl.
 nl.					      172800 IN	NS	ns3.dns.nl.
@@ -19020,8 +19020,8 @@ ns3.uz.					      172800 IN	A	185.74.6.29
 ns3.uz.					      172800 IN	AAAA	2a05:45c7:e001::4
 ns4.uz.					      172800 IN	A	83.69.136.139
 ns5.uz.					      172800 IN	A	217.12.81.129
-ns6.uz.					      172800 IN	A	80.241.0.234
 ns6.uz.					      172800 IN	A	83.69.129.33
+ns6.uz.					      172800 IN	A	80.241.0.234
 ns6.uz.					      172800 IN	AAAA	2a01:7640:0:d::2
 ns7.uz.					      172800 IN	A	72.167.34.137
 ns7.uz.					      172800 IN	AAAA	2603:3:6101:8ac0::
