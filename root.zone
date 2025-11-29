@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025112801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251211170000 20251128160000 61809 . nglQ7QeToi2+nXmWzo9a1FNg5vbbGiFqnaPZMlJKG22Qmn/RHXjfgOkF TOcHwzlg2bJBwYhdob5LG51Sk9m7n/oGcEapPeUZPtkZ6AtSpVQP0x5e ZmMRboVaXESUGP7KCxXnRYbtExB5q+ijncEjjn4y5dZOzJL8BgJpQK0A U0wMVTXf7T/aLBay6ZVVe1RoVajUf6axL4nj+1FIL5Oo6+wNpbewYRmQ jrSaeL5DXGiRLSx/35hF8NnGKk9BODwaHNk1S3pAfiD4iRK8B7pDRUp6 gphSXR+bdXYKh8v+32nTS/iHZZxuaXnDGN7Q8EKongn1eU6FKRO31prK Go8T6w==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025112900 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251212030000 20251129020000 61809 . dQjMafU/ggbjq8A2tO2I+RkJVzrCa6j1F/IEL0IakKT3zLCikLyzlqZ9 hHo5LVbHcLNNQ7ROMtH9zBGIz9tCc1ec69HHpsL6sLGKIhXTmILHgvAp fUDuf7xleLY2uaPEg6Uc3OLE7z+Ol7wera8R9XZd2B0WndyAHb3h+6u/ P3GCxkAblL9rjfujYxRH0DOTNOWsWnCjiZD05tMc665XIXnCxP7YZTta /u+kuuJVfZcU9PLm96X+IjTDoq0PmTK344+nMdCjl4QOJTxN9K/Dnxoj nJHGcySSJXqoVuQja59auzNL+//AuaTuigze8y6c6Xap01aKIlSBd2JX B4yMEQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251211000000 20251120000000 20326 . d3kxIMpv2xgXK5TUmYg5AHnIBKNrbirqilN7AIl5DBkp6OxN6mqumEPe FhFyoujpaKs3/NgL6lOJ3ckBhf15guUOWEilrJPJZMvfOnxn6YWlGgPa D6w7GtighSQFDMq0JWr3wnn9d0m4CIK7yheMEzwT0niB7vmBsTHnAhBD 5eRF/ummLg1PiY2XDpulzaf/OwMItVPQEsQsgwM/ssx4w/bucsp1sZYP PnE6it09IxMkXVf0w2+5GXHACmbpO0wdZFNkFgMbVXAiHMKMiKs7ItZk CC/uUm+c3bDvL+3GQNSzUdet+AB0siHqUHU/frX6dkwz1qjYykHWjaGd 5VJmqA==
-.					      86400 IN ZONEMD	2025112801 1 1 8738D302A4280208D2BE128CE5AE30F5F77D401EA2D987551E35682C DA25CE23988FD8EB50BB55E714CB21396CA36C79
+.					      86400 IN ZONEMD	2025112900 1 1 93DC745744006595F53AECBB6668C62FD2F93FFBAEC5901E618D09B2 D3EF6EA2E4FC411670547F55DA3386B3CE4EC2BF
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -566,8 +566,8 @@ airtel.					      172800 IN	NS	c.nic.airtel.
 airtel.					      172800 IN	NS	x.nic.airtel.
 airtel.					      172800 IN	NS	y.nic.airtel.
 airtel.					      172800 IN	NS	z.nic.airtel.
-airtel.					      86400 IN DS	33365 8 2 49D75F57E4393DFA7FB4FB380DF31F83D178109DA2A791F9D6D1D875 260113BE
 airtel.					      86400 IN DS	42300 8 2 A698E339483D094208DFB7B858CDF0401BFFC320AFCC5AEED3B03DFE 82BFACC0
+airtel.					      86400 IN DS	33365 8 2 49D75F57E4393DFA7FB4FB380DF31F83D178109DA2A791F9D6D1D875 260113BE
 airtel.					      86400 IN NSEC	akdn. NS DS RRSIG NSEC
 a.nic.airtel.				      172800 IN	A	37.209.192.9
 a.nic.airtel.				      172800 IN	AAAA	2001:dcd:1::9
@@ -1118,10 +1118,7 @@ as.					      172800 IN	NS	ns2.asnic.info.
 as.					      172800 IN	NS	ns3.asnic.org.
 as.					      172800 IN	NS	ns4.asnic.uk.
 as.					      172800 IN	NS	ns5.asnic.us.
-as.					      172800 IN	NS	pch.nic.as.
 as.					      86400 IN NSEC	asda. NS RRSIG NSEC
-pch.nic.as.				      172800 IN	A	204.61.216.111
-pch.nic.as.				      172800 IN	AAAA	2001:500:14:6111:ad::1
 asda.					      172800 IN	NS	a0.nic.asda.
 asda.					      172800 IN	NS	a2.nic.asda.
 asda.					      172800 IN	NS	b0.nic.asda.
@@ -19010,8 +19007,8 @@ us.					      172800 IN	NS	x.cctld.us.
 us.					      172800 IN	NS	y.cctld.us.
 us.					      86400 IN DS	59017 8 2 7DAF469D42B5D8E5537FD4DD4B6057710E9A61F72C32EB7FB6526F52 277EC2B0
 us.					      86400 IN NSEC	uy. NS DS RRSIG NSEC
-ns5.asnic.us.				      172800 IN	A	194.146.106.86
-ns5.asnic.us.				      172800 IN	AAAA	2001:67c:1010:22::53
+ns5.asnic.us.				      172800 IN	A	23.128.97.53
+ns5.asnic.us.				      172800 IN	AAAA	2607:7c80:53::53
 b.cctld.us.				      172800 IN	A	156.154.125.70
 b.cctld.us.				      172800 IN	AAAA	2001:502:ad09::29
 f.cctld.us.				      172800 IN	A	209.173.58.70
