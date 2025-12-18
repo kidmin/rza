@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025121801 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20251231170000 20251218160000 61809 . a3C4UclJTsPh5I6T5zKZwnDiDkFIJ4R4bH6LbnClQ9jGol9cDhQNr7Rv h38c9GzIcQMaEOYblgVtwy4gLZbIuh9LfbBsn1Ji7Cj/ziGe+yKQJYY6 E7qXTXnK6V8P3xMqQn+2O/KWOi0KTUgKBnvhnvg9ThXXzZEONr5r/ZOJ KGjAbpgKFKpyBacN1K0ozy6TWIHepcE/4ymhkO6T/0T9SxUWXvhzc4of YNButvUEsWRpxX08QEFNnz5UJD+eNKI2TYy+ppqupSXzj1CPqKbUW0G4 9NBLwDGKLntfKrGu0YKCEeOdcNq9F1E/6UkfgOcbnPJ8dcKw/fEduoeF PPuBaQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025121802 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20251231220000 20251218210000 61809 . Zke7yzefr9Ua1hIJ1Bkht2tgjj8JlinI8Ie9tfguUW2Ajn5aOMz+xr/B Lxa9nD3pZ4J8DMFRq1mbXmVAqDeim5veM28RR6/yPDbtgyyTcFi3vr8B TZc+qI+Ojt0wflXaX04cEX2Tm9TdekRNUa6uedxV90geVIqEMjl7mQnA uxx5+ianwWr/F6SRccVHTTKrqFCJ8kfP+NDveV37tqohGMyWavl83S5F bHieqrDRmdi4BG2RPLP26K2jUj6Eah2KpSBnvEzGCOgerHRLbKwhgbvE aaKULRvNyF/CPCgKoeJ4iszE+sunOYlbao09LPeUjzWFhzIdsvGzUWZJ Wr16rA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20251231000000 20251210000000 20326 . GtG815YBui59E5sObprF3pDkJhEZQhPIgRdJAGItKoXToXmek0SDpBkg 7wsmoM/WWeDNWaYecNTOtz3HTi5ncNHH/vPwBSySDS2AlGCcXDH5gdoh 1bIjU98OoT2QfdeujlTr8UqJ60woWwC3HUb2oyeTYSYAargeWYJ4KvNh 1vkhcyg9ygR12ohkCC5XhAWucdmuVwnE5Y9qABCStI27yYppoGv36UHa kdqWrhdUStla6r0C4f4BudLZX/EkFRlUUhxkwa+XtLfYO2QQxCfuot0M sne9FVEe4HNkFutJw4mGNgQZyESjt9Q8bGbzCngJgV89HzM02ChJAVof G2ltew==
-.					      86400 IN ZONEMD	2025121801 1 1 535C744D48513146A54818DFF6FEB83A8D0CA7F537A55F943FCE4AA4 5A2F70643040DFC004CBCFBBA38236E3D1CAB574
+.					      86400 IN ZONEMD	2025121802 1 1 1C90F27254A2E81AB95C7D5995FA8EEC4252546C442638C97318DA68 4D32E665A53B7EFDC550D73C80DDECCC0EE18EA0
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -3972,8 +3972,6 @@ v2n1.nic.clothing.			      172800 IN	A	161.232.13.13
 v2n1.nic.clothing.			      172800 IN	AAAA	2a01:8840:f7::13
 cloud.					      172800 IN	NS	ns01.trs-dns.com.
 cloud.					      172800 IN	NS	ns01.trs-dns.net.
-cloud.					      172800 IN	NS	ns01.trs-dns.org.
-cloud.					      172800 IN	NS	ns01.trs-dns.info.
 cloud.					      172800 IN	NS	ns10.trs-dns.org.
 cloud.					      172800 IN	NS	ns10.trs-dns.info.
 cloud.					      86400 IN DS	7041 13 2 03E1B41319FDD3A14E27CE35FFBA8036DA51E328165CE102AE69A6C1 203F64E4
@@ -6414,8 +6412,6 @@ c0.nic.fedex.				      172800 IN	A	65.22.230.33
 c0.nic.fedex.				      172800 IN	AAAA	2a01:8840:e0::33
 feedback.				      172800 IN	NS	ns01.trs-dns.com.
 feedback.				      172800 IN	NS	ns01.trs-dns.net.
-feedback.				      172800 IN	NS	ns01.trs-dns.org.
-feedback.				      172800 IN	NS	ns01.trs-dns.info.
 feedback.				      172800 IN	NS	ns10.trs-dns.org.
 feedback.				      172800 IN	NS	ns10.trs-dns.info.
 feedback.				      86400 IN DS	8710 13 2 D28054E80046B19C06009C25B451836BEBE30A7516ED8C8E51B044E0 D2144B64
@@ -6960,8 +6956,6 @@ v2n1.nic.forsale.			      172800 IN	A	161.232.17.53
 v2n1.nic.forsale.			      172800 IN	AAAA	2a01:8840:fb::53
 forum.					      172800 IN	NS	ns01.trs-dns.com.
 forum.					      172800 IN	NS	ns01.trs-dns.net.
-forum.					      172800 IN	NS	ns01.trs-dns.org.
-forum.					      172800 IN	NS	ns01.trs-dns.info.
 forum.					      172800 IN	NS	ns10.trs-dns.org.
 forum.					      172800 IN	NS	ns10.trs-dns.info.
 forum.					      86400 IN DS	48583 13 2 DE6529EC2AC6952FE38E419097C4AED7DE20B78B91C88753F70B254C CDFCD543
@@ -13482,8 +13476,6 @@ c0.nic.obi.				      172800 IN	A	65.22.114.17
 c0.nic.obi.				      172800 IN	AAAA	2a01:8840:70::17
 observer.				      172800 IN	NS	ns01.trs-dns.com.
 observer.				      172800 IN	NS	ns01.trs-dns.net.
-observer.				      172800 IN	NS	ns01.trs-dns.org.
-observer.				      172800 IN	NS	ns01.trs-dns.info.
 observer.				      172800 IN	NS	ns10.trs-dns.org.
 observer.				      172800 IN	NS	ns10.trs-dns.info.
 observer.				      86400 IN DS	15964 13 2 406B287804778738DCF0B6D94BF410455D500E7A3DCEAF8D34C5AFA8 6C91A6E1
@@ -14266,8 +14258,6 @@ v2n1.nic.pictures.			      172800 IN	A	161.232.11.16
 v2n1.nic.pictures.			      172800 IN	AAAA	2a01:8840:f5::16
 pid.					      172800 IN	NS	ns01.trs-dns.com.
 pid.					      172800 IN	NS	ns01.trs-dns.net.
-pid.					      172800 IN	NS	ns01.trs-dns.org.
-pid.					      172800 IN	NS	ns01.trs-dns.info.
 pid.					      172800 IN	NS	ns10.trs-dns.org.
 pid.					      172800 IN	NS	ns10.trs-dns.info.
 pid.					      86400 IN DS	43839 13 2 A8997EC116A3E8E9BEFF3C5170352C427956DDD9E3FBAA5166108D1A 61574246
