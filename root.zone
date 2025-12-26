@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025122601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260108170000 20251226160000 61809 . dtvC4bT/R4tBSp5wxAVTKAikZHM+/LWbxPOh8jAsbTwRI2qM2Dgx6ynn wOZllIVNVH4zUwSUcaI6kKU8/UWjYXAptr7fkohW4dCFpypGDw6MdDqj taMutF/w4Le0G6Hh93bd4JhV6ytyPLsZRpMX4lLOC8NDV2O+PqHx9Npj LpP/grlgCVT22+Zt+EIosjNJjBGTOtuGUs4rnZdK45nMia94lpbK1zMg 5xqQsag1lu3Ybsx5OhabLuS23/+X97VBMD6zgrJpH4qJQgqfI9wzF6aD 9UbkCCaAhgSVFNSIhKIfec95vALiOJZOVMP35D7rfkAR0FgMBtqwe6Gj qCLiZg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2025122602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260108230000 20251226220000 61809 . X5pwvSH5iAP6m/2OouXgOih4P6Vh+Uq0WFZziy6YocNuYNXTZ4g1wkoZ ehTDoQ4RmL64beeUXFYQSBMoufrHGtNais7WfpHd+7B+hXsyKKRLEsBz uyOc3xw/JLCIE3xrgh/LvAVnjkZ6li0Q26bz5ulEM1y1PWkWJf7nhnX1 9N592sWwe84DExYDQxQ4LxxFnGG7Xui/7+0o7KvDxjH6UxXgGimLsiw6 GdO6oyxpYuwoes3rcSx+hEezpBzxmG3HPJgWzQW8n4HLmvscphnQ+0sN LrutO3i4ijMBzlv2r1aPp2RlDs4zfMGsjwrZ9G8m0lRQ5PjLJo9w7fbF DSISLA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260110000000 20251220000000 20326 . RZO5FQjtg6Yk0Dara521nCUfYnQxCLAVdbC+buKQVAKlHsZ6srxXHNAL 8DMoHohT+PyIlPFAQMb5fBZatrDaqxpZZ/YbC0A2zxGxOwuOPb1xRbqi 6E3zSKfilTRuAux5jN0KYbZZhFxda62e9Hv+2GJsMLixTpiV3RVXtxEN I2GPRA8mRRJPBDR7XVQF/2Pz+vjcAW07dp27CrNmQPyZtVjSgw49Jz1r SsAm+EEKO6C7KLG5hmENQr165D3YjMWCs93YhTY8bhWYVqeDtsB1BwoE WkMqSFs4I4+uMd14BHvO6mlqzOZyWC+3kXYTpoAlE0kFhKNv1i54wgHR B+paqw==
-.					      86400 IN ZONEMD	2025122601 1 1 E06C9D14ADC186D2EA9B66CB58140C3F2E1A607128A446A6AD7C17BC 72BBCE5D4E9E12AB2E61101412D6690AE5C5B079
+.					      86400 IN ZONEMD	2025122602 1 1 AA1A0ACC36EAE4CCE6E81B62350F26022A9D942A0893EFC8F3DA2451 C02CA99DBA735C9773D4F0E82CA044C959F5B01F
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -12387,12 +12387,20 @@ music.					      172800 IN	NS	ns10.trs-dns.org.
 music.					      172800 IN	NS	ns10.trs-dns.info.
 music.					      86400 IN DS	14632 13 2 68F411322E670C84337B2182422AF6E8F95C367C24E79CD4326B2276 F52F4603
 music.					      86400 IN NSEC	mv. NS DS RRSIG NSEC
+mv.					      172800 IN	NS	ns.mv.
 mv.					      172800 IN	NS	ns.dhivehinet.net.mv.
 mv.					      172800 IN	NS	ns2.dhivehinet.net.mv.
+mv.					      172800 IN	NS	boli.ns.mv.
 mv.					      172800 IN	NS	mv-ns.anycast.pch.net.
+mv.					      172800 IN	NS	sangu.ns.mv.
 mv.					      86400 IN NSEC	mw. NS RRSIG NSEC
 ns.dhivehinet.net.mv.			      172800 IN	A	202.1.192.196
 ns2.dhivehinet.net.mv.			      172800 IN	A	202.1.201.201
+ns.mv.					      172800 IN	A	202.1.192.196
+boli.ns.mv.				      172800 IN	A	103.31.84.199
+boli.ns.mv.				      172800 IN	AAAA	2406:e400:a:1::1
+sangu.ns.mv.				      172800 IN	A	27.114.188.1
+sangu.ns.mv.				      172800 IN	AAAA	2406:e400:1:1::1
 mw.					      172800 IN	NS	mw.cctld.authdns.ripe.net.
 mw.					      172800 IN	NS	ns4.apnic.net.
 mw.					      172800 IN	NS	rip.psg.com.
@@ -12794,6 +12802,7 @@ ls-ns.anycast.pch.net.			      172800 IN	AAAA	2001:500:14:6028:ad::1
 ms-ns.anycast.pch.net.			      172800 IN	A	204.61.216.33
 ms-ns.anycast.pch.net.			      172800 IN	AAAA	2001:500:14:6033:ad::1
 mv-ns.anycast.pch.net.			      172800 IN	A	204.61.216.24
+mv-ns.anycast.pch.net.			      172800 IN	AAAA	2001:500:14:6024:ad::1
 na-ns.anycast.pch.net.			      172800 IN	A	204.61.216.35
 na-ns.anycast.pch.net.			      172800 IN	AAAA	2001:500:14:6035:ad::1
 xn--node.ns.anycast.pch.net.		      172800 IN	A	204.61.216.88
