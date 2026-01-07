@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026010701 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260120170000 20260107160000 21831 . iVtPuX8cc+mnf3fVwEOLtjJ+ZvVNGbCRvd2AJM8n+eUgIljttsDb1QCD nfMD6I9qWM+PJ/bAcjyWDaMlXjRNZL7ZjJtLd4307t9jgbblZZDnxBAY ePbBJaM+4sjA0ckb99Ec0bk2FjP3u6MDzRbm+F5+Xd+7Y4QFWCEEMM9j SMGxOWuk2GyDMapDWt0le1llO58SAOygBT0EhVBHXNEOqwStp9Y7HSGu EOdUAw/0d7w3SpVBiySDkKRpJOWh7jtB5jc4usfZytmoFVMd8HlbQF0G sQWX/JI4Ga5JKus99m0yUhV1pMwxZ1YtKsq8s9RgoDTAAnLJBc6qRCM4 Hvk2GQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026010702 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260120220000 20260107210000 21831 . i1MaB6gtNLanqppcOoqzNaSyAed/hqFhrP12zQNiXRsxx6g8USjRpKdj w/cLVwd3f6TWwe4/cXvuuS26l6diWbMRrx3yVfiq9ATicchCmLb/puEP ICIeSp8LNS0s2iQmGNUUBlSkfjwU7CY1QQQEqHDBWrbuTIKRZcZOmcAC Lc6CaZJnRuFr37W/8LB7t/sSKB5vN0Q+Rl1lbet5/cfVRofiKcqEsDkm HIWOLHpnRM8evaPP6OT0jcLl1b2rUTk0lQpNkG73ybJoPNfHSt13Hm7i Xq+vciqUhHNczE0jBmumI/vaIN5o1mP/0m/BLowtmLPwerX/MEYN8aPZ dask6g==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260122000000 20260101000000 20326 . USkvPpFyQAxqOkImrqqrMdiekwo0VJR5VGDlDxCNsI1dJ79PzX9wXPKp rjsMZf77Xbo2SmRTCz+rbNtUtTmiKtDNsRROj9+45I4ExW1w3JKx3Srf HdORnrM0FK14YI+BbOJGkVsSMfJkscC2IWDb0APdvZgkUvYmi1ERmu4U G6CAujAmHe7GbLtEQlzMEdlCrYAgRtJo5RstNivFZ5A9WiBQMlfOAoEf 0zr7FDbHocQa2i983Jc3TzNJcRZwmQRpV1beonuMzQ3BumxE8n0sLX3p d6YFfZeO5J+kY8NVKFrSyEpfi83Yucy2Jd5LJwDo4t2kHHmG03LbkZbe GPkawg==
-.					      86400 IN ZONEMD	2026010701 1 1 D31C4E90D0C3A4D0D546FF3ED6D6F362E9737DACF8EE4435B6DE6003 91FE6B29615AC1EB9724E3C3B20E251A9F14D9CC
+.					      86400 IN ZONEMD	2026010702 1 1 535D883498037FD6E9AB1AD391235A2747E113C90965A54A5D056A1C 3BF3D21393F2739F2E6FBD44112A4BC4F9CB82D6
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -8421,7 +8421,7 @@ hk.					      172800 IN	NS	v.hkirc.net.hk.
 hk.					      172800 IN	NS	x.hkirc.net.hk.
 hk.					      172800 IN	NS	y.hkirc.net.hk.
 hk.					      172800 IN	NS	z.hkirc.net.hk.
-hk.					      86400 IN DS	52069 8 2 B834325AACD5B3555F37BDA585F9D6B877691AC4D07F40F8C6C1866D 7CA125F8
+hk.					      86400 IN DS	11209 8 2 87B3704EFC01844572EA103F0379FF94E889B703ED877AFBD6868F4A 9ABAB725
 hk.					      86400 IN NSEC	hkt. NS DS RRSIG NSEC
 ns2.cuhk.edu.hk.			      172800 IN	A	137.189.6.21
 ns2.cuhk.edu.hk.			      172800 IN	AAAA	2405:3000:3:6::15
@@ -12387,11 +12387,11 @@ music.					      172800 IN	NS	ns10.trs-dns.org.
 music.					      172800 IN	NS	ns10.trs-dns.info.
 music.					      86400 IN DS	14632 13 2 68F411322E670C84337B2182422AF6E8F95C367C24E79CD4326B2276 F52F4603
 music.					      86400 IN NSEC	mv. NS DS RRSIG NSEC
-mv.					      172800 IN	NS	ns.mv.
 mv.					      172800 IN	NS	ns.dhivehinet.net.mv.
 mv.					      172800 IN	NS	ns2.dhivehinet.net.mv.
-mv.					      172800 IN	NS	boli.ns.mv.
 mv.					      172800 IN	NS	mv-ns.anycast.pch.net.
+mv.					      172800 IN	NS	ns.mv.
+mv.					      172800 IN	NS	boli.ns.mv.
 mv.					      172800 IN	NS	sangu.ns.mv.
 mv.					      86400 IN NSEC	mw. NS RRSIG NSEC
 ns.dhivehinet.net.mv.			      172800 IN	A	202.1.192.196
@@ -21114,7 +21114,7 @@ xn--j6w193g.				      172800 IN	NS	v.hkirc.net.hk.
 xn--j6w193g.				      172800 IN	NS	x.hkirc.net.hk.
 xn--j6w193g.				      172800 IN	NS	y.hkirc.net.hk.
 xn--j6w193g.				      172800 IN	NS	z.hkirc.net.hk.
-xn--j6w193g.				      86400 IN DS	12577 8 2 BC488B29A1DEBD72D7EBA8D649B27BBCF7A299666E1A9BD210C3F6E8 FFCD735E
+xn--j6w193g.				      86400 IN DS	29905 8 2 1520D14524E15029B5B0F9A2CE10D1DEE15B90B873F615CAE51FA4E2 FE317EFD
 xn--j6w193g.				      86400 IN NSEC	xn--jlq480n2rg. NS DS RRSIG NSEC
 xn--jlq480n2rg.				      172800 IN	NS	dns1.nic.xn--jlq480n2rg.
 xn--jlq480n2rg.				      172800 IN	NS	dns2.nic.xn--jlq480n2rg.
