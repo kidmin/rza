@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026020601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260219170000 20260206160000 21831 . i1LL2TpKkvYA+SVzoRjjcOqxMu4v0ZKvpGT4wAP3Z20YAx8MSl/RTvNK X1BNwOLzB3aLep1NjFcOjPwVZguttM6Tizx7dnxm2+0NqMtN9c51rkbr NbGuMkpWPLBsIXxxe/S1CQKgDlbXlOMh3cCRQBrRo2X4Vn8QCGpRffhK ZHfRl+/VvyyOglDsPLq7ptDNPqzjs9zofQsw2VGJeltbAYIGqhNojQO6 su3lctdGn+scqR5xdGDz3OWg/qQX/TkkINMyfouF3674u6+XTx+bQvrD qlxwYdQnORsmJ67VhzlThWrXpCla60399E9ndHUYFIYKBAAV02d3ibQ7 XcFZcw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026020602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260219210000 20260206200000 21831 . mmQcBuBnO/ZOHreLmxelSeSH4mwb9nXACKJxdibZPH3pSBgpy0C7OOiV EleWDEMJRK5qPbBXtDtembGToeBdZ9ZBZodhVnxCqNsPLa2s3BKsx1Bf l4gxNPUB3gvmr/QUNFXx7mLKe4jGj68ZpvwmKHVAIGKiURo/usOdoCz8 F1WLTq0yE+e9rlSdeOD4OAq87k2iDvOwhiMZrwcsJ6/wraKukmxAD4fu 1VqBc8ny2IHm6h0JccSF21o6qebMve8uEbPklPwZZiXBDkejMZxQSi/F 5vRUoDKPgTfmf8qa4haZrKy45eHUozicmeVogucTbQEJvckG3GGvAODK 3HSmUg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260221000000 20260131000000 20326 . ULrD2Zl+nPNutE2pzdrRyF+tYiDursnMx4JgtQtXxNNLXWYYTuuX+9QL 11bs2wAqqQMeAw2I6/WKpxrd0bTBLkZM+wpE57mXVISo+KyyAYWvQF9B UMWZ8dTtRxsHsM5oKhhstYGooaULjcuorrty7CsfT3JJIa1PBaK79L0m UERVJx9tsQPbDF3CM+29ImvMxs3z6PN8d3vbI2tvbR1L222/CyuSm1JA fcke1sKbOzWo1+RL6ZUBm+cYNIl+7TQ80NbnWDmHyNamJ/geuEWvHG0R NEdFL1Y8fvIHI2BCHht+hnVaTv+s/WAjR/xU3wh2mMBHe4m9fNcnOmod kSk5tQ==
-.					      86400 IN ZONEMD	2026020601 1 1 17CBB7532C27B7BDACD465A02DA0B9D7E7D3274EDD7F12CA6EF5B0A3 25859EF14B6E504510F45E2EB34451B1B99F0B81
+.					      86400 IN ZONEMD	2026020602 1 1 94DAEAFCEF77C8F25F821DDEC243F6888A87D8F34675822459BB48AB B566E07786585F36CD609578396E11D7DE3FC899
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -7791,7 +7791,7 @@ golf.					      172800 IN	NS	v0n3.nic.golf.
 golf.					      172800 IN	NS	v2n0.nic.golf.
 golf.					      172800 IN	NS	v2n1.nic.golf.
 golf.					      86400 IN DS	10444 8 2 FFF548BEDE169FE52DE3106F856E5A31A0B349D1A54CBEC3C2FF0BB8 37B29108
-golf.					      86400 IN NSEC	goo. NS DS RRSIG NSEC
+golf.					      86400 IN NSEC	goodyear. NS DS RRSIG NSEC
 v0n0.nic.golf.				      172800 IN	A	65.22.28.46
 v0n0.nic.golf.				      172800 IN	AAAA	2a01:8840:1e::46
 v0n1.nic.golf.				      172800 IN	A	65.22.29.46
@@ -7804,12 +7804,6 @@ v2n0.nic.golf.				      172800 IN	A	65.22.31.46
 v2n0.nic.golf.				      172800 IN	AAAA	2a01:8840:21::46
 v2n1.nic.golf.				      172800 IN	A	161.232.15.46
 v2n1.nic.golf.				      172800 IN	AAAA	2a01:8840:f9::46
-goo.					      172800 IN	NS	a.gmoregistry.net.
-goo.					      172800 IN	NS	b.gmoregistry.net.
-goo.					      172800 IN	NS	k.gmoregistry.net.
-goo.					      172800 IN	NS	l.gmoregistry.net.
-goo.					      86400 IN DS	6266 8 2 CDB2048D86D951BFC2320C25EC2211B19E22B00F8A1FBC6A6A7CBC9D 5D9A9924
-goo.					      86400 IN NSEC	goodyear. NS DS RRSIG NSEC
 goodyear.				      172800 IN	NS	a0.nic.goodyear.
 goodyear.				      172800 IN	NS	a2.nic.goodyear.
 goodyear.				      172800 IN	NS	b0.nic.goodyear.
@@ -21457,7 +21451,7 @@ xn--ngbe9e0a.				      172800 IN	NS	b.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.				      172800 IN	NS	c.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.				      172800 IN	NS	d.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.				      86400 IN DS	5347 8 2 6E02D3EE5A203293F8CBAF20686AECD516E1363E231EC6DB68E78E9F 48090E47
-xn--ngbe9e0a.				      86400 IN DS	10552 8 2 B4B742442C6B66D321259FCD7608462A75F2A7EA70AF4E42A6CAD043 0DD98D51
+xn--ngbe9e0a.				      86400 IN DS	49747 8 2 6D343065191808281110ECE8C0A9CB89612B03355524A7CBBBF9DF0E 95CFCDCB
 xn--ngbe9e0a.				      86400 IN NSEC	xn--ngbrx. NS DS RRSIG NSEC
 a.nic.xn--ngbe9e0a.			      172800 IN	A	194.169.218.22
 a.nic.xn--ngbe9e0a.			      172800 IN	AAAA	2001:67c:13cc::1:22
