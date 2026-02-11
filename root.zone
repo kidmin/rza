@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021101 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260224170000 20260211160000 21831 . orO86slxASG02ac8jenKXNfFziMuHAeMAIVzONCSDdAHmabrGNNAkcls ubDYD4qVFeG8BZXFk5T7wt9cdObau5XXtg/pTXWrgWQt0WRn36qG1qs9 2rTtw1A1ZoMFan9IN6P2IA3Zx5N2dGVnrNaHuhussKBYKkEv6iny2sNj 7kSMUPu2TReVcjKWZtUcBd5GZIjYPEtt9amTdwkQuD5NIvpJOj8ZsOvD dDm+MUUwplACwK14GG8if1bgJdeCB5Pr9uQoufndUMRD2hzuqedLDqHn rfx7AL4YsVGWC8F5ReMg5qiZECrHRxr5sAYtNGeizjKF+h+I+up/HUuk Y86kTg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021102 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260224220000 20260211210000 21831 . riggKSNkFbkG67YwaoPMqouOu40u7omWrbUV/UF0DfkRkk2VsyTVtQiw Lc1Uu0HWFL3vLKu83Sa5JtG2mzwp5sA5kT+7xEsAIzFGMoJeo6Awew6V UaoG3hUHAV7jv2eufp32h9/AIRA6XO6ae4ulJIKlcZsYVZ3iTErgr1xt laICZsSZqShxgqsv5XZyZI6+sWQQiG599pSYYyK+zDrXrCuUg4kE1OWg aY2saYcoHXgJf7XijJwWJS4fzwLCbkQyWcND//c/oFOfMUmMZGqGp9os SYLbfgTqPzyXRJ/6L6h4E/Hw3ILHmkB2mpLyco5SFwmRpNEZKJC8/j6s Cz36pw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260303000000 20260210000000 20326 . TNriFzthFM1hKzGD2meB96QrMIdTe/9ZFzMPdP3wWZAOvyfH9F9wuIhj T0V3H/0UE2cq04wvOtdGsEdmJaF7fCIj8aEE3e9Zn/woJXXXl9J3fhZQ yGMq5jQLr+4KAuaNPwaMwlGHMDgZuwVJx1KpsAiib+GldJsCAVqM9hW9 FpPwtuiN3c8xKT+A8DlAImzKTAUyQEyfSa9UlQzRwPeWcs2HQA/5GL0e osEWpwfdCHfpMw7JPFIMhUEsRftyZuxDgrPQs/geHoSXMeI+bgIRirnR kOLVDaNSiAKt1VtWeDrVeOBcIEzocdRicpX7VmwFHiHM1BblamwYCsX/ nfexFg==
-.					      86400 IN ZONEMD	2026021101 1 1 880AAC9556C229E2DA47198C4D13E829633D77F90D70DC0FE208BC4C CA6EF05F6BB498B7F0433FA9C24D6E73E03E7637
+.					      86400 IN ZONEMD	2026021102 1 1 F788C6548ADCBE01805EAE828C09AFB49C73A7D2FF2C2B5FA4B82E91 4A236ECFED290A07AC56884BBD2CF607ADCBCA32
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -13659,6 +13659,10 @@ online.					      172800 IN	NS	a.nic.online.
 online.					      172800 IN	NS	b.nic.online.
 online.					      172800 IN	NS	e.nic.online.
 online.					      172800 IN	NS	f.nic.online.
+online.					      172800 IN	NS	ns01.trs-dns.com.
+online.					      172800 IN	NS	ns01.trs-dns.net.
+online.					      172800 IN	NS	ns10.trs-dns.org.
+online.					      172800 IN	NS	ns10.trs-dns.info.
 online.					      86400 IN DS	19282 8 2 2706A216BD382A5823C746CE685CBC84CA12A9C227E47792ABD990FA 7885DBB0
 online.					      86400 IN DS	65176 8 2 A7AE5FD8BCA808EDB6906AD3BB9AB506326907F1C41FA8404453E8C8 43F266EE
 online.					      86400 IN NSEC	ooo. NS DS RRSIG NSEC
@@ -14394,9 +14398,9 @@ pk.					      172800 IN	NS	root-s.pknic.pk.
 pk.					      172800 IN	NS	root-c1.pknic.pk.
 pk.					      172800 IN	NS	root-c2.pknic.pk.
 pk.					      86400 IN NSEC	pl. NS RRSIG NSEC
-ns.ntc.net.pk.				      172800 IN	A	202.83.164.166
-ns1.ntc.net.pk.				      172800 IN	A	202.83.164.167
-ns2.ntc.net.pk.				      172800 IN	A	175.107.198.150
+ns1.ntc.org.pk.				      172800 IN	A	43.250.84.53
+ns2.ntc.org.pk.				      172800 IN	A	43.250.84.54
+ns3.ntc.org.pk.				      172800 IN	A	36.50.76.15
 root-c1.pknic.pk.			      172800 IN	A	185.159.197.160
 root-c1.pknic.pk.			      172800 IN	AAAA	2620:10a:80aa::160
 root-c2.pknic.pk.			      172800 IN	A	185.159.198.160
@@ -16787,6 +16791,10 @@ site.					      172800 IN	NS	a.nic.site.
 site.					      172800 IN	NS	b.nic.site.
 site.					      172800 IN	NS	e.nic.site.
 site.					      172800 IN	NS	f.nic.site.
+site.					      172800 IN	NS	ns01.trs-dns.com.
+site.					      172800 IN	NS	ns01.trs-dns.net.
+site.					      172800 IN	NS	ns10.trs-dns.org.
+site.					      172800 IN	NS	ns10.trs-dns.info.
 site.					      86400 IN DS	4241 8 2 B2F9F1BAAA93793437D7F16065A2075BBA7794160C1FEE25A7BB5A34 164EC7D5
 site.					      86400 IN DS	51974 8 2 A06DC47457CC1185CF1B3A7CF6ECCB84978DE92939DD182BEED95215 09D0DA7B
 site.					      86400 IN NSEC	sj. NS DS RRSIG NSEC
@@ -17158,6 +17166,10 @@ space.					      172800 IN	NS	a.nic.space.
 space.					      172800 IN	NS	b.nic.space.
 space.					      172800 IN	NS	e.nic.space.
 space.					      172800 IN	NS	f.nic.space.
+space.					      172800 IN	NS	ns01.trs-dns.com.
+space.					      172800 IN	NS	ns01.trs-dns.net.
+space.					      172800 IN	NS	ns10.trs-dns.org.
+space.					      172800 IN	NS	ns10.trs-dns.info.
 space.					      86400 IN DS	33010 8 2 53E37640A028FA26A4ED6306AA07C506BF037FC414AF9CAF0E41ADFF F87CCB72
 space.					      86400 IN DS	63881 8 2 85EE1264739A00FB6139712C3D7227721D99654226B0140F14A3E3D1 A63B315F
 space.					      86400 IN NSEC	sport. NS DS RRSIG NSEC
@@ -19004,6 +19016,10 @@ uno.					      172800 IN	NS	a.nic.uno.
 uno.					      172800 IN	NS	b.nic.uno.
 uno.					      172800 IN	NS	c.nic.uno.
 uno.					      172800 IN	NS	d.nic.uno.
+uno.					      172800 IN	NS	ns01.trs-dns.com.
+uno.					      172800 IN	NS	ns01.trs-dns.net.
+uno.					      172800 IN	NS	ns10.trs-dns.org.
+uno.					      172800 IN	NS	ns10.trs-dns.info.
 uno.					      86400 IN DS	7286 8 2 D85EED6E94D62F2D9C4D8FF199A5CB355AD0E3B56BF845264AA9F38B FC6450B5
 uno.					      86400 IN DS	56080 8 2 73E7B1013FD902486A7942F93000536E49B6EA7C53BCAADBD2ACFF55 7B44A552
 uno.					      86400 IN NSEC	uol. NS DS RRSIG NSEC
@@ -21313,11 +21329,10 @@ xn--mgbah1a3hjkrd.			      172800 IN	NS	ns-mr.nic.fr.
 xn--mgbah1a3hjkrd.			      172800 IN	NS	ns-mr.afrinic.net.
 xn--mgbah1a3hjkrd.			      86400 IN DS	19030 8 2 9C1324BBE5B1726510CA3EA47E2D42F7E6C6A09BAF424AC344F32DE5 488AE5A9
 xn--mgbah1a3hjkrd.			      86400 IN NSEC	xn--mgbai9azgqp6j. NS DS RRSIG NSEC
-xn--mgbai9azgqp6j.			      172800 IN	NS	ns.ntc.net.pk.
-xn--mgbai9azgqp6j.			      172800 IN	NS	ns1.ntc.net.pk.
-xn--mgbai9azgqp6j.			      172800 IN	NS	ns2.ntc.net.pk.
-xn--mgbai9azgqp6j.			      86400 IN DS	21720 7 1 9FC6318AA15A43B4CF11D3F64CD678935E40402F
-xn--mgbai9azgqp6j.			      86400 IN DS	21720 7 2 BB7D853DFDFD7A39574CE1B5D3009E5C813264E614430C1B29C894C0 90393DD1
+xn--mgbai9azgqp6j.			      172800 IN	NS	ns1.ntc.org.pk.
+xn--mgbai9azgqp6j.			      172800 IN	NS	ns2.ntc.org.pk.
+xn--mgbai9azgqp6j.			      172800 IN	NS	ns3.ntc.org.pk.
+xn--mgbai9azgqp6j.			      86400 IN DS	23595 13 2 E46D0E529C6F1A41EC7DE4A184C062FFB2847D49618192FECB8D3488 18E576C6
 xn--mgbai9azgqp6j.			      86400 IN NSEC	xn--mgbayh7gpa. NS DS RRSIG NSEC
 xn--mgbayh7gpa.				      172800 IN	NS	a.cctld-servers.net.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	b.cctld-servers.net.jo.
