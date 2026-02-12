@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260225170000 20260212160000 21831 . qNM9zoRiJzioe9eoWlmVVdcXZUOe9Q4cngBiWlUd63y7ytc8RBs0xw2S +dLHSouyx6YGsaIKMDhUBFko4ltL3PNICJ6lkUdu4WWDMTxxf9uqe7Bf LxD0bcR8Npnml3qKc9bG6H1iiG5B1TSbUhD/tpWFXsyxUggk7BTEl/k5 ShP/HmEzErIzNtltEYMlotb/Q+SOSzhrqarTQ1K3jImTnQvVk1Q2R+ow WhhEzqhUytboF09H0epvz3TIqOoq4eWdNZEXGNgb2JrmEfmtLYpE6GyG Fp+HhIYO4aedZNuxrB9XWWyjQYOAvZcRb8RJDJL7b5l+CleQZAPqh64K foTb4w==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260225230000 20260212220000 21831 . T2KYPIyMCZlDkyzj9kHhkVc00nMQ/FBX9xeUX0Q4/06wMgg+Y4uMbT/C 14AMmggjLBx06WUVuJbxdYyB080CCGuP0seMgW5qF5E8WM6Y7B2ByHRQ uUp+xRWZob5WEwE4dQ4SkhP9maUhUWyOZ4VKPiBRCOsf6Gb0FjTIzYFf 146MRq8aa8LZOfEcpOFB5/Eouw9r4WmVwiIMj/w/XhM5a6Ir8ONBDhdv K/YLmKg7AqWoIAeKVooh+ADAfxo/QQFRzOkJxJFM6bmkEy/73eLG50ki hPSu7L9du7pobJXQ8tTS5A0CT2uWFBm4pwNh+BmaNnuxVn9mq4C04hk1 7R3SZw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260303000000 20260210000000 20326 . TNriFzthFM1hKzGD2meB96QrMIdTe/9ZFzMPdP3wWZAOvyfH9F9wuIhj T0V3H/0UE2cq04wvOtdGsEdmJaF7fCIj8aEE3e9Zn/woJXXXl9J3fhZQ yGMq5jQLr+4KAuaNPwaMwlGHMDgZuwVJx1KpsAiib+GldJsCAVqM9hW9 FpPwtuiN3c8xKT+A8DlAImzKTAUyQEyfSa9UlQzRwPeWcs2HQA/5GL0e osEWpwfdCHfpMw7JPFIMhUEsRftyZuxDgrPQs/geHoSXMeI+bgIRirnR kOLVDaNSiAKt1VtWeDrVeOBcIEzocdRicpX7VmwFHiHM1BblamwYCsX/ nfexFg==
-.					      86400 IN ZONEMD	2026021201 1 1 57E9465F6F3EC4F99798DEA47AAED92D2823C063761608D4AB5BAFFF 8C60A607D14F82FA5A82A26A79C3F27F2B362466
+.					      86400 IN ZONEMD	2026021202 1 1 E68F314768A18EA81996A6F187A0796CA4915F5856CAF40032D6C8CD 301C6420283CDB4D55F627932525AF808BB193F9
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -6850,7 +6850,8 @@ fo.					      172800 IN	NS	a.nic.fo.
 fo.					      172800 IN	NS	b.nic.fo.
 fo.					      172800 IN	NS	c.nic.fo.
 fo.					      172800 IN	NS	d.nic.fo.
-fo.					      86400 IN DS	6691 8 2 A752CEAAE4E28B4232244E5486D55889F117A15B81D3128CE7E9359F 1D47A445
+fo.					      172800 IN	NS	mimi.nic.fo.
+fo.					      172800 IN	NS	xn--gurun-jta.nic.fo.
 fo.					      86400 IN DS	14231 8 2 2828B71E13A64B57B7BB68C56519D583597BEC04EF2721D967622223 F4CCF36B
 fo.					      86400 IN NSEC	foo. NS DS RRSIG NSEC
 a.nic.fo.				      172800 IN	A	194.169.218.27
@@ -6861,6 +6862,10 @@ c.nic.fo.				      172800 IN	A	212.18.248.27
 c.nic.fo.				      172800 IN	AAAA	2a04:2b00:13ee::27
 d.nic.fo.				      172800 IN	A	212.18.249.27
 d.nic.fo.				      172800 IN	AAAA	2a04:2b00:13ff::27
+mimi.nic.fo.				      172800 IN	A	77.72.229.243
+mimi.nic.fo.				      172800 IN	AAAA	2a01:3f0:0:315::53
+xn--gurun-jta.nic.fo.			      172800 IN	A	194.146.106.158
+xn--gurun-jta.nic.fo.			      172800 IN	AAAA	2001:67c:1010:40::53
 foo.					      172800 IN	NS	ns-tld1.charlestonroadregistry.com.
 foo.					      172800 IN	NS	ns-tld2.charlestonroadregistry.com.
 foo.					      172800 IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -16320,10 +16325,10 @@ b.ns.se.				      172800 IN	A	192.36.133.107
 b.ns.se.				      172800 IN	AAAA	2001:67c:254c:301::53
 c.ns.se.				      172800 IN	A	192.36.135.107
 c.ns.se.				      172800 IN	AAAA	2001:67c:2554:301::53
-f.ns.se.				      172800 IN	A	192.71.53.53
-f.ns.se.				      172800 IN	AAAA	2a01:3f0:0:305::53
-g.ns.se.				      172800 IN	A	130.239.5.114
-g.ns.se.				      172800 IN	AAAA	2001:6b0:e:3::1
+f.ns.se.				      172800 IN	A	192.36.134.97
+f.ns.se.				      172800 IN	AAAA	2001:67c:2550:301::53
+g.ns.se.				      172800 IN	A	194.68.134.97
+g.ns.se.				      172800 IN	AAAA	2001:67c:2558:301::53
 i.ns.se.				      172800 IN	A	194.146.106.22
 i.ns.se.				      172800 IN	AAAA	2001:67c:1010:5::53
 m.ns.se.				      172800 IN	A	194.0.11.112
