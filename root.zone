@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021301 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260226170000 20260213160000 21831 . SnF3/4gcQlp1BlapMPIHFYiFY7U5Es2g0hURWlvHacdHTAy+vY7RxCvB ymXUEBGrGVmvb54vgCLNuup+O2VPUkt9GtbYUGA2JuA94jWv65Ch4TyF jZkIL+ns4xCOXKy66X0r0wFstou2GXClqDXgW5yevz2zo9C3s/RQ7uu8 NZprRbDOBXsTgT6p42hS7VZtjsU0Ct2vdhTQB1n8wi+Wis91Ereg2aM8 GWhxA/GQ+WvMfy1mhfe0bWPQb9aBY6HFFf7ruUvuEmGY0qaUuNTEwvrE ta212D9ZgJmq32mhM+nP82alOeke8MJtHGTPMLu+bIgdpCqXPhxuuLr0 PVpNsA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021302 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260226210000 20260213200000 21831 . ZWkw9Q8OgIoJ1+l3CcmHOT/ID1yceM48b0Ofe7moQr91wwzng44Jydre MjczdSPpyVeH+fGMkEBc2go18gZI4BD7J2NFzACuxF9t324br0k6xXi/ oJsDk2grUU6R6TruH7DrSdyfVJ18bTKy9/wrwoAU2GPp1bKbCmIanTLe le96deKo29xZaoHucBlSxzTmMmvmxLld9a5ToBfJEQpp0swK7h8bAk7Q Yb5WlxkgNME2OMhy6k+MixKvCh+TjgXSdQduSqbu6BTmowSwtw+61av/ locycIAkH7J+u4+3aGNtGCnKfpb5SyxpFH3p40RSiKk2JokpEGChlVDc vdb/bQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260303000000 20260210000000 20326 . TNriFzthFM1hKzGD2meB96QrMIdTe/9ZFzMPdP3wWZAOvyfH9F9wuIhj T0V3H/0UE2cq04wvOtdGsEdmJaF7fCIj8aEE3e9Zn/woJXXXl9J3fhZQ yGMq5jQLr+4KAuaNPwaMwlGHMDgZuwVJx1KpsAiib+GldJsCAVqM9hW9 FpPwtuiN3c8xKT+A8DlAImzKTAUyQEyfSa9UlQzRwPeWcs2HQA/5GL0e osEWpwfdCHfpMw7JPFIMhUEsRftyZuxDgrPQs/geHoSXMeI+bgIRirnR kOLVDaNSiAKt1VtWeDrVeOBcIEzocdRicpX7VmwFHiHM1BblamwYCsX/ nfexFg==
-.					      86400 IN ZONEMD	2026021301 1 1 EBD814AD36A9818110508C58DD74BB858173F9BECA4EBD8370177353 72769DEB5B8EE0AA63026137E3DF015B18D9B43E
+.					      86400 IN ZONEMD	2026021302 1 1 BE79C1432756937EF4246FECAC4C48BFE4A805E0C2228EFE12E875A2 D65EFE700A52BB3A842CEB2C7E1BC1BF5B6B3007
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -20149,7 +20149,7 @@ wme.					      172800 IN	NS	c.nic.wme.
 wme.					      172800 IN	NS	d.nic.wme.
 wme.					      86400 IN DS	7259 8 2 E7CB7561099040DB08978F7696320DDAF323F52DDBF951FA5F4C44B2 F34E38BD
 wme.					      86400 IN DS	60194 8 2 A1D20932B733059C4BB7E989FDF75A19A787EB186CE2DB5648B1560C 1DB54495
-wme.					      86400 IN NSEC	wolterskluwer. NS DS RRSIG NSEC
+wme.					      86400 IN NSEC	woodside. NS DS RRSIG NSEC
 a.nic.wme.				      172800 IN	A	194.169.218.31
 a.nic.wme.				      172800 IN	AAAA	2001:67c:13cc::1:31
 b.nic.wme.				      172800 IN	A	185.24.64.31
@@ -20158,20 +20158,6 @@ c.nic.wme.				      172800 IN	A	212.18.248.31
 c.nic.wme.				      172800 IN	AAAA	2a04:2b00:13ee::31
 d.nic.wme.				      172800 IN	A	212.18.249.31
 d.nic.wme.				      172800 IN	AAAA	2a04:2b00:13ff::31
-wolterskluwer.				      172800 IN	NS	a0.nic.wolterskluwer.
-wolterskluwer.				      172800 IN	NS	a2.nic.wolterskluwer.
-wolterskluwer.				      172800 IN	NS	b0.nic.wolterskluwer.
-wolterskluwer.				      172800 IN	NS	c0.nic.wolterskluwer.
-wolterskluwer.				      86400 IN DS	58234 8 2 97DCE05D28C78AF0B76524DF031D5FAD0E1901B5AE12515BE48FC758 AF56E473
-wolterskluwer.				      86400 IN NSEC	woodside. NS DS RRSIG NSEC
-a0.nic.wolterskluwer.			      172800 IN	A	65.22.204.25
-a0.nic.wolterskluwer.			      172800 IN	AAAA	2a01:8840:c6::25
-a2.nic.wolterskluwer.			      172800 IN	A	65.22.207.25
-a2.nic.wolterskluwer.			      172800 IN	AAAA	2a01:8840:c9::25
-b0.nic.wolterskluwer.			      172800 IN	A	65.22.205.25
-b0.nic.wolterskluwer.			      172800 IN	AAAA	2a01:8840:c7::25
-c0.nic.wolterskluwer.			      172800 IN	A	65.22.206.25
-c0.nic.wolterskluwer.			      172800 IN	AAAA	2a01:8840:c8::25
 woodside.				      172800 IN	NS	a.nic.woodside.
 woodside.				      172800 IN	NS	b.nic.woodside.
 woodside.				      172800 IN	NS	c.nic.woodside.
