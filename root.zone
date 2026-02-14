@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021400 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260227050000 20260214040000 21831 . phrf8+90LZp3ph/gBcKX8cryrwYHHfTGSiZ/ZhvBITodjKWaN1gCwMi2 pgE4NAXdJVhXdSlftDt0wJ4P9/qEV86V8N+Z8BWB44yIm3uhBPMh/uVc h131EXUOm2I/HAoXjP+TBEG5yYqujLlzg7cd7tnlyKWSdDo5lIPrbZUa SnJdTPLP1vLWOZuEpmPKMeTvKYRnQFkRy5k8uF54Qbu+fCWhiuitTaoa WL99fh/Lo6Wq7VO51fSx5C9oERjiQC2eX/ZHGV1AiVzDbYp2k+OPHCdI +pVgIYQKhhLyG4ghIVSGp8tpBPDmca0RmOg2/y+FZtYpsnY94mqvogdq rGh3dQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021401 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260227150000 20260214140000 21831 . r8TsGpqTzPpps5YaKLKZV3hR1L0jUE8M19X3esBumQaf07KQXk5A5QtH //nle3VhaRxPsrYizFx4C5NvyJA9LGHtaOGPVAGUS2dux/tOYyJM3FhH gY8wk81I/HDBUXcd6vTL6aDVTt/Fyr4AwXJZq37e448bsCCHjVgXIj+7 wPoaqkYxAgWCDKvx4UdtudE6lcrWqv3Mg/uZehPu+G2KLBo6sAzEpB1b As5KaBsuBQuozNpEgvEEd2gI1b7nU7fcw3eH5WSqnWXiSyiYisimbIHr EzAEQ3Y7ycWHGf5RYiJCAN6LZlO+zCI/P6qu+XFEfVOHnpj+vfVRdX1t 3P6X7A==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260303000000 20260210000000 20326 . TNriFzthFM1hKzGD2meB96QrMIdTe/9ZFzMPdP3wWZAOvyfH9F9wuIhj T0V3H/0UE2cq04wvOtdGsEdmJaF7fCIj8aEE3e9Zn/woJXXXl9J3fhZQ yGMq5jQLr+4KAuaNPwaMwlGHMDgZuwVJx1KpsAiib+GldJsCAVqM9hW9 FpPwtuiN3c8xKT+A8DlAImzKTAUyQEyfSa9UlQzRwPeWcs2HQA/5GL0e osEWpwfdCHfpMw7JPFIMhUEsRftyZuxDgrPQs/geHoSXMeI+bgIRirnR kOLVDaNSiAKt1VtWeDrVeOBcIEzocdRicpX7VmwFHiHM1BblamwYCsX/ nfexFg==
-.					      86400 IN ZONEMD	2026021400 1 1 77E412976F66DE540FF63F5B5B03904130B6BD5BCC5BFB5D50989DC8 C4DB1DBAAB0D4251617FC1F3B1FD8955D39F045F
+.					      86400 IN ZONEMD	2026021401 1 1 893837CEF444131F3E95135968F6FD3A0342F91232DE3813BD09C1B9 1EE8E016A4D5B9BAF0768D4686B14DD897E43BBC
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -9757,15 +9757,13 @@ y.nic.jnj.				      172800 IN	A	212.18.248.161
 y.nic.jnj.				      172800 IN	AAAA	2a04:2b00:13ee::161
 z.nic.jnj.				      172800 IN	A	212.18.249.161
 z.nic.jnj.				      172800 IN	AAAA	2a04:2b00:13ff::161
+jo.					      172800 IN	NS	b.cctld-servers.net.jo.
 jo.					      172800 IN	NS	c.cctld-servers.net.jo.
 jo.					      172800 IN	NS	d.cctld-servers.net.jo.
 jo.					      172800 IN	NS	jo.cctld.authdns.ripe.net.
 jo.					      172800 IN	NS	rip.psg.com.
-jo.					      172800 IN	NS	amra.nic.gov.jo.
 jo.					      172800 IN	NS	petra.nic.gov.jo.
 jo.					      86400 IN NSEC	jobs. NS RRSIG NSEC
-amra.nic.gov.jo.			      172800 IN	A	193.188.66.103
-amra.nic.gov.jo.			      172800 IN	AAAA	2a02:9c0:0:408::103
 petra.nic.gov.jo.			      172800 IN	A	193.188.66.2
 petra.nic.gov.jo.			      172800 IN	AAAA	2a02:9c0:0:407::2
 a.cctld-servers.net.jo.			      172800 IN	A	193.188.66.2
@@ -13099,7 +13097,8 @@ ng.					      172800 IN	NS	ns3.nic.net.ng.
 ng.					      172800 IN	NS	ns4.nic.net.ng.
 ng.					      172800 IN	NS	ns5.nic.net.ng.
 ng.					      172800 IN	NS	nsa.nic.net.ng.
-ng.					      86400 IN NSEC	ngo. NS RRSIG NSEC
+ng.					      86400 IN DS	45566 13 2 746CD3CCEF614AD2A4B08F4E45CCD57DD935E37449E7C5DF07F35AD7 C88FC361
+ng.					      86400 IN NSEC	ngo. NS DS RRSIG NSEC
 ns2.nic.net.ng.				      172800 IN	A	204.61.216.40
 ns2.nic.net.ng.				      172800 IN	AAAA	2001:500:14:6040:ad::1
 ns3.nic.net.ng.				      172800 IN	A	185.38.108.108
