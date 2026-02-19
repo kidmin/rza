@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021900 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260304050000 20260219040000 21831 . E3vInpOslKf3HLkh9El9Zn7EeZoIIbtZIMKCnnu1te7vu+oC35HNMgNC 5V6nS59imea9G5JXbffB7UU2SXCOrtc3Fe5wDnNwbd6b1iXhbNH8fHrj z97pdX0L89RTbVTGLPbn0j0vhVTdR3+SxHdRP9z8JzL7hE5ixrNofhRs J/+nSs8MI2EVvayJCQ2wDyutWYZR9sE6n5b1QwsGLFzOXT6cMz6w/D6W 1WohS5JGqNwHyJod0ri0xuWna3+IcLfTrfyWrE0Tq/0Ezzd1I3rfl3O/ qk0nc8xOI2F7m7dRAfCjOXyRXsRXwuJnJAtSuyke0jjmmv0VnKaW/8bi 9YOgqA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026021901 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260304140000 20260219130000 21831 . Fsk2JNNN0julEGfJzsUYKMgwZxt0HmOg7EPwrGXubK8K5UVF5SkiZ2bt UD60KHTTrsaF3hnRsrVGZ03QaanWMPd0sGFC0hp+9v1Wb7kGnfLu9I5X HdOSRi/KTF/K6rgfcqZquIYaz/BtsL1BQAIi1l08YtGBQUM9q4ic1cnl GQUEBexySdVW4Jo/MEsJhepKHSbASTIpQDLs8y07P/Mu35AjKP0NLHCB cJYaEm1C7iQdCEjgCKWg40QtxYJh2AM3184wFQcagGLgfBcdsBYKfiul hsr/7AaUEnDc42cSLoY2tnYn/5ubQbDyAJnqJl8MF+nx9ZnNwpIcCN0O bSt3Vw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260303000000 20260210000000 20326 . TNriFzthFM1hKzGD2meB96QrMIdTe/9ZFzMPdP3wWZAOvyfH9F9wuIhj T0V3H/0UE2cq04wvOtdGsEdmJaF7fCIj8aEE3e9Zn/woJXXXl9J3fhZQ yGMq5jQLr+4KAuaNPwaMwlGHMDgZuwVJx1KpsAiib+GldJsCAVqM9hW9 FpPwtuiN3c8xKT+A8DlAImzKTAUyQEyfSa9UlQzRwPeWcs2HQA/5GL0e osEWpwfdCHfpMw7JPFIMhUEsRftyZuxDgrPQs/geHoSXMeI+bgIRirnR kOLVDaNSiAKt1VtWeDrVeOBcIEzocdRicpX7VmwFHiHM1BblamwYCsX/ nfexFg==
-.					      86400 IN ZONEMD	2026021900 1 1 C72B3ADB8F1E5C7FF56480569A69AC4DEC8B7EDCFE2005A7EE7AE1AD 026F6E8B94292B933E89AF65CD4B3D4C81C9FD0A
+.					      86400 IN ZONEMD	2026021901 1 1 670417E04AB6A0F516A229D5FA3166FFDAD9C969AE43FB990F7055C5 7A17DB3F6AA712C47F6B3C9CA6DF8933166E7589
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -9026,8 +9026,8 @@ il.					      172800 IN	NS	nsb.ns.il.
 il.					      172800 IN	NS	nse.ns.il.
 il.					      172800 IN	NS	ilns.ilan.net.il.
 il.					      172800 IN	NS	lookup.iucc.ac.il.
-il.					      86400 IN DS	35088 13 2 AC84D274E6BF42857B41DEF52D8E6A23853B00FE76B7FB70B97484ED 49FEA182
 il.					      86400 IN DS	40239 13 2 687A4ABEB697C30E24277072E0380161B84A6B0759F4998C32602D46 4FEB0CA8
+il.					      86400 IN DS	35088 13 2 AC84D274E6BF42857B41DEF52D8E6A23853B00FE76B7FB70B97484ED 49FEA182
 il.					      86400 IN NSEC	im. NS DS RRSIG NSEC
 lookup.iucc.ac.il.			      172800 IN	A	128.139.34.240
 lookup.iucc.ac.il.			      172800 IN	AAAA	2001:bf8:900:6::808b:22f0
@@ -9754,12 +9754,12 @@ y.nic.jnj.				      172800 IN	A	212.18.248.161
 y.nic.jnj.				      172800 IN	AAAA	2a04:2b00:13ee::161
 z.nic.jnj.				      172800 IN	A	212.18.249.161
 z.nic.jnj.				      172800 IN	AAAA	2a04:2b00:13ff::161
-jo.					      172800 IN	NS	b.cctld-servers.net.jo.
-jo.					      172800 IN	NS	c.cctld-servers.net.jo.
-jo.					      172800 IN	NS	d.cctld-servers.net.jo.
 jo.					      172800 IN	NS	jo.cctld.authdns.ripe.net.
 jo.					      172800 IN	NS	rip.psg.com.
 jo.					      172800 IN	NS	petra.nic.gov.jo.
+jo.					      172800 IN	NS	c.cctld-servers.net.jo.
+jo.					      172800 IN	NS	d.cctld-servers.net.jo.
+jo.					      172800 IN	NS	b.cctld-servers.net.jo.
 jo.					      86400 IN NSEC	jobs. NS RRSIG NSEC
 petra.nic.gov.jo.			      172800 IN	A	193.188.66.2
 petra.nic.gov.jo.			      172800 IN	AAAA	2a02:9c0:0:407::2
@@ -10024,8 +10024,8 @@ kfh.					      172800 IN	NS	ns01.trs-dns.com.
 kfh.					      172800 IN	NS	ns01.trs-dns.net.
 kfh.					      172800 IN	NS	ns10.trs-dns.org.
 kfh.					      172800 IN	NS	ns10.trs-dns.info.
-kfh.					      86400 IN DS	19529 8 2 E6782B15580E48186716A8E819B8C8A382612E3518CDF0A40851543D 3211EC4A
 kfh.					      86400 IN DS	23849 8 2 025679B3FA1C06955DC8722820DC339E4D419A6198F053F98843E404 88BDB09C
+kfh.					      86400 IN DS	19529 8 2 E6782B15580E48186716A8E819B8C8A382612E3518CDF0A40851543D 3211EC4A
 kfh.					      86400 IN NSEC	kg. NS DS RRSIG NSEC
 a.nic.kfh.				      172800 IN	A	194.169.218.43
 a.nic.kfh.				      172800 IN	AAAA	2001:67c:13cc::1:43
@@ -21348,11 +21348,11 @@ xn--mgbai9azgqp6j.			      172800 IN	NS	ns2.ntc.org.pk.
 xn--mgbai9azgqp6j.			      172800 IN	NS	ns3.ntc.org.pk.
 xn--mgbai9azgqp6j.			      86400 IN DS	23595 13 2 E46D0E529C6F1A41EC7DE4A184C062FFB2847D49618192FECB8D3488 18E576C6
 xn--mgbai9azgqp6j.			      86400 IN NSEC	xn--mgbayh7gpa. NS DS RRSIG NSEC
-xn--mgbayh7gpa.				      172800 IN	NS	a.cctld-servers.net.jo.
-xn--mgbayh7gpa.				      172800 IN	NS	b.cctld-servers.net.jo.
-xn--mgbayh7gpa.				      172800 IN	NS	c.cctld-servers.net.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	d.cctld-servers.net.jo.
 xn--mgbayh7gpa.				      172800 IN	NS	jo.cctld.authdns.ripe.net.
+xn--mgbayh7gpa.				      172800 IN	NS	c.cctld-servers.net.jo.
+xn--mgbayh7gpa.				      172800 IN	NS	a.cctld-servers.net.jo.
+xn--mgbayh7gpa.				      172800 IN	NS	b.cctld-servers.net.jo.
 xn--mgbayh7gpa.				      86400 IN DS	31715 8 2 E7B5191787C7DB3C20BFCF917807791EB09917E887EBB7CBB3D11678 E9767AD1
 xn--mgbayh7gpa.				      86400 IN NSEC	xn--mgbbh1a. NS DS RRSIG NSEC
 xn--mgbbh1a.				      172800 IN	NS	ns01.trs-dns.com.
