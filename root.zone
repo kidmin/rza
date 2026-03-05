@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026030500 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260318050000 20260305040000 21831 . jSEvu74QhojwGc8KHmlgCThGo7zEpqiUTw8o7+7NQbuOh1SzFopoom+8 sVQ0ostGXVCiLjsXCG86reqYV/8bU903h33B6Gh5HNr9wW3+mSViKym4 mTUsVMumZRe038jh1OfXpwLKK0w2nuzl/j1PI/LY5IFSlejUmbbkRFGo TNp1gndgPsDBFtIyU3D2L1jbS6303fJmCgALrbqODw250LiMLbuMbJeH blavF/0Zxil0hUFIPpXGTj2K8i8RDIAJ+/9vZDTR/FKig34GisfyAJPo DW4G4sTDW8m1rMV9jF9Q9vJoIWY5BI9wed2aPWNAelyvDZ21Gh6WGNGN 8P1lPg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026030501 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260318140000 20260305130000 21831 . CztApxQQLN8vTIq2ovu/0xe3tMEnCKQgvOk8Ab+RTyEgauCJW3FTsyWh AIHI6NKKmZPiQmFT90VAMy07HdXNQ2m7hJK+B/Ae9OLLQzV50fay1we2 o5qbAhACJIPH6vozeUIJeMtGOU+Su9DTW4ykaVBP2/P3jesJEro5GEl9 eGQRpmU5lzy95Y5GZI9Uq02xS+hMYe942s7/jPJXhzcZ3lebdql+IHWa T/H6DziwwRqZU/dqI5zaNr5N2PF8BcdxDSStebJuLYtLrQDWtDN8wQnj tj4waQUIfIXDbRtYJZhz3M1SJajW481SJU8qn/Hk0+1UwQzHynUo0bGL F45poA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260323000000 20260302000000 20326 . pUHQsrU8WX55NlnCs+DxK8/4cbs6zcjF9BLL7acYERi7OgyKPysyAko2 HvNUbMlUSBDW/d/UKsUZXmcZcz9UlmlZIDvPUZcXkUKs8aeVszXL6wKT OkFXGpU6u97cUZ8GHW9uPSM8GCfe+p72FV8c2/9EN8K+REH6+ZVuc0oX H+0vhxUEAej+kFbUiproNH2SnO2j+CB9KxPKlZHLO8antQYhoJDWmumb XRXqKfTFiyDRzg5ROcwsWmMiSrDSPm9aFoFTrq9/W2cyKMcrSJCMtFWg 520JB9miBzWOxzJdIFBq8jjh/Hjo++sC08kVK+Fp2CK1WFFy/HCBRszu 34bVVA==
-.					      86400 IN ZONEMD	2026030500 1 1 8F0AFCB727C77D076D7A7C102F733D777FC67D84D802C5271FD6B06A E340A84198BB40AA41AD8B8287AB2628DE7B1496
+.					      86400 IN ZONEMD	2026030501 1 1 BCB85F335BA7E06E70AF3414F6B76C40CA57FDAC69B5D7C2F64BEF9A 354F47B3CC7F58B3B4E4E0B41C5D1CA90B8BBD46
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -9729,12 +9729,12 @@ y.nic.jnj.				      172800 IN	A	212.18.248.161
 y.nic.jnj.				      172800 IN	AAAA	2a04:2b00:13ee::161
 z.nic.jnj.				      172800 IN	A	212.18.249.161
 z.nic.jnj.				      172800 IN	AAAA	2a04:2b00:13ff::161
-jo.					      172800 IN	NS	a.cctld-servers.net.jo.
-jo.					      172800 IN	NS	b.cctld-servers.net.jo.
 jo.					      172800 IN	NS	c.cctld-servers.net.jo.
 jo.					      172800 IN	NS	d.cctld-servers.net.jo.
 jo.					      172800 IN	NS	jo.cctld.authdns.ripe.net.
 jo.					      172800 IN	NS	rip.psg.com.
+jo.					      172800 IN	NS	b.cctld-servers.net.jo.
+jo.					      172800 IN	NS	a.cctld-servers.net.jo.
 jo.					      86400 IN NSEC	jobs. NS RRSIG NSEC
 a.cctld-servers.net.jo.			      172800 IN	A	193.188.66.2
 a.cctld-servers.net.jo.			      172800 IN	AAAA	2a02:9c0:0:407::2
