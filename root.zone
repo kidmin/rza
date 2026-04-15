@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026041501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260428170000 20260415160000 54393 . EX8+d6ZmwlXFSDsR/LaKpJn3ouarUQIcaIJcvcg7F9jxKiiyBHPdYfm6 HtlkPrcu6cwZKOyKKiteD8klcQsi7gNPNGF1roGOLZaJ3ab/kmIoZwI/ P7aWcV7TfBxzTsmk2DS10iNxPAXGHGpZpFzWzifmNOqH6bLkT1J6/Imq EToFmtmnlr/e5l+zlJ/JtwwnYsyN+gs69IzW1oKBoPN60VRvMe+Qk/gl fsbJ9BxHWcN6oN+PBhxHZajD49w6CRY70Mk1BtWUPkJYvwNN0nsPiKGs WIlu/GMv1BVCnhfhmabUHSe2D5gSqd+RKJzxzNpRvID0o8ift0ck7iHX t/XyNA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026041502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260428200000 20260415190000 54393 . V1o+V4u+50JtvGaXTDjUFqk4VUFIEfAKHSm9CT3EJjfAIH3T6W2u4c1D nYm97wzJIgo1kKKyaX6vU7WZwfdYKN7+J8VA18ws7nFHCRWJAMbVgJXU qp/dlukeRHJ8Z6gPMRAFdqaGwuU9/F+R2yncFDNad3ivlXe7Q7KOzEdv iVVNI2o35S0hk1R0RaxqFz6mWONbm+rS+ctsJ2dyOPuSHm+1AzDKHyQU /hiYidG3+YJEAD7KADLqIfjYyDsaB+XImSlZAyvC/wiY7p3Lgi9oksn3 QrAjIQ79gX5kGqAIu+cTtlOXCCWTlCwQP6hQdv1q8uoL+EvQqiEn0Qrx TRhjJw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260502000000 20260411000000 20326 . ldfPZ7Q9Ca8GfxnsJcPAMMy9Dt1qfL2guvByLtN9kRcMMn8g3ukazjrv 5Bj/KOLEXV++Zp8g8UpL/80NUKP4ZA1Yq3gmEE2hyEG7M964fUrTaB9w 9leATi8UK176zklnB7trP81yL6TIZmaCImUMWVkUn8uGeIJUaVz2Xpbo M5PGo2gEQH2mVAavFammRoDbj4gnMJvXgOMIZtLIIGcOaxuY5sFQo1MD QnoQOYMAHVqdUu4Ld+Jq29ktutAXUK6hobUBss0me2y+xlu3fmZ5JiKS JOPDiBQBqjUAhueBKEZpamt/gr8NtHLe0QLKs2h3XhsGNHE7Ksr3WwiC CFHP0A==
-.					      86400 IN ZONEMD	2026041501 1 1 8EFBCA4D0BDB2C9B0088B7AD2E15687743867CD56DE35DA1A5EBDDB5 0A8F85740423AB686A053A69414C76BD9B7AA638
+.					      86400 IN ZONEMD	2026041502 1 1 792A7766D83F125AA3C541E1B24E79E07DD75A3EC7AA0F0F48F724D9 ECD0AAFA6B209E55E8A4B314B6D487F5F87AB3C1
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4082,6 +4082,8 @@ ns1.teleinfo.cn.			      172800 IN	AAAA	2402:7d80::1
 ns3.teleinfo.cn.			      172800 IN	A	103.61.62.1
 a.zdnscloud.cn.				      172800 IN	A	203.99.24.1
 b.zdnscloud.cn.				      172800 IN	A	203.99.25.1
+e.zdnscloud.cn.				      172800 IN	A	203.119.82.1
+e.zdnscloud.cn.				      172800 IN	AAAA	2401:8d00:15::1
 f.zdnscloud.cn.				      172800 IN	A	116.169.54.111
 i.zdnscloud.cn.				      172800 IN	AAAA	2401:8d00:1::1
 co.					      172800 IN	NS	a.registrydns.co.
@@ -18362,8 +18364,8 @@ top.					      172800 IN	NS	a.zdnscloud.cn.
 top.					      172800 IN	NS	b.zdnscloud.cn.
 top.					      172800 IN	NS	c.zdnscloud.com.
 top.					      172800 IN	NS	d.zdnscloud.com.
+top.					      172800 IN	NS	e.zdnscloud.cn.
 top.					      172800 IN	NS	f.zdnscloud.cn.
-top.					      172800 IN	NS	g.zdnscloud.com.
 top.					      172800 IN	NS	i.zdnscloud.cn.
 top.					      172800 IN	NS	j.zdnscloud.com.
 top.					      86400 IN DS	26780 8 2 5D6E7869EE8E3B536A617DE89482DDD1DCB9DB9DBB1AC33D6ED351E2 CA095B1B
