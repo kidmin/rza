@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026041702 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260430170000 20260417160000 54393 . nwKUKa8Q1jkybgPxBd/A2XN56ZcohHrnsGXkOJ+pdYdju+gJeh9FIYf2 qfpg2L2jZ11e2NhIz56uOnyqTFloPzw5NemE9wJ2wQlysfWBum7L4zpz 5NXoqSIGjrMmcUQPkZLCoLxUyctfYJAspq2OGPfxKB+DaULco8HAXiUl xx6PXNkBoJxlVG08fCpQM97mfdpswQ4xRpikX85no7VARnThYap0HIxR AGqcIKS4eiezwJ2zd1/c0VdSAFMvFRLyqkaLYOq8DbB6Atm6oSI4lKQ2 6VGLCjuOaBbZTwqmnkBmhAorWZVwDqkNvsTvfy+gl7oYv1J7Y8pyUdk6 rWrmcw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026041703 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260430210000 20260417200000 54393 . X4Xgq6irPwktuUxOy/n/OZHAwrtAVNuHQ8xFSYo9NtVjn81d9bH5X8y6 M7Jk6pIsUYD0GW513vPNwByG6QcjPheDkC+uMkfFXfpq3YYjXlSrX3jQ moH6t6oqe9FLPGiu+7orBKEiI8kCKPImwU1unaxBM6jc31NKB3k+QvLa nKGSgKpcC3B7yU0YErkxlREZnKU9KzLbJOsHo3RqtTL08RmsZyV7ZPFD hxOetWqmAQ/SfTRzfbToke9qmAUBfQXrk+sSHepuTG/AxXhdh1AzK0AY xbKf3slYs0rKk4sK53ECuAsQeMP3QdmtQDLeMx+defr40vxjLo7Y7sJh gwDBRw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260502000000 20260411000000 20326 . ldfPZ7Q9Ca8GfxnsJcPAMMy9Dt1qfL2guvByLtN9kRcMMn8g3ukazjrv 5Bj/KOLEXV++Zp8g8UpL/80NUKP4ZA1Yq3gmEE2hyEG7M964fUrTaB9w 9leATi8UK176zklnB7trP81yL6TIZmaCImUMWVkUn8uGeIJUaVz2Xpbo M5PGo2gEQH2mVAavFammRoDbj4gnMJvXgOMIZtLIIGcOaxuY5sFQo1MD QnoQOYMAHVqdUu4Ld+Jq29ktutAXUK6hobUBss0me2y+xlu3fmZ5JiKS JOPDiBQBqjUAhueBKEZpamt/gr8NtHLe0QLKs2h3XhsGNHE7Ksr3WwiC CFHP0A==
-.					      86400 IN ZONEMD	2026041702 1 1 728A4630373E487CCC1F0DAAE28B62A973C16E53C815582A5BD69C00 CBD63CEC41080C465DBC607BF4F5716FD1999BE7
+.					      86400 IN ZONEMD	2026041703 1 1 C0C2CE9B7886B91BEDE389D64DEEFBED9102F2C9F72C31867B242116 088E38DD6C7E74B9E7A635825A4DF662FE625539
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2782,6 +2782,8 @@ business.				      86400 IN DS	27997 8 2 7F17414B2EBDD17B8BF3F1205BC82E2EE158DF8
 business.				      86400 IN NSEC	buy. NS DS RRSIG NSEC
 ns1.dns.business.			      172800 IN	A	157.90.205.138
 ns1.dns.business.			      172800 IN	AAAA	2a01:4f8:252:4295::9d5a:cd8a
+ns2us.dns.business.			      172800 IN	A	147.135.106.236
+ns2us.dns.business.			      172800 IN	AAAA	2604:2dc0:200:2eb::2
 v0n0.nic.business.			      172800 IN	A	65.22.32.38
 v0n0.nic.business.			      172800 IN	AAAA	2a01:8840:22::38
 v0n1.nic.business.			      172800 IN	A	65.22.33.38
@@ -11703,7 +11705,7 @@ menu.					      172800 IN	NS	x.nic.menu.
 menu.					      172800 IN	NS	y.nic.menu.
 menu.					      172800 IN	NS	z.nic.menu.
 menu.					      86400 IN DS	34801 8 2 9F75480EDAE26137D71C72574244EF65943199E92C89364035E6BA7B 1F1BAB32
-menu.					      86400 IN NSEC	merckmsd. NS DS RRSIG NSEC
+menu.					      86400 IN NSEC	merck. NS DS RRSIG NSEC
 a.nic.menu.				      172800 IN	A	37.209.192.10
 a.nic.menu.				      172800 IN	AAAA	2001:dcd:1::10
 b.nic.menu.				      172800 IN	A	37.209.194.10
@@ -11716,6 +11718,11 @@ y.nic.menu.				      172800 IN	A	156.154.173.82
 y.nic.menu.				      172800 IN	AAAA	2610:a1:1075::1:82
 z.nic.menu.				      172800 IN	A	156.154.174.82
 z.nic.menu.				      172800 IN	AAAA	2610:a1:1076::1:82
+merck.					      172800 IN	NS	ns1.dns.business.
+merck.					      172800 IN	NS	nsp.netnod.se.
+merck.					      172800 IN	NS	ns2us.dns.business.
+merck.					      86400 IN DS	61224 13 2 E02519ADF0EF1076F54211757C4298F56FC1F53E781E6FA0FB730D4D 0EE26A22
+merck.					      86400 IN NSEC	merckmsd. NS DS RRSIG NSEC
 merckmsd.				      172800 IN	NS	a.nic.merckmsd.
 merckmsd.				      172800 IN	NS	b.nic.merckmsd.
 merckmsd.				      172800 IN	NS	c.nic.merckmsd.
@@ -16246,6 +16253,8 @@ se.					      172800 IN	NS	y.ns.se.
 se.					      172800 IN	NS	z.ns.se.
 se.					      86400 IN DS	59407 8 2 67A8E06FCEFDD9397F77F26C41ADE4EC142F299BCFA1827F0EF8FD87 F2F63022
 se.					      86400 IN NSEC	search. NS DS RRSIG NSEC
+nsp.netnod.se.				      172800 IN	A	194.58.198.33
+nsp.netnod.se.				      172800 IN	AAAA	2a01:3f1:3033::53
 a.ns.se.				      172800 IN	A	192.36.144.107
 a.ns.se.				      172800 IN	AAAA	2a01:3f0:0:301::53
 b.ns.se.				      172800 IN	A	192.36.133.107
@@ -16734,7 +16743,7 @@ site.					      172800 IN	NS	ns01.trs-dns.net.
 site.					      172800 IN	NS	ns10.trs-dns.org.
 site.					      172800 IN	NS	ns10.trs-dns.info.
 site.					      86400 IN DS	4241 8 2 B2F9F1BAAA93793437D7F16065A2075BBA7794160C1FEE25A7BB5A34 164EC7D5
-site.					      86400 IN DS	51974 8 2 A06DC47457CC1185CF1B3A7CF6ECCB84978DE92939DD182BEED95215 09D0DA7B
+site.					      86400 IN DS	31826 13 2 E054E10B0036A0F449CC3A7D539A919EF9F18C9F256B2BB51526CF6F D7D33B6B
 site.					      86400 IN NSEC	sj. NS DS RRSIG NSEC
 sj.					      172800 IN	NS	x.nic.no.
 sj.					      172800 IN	NS	y.nic.no.
@@ -17088,7 +17097,7 @@ space.					      172800 IN	NS	ns01.trs-dns.net.
 space.					      172800 IN	NS	ns10.trs-dns.org.
 space.					      172800 IN	NS	ns10.trs-dns.info.
 space.					      86400 IN DS	33010 8 2 53E37640A028FA26A4ED6306AA07C506BF037FC414AF9CAF0E41ADFF F87CCB72
-space.					      86400 IN DS	63881 8 2 85EE1264739A00FB6139712C3D7227721D99654226B0140F14A3E3D1 A63B315F
+space.					      86400 IN DS	51168 13 2 6B303EDA0AE6E8206B2A20A62600E663C30B4D59408C62E461EBC517 9F0D1F78
 space.					      86400 IN NSEC	sport. NS DS RRSIG NSEC
 sport.					      172800 IN	NS	anycast9.irondns.net.
 sport.					      172800 IN	NS	anycast10.irondns.net.
@@ -21300,7 +21309,6 @@ xn--mgbtx2b.				      172800 IN	NS	ns01.trs-dns.com.
 xn--mgbtx2b.				      172800 IN	NS	ns01.trs-dns.net.
 xn--mgbtx2b.				      172800 IN	NS	nsp-anycast.cmc.iq.
 xn--mgbtx2b.				      86400 IN NSEC	xn--mgbx4cd0ab. NS RRSIG NSEC
-xn--mgbx4cd0ab.				      172800 IN	NS	a.nic.my.
 xn--mgbx4cd0ab.				      172800 IN	NS	a.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.				      172800 IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.				      172800 IN	NS	c.mynic.centralnic-dns.com.
