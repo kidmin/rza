@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026052001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260602170000 20260520160000 54393 . FGjeGNw1MLDDQ32R989EApXoVdalTgEFMqg0w7Vt87t29GJpF6hqiKcV Y+SHj1oTAVNUQ7qK11voClS4oySaoEqlp5PyzErimRZaviwRL6JrDS0A KE4TcGADbldsq+192/y+yKyDGEBeVVdP/RG7SMuaCkptUXuB3fmkphMW 5d/XnMzDMxjpB+QspMrQWQoms2VYO1oSLrO4/33XOYVlXFVqPZqmWsLp 7jFMgNBxOUi5a/WM9s+B8iGctl/cxzJT1G1a4/NYSxo/9m+x/7fAyBnn 2c8RPuHHhE1+zZ+63NQQMQ91LfqATZKlZ8Ho0L9JJP7gsui7kyb3ZpJY HTF/iQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026052002 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260602200000 20260520190000 54393 . PLTgyBRpbYb2GWuzcMdNTIvbbga3400hWHmxyZuPSFqmQo3GVloQQG43 5tRZrYeU/EGG+caneK6yFN9WW4Bv+brShok8M7D2YB3oXekIozhOeNi7 eedZOLxgTrecyIMQviIIJwUCf8TsEq8MvmUQu2b4arUk1/QrtQVrGo6+ 6BK4SN4/z7da3V9UDwcN62nne6NMJouCTgB0GMNjkHtOGKB3koiHeiWz 08OJIAJ7cgzyYpH5unHYrt05cPFnFGv362Kc33YCWIXzomztLEJJBoQU pv3pwU2lxvdcIbV0uM856fOP9/zSLjtFlHXV3YBY7trW19SpMk6WZjMO eWWooQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260601000000 20260511000000 20326 . Psn+BsMNwRdKsw1pSQPmOm/QeUqgjveusWdT5NL9sOxccMKpzbYOgLqY NmJsOrAjj0MDy0/X/xbUgAGdRVuOt9mv4yk+TaBs7rpd0IgDZu++2bIA vxu3W82fKEKpJqLucDiPu1l+GKZ87zRYrJrQZZWk01LmCEIIED9P62/Q bhdDVIG3ZdcvXQpRPjWyQOom2tZ0APZ+59PyOxjNMgnOaeoAD8QWZ+iK VY8ko2GRoHRqrzEq46SGDh1YuFxuw67oG7mn+Mt2b9HUjYWgQCvBRSUM b4XRxhNnKQiOS4ECEXCDozMDyXk8727l6bFK0THkaFEqW64F/5CAL8ad NRyUoQ==
-.					      86400 IN ZONEMD	2026052001 1 1 99C5C0410D48F1DE9E6C7299A1C4D184B3530BDD9320088FD359BE18 4840E93FB80EF4389F2AE7D0B5EA6EE049D619B5
+.					      86400 IN ZONEMD	2026052002 1 1 23D304DBBE4A632EC944F8DC46231153590C4C95FB29E5637BA643BD 643DC64F48E8B8B2D92DD681C49125CBDAA1A9E2
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -9617,20 +9617,23 @@ je.					      172800 IN	NS	dns3.nominetdns.uk.
 je.					      172800 IN	NS	dns4.nominetdns.uk.
 je.					      86400 IN DS	19054 8 2 051F21016E36C0DC46DA9437C9F5975A95BF6B0B85E9E8BF53F49930 EB65E90D
 je.					      86400 IN NSEC	jeep. NS DS RRSIG NSEC
-jeep.					      172800 IN	NS	a0.nic.jeep.
 jeep.					      172800 IN	NS	a2.nic.jeep.
-jeep.					      172800 IN	NS	b0.nic.jeep.
 jeep.					      172800 IN	NS	c0.nic.jeep.
+jeep.					      172800 IN	NS	v0n0.nic.jeep.
+jeep.					      172800 IN	NS	v0n1.nic.jeep.
+jeep.					      172800 IN	NS	v0n2.nic.jeep.
 jeep.					      86400 IN DS	49999 8 2 F00A0B4B65ADAC570C2DBC81483367392EA9A86FFD17E4B3F042D446 ACD1EA4B
 jeep.					      86400 IN NSEC	jetzt. NS DS RRSIG NSEC
-a0.nic.jeep.				      172800 IN	A	65.22.76.41
-a0.nic.jeep.				      172800 IN	AAAA	2a01:8840:4a::41
 a2.nic.jeep.				      172800 IN	A	65.22.79.41
 a2.nic.jeep.				      172800 IN	AAAA	2a01:8840:4d::41
-b0.nic.jeep.				      172800 IN	A	65.22.77.41
-b0.nic.jeep.				      172800 IN	AAAA	2a01:8840:4b::41
 c0.nic.jeep.				      172800 IN	A	65.22.78.41
 c0.nic.jeep.				      172800 IN	AAAA	2a01:8840:4c::41
+v0n0.nic.jeep.				      172800 IN	A	65.22.104.29
+v0n0.nic.jeep.				      172800 IN	AAAA	2a01:8840:66::29
+v0n1.nic.jeep.				      172800 IN	A	65.22.105.29
+v0n1.nic.jeep.				      172800 IN	AAAA	2a01:8840:67::29
+v0n2.nic.jeep.				      172800 IN	A	65.22.106.29
+v0n2.nic.jeep.				      172800 IN	AAAA	2a01:8840:68::29
 jetzt.					      172800 IN	NS	v0n0.nic.jetzt.
 jetzt.					      172800 IN	NS	v0n1.nic.jetzt.
 jetzt.					      172800 IN	NS	v0n2.nic.jetzt.
