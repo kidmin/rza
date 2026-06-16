@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026061601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260629170000 20260616160000 54393 . PkwGP+eOMmnD8AqKm4OFu0xy3bNX/eyDYtDDU7upppSHNwS5Om7Dscpf Bh/8vCaTmgAbuNnzxchCfVub6Osvf9b8udYgBYw8VsPu8TclOpVOHIng mLW7016ZG6DmA9DROkSjl/ti4jvtJOIlqLAZU7502bm+MlcgML/c6oa/ UmYbnxZfwIgkM6Yey+Mh3yV1+gUAx6YAE1hPz07Q1Nh8fYY30Ig/A4SH bJg5BEQYSWYxH4acrQcu3x1N2RrS3yu47BxGDj11okUFknemjdfhyzpp mqcT80+Y7BIDCySO4Oqc+Roq4MlcVLVTkpr8wChiPAMb/cvF0VuPzMlb GQljoA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026061602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260629200000 20260616190000 54393 . UPiMBVaOnqXH5M2+6c6sXOo6wdIqzFdQk1Y+zZjlkOa8TsqFRbRIblOh U7JRTfYRfqDCCrjpMCh+OL4ITDEz+isK70SYCj67FxXMYCLAGwWB1E1H LBMwfhbTkGPCsJsaibfP4t4RxaqZlcGBni1bzgn3qKrssxhgZfBZ+vZp JK1HBqk5p5h1wwpUOFAh6sJP7JchsclQmLKFX81iuRUyKqI3fYo5UdmQ sg5GHZ4pUZNQTRbzb1JK+vYu/smwyr412jJ0IrGuI3g1EYhGSrs/pO+N bovTTRDoNGxsanLm8qxTSoYndaFVkINEu/WWGNyut37l0qqTpoejVYAX 297mqg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260701000000 20260610000000 20326 . j4xwc5ju8Rar7jcd8yX1jGrb5c85D/uGNLvUpiKCzuSVqv0zhUS56Ktq D0JmBo1rC+aWxywONWS6o76i4p5TOOWFWdrops0E/Vw3OFQW+jLxsscc +Y9WUbK1PxTB3UPdWfiHw3azpvgsaaUdXAWeev5tMWZXcj4NM7NoCZJk 9ig5onr298AVFZoFNZP6edyzWhyhkMX0DOxBH1M8+c8te2dFpck09pK2 GEvAP5Cf1zlsGmZOiZRxB2mDLOXnCbqwJnHQSyhpW9QZkJGJbogrNPwM WdV+X3xcQ5n+dL9aRLtAkKeSp8FDo1ZeGo9xAbha9AjeCyPF3VkSRQEw 9owjJg==
-.					      86400 IN ZONEMD	2026061601 1 1 1E54D4B8A503F1E07798278C4111D02640AA4490A5A4D24A026CEFDC 0EA78101107E83183F250C860BB0B324279BD804
+.					      86400 IN ZONEMD	2026061602 1 1 6FDC739DA46EE65B187213014E8BB44191F9C53DB18C15E24E5DB344 6036F02260780D1CB444A3E759E2A69443330E22
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -11184,6 +11184,7 @@ b0.nic.ltda.				      172800 IN	A	65.22.117.17
 b0.nic.ltda.				      172800 IN	AAAA	2a01:8840:73::17
 c0.nic.ltda.				      172800 IN	A	65.22.118.17
 c0.nic.ltda.				      172800 IN	AAAA	2a01:8840:74::17
+lu.					      172800 IN	NS	1.ns.lu.
 lu.					      172800 IN	NS	g.dns.lu.
 lu.					      172800 IN	NS	i.dns.lu.
 lu.					      172800 IN	NS	j.dns.lu.
@@ -11204,6 +11205,8 @@ ns1.dns.lu.				      172800 IN	A	158.64.229.18
 ns1.dns.lu.				      172800 IN	AAAA	2001:a18:4:1::18
 p.dns.lu.				      172800 IN	A	194.0.42.42
 p.dns.lu.				      172800 IN	AAAA	2001:678:60::42:42
+1.ns.lu.				      172800 IN	A	158.64.229.18
+1.ns.lu.				      172800 IN	AAAA	2001:a18:4:1::18
 lundbeck.				      172800 IN	NS	a0.nic.lundbeck.
 lundbeck.				      172800 IN	NS	a2.nic.lundbeck.
 lundbeck.				      172800 IN	NS	b0.nic.lundbeck.
@@ -15237,6 +15240,7 @@ ren.					      172800 IN	NS	g.zdnscloud.com.
 ren.					      172800 IN	NS	i.zdnscloud.cn.
 ren.					      172800 IN	NS	j.zdnscloud.com.
 ren.					      86400 IN DS	6712 8 2 06090FB53AE539CE051D9236A0C6B5FD58361167BC0D7F5E8E9EAB4F 62D4FFFB
+ren.					      86400 IN DS	16939 13 2 0D92A314BA5FEE31419E629A7EBD53350B79E887F79721A615EC7FA0 3331C81F
 ren.					      86400 IN NSEC	rent. NS DS RRSIG NSEC
 rent.					      172800 IN	NS	a.nic.rent.
 rent.					      172800 IN	NS	b.nic.rent.
