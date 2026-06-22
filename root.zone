@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026062201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260705170000 20260622160000 54393 . dLYKYphXM4JdExsa04/NRz001VzBxr9n2rpYQvoPTDN0Wam+KlbmDnD/ tiCk/ZWldAUpc1VsIb9mVf5wUupDX6AmZ5ywQd1BhusAhQtZ/VFZDP45 lgdd4J+X4XgJepR5p733ZsyUWDQ6cD5k5V+i+G2HYL+p/PeD22X0954m VZPnxk3tTCRojPXNVvfUUflcztb0j6x//AJYKeo+uRWqbE77YXo83cj2 Cbq30MqOP9imjxAM34iezwL8I62cw+bgdBfnHFa/1TVdy2U7IM7FD24i QSj/TGXT4KC+W8C30PLTYTu9hFfDKOKUwmMSQz9qi1y4k0ocDgfVVQp2 FaSX2A==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026062202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260705210000 20260622200000 54393 . SnvWMgJKLXsk9pk7eOk8DPoH3iHy9PsB7lVS12l+mSRUgM7MgwIRWmTN 5ArEn7+IGntkQ7tUOy2rAw1UXEagdUl2oGRd1ZICqiGZmXKJSqpGktH6 Dg1zv3MNR0A2uSdrrtZCyqPEmH/xYNG/7kBwZudubq7Qqy/xalC5q8LZ Wd1kpOgrzKKfq/4gdvKcWFbUiDD1WsHJg+3WpaoW4B+Y2cUVPZM75u8f HEU9m7PF0nVaIILdTlvsPsR0aghKxRILRXPdD1JEJEKn1JDXn1m3Xv7q wtsW34txdQ8bITDGV8BAWDgGpYBS6QDZtzTaYJYUd3VPZaaq9mmmM5eT xB/pvg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260711000000 20260620000000 20326 . UU/g/jQ3AjhIGIxSxGVoYAg1X117oL9XvEKrRR3YUZVoVsaHrb9Cd1lM qqmCJXbnReOQeetx9ms+jAzt+Jvi79GIBABl7r0VTkHdJle67pwRtOOe CjMxvSsQIikZg3DIpl0bBvr4o3+0rlN3xjdCsQECOOseGCjggcrqkimc +tOdD/l1r67R3rBjrhu3VDInUSmtnF0h7j9JxEMJcfRxFDjFvFOxSAn+ X2x8alBURCi50ksk7K3kaC73ccmUt5+Mb3za+4dEOtXuIPEwpmx1qKRd aIv2N9tvE0zo2CClfwLCrK+c2YVCcqujrKL8TTV3rWICBxDO5Bc2tkdO Zm79Cw==
-.					      86400 IN ZONEMD	2026062201 1 1 744C4EE2D2615871CE655D4B84AB4224D109EC5196B304E77059671D AF20AD0065F7DB1745B89DA131B1D21F28A408BA
+.					      86400 IN ZONEMD	2026062202 1 1 BF2584FBB60B2F2ACC447D4E6B72146F07FB8DF5B5DD7B9C6DE0AB7C 1284B7C12CBCC9D25A0BC3932D0EFA176DB3BD83
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -16721,6 +16721,11 @@ sina.					      172800 IN	NS	a0.nic.sina.
 sina.					      172800 IN	NS	a2.nic.sina.
 sina.					      172800 IN	NS	b0.nic.sina.
 sina.					      172800 IN	NS	c0.nic.sina.
+sina.					      172800 IN	NS	ta.ngtld.cn.
+sina.					      172800 IN	NS	tb.ngtld.cn.
+sina.					      172800 IN	NS	tc.ngtld.cn.
+sina.					      172800 IN	NS	td.ngtld.cn.
+sina.					      172800 IN	NS	te.ngtld.cn.
 sina.					      86400 IN DS	39217 8 2 B177DAEF81C0EBD0C85DBA9092550EB8D14333806E1DB4C2C44AC9EC E76432A5
 sina.					      86400 IN NSEC	singles. NS DS RRSIG NSEC
 a0.nic.sina.				      172800 IN	A	65.22.140.33
@@ -19846,6 +19851,11 @@ weibo.					      172800 IN	NS	a0.nic.weibo.
 weibo.					      172800 IN	NS	a2.nic.weibo.
 weibo.					      172800 IN	NS	b0.nic.weibo.
 weibo.					      172800 IN	NS	c0.nic.weibo.
+weibo.					      172800 IN	NS	ta.ngtld.cn.
+weibo.					      172800 IN	NS	tb.ngtld.cn.
+weibo.					      172800 IN	NS	tc.ngtld.cn.
+weibo.					      172800 IN	NS	td.ngtld.cn.
+weibo.					      172800 IN	NS	te.ngtld.cn.
 weibo.					      86400 IN DS	40642 8 2 930EDCD3B0036BCDEBF43862AD49F6B7486DFECFC2E42F769AB66F21 938CF112
 weibo.					      86400 IN NSEC	weir. NS DS RRSIG NSEC
 a0.nic.weibo.				      172800 IN	A	65.22.56.41
@@ -20570,6 +20580,11 @@ xn--9krt00a.				      172800 IN	NS	a0.nic.xn--9krt00a.
 xn--9krt00a.				      172800 IN	NS	a2.nic.xn--9krt00a.
 xn--9krt00a.				      172800 IN	NS	b0.nic.xn--9krt00a.
 xn--9krt00a.				      172800 IN	NS	c0.nic.xn--9krt00a.
+xn--9krt00a.				      172800 IN	NS	ta.ngtld.cn.
+xn--9krt00a.				      172800 IN	NS	tb.ngtld.cn.
+xn--9krt00a.				      172800 IN	NS	tc.ngtld.cn.
+xn--9krt00a.				      172800 IN	NS	td.ngtld.cn.
+xn--9krt00a.				      172800 IN	NS	te.ngtld.cn.
 xn--9krt00a.				      86400 IN DS	6052 8 2 E5AEA197B5FB7F042833684BBF64FD1F9341BAA2007B2DB2958C9DFA A5884B78
 xn--9krt00a.				      86400 IN NSEC	xn--b4w605ferd. NS DS RRSIG NSEC
 a0.nic.xn--9krt00a.			      172800 IN	A	65.22.112.1
