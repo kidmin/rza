@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026062601 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260709170000 20260626160000 54393 . tHkqfvkpRwcfeW9UF4/m58SmXb2ZX1bcJQllrmR/W2M643kREl065Vsx WJgp2ch4T2s9RrzPVyOUnVzsuFsWYDwqy6HB+OigPE+3SbF5YkS+RY93 qPl32zBY7siGoMadqleHbL+gjEpZ0aCCkoEXIg++2jPnSZhMHOf+QkXR GvILjTcEsqUE4DnIFbFGArHae63kHqsWFLhNdgzFUu8EKc0eQv7z+/3I UK59m4DSwwX4BBUEtscFohXopyI9OPgr5Iypc2uW0FKDMW4t9ya2CRYz GjkUziM0yz+sjiGEfK/tlQWVcSDkeU7WPqL3eUtIg8jagWD+T1Ccez2C 3ywaog==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026062602 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260709200000 20260626190000 54393 . jj6VwPNgyet36PkcAcuvYPcOik7z/TW58f7pdZByydI8VWWoJWc7hWaN dfAWinlJLZr8NT0IaSjqW9KpfJwPaVsT++f2cPoQOCWlaGZCldFCBDOU btCzNw7PSpeD2/S/Rqr+6y9HIeQphIOxlPtu/Kx8/65A0l/0dIjrpnnz ra0MwNpmAxtU9/Hh4OYR79Ho8qduhWZjdebnVUf7nfjf9Uoh5iHI2of9 8cuTvoee8YtsDKkLVHtpexBpEdyaWEgTSvzxZa5W3SzbkFkbDxhtDiKG ksVOXNtnBmzuT3rTUSToDwPU/RzdbprCXW1Nl9xQuCUK9OgPZZaWciPd v0HAnw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260711000000 20260620000000 20326 . UU/g/jQ3AjhIGIxSxGVoYAg1X117oL9XvEKrRR3YUZVoVsaHrb9Cd1lM qqmCJXbnReOQeetx9ms+jAzt+Jvi79GIBABl7r0VTkHdJle67pwRtOOe CjMxvSsQIikZg3DIpl0bBvr4o3+0rlN3xjdCsQECOOseGCjggcrqkimc +tOdD/l1r67R3rBjrhu3VDInUSmtnF0h7j9JxEMJcfRxFDjFvFOxSAn+ X2x8alBURCi50ksk7K3kaC73ccmUt5+Mb3za+4dEOtXuIPEwpmx1qKRd aIv2N9tvE0zo2CClfwLCrK+c2YVCcqujrKL8TTV3rWICBxDO5Bc2tkdO Zm79Cw==
-.					      86400 IN ZONEMD	2026062601 1 1 F334ACA321C9B3E2877405F383F22D370BA690A9B9714E9570D4FD17 E3CC5E77ED5D89BFAC6F25131D32AF60D392349B
+.					      86400 IN ZONEMD	2026062602 1 1 83C0DE2E5382C150A4172EF1940346E19444D0109925D1C2569B308B DBA2DAEEDB0DDBD8DCE2AE86540ABC9EED312B54
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -15808,27 +15808,27 @@ dnsc.nic.safe.				      172800 IN	A	156.154.102.3
 dnsc.nic.safe.				      172800 IN	AAAA	2610:a1:1009::3
 dnsd.nic.safe.				      172800 IN	A	156.154.103.3
 dnsd.nic.safe.				      172800 IN	AAAA	2610:a1:1010::3
-safety.					      172800 IN	NS	a.nic.safety.
-safety.					      172800 IN	NS	b.nic.safety.
-safety.					      172800 IN	NS	c.nic.safety.
-safety.					      172800 IN	NS	ns1.dns.nic.safety.
-safety.					      172800 IN	NS	ns2.dns.nic.safety.
-safety.					      172800 IN	NS	ns3.dns.nic.safety.
+safety.					      172800 IN	NS	v0n0.nic.safety.
+safety.					      172800 IN	NS	v0n1.nic.safety.
+safety.					      172800 IN	NS	v0n2.nic.safety.
+safety.					      172800 IN	NS	v0n3.nic.safety.
+safety.					      172800 IN	NS	v2n0.nic.safety.
+safety.					      172800 IN	NS	v2n1.nic.safety.
 safety.					      86400 IN DS	6139 8 2 01E166CB1C6A2797FBDEFFBE26B009A7A1F72905F476353537DFA637 54B479DE
 safety.					      86400 IN DS	43762 8 2 BF2D17C54E9DDE52EB37F0D242A1C4C1051E15C18A2C2661C7A6CA58 EE6C0407
 safety.					      86400 IN NSEC	sakura. NS DS RRSIG NSEC
-a.nic.safety.				      172800 IN	A	37.209.192.10
-a.nic.safety.				      172800 IN	AAAA	2001:dcd:1::10
-b.nic.safety.				      172800 IN	A	37.209.194.10
-b.nic.safety.				      172800 IN	AAAA	2001:dcd:2::10
-c.nic.safety.				      172800 IN	A	37.209.196.10
-c.nic.safety.				      172800 IN	AAAA	2001:dcd:3::10
-ns1.dns.nic.safety.			      172800 IN	A	156.154.144.148
-ns1.dns.nic.safety.			      172800 IN	AAAA	2610:a1:1071::94
-ns2.dns.nic.safety.			      172800 IN	A	156.154.145.148
-ns2.dns.nic.safety.			      172800 IN	AAAA	2610:a1:1072::94
-ns3.dns.nic.safety.			      172800 IN	A	156.154.159.148
-ns3.dns.nic.safety.			      172800 IN	AAAA	2610:a1:1073::94
+v0n0.nic.safety.			      172800 IN	A	65.22.36.41
+v0n0.nic.safety.			      172800 IN	AAAA	2a01:8840:26::41
+v0n1.nic.safety.			      172800 IN	A	65.22.37.41
+v0n1.nic.safety.			      172800 IN	AAAA	2a01:8840:27::41
+v0n2.nic.safety.			      172800 IN	A	65.22.38.41
+v0n2.nic.safety.			      172800 IN	AAAA	2a01:8840:28::41
+v0n3.nic.safety.			      172800 IN	A	161.232.18.41
+v0n3.nic.safety.			      172800 IN	AAAA	2a01:8840:10e::41
+v2n0.nic.safety.			      172800 IN	A	65.22.39.41
+v2n0.nic.safety.			      172800 IN	AAAA	2a01:8840:29::41
+v2n1.nic.safety.			      172800 IN	A	161.232.19.41
+v2n1.nic.safety.			      172800 IN	AAAA	2a01:8840:10f::41
 sakura.					      172800 IN	NS	tld1.nic.sakura.
 sakura.					      172800 IN	NS	tld2.nic.sakura.
 sakura.					      172800 IN	NS	tld3.nic.sakura.
