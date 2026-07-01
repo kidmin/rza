@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026070101 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260714170000 20260701160000 57780 . usI743beQEC/eL/8rcJP51cORFEYzzEE/9G0hNVCxXEFpuF80BPptWqX TN6Y67ZlfDHXHzIvnZCX4dlcc2HlP45F+vR/IgnTde5Lz8s+pZEZej+s 7UWkYnHh1IyBrjGlV5cdCUX4VpIzJnJClAjITN9a82JYPu9Q5UqoI0TD 4yD/CHeqASdxPdR5ZuL4o0lQW4JApTvCJktKiD6eNTJ0oQdpY5EV50iv zXI2igUZO6bCTnsOXQoFyMyoMOsiB3Gwdg6eRp2yt2tUQVqRgohbia/n 9j4xq3ezw/FNoYiLrt7qyIVxLNhi/DDvDglNp4hEia07+2BTWLg+fwWB rekGCg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026070102 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260714210000 20260701200000 57780 . XEuDvGqFFCZ61maIXI/l+IkZiRfgyTbcBG3WC1t6YdjupeknKY+vSDOU sQ3N2uALjtuIOqjWDZIhisiwsh0QPiEoQvRewd/FbewSDcPU/zHZCXtu e/HfsNBJRelVkmFt7A+7zLB7e3d30G6fgHxyxVowCmD80iP7lmm3seaE MTK9Qtko8ENmh25FoSvYe42MO5HU/f2xWw0cKNqW3ZxElflzt600VajZ doDCosE7+7FleAu5HVOTuRx3R2exejQbapa5rg6AlaXNgMoflAKOprDg L5wJCZq3gs3f9K8YRHY7tBhpcHv9KhLe9a4nuLABH8m6f2GXrGXtfUqD s98PYg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260722000000 20260701000000 20326 . PIWRr97cYGmtOj+ITFeA8BqCHizd3FW/RykfcnMqVXQ7OqcE3lACjOoY fj+aj1iZfAP59iNsOWJz/J7AUAqxb7CpPIO9bJxllbhHyRkKEJhCO4M/ MvlYAMmc6G8gnI4yBZEIiRPaFOP0Ux04kX/CMk4KoM89Rv4sQy02hsF7 HeQb7GAowyKSW3hy0TazdwGeRyC00SjDCVZMVNCc8gPF4ZZsWgSmkpDD j3H1V5JSzLiu/mtf0k/6oHTi0IrsaBKywdQO9JgAOvayfW0hhySQ2FoQ SrZC5Hb1btjvkzj49LxGTy0qvoRdHLjmnrsk8BqNlekAhJoLtIB+HEla /s1/DQ==
-.					      86400 IN ZONEMD	2026070101 1 1 19D549DAFB04FC32D052C12F0CE2B08975CB5A7DA85A54C5D11B5BA6 ABBD608F5B2DCF390FA27FDBFC2EDEADB1E3E554
+.					      86400 IN ZONEMD	2026070102 1 1 B3BA87AFAD18C77F790DE4B8FB6214D4E7E876C2A56FE887216B65F8 5EA594BB322A7D23E98E5EA8CCD666FC799D3547
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1263,6 +1263,7 @@ cctld.gamma.aridns.net.au.		      172800 IN	AAAA	2001:dcd:3::6
 gtld.gamma.aridns.net.au.		      172800 IN	A	37.209.196.10
 gtld.gamma.aridns.net.au.		      172800 IN	AAAA	2001:dcd:3::10
 munnari.oz.au.				      172800 IN	A	202.29.151.3
+munnari.oz.au.				      172800 IN	AAAA	2001:3c8:9009:181::2
 q.au.					      172800 IN	A	65.22.196.1
 q.au.					      172800 IN	AAAA	2a01:8840:be::1
 r.au.					      172800 IN	A	65.22.197.1
@@ -4049,14 +4050,6 @@ cn.					      172800 IN	NS	e.dns.cn.
 cn.					      172800 IN	NS	ns.cernet.net.
 cn.					      86400 IN DS	33094 8 2 CCCF13ED73A83244F7D2936F0B6C3507D85C3EBC5E1BE4FB644064BC 5B5FE3B2
 cn.					      86400 IN NSEC	co. NS DS RRSIG NSEC
-ns1.conac.cn.				      172800 IN	A	111.235.161.1
-ns1.conac.cn.				      172800 IN	AAAA	2401:b400:1::1
-ns2.conac.cn.				      172800 IN	A	111.235.162.1
-ns2.conac.cn.				      172800 IN	AAAA	2401:b400:8::1
-ns3.conac.cn.				      172800 IN	A	111.235.163.1
-ns3.conac.cn.				      172800 IN	AAAA	2401:b400:9::1
-ns4.conac.cn.				      172800 IN	A	111.235.164.1
-ns5.conac.cn.				      172800 IN	A	111.235.165.1
 a.dns.cn.				      172800 IN	A	203.119.25.1
 a.dns.cn.				      172800 IN	AAAA	2001:dc7::1
 b.dns.cn.				      172800 IN	A	203.119.26.1
@@ -20403,12 +20396,6 @@ xn--55qw42g.				      172800 IN	NS	tb.ngtld.cn.
 xn--55qw42g.				      172800 IN	NS	tc.ngtld.cn.
 xn--55qw42g.				      172800 IN	NS	td.ngtld.cn.
 xn--55qw42g.				      172800 IN	NS	te.ngtld.cn.
-xn--55qw42g.				      172800 IN	NS	ns1.conac.cn.
-xn--55qw42g.				      172800 IN	NS	ns2.conac.cn.
-xn--55qw42g.				      172800 IN	NS	ns3.conac.cn.
-xn--55qw42g.				      172800 IN	NS	ns4.conac.cn.
-xn--55qw42g.				      172800 IN	NS	ns5.conac.cn.
-xn--55qw42g.				      86400 IN DS	21055 8 2 0D6F3AA00BB63F959E87931FEA3F5D6E18A7C0F9F1408BFDF34113D8 8B191D37
 xn--55qw42g.				      86400 IN DS	44374 8 2 7A835652C46DE71FC431DAD529ADB5722F1DB5239D8A83308B91BCAD 79328467
 xn--55qw42g.				      86400 IN NSEC	xn--55qx5d. NS DS RRSIG NSEC
 xn--55qx5d.				      172800 IN	NS	a.ngtld.cn.
@@ -21770,12 +21757,6 @@ xn--zfr164b.				      172800 IN	NS	tb.ngtld.cn.
 xn--zfr164b.				      172800 IN	NS	tc.ngtld.cn.
 xn--zfr164b.				      172800 IN	NS	td.ngtld.cn.
 xn--zfr164b.				      172800 IN	NS	te.ngtld.cn.
-xn--zfr164b.				      172800 IN	NS	ns1.conac.cn.
-xn--zfr164b.				      172800 IN	NS	ns2.conac.cn.
-xn--zfr164b.				      172800 IN	NS	ns3.conac.cn.
-xn--zfr164b.				      172800 IN	NS	ns4.conac.cn.
-xn--zfr164b.				      172800 IN	NS	ns5.conac.cn.
-xn--zfr164b.				      86400 IN DS	8245 8 2 EE6F394BD32D4BB28D43D2F2172121C90941E133D5B5BDBDCB72F867 65BB95EB
 xn--zfr164b.				      86400 IN DS	44374 8 2 93A7EE3E59E1CD78E9F4F677B14FC0449623AE5F27ACD7C0760CCE3F F0B8581C
 xn--zfr164b.				      86400 IN NSEC	xxx. NS DS RRSIG NSEC
 xxx.					      172800 IN	NS	a.nic.xxx.
