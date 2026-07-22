@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026072200 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260804050000 20260722040000 57780 . QhMO2Yq9wCKtlZ73R8ZV5tYcS5WGL58GNulbawMZB733xqD1N4ldmPAc MvH2S7Q2oVwWkn0HkM1SHjjnBwIXhuaQN71zNLjzqNAR5kevWzJm9YLi XzTrOQUSU++7J/jt9aETnXweZF151n20GwDI6HdxnNBCF7Ql8CedR28g nx5BYAmX7BbkfDs7IWpM14FogXDC20oevNz30lrEDCwEgSTxX6dg9wd4 pZBIECGC5RABIXHeIn8uhfmVHnnwnM8t13DuROswK+PkSIeLT9vyV4v1 zIgps/UNw66lmeUDJqNSn/KiHJL7wd40IXYFNJm2Xiyk34ACu0XVOLXt zSETuA==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026072201 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260804140000 20260722130000 57780 . s2i+6GnoVzsBliaN6gKwOnrbfNNnrYL2fT8hyflu8HlvWm7PytcllYTQ i6DNFdtxGlXTb2myblXCCLCT9MhgF+mYCfV5EIoqvNBLFm+MPxHEJwab 8WVMbbe4SO5TZINFWRE5qNPBHR05SQJmrVce633zXEa36XzIERAlvIRj 2F4fMSN/b+ubp8ATzsg+HJHlvbWB8ZUXfefmXycLs9f17r2GtF6v8SAF 2QOTMD6j0Ogu46IGpTQWhSM9KxnandWHdgYZRLOlgurUe3taZ/UR9pN8 qfj+85LVWkxDz4lgBE7PBI7JY5zyh+gUSzJHnXsouWdKx2k+pGHm9Gly d2QnKQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260811000000 20260721000000 20326 . KRNkneCiUAW/3xsn8/6VDpfjYsXUrh19hqxVi2TRYnqbNa9N/fwN0Z/J gTGfigaY6KKSFgTZGZsiilMiPVdHOirETIVs37XWU6L+dskCttC2rHUS hOxnf0lLzy2rFJbolkd3aB5FpbprKmURCyeW/Na/wtrSCo1kArBAIOGZ LHNvDOVKL/MDIAkZJQ6EbfLxY8wkd4Rp93T5sAUyBaSlRpkqDyujUuz/ 0lCBeApRp0wMGQGC5+3//rdv16be3O5+oi124vJqlskvDw/jIsq3GY2j NjnWBwu7bFeOWHahBsZNROj0fKTkCYgtWKZfwFp0bwc20chK6hHxPskK EB+AFw==
-.					      86400 IN ZONEMD	2026072200 1 1 97383BA027453AAAFDB02125B687F0AD9D9CE61BA8AB1998F61F0629 3582001402EE88E56E43F9A5C4175B7076C0C803
+.					      86400 IN ZONEMD	2026072201 1 1 7F0B6AE001DEE061081D1BDDC82897A3D9CF3C67668AD373D32A39F6 085DED685591DED3616426C71AC38E4CDD4F5458
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1240,8 +1240,8 @@ au.					      172800 IN	NS	q.au.
 au.					      172800 IN	NS	r.au.
 au.					      172800 IN	NS	s.au.
 au.					      172800 IN	NS	t.au.
-au.					      86400 IN DS	26642 8 2 3240A5DA092C3E1BA935CEDFB5289575911B561768C45B3C0EF58A83 0379146E
 au.					      86400 IN DS	32902 8 2 E80A9F8ECA018ADE79925DA724A0CB0DBCF03C9A7049D20C9FB74B71 6AB7D329
+au.					      86400 IN DS	26642 8 2 3240A5DA092C3E1BA935CEDFB5289575911B561768C45B3C0EF58A83 0379146E
 au.					      86400 IN NSEC	auction. NS DS RRSIG NSEC
 a.au.					      172800 IN	A	58.65.254.1
 a.au.					      172800 IN	AAAA	2407:6e00:254::1
@@ -7915,12 +7915,12 @@ c.ns.gq.				      172800 IN	A	185.21.170.65
 c.ns.gq.				      172800 IN	AAAA	2a04:1b00:12::1
 d.ns.gq.				      172800 IN	A	185.21.171.65
 d.ns.gq.				      172800 IN	AAAA	2a04:1b00:13::1
-gr.					      172800 IN	NS	gr-a.ics.forth.gr.
 gr.					      172800 IN	NS	gr-d.ics.forth.gr.
 gr.					      172800 IN	NS	gr-m.ics.forth.gr.
 gr.					      172800 IN	NS	estia.ics.forth.gr.
 gr.					      172800 IN	NS	gr-at.ics.forth.gr.
 gr.					      172800 IN	NS	grdns.ics.forth.gr.
+gr.					      172800 IN	NS	gr-a.ics.forth.gr.
 gr.					      86400 IN DS	13987 8 2 FF87E9205F88E1D32C67A65BD61C68C56689C607D7684D12C867DC93 3D546EC8
 gr.					      86400 IN NSEC	grainger. NS DS RRSIG NSEC
 estia.ics.forth.gr.			      172800 IN	A	139.91.191.3
@@ -9107,8 +9107,8 @@ v2n0.nic.immobilien.			      172800 IN	AAAA	2a01:8840:1d::19
 v2n1.nic.immobilien.			      172800 IN	A	161.232.13.19
 v2n1.nic.immobilien.			      172800 IN	AAAA	2a01:8840:f7::19
 in.					      172800 IN	NS	ns1.registry.in.
-in.					      172800 IN	NS	ns2.registry.in.
 in.					      172800 IN	NS	ns3.registry.in.
+in.					      172800 IN	NS	ns2.registry.in.
 in.					      172800 IN	NS	ns4.registry.in.
 in.					      86400 IN DS	10094 13 2 5824EE9A55ED72F0D46D2C3A511F393F05EFC27E73CBD1005BEBBC73 402B6186
 in.					      86400 IN NSEC	inc. NS DS RRSIG NSEC
@@ -13112,8 +13112,8 @@ ni.					      172800 IN	NS	ns.ni.
 ni.					      172800 IN	NS	ns2.ni.
 ni.					      172800 IN	NS	ns3.ni.
 ni.					      172800 IN	NS	ns4.ni.
-ni.					      172800 IN	NS	ns5.ni.
 ni.					      172800 IN	NS	dns-ext.nic.cr.
+ni.					      172800 IN	NS	ns5.ni.
 ni.					      86400 IN NSEC	nico. NS RRSIG NSEC
 ns.ni.					      172800 IN	A	165.98.1.2
 ns2.ni.					      172800 IN	A	200.9.187.2
@@ -14992,12 +14992,12 @@ ns2.dns.nic.racing.			      172800 IN	A	156.154.170.33
 ns2.dns.nic.racing.			      172800 IN	AAAA	2610:a1:1072::1:21
 ns3.dns.nic.racing.			      172800 IN	A	156.154.171.33
 ns3.dns.nic.racing.			      172800 IN	AAAA	2610:a1:1073::1:21
-radio.					      172800 IN	NS	a.nic.radio.
-radio.					      172800 IN	NS	b.nic.radio.
 radio.					      172800 IN	NS	anycast9.irondns.net.
 radio.					      172800 IN	NS	anycast10.irondns.net.
 radio.					      172800 IN	NS	anycast23.irondns.net.
 radio.					      172800 IN	NS	anycast24.irondns.net.
+radio.					      172800 IN	NS	a.nic.radio.
+radio.					      172800 IN	NS	b.nic.radio.
 radio.					      86400 IN DS	62727 10 2 3863E4A0C36A262785C1703B5CFF54CDBD56CD40BB414B45599848CE 972E26B9
 radio.					      86400 IN NSEC	re. NS DS RRSIG NSEC
 a.nic.radio.				      172800 IN	A	194.169.218.21
@@ -15618,10 +15618,10 @@ rsvp.					      86400 IN DS	7067 8 2 A34484076595033B18742005866B79F5C56FECEC5A6
 rsvp.					      86400 IN NSEC	ru. NS DS RRSIG NSEC
 ru.					      172800 IN	NS	a.dns.ripn.net.
 ru.					      172800 IN	NS	b.dns.ripn.net.
-ru.					      172800 IN	NS	c.tld-servers.ru.
 ru.					      172800 IN	NS	d.dns.ripn.net.
 ru.					      172800 IN	NS	e.dns.ripn.net.
 ru.					      172800 IN	NS	f.dns.ripn.net.
+ru.					      172800 IN	NS	c.tld-servers.ru.
 ru.					      86400 IN DS	51575 8 2 34CF735353060D9BD6347FF81ECFAAC24EC8F11971DC800249C64A21 BC062775
 ru.					      86400 IN NSEC	rugby. NS DS RRSIG NSEC
 a.dns.flexireg.ru.			      172800 IN	A	31.177.70.1
@@ -15652,8 +15652,8 @@ ruhr.					      172800 IN	NS	a.nic.ruhr.
 ruhr.					      172800 IN	NS	b.nic.ruhr.
 ruhr.					      172800 IN	NS	c.nic.ruhr.
 ruhr.					      172800 IN	NS	d.nic.ruhr.
-ruhr.					      86400 IN DS	35633 13 2 470D5916105A40ECC204FD025AAD5E43E44C82747C6C3C5130462F9B 7396E9A5
 ruhr.					      86400 IN DS	46252 10 2 3DB9DB25D3B8E13FBCB4EBA53F61C7CE156831DCE66D4A19747D17F8 AB278FDB
+ruhr.					      86400 IN DS	35633 13 2 470D5916105A40ECC204FD025AAD5E43E44C82747C6C3C5130462F9B 7396E9A5
 ruhr.					      86400 IN NSEC	run. NS DS RRSIG NSEC
 a.nic.ruhr.				      172800 IN	A	194.169.218.155
 a.nic.ruhr.				      172800 IN	AAAA	2001:67c:13cc::1:155
@@ -17539,8 +17539,8 @@ sv.					      172800 IN	NS	p.ns.sv.
 sv.					      172800 IN	NS	ix.red.sv.
 sv.					      172800 IN	NS	ns.dns.br.
 sv.					      172800 IN	NS	sir.red.sv.
-sv.					      172800 IN	NS	nsca.nic.cr.
 sv.					      172800 IN	NS	dns-ext.nic.cr.
+sv.					      172800 IN	NS	nsca.nic.cr.
 sv.					      86400 IN NSEC	swatch. NS RRSIG NSEC
 p.ns.sv.				      172800 IN	A	204.61.216.112
 p.ns.sv.				      172800 IN	AAAA	2001:500:14:6112:ad::1
@@ -21446,10 +21446,10 @@ ns2.nic.xn--p1acf.			      172800 IN	A	72.0.49.2
 ns2.nic.xn--p1acf.			      172800 IN	AAAA	2620:171:a01:ad::2
 xn--p1ai.				      172800 IN	NS	a.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	b.dns.ripn.net.
-xn--p1ai.				      172800 IN	NS	c.tld-servers.ru.
 xn--p1ai.				      172800 IN	NS	d.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	e.dns.ripn.net.
 xn--p1ai.				      172800 IN	NS	f.dns.ripn.net.
+xn--p1ai.				      172800 IN	NS	c.tld-servers.ru.
 xn--p1ai.				      86400 IN DS	3769 8 2 FE4BB838E51156D5886E9ECF3AF43F7E2D181FBFF1C94A12C7E74274 3FD6A82D
 xn--p1ai.				      86400 IN NSEC	xn--pgbs0dh. NS DS RRSIG NSEC
 xn--pgbs0dh.				      172800 IN	NS	ns1.ati.tn.
@@ -21493,12 +21493,12 @@ xn--qxa6a.				      172800 IN	NS	be.dns.eu.
 xn--qxa6a.				      172800 IN	NS	si.dns.eu.
 xn--qxa6a.				      86400 IN DS	28624 8 2 248CB7496D7D6C9A4C0F2BC97187E1EA7A4F9F1ACEFDC745680875E8 A009B793
 xn--qxa6a.				      86400 IN NSEC	xn--qxam. NS DS RRSIG NSEC
-xn--qxam.				      172800 IN	NS	gr-a.ics.forth.gr.
 xn--qxam.				      172800 IN	NS	gr-d.ics.forth.gr.
-xn--qxam.				      172800 IN	NS	gr-m.ics.forth.gr.
 xn--qxam.				      172800 IN	NS	estia.ics.forth.gr.
 xn--qxam.				      172800 IN	NS	gr-at.ics.forth.gr.
 xn--qxam.				      172800 IN	NS	grdns.ics.forth.gr.
+xn--qxam.				      172800 IN	NS	gr-m.ics.forth.gr.
+xn--qxam.				      172800 IN	NS	gr-a.ics.forth.gr.
 xn--qxam.				      86400 IN DS	10384 8 2 10A432DBF0112CE38A83CED26F36CE36AAC7A3D37CEC8D07583C01A5 E9FD8ED1
 xn--qxam.				      86400 IN NSEC	xn--rhqv96g. NS DS RRSIG NSEC
 xn--rhqv96g.				      172800 IN	NS	ns1.teleinfo.cn.
