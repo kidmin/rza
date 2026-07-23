@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026072203 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260804200000 20260722190000 57780 . vx06C91d6LAkB9+Gcq19yBxCURgtFmNP1zf4ofvuqYHRdhGcOZD0/jnS Ap7NzsNcoUlpNhTE2ijh+dlIkaAwRAjBKbZ/lMWm2d01riUzTst0Ar2z T/y+u4tY/yC7CJJQyW9cbkV6SktTzFR9LuHAZRKzAUUwR/VZwgPzQQ/w fuGwPiw9S+Oe6qdu8pmHqTyrDoD5Fj+6bc2wIZCgUzgE+2bUuRA+uhOc pBiQr/TFPh5yfcOYPfrS7/4vX4XVD7db+XJsWysDthDUxXOkm0IxM2ag XahzM/oTGT4Wse42YNCpeQJDQa/SZ1nNofjKfVuLQ4mMS+6Vq1m8HCnU CxMbRQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026072300 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260805000000 20260722230000 57780 . vZJx7lNApfMdKG0EB2QddJX3TJllVRqk6VWs2ZWOW9m/MQnWZ2locPP6 02QFavjTorjs2CBWRf8+jyy7hcMRV1P89hc+0t/Gz2g7DpMuCDqsRaM/ x4yhGq5JUrAzMZWywYtDigaVbER9vrnlCVccEOcvfJ+OmY+2DZnHgV5T nU3iZt5GWznn94GiXnb6pgdpNIBMkuUy7MG+bksE0qx67Xw+ZNUV6fsL RnKLd58FV4OtKX5Ty6yj9ZNoTJIj+6Doec5oGpcNCHq/2kdqUgQ3rGyB XllPV3yQKniv+om/Gb/ESb6fCOljYNbsBvL54Q1mLGLtsOGyLIKhBvKB 9+Y1vA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260811000000 20260721000000 20326 . KRNkneCiUAW/3xsn8/6VDpfjYsXUrh19hqxVi2TRYnqbNa9N/fwN0Z/J gTGfigaY6KKSFgTZGZsiilMiPVdHOirETIVs37XWU6L+dskCttC2rHUS hOxnf0lLzy2rFJbolkd3aB5FpbprKmURCyeW/Na/wtrSCo1kArBAIOGZ LHNvDOVKL/MDIAkZJQ6EbfLxY8wkd4Rp93T5sAUyBaSlRpkqDyujUuz/ 0lCBeApRp0wMGQGC5+3//rdv16be3O5+oi124vJqlskvDw/jIsq3GY2j NjnWBwu7bFeOWHahBsZNROj0fKTkCYgtWKZfwFp0bwc20chK6hHxPskK EB+AFw==
-.					      86400 IN ZONEMD	2026072203 1 1 77F9C98FBD96646D94ABCD6012B2D5B5FBE13383FABB7D02F3525078 7886C727400AFC0E58CB9EB0EDD15F9B32156965
+.					      86400 IN ZONEMD	2026072300 1 1 D72D7BC39E30B73E67C8E62C67033D889A2932B489A36E17FF4D26CA DA81BA352EC563B1C53E6B5D0E70019FB9F37C5C
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -19739,7 +19739,7 @@ weatherchannel.				      172800 IN	NS	ns4.dns.nic.weatherchannel.
 weatherchannel.				      172800 IN	NS	ns5.dns.nic.weatherchannel.
 weatherchannel.				      172800 IN	NS	ns6.dns.nic.weatherchannel.
 weatherchannel.				      86400 IN DS	47695 8 2 B2F90E6997386B0411808F05702D0F9AC00F5C0D129262394C86E1BA 79977BE2
-weatherchannel.				      86400 IN NSEC	webcam. NS DS RRSIG NSEC
+weatherchannel.				      86400 IN NSEC	web. NS DS RRSIG NSEC
 a.nic.weatherchannel.			      172800 IN	A	37.209.192.9
 a.nic.weatherchannel.			      172800 IN	AAAA	2001:dcd:1::9
 b.nic.weatherchannel.			      172800 IN	A	37.209.194.9
@@ -19752,6 +19752,12 @@ ns5.dns.nic.weatherchannel.		      172800 IN	A	156.154.157.179
 ns5.dns.nic.weatherchannel.		      172800 IN	AAAA	2610:a1:1075::b3
 ns6.dns.nic.weatherchannel.		      172800 IN	A	156.154.158.179
 ns6.dns.nic.weatherchannel.		      172800 IN	AAAA	2610:a1:1076::b3
+web.					      172800 IN	NS	ac1.nstld.com.
+web.					      172800 IN	NS	ac2.nstld.com.
+web.					      172800 IN	NS	ac3.nstld.com.
+web.					      172800 IN	NS	ac4.nstld.com.
+web.					      86400 IN DS	17965 13 2 FFBC80B0436C15FCAA63C8F60A89349351D09F3A79CAB6352681E567 D178E827
+web.					      86400 IN NSEC	webcam. NS DS RRSIG NSEC
 webcam.					      172800 IN	NS	a.nic.webcam.
 webcam.					      172800 IN	NS	b.nic.webcam.
 webcam.					      172800 IN	NS	c.nic.webcam.
