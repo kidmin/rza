@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082001 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260902170000 20260820160000 57780 . lTQKEK787UXH36eDZt13dgK7AQkGlKVytuRhRJxaPnkOSa5MqTfiTvoB i57Wcae6Fcw+IuMK3FF4lNepai3CB3zMujhNf53yXMFrp7oNXE1wdppt 7enoB7ZlQvPL/mZJObs2eoj3P3Gv5jsPjxu3WB8ODN+rMkSF+vNXqbvZ 1XKDfstNjwDH9ErVVAAqwBknVJOm/unzdMWOlD0oDLKpYXC9+xr1ZHnp 5qUgd6R/twBXy/HShCNJ08MJiDyK14YuI9EkluJWE/ZoHuGDzYuUIUZ2 Sqt6oV1Ho++FoV4hAnXP4lRdneWBTnIkc7h6SWdZ/uovmUGXIMnXJugt gkih7A==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082100 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260903050000 20260821040000 57780 . mnfp+yiLQHAvdi2zENZQCP/E2dUQr1/xQo3m3qDp/tWMmhpovQa35beT 8HXMtz5VY4KgozUn9mTFomiNnhELyNhwDLpnyEh5jUTM4P+AydGDqvTy grflMSgpdtO3DP0pTBMh3ry0EtAToCMRKj8I/R8ZAkwJO9N7z+wgSrvo Thtbp2fGcwCUf3oGYp3jfc8hOEWSgilUZO/Mdduj8BjX6GPLCzgX2+LN FZbgeIMLEwSMJ1C558iIQloxPtRn8APb3SNVZyejpkHYU1Cewo2aE2j6 xZqiZbO8xXtY6BLP3ImqHy6PzhW5fMYHwXtDP4vHb9IEZJUoIs4EuCGN O7k3OQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260910000000 20260820000000 20326 . hQqYrSY1hgaqax9ke/8SFj0ZozkRgdHJJlXvIU5t2Bsrcmu3J87Wkgje MLeMiKK/TsFIlpb+XCl33T8C3Ja04IyZ2ifVGuMlrDAp7qg3lkO6gXmQ 9V7DQscPFbUmicFX0SyhR9wy3JxDQ/tVQx11sMlxphdhRx5kBobY2DeR G0SS2WODJi4qCFLk7bvQ0uRQ3adCI7MS8F6QX5NZEy7oHnmERYF1vosr JhTTw/lDOL6qx6k2LklIWnJI8gvAlhwqOWlQZk8hjkYkkrmgAW2s+pwG qeeYmz1Ttfs7yY2yreKEnJhdeg08q4NURPM1FrNeR5F4k38P3Es8vAIn 5r/xYw==
-.					      86400 IN ZONEMD	2026082001 1 1 A7AB2335EEB1CF1DBF1490E867D91E3DACF91B6A555991FEAF88A8D9 9EF0FF16D09E73DF23FF79A89BB92D8721717450
+.					      86400 IN ZONEMD	2026082100 1 1 E7280A535E935A4035CD35BD2128AFB6B6D5F73FFD3FE35BAFE10343 FA645B14FDFA866B5E982899FA190E6FD95147FF
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2514,6 +2514,7 @@ c0.nic.bosch.				      172800 IN	AAAA	2a01:8840:70::46
 bostik.					      172800 IN	NS	d.nic.fr.
 bostik.					      172800 IN	NS	f.ext.nic.fr.
 bostik.					      172800 IN	NS	g.ext.nic.fr.
+bostik.					      86400 IN DS	15906 13 2 716BFD888F02F8FC2C568F20B530A836D82476E9E6E56C6DB1BB0F1E 98767B68
 bostik.					      86400 IN DS	18147 13 2 E570BFF87AF9244279302E8AC77932222143C62AD60D6065B3BF6D69 1EF141FF
 bostik.					      86400 IN NSEC	boston. NS DS RRSIG NSEC
 boston.					      172800 IN	NS	a.nic.boston.
@@ -10577,7 +10578,6 @@ v2n1.nic.lease.				      172800 IN	AAAA	2a01:8840:f7::62
 leclerc.				      172800 IN	NS	d.nic.fr.
 leclerc.				      172800 IN	NS	f.ext.nic.fr.
 leclerc.				      172800 IN	NS	g.ext.nic.fr.
-leclerc.				      86400 IN DS	56243 13 2 E6CD61FE33323D5B27B16BCB952512801AE7E4F4C860D733EB9148E4 09811A37
 leclerc.				      86400 IN DS	65159 13 2 F29CB282BE2C2750719574BA14A6FAB762E2DDCA5FB7D3D6C582C43B 5DA78DCB
 leclerc.				      86400 IN NSEC	lefrak. NS DS RRSIG NSEC
 lefrak.					      172800 IN	NS	a0.nic.lefrak.
@@ -12427,12 +12427,15 @@ my.					      172800 IN	NS	b.mynic.centralnic-dns.com.
 my.					      172800 IN	NS	c.mynic.centralnic-dns.com.
 my.					      172800 IN	NS	d.mynic.centralnic-dns.com.
 my.					      172800 IN	NS	e.nic.my.
+my.					      172800 IN	NS	g.nic.my.
 my.					      172800 IN	NS	ns01.trs-dns.com.
 my.					      172800 IN	NS	ns01.trs-dns.net.
 my.					      86400 IN DS	47187 13 2 8B70CF4C48233D0624556523EA52C524F157800B97445C6A62A8C078 337567AE
 my.					      86400 IN NSEC	mz. NS DS RRSIG NSEC
 e.nic.my.				      172800 IN	A	152.69.217.125
 e.nic.my.				      172800 IN	AAAA	2603:c024:4518:ad60:242::2
+g.nic.my.				      172800 IN	A	15.197.189.233
+g.nic.my.				      172800 IN	AAAA	2600:9000:a61a:e65b:b532:3115:4619:6578
 mz.					      172800 IN	NS	anyns.uem.mz.
 mz.					      172800 IN	NS	dzowo.uem.mz.
 mz.					      172800 IN	NS	ns-mz.afrinic.net.
@@ -21308,6 +21311,7 @@ xn--mgbx4cd0ab.				      172800 IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.				      172800 IN	NS	c.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.				      172800 IN	NS	d.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.				      172800 IN	NS	e.nic.my.
+xn--mgbx4cd0ab.				      172800 IN	NS	g.nic.my.
 xn--mgbx4cd0ab.				      86400 IN DS	15766 13 2 E1B9DF06C9B2E9F67AA4F7AFE4A20D0CC055ABBAE1AE5C72E967F2F1 1D417B71
 xn--mgbx4cd0ab.				      86400 IN NSEC	xn--mix891f. NS DS RRSIG NSEC
 xn--mix891f.				      172800 IN	NS	a.monic.mo.
