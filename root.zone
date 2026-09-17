@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026091701 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20260930170000 20260917160000 57780 . 14Ehd1PgL7v+zsDhlQYUak3fsHyXhABLk0oYsvrPZYVkfKEdNS8sUVXO Nglpnuqqma2jRvX+4mxjZ43Fyvz04lKyK3SL2Yhjs9cS6HmMTw6GkRKH GbC3x+/kUc7RXbyIK9biD/qs47wvlhUVpejCGYra7XMCGc3bLFrQs+vk HF+TqK1SNsZWGa1IUlxdZzDuq23p0z/3e8XsopDu8WWdGZN1SsScn3sJ 8Yqyq3+SF7U6DS4vLopoLRYNPhe3TxC4L3yq8Yp3u6oSTGmQPlC709ee weYmNCgNAC2Tps+4Uccw0doA+qlpBcxu5ENI5bJ1P6XNEyVu3jC9iVMX 48OonQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026091702 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20260930210000 20260917200000 57780 . vxhvSTMl5qXfZO3ZYFXcmDzoDqN5lAoNKBn+3x734YOAOAg4ZC+gCnpg uKDd86nLmf6Fpl62ioNYC/IpEPFbMfwLELsBoPtVPcmkZwLAaZ4P5ZeR 7NenQWbLsUvZK8IiJxwHhQML/8a2nTlmH3oQrR/4GoXObovhwYb22Cm0 SLeLfi0uLvV1/2v4hmbWLiP3S1wrC2SGdLqzjMl110f4BWgtGweY3AG5 r7AjRql7Rc6C/GlpwshvZ3sAZ7wx/mtQCMi0fDcDocSw7xOn3uvBIz+3 RN/cZl/2PcfofKvNRnJmWuF05Y3RycpSvuL33QI+2iV+3EwfOZ1oXpMS 2bPCJg==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20260930000000 20260909000000 20326 . oYSvB9Md+++cwEvRgKH+7O3u5mSWT8tgQ6zxO+A22wU/xfavUVWD6q0A 4Tpr1ez840UhnuYEZll3AoYA+Gv06zGip99UY71evaZ/cSG04Ipz2t6e rwiKMbMVQDf4Cx25g28PTJjGuFG62BQxN9GOF8aTF+4KgY3/6kAoLiGV tALiW9d+Pa5LvbLicTif3qvus0u6c63BJ22rK8RXEKaXFD93TlyLprBR 80Zv4smHeqO5hVuVtwxq7/daXiv8laEVQfs9Joq/yjPxz7vaFbaJn00/ LgpbpLG6r+y2GteVTLrtvT3vFrxfNH9b9NeYogbF7eUFujmm9TukkkjV xp5tKg==
-.					      86400 IN ZONEMD	2026091701 1 1 8E6E3BA0F9EBDD1987970AA2C3B40BD44667ED5DD2748756F1C73AC5 9C3623141EBAEDC2D5FBDEEA5D85FF753EC5C460
+.					      86400 IN ZONEMD	2026091702 1 1 F9E7BEBD2BCFC53B7EEEF95BD2122AAD239118768214EA867767F22A 2A74F88B3B158D4385AA7AA7DC44FBD311CA2B06
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -13372,19 +13372,31 @@ tld3.nic.ntt.				      172800 IN	AAAA	2a01:8840:1ba::17
 tld5.nic.ntt.				      172800 IN	A	65.22.40.145
 tld5.nic.ntt.				      172800 IN	AAAA	2a01:8840:1ba::145
 nu.					      172800 IN	NS	a.ns.nu.
+nu.					      172800 IN	NS	b.ns.nu.
 nu.					      172800 IN	NS	c.ns.nu.
 nu.					      172800 IN	NS	d.ns.nu.
+nu.					      172800 IN	NS	f.ns.nu.
+nu.					      172800 IN	NS	g.ns.nu.
+nu.					      172800 IN	NS	i.ns.nu.
 nu.					      172800 IN	NS	m.ns.nu.
 nu.					      172800 IN	NS	y.ns.nu.
 nu.					      172800 IN	NS	z.ns.nu.
 nu.					      86400 IN DS	41209 13 2 46159142140BBF89ECB41E202F88DA8C7D8A51B584AA5EA4A28CEAAA F9091185
 nu.					      86400 IN NSEC	nyc. NS DS RRSIG NSEC
-a.ns.nu.				      172800 IN	A	194.146.106.22
-a.ns.nu.				      172800 IN	AAAA	2001:67c:1010:5::53
-c.ns.nu.				      172800 IN	A	192.36.144.107
-c.ns.nu.				      172800 IN	AAAA	2a01:3f0:0:301::53
-d.ns.nu.				      172800 IN	A	213.108.25.4
-d.ns.nu.				      172800 IN	AAAA	2001:67c:124c:e000::4
+a.ns.nu.				      172800 IN	A	192.36.144.108
+a.ns.nu.				      172800 IN	AAAA	2a01:3f0:0:301::54
+b.ns.nu.				      172800 IN	A	192.36.133.108
+b.ns.nu.				      172800 IN	AAAA	2001:67c:254c:301::54
+c.ns.nu.				      172800 IN	A	192.36.135.108
+c.ns.nu.				      172800 IN	AAAA	2001:67c:2554:301::54
+d.ns.nu.				      172800 IN	A	213.108.25.6
+d.ns.nu.				      172800 IN	AAAA	2001:67c:124c:e000::6
+f.ns.nu.				      172800 IN	A	192.36.134.98
+f.ns.nu.				      172800 IN	AAAA	2001:67c:2550:301::54
+g.ns.nu.				      172800 IN	A	194.68.134.98
+g.ns.nu.				      172800 IN	AAAA	2001:67c:2558:301::54
+i.ns.nu.				      172800 IN	A	194.146.106.21
+i.ns.nu.				      172800 IN	AAAA	2001:67c:1010:5::54
 m.ns.nu.				      172800 IN	A	194.0.11.112
 m.ns.nu.				      172800 IN	AAAA	2001:678:e:112::53
 y.ns.nu.				      172800 IN	A	185.159.197.150
