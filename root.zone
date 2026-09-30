@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026093002 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261013170000 20260930160000 57780 . 3ZRjgQWxLzce2wAJgWT5WOF8PXolWUgihJ9xcID44dVfxHrMI6tVP9aL cQc8Vs9z4+FSXzI/yXXWBkGIVZEg+MINct19XmFpc6NaswwJlb+dBtbU uH7pevBfYkXhTrKDqOKtNXn0ZV1xZ7df5HYuZUDY5TGgvGiZ4LZpfwVN 3DHocPVgK9Sz8fpLAepkjAqjcyemfO3oHD3qCrUVmi9JJS4bZsscQs0a qyG4ToWoMFdj866A1ppxXzSZDlPrphPZ0nJlw8mRZNm9CBwiHK29TJrs 4kV87KLSQBdL9EN5MYpKnSz5T9wlfGg2aHlx9kBd58f1GIg/nvS3wRlk +Rs3PQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026093003 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261013200000 20260930190000 57780 . N0JYtWkv4J9JV4fDSBT3wNZgHT1Ju0OfWlq08KkaQ3mro1aBBrlpsZP6 4xUciCfesanMgBSGmcUAkfEbjRKikgDwSDNDBQhxB62jvST/QRW8jEs7 d0OOa/s/aHQzZTI0fiNcZHEqcEZT20pXrWlR8H83wDfUIhm56rSS1YX+ NizpCd2PGilKMG8NM3dn1mQ+vp6jkpt7zWbe7U7HXJb/uVOrdlfDRhvR s0rRFAVYqc16oWLnl1NvNGCN55UYOcaXpABw2jIO84HnNVXll1Vu7PyE Rd1v4nDiG/6FcVw2iDpXLUxNc3lpp6kUszuTTX/H9HtghHso3ygBQIck XdG8CA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261010000000 20260919000000 20326 . SeT2U+BKi7S4R7OPnQ0EBjS6DtsNPasISEAE3iOUQWl552IWiqHLBYkZ Oa5au73wjV5oH9vQleMBgtIQleByqX74kORDKMmx+EIhhDmiNOf9w33O qM4+s0Etem28QjqQ9e4QgsKI6N39HDMedL31iybJn6ghPcDT73IyzgTs 6mtyV+Lpu1ZqH1yXNNB34YsEzgquGDKU7QkAlQMupqKlZOhJC2pj4724 FzjrMXq68MYAitHMmfnrm2/iqP8i0jIrIQgIl4mVOO4VxMZEsQa+ESJW EBQJ3Fu3jLRII/xIEq1qXb8F87yhBvKhzuyLfQGaKttdkN9oudecqKuN ezNp0g==
-.					      86400 IN ZONEMD	2026093002 1 1 C9FCD1062C049E909C0A09955CCBC8EA62E4575104B7BA62AAEF5314 C1EE3BC4E3DE0CD8956AB0C3BE80A768F9E5489E
+.					      86400 IN ZONEMD	2026093003 1 1 394E05A7E3494DDA3FEE8BCD9D815361BAF347CEA4E9C42291652979 CB3852D467F3C9DF8DF901D213704BDE8CF2BDB2
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -9901,7 +9901,7 @@ jprs.					      172800 IN	NS	tld2.nic.jprs.
 jprs.					      172800 IN	NS	tld3.nic.jprs.
 jprs.					      172800 IN	NS	tld4.nic.jprs.
 jprs.					      172800 IN	NS	tld5.nic.jprs.
-jprs.					      86400 IN DS	1915 8 2 D2D8B07B59B3127E2890A593A1424CBA519989A20D39A1809B860314 A6BEC199
+jprs.					      86400 IN DS	48034 8 2 896272EA6DB699DC17FBC83162DC152805D97EBF53B763CE3E6FADD8 9BA71B00
 jprs.					      86400 IN NSEC	juegos. NS DS RRSIG NSEC
 tld1.nic.jprs.				      172800 IN	A	103.47.2.1
 tld1.nic.jprs.				      172800 IN	AAAA	2001:dda::1
@@ -9921,7 +9921,7 @@ juegos.					      172800 IN	NS	v2n0.nic.juegos.
 juegos.					      172800 IN	NS	v2n1.nic.juegos.
 juegos.					      86400 IN DS	18294 13 2 6B235E3B7B6A940829EA411A1AFB743C2FE1060B17AE32A00563EC9F 1A8D4381
 juegos.					      86400 IN DS	41009 13 2 328711FC334D2F50AF0E54CC25F153904D6644E6E1E9C571C26020F2 8A8552E7
-juegos.					      86400 IN NSEC	juniper. NS DS RRSIG NSEC
+juegos.					      86400 IN NSEC	kaufen. NS DS RRSIG NSEC
 v0n0.nic.juegos.			      172800 IN	A	65.22.36.1
 v0n0.nic.juegos.			      172800 IN	AAAA	2a01:8840:26::1
 v0n1.nic.juegos.			      172800 IN	A	65.22.37.1
@@ -9934,20 +9934,6 @@ v2n0.nic.juegos.			      172800 IN	A	65.22.39.1
 v2n0.nic.juegos.			      172800 IN	AAAA	2a01:8840:29::1
 v2n1.nic.juegos.			      172800 IN	A	161.232.19.1
 v2n1.nic.juegos.			      172800 IN	AAAA	2a01:8840:10f::1
-juniper.				      172800 IN	NS	a0.nic.juniper.
-juniper.				      172800 IN	NS	a2.nic.juniper.
-juniper.				      172800 IN	NS	b0.nic.juniper.
-juniper.				      172800 IN	NS	c0.nic.juniper.
-juniper.				      86400 IN DS	49897 8 2 AD81FDD4BF0E52FF057B63957A4EC39FAA26B560D26FFFD730A5B46C 92B55610
-juniper.				      86400 IN NSEC	kaufen. NS DS RRSIG NSEC
-a0.nic.juniper.				      172800 IN	A	65.22.112.52
-a0.nic.juniper.				      172800 IN	AAAA	2a01:8840:6e::52
-a2.nic.juniper.				      172800 IN	A	65.22.115.52
-a2.nic.juniper.				      172800 IN	AAAA	2a01:8840:71::52
-b0.nic.juniper.				      172800 IN	A	65.22.113.52
-b0.nic.juniper.				      172800 IN	AAAA	2a01:8840:6f::52
-c0.nic.juniper.				      172800 IN	A	65.22.114.52
-c0.nic.juniper.				      172800 IN	AAAA	2a01:8840:70::52
 kaufen.					      172800 IN	NS	v0n0.nic.kaufen.
 kaufen.					      172800 IN	NS	v0n1.nic.kaufen.
 kaufen.					      172800 IN	NS	v0n2.nic.kaufen.
