@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026100501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261018170000 20261005160000 8763 . bDzowjPMDKjgKmBkf5Zatd1rHieH/EDfGQ5EB4a89HV0s7Ydfnjav3hA r4qnbpk7x1C0XajK4CFg6ONLPNDhtCE198zKwznUcCLyEsjnwDucNaiu Ou0p/p+pgeF9JlAE5r+tKKWmbMBhTrxwQ+3bh76s5COakEfuW2SuQubk wXDNKbnVenr1cbu2joUT5HLwT4SOsody5WGT1mrFq+lCyEeiKBahBtvy LPDwSBt3GpdpIMAlv0DqxEmXpd9h2vm/Ui3pGEKq59arfJWNBJnn5OTb gQhMw/ZxHmiGdVCWhJG6WfAvwqC0Z7QGA8qYLGG2lTCn8es0sys1L8uX 5hNAlg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026100502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261018200000 20261005190000 8763 . XmQbK7DnQ83LbzjwtF4MM8X6IPTGlJxAUmIJKmnQC86xXwEeRo/F0Alv TQ8r0OJUhlq/dA61cWz3cloekHHax0hFlJA2LK7jTj9empkKL1GU11kX 6bHfmgxAVPD1YuDbMO/ZY3vpdNW7ShW4YC5kpNbGmv7lWf8zDro3Iss0 AjRK3jESmvOEBpx+enUpnC0/X7UGONI19wOIx7gji+7jtBJNUuodSkHG 9GMsUgoGRlgUHyMe/V3idKmbk0ug3KWAb0bAecxnSMbl0ECvjWXndlin 49xYW9OqXKMYg0nzec4cwees5Sh7QzCJV406sKdTM88tDgjUhRQEuZGv Ii1BRw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -19,7 +19,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261022000000 20261001000000 20326 . ARGOmBDyLkr5oQdR5OaIeoeBti1KWEX/LY/jZlRRXwF0f0eRZaljFpyV KFuZMzpafSYVs7eLOYjVyWJ3iENn4AEhvX9iaKmWu3XpSSV0D6bhv5D6 bk4GVPJ7NGTnA2lr4fC9lq9UD1kK1Q3jYJsxZSoQgjExDBfzwQUw1eYL LPPi7TQf+zA1wakHy2mkWnX1+bKDyrQ/p5ra4fgo/Pu7F47FXqRZEJ+K 9o/TwA+nJn3RMS6dPaS46ERBSWHIeJAzQvNQELI4pAbdVp3d3N33R2C5 MxX6kUzNku8CtyXGYukSi9LK9GT3nrH9O97tDADq01z78aPnjl+6hLTg Mkiupw==
-.					      86400 IN ZONEMD	2026100501 1 1 16D9B29CE738094544697130DA34273C084781D299820D353D613901 3B0857F0630E1C9969896B29AE6C74F52FA8EB46
+.					      86400 IN ZONEMD	2026100502 1 1 558BE5041901FF5AE1922D73ADC10DF63BEA967CFC7C89A3A555B365 FFA1E91F7BC37262921A77380A58B2F9536CEBF0
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4254,7 +4254,6 @@ ns1.ryce-rsp.com.			      172800 IN	AAAA	2a0c:8f40:0:701::111
 ns2.teleinfoo.com.			      172800 IN	A	103.61.61.1
 ns2.teleinfoo.com.			      172800 IN	AAAA	2402:7d80:8888::1
 ns4.teleinfoo.com.			      172800 IN	A	103.61.63.1
-ns2.tojikiston.com.			      172800 IN	A	193.111.11.4
 ns01.trs-dns.com.			      172800 IN	A	64.96.1.1
 ns01.trs-dns.com.			      172800 IN	AAAA	2620:57:4001::1
 dns1.u-registry.com.			      172800 IN	A	51.222.128.197
@@ -10193,7 +10192,6 @@ kpn.					      172800 IN	NS	a.nic.kpn.
 kpn.					      172800 IN	NS	b.nic.kpn.
 kpn.					      172800 IN	NS	c.nic.kpn.
 kpn.					      172800 IN	NS	d.nic.kpn.
-kpn.					      86400 IN DS	6010 7 2 E5A8E92B179784641C4FCB989BD6946EA85A03812039F5061922D181 5992FBC6
 kpn.					      86400 IN DS	17925 13 2 E83D7B33FD0AF60B6983C8C15830DE3B8F3C16C0B1A3163DD2368797 885A893B
 kpn.					      86400 IN NSEC	kr. NS DS RRSIG NSEC
 a.nic.kpn.				      172800 IN	A	194.169.218.90
@@ -12846,7 +12844,7 @@ sn.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::111
 sz.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.114
 sz.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::114
 tj.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.117
-tj.cctld.authdns.ripe.net.		      172800 IN	AAAA	2001:67c:e0::117
+tj.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::117
 ug.cctld.authdns.ripe.net.		      172800 IN	A	193.0.9.52
 ug.cctld.authdns.ripe.net.		      172800 IN	AAAA	2a13:27c0:30::52
 sec2.authdns.ripe.net.			      172800 IN	A	193.0.9.4
@@ -18216,7 +18214,6 @@ tirol.					      86400 IN DS	52354 8 2 C69A3D977E6DFBEB38EA5627C10CFBD818C97A111
 tirol.					      86400 IN NSEC	tj. NS DS RRSIG NSEC
 tj.					      172800 IN	NS	tj.cctld.authdns.ripe.net.
 tj.					      172800 IN	NS	ns1.nic.tj.
-tj.					      172800 IN	NS	ns2.tojikiston.com.
 tj.					      172800 IN	NS	phloem.uoregon.edu.
 tj.					      86400 IN NSEC	tjmaxx. NS RRSIG NSEC
 ns1.nic.tj.				      172800 IN	A	91.218.160.197
