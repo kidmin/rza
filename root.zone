@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026102201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261104170000 20261022160000 8763 . h1vVM8tZ3gq0lVy9vrzo6laFD7kBYwaZ5AbWI1pp3xilgb+pV3BL6hX4 GeBlpkImUpo08d2YftMobhR4AIislHONN2Tpj720DMeXzONgQcXsGqG9 12joN10UDvPbeM6bVcU9/NEP/ObdnYC80nOIby285ZpNWa3ITDe8wbjI i1Wizkhg9DrhRGLkqYTuB1C+klQVodrrCE/YexWdNm1QOj+I2It//sAs iCqp0jFQJOVYU1KfLRtB/FjmAQJ/qzzrZWcF5JJ9zkHliCsUMKMEv0NY H+imVjqqPEiyxf/n6He14VpycwEleFBDvRtCOkweXc2Bojp8uLxJC949 036WQg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026102202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261104180000 20261022170000 8763 . bCcpV4VcjDbAKgcCxHRIXLfbWWC2WwZoq7WDwH1a87AZAjrAGRY8JRnT zJE7a7yqdHIanazrn1UDu6I8S6qjExV8RHGh0yiICpON9tUQgBWtQ5rN TZAqYYUJ+/5x5mfUBN0qCkjFP6PsYurLpZ+YmFFWCFf6a4v9r71TOgUI 6g476q2wGGj7zrmraN3GT92CiGJk7AYjB+9geubugfydjdIwj8KYkdHC yKI84z8V0Dqmd2BDvBcW7AyFURhvU2KOEQYGaS6Dee1racCcCmHnq1+x k68C4olOKtrVrB3jt6vaykCKzzttJ61qHdXA5Q2bkBbATteE2iI1BPvo u63q6Q==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261111000000 20261021000000 38696 . VHYFWQzxvfICyEMAwDCqNJCoASexi9RUJqXLc8rsaEpX4x2J2YkgxJzM HN1HsXXmnLC7eqbdERKWI5wm/KzoFhDzY4F4TZB91tzN3gTDdDlIWvJi 2GeUxfWj5MK/FalRoE9QX8EMjkVJPjqbxoeJ7yog7Yy+3z5vo4e+Oeqc PHniyc90+cxo6fE6nLeFIQxicSrEBLkPMX7jA2ipXynVxJepQT/Qkzos 7HL0N1xeHR3z3nfeH2JyFKz9moc6fSb4x0gDf9cbnFNJ5vbIttuxCEMc C4oWa/HNHPYeYHKKaLJ040QmaQGBJG59X77u0+FznsPxHLOdUjTQ9Ab4 UvTYIA==
-.					      86400 IN ZONEMD	2026102201 1 1 7466D707B20042C0ADFD4BDD07A5EE960C3BA9108FF45D6D2529E7E1 B23C37A8668E51A7E9DCE5554E39EA80DE384E00
+.					      86400 IN ZONEMD	2026102202 1 1 E7A0792AA0EBD139DFA6D9029891FDD5FE3E58E95BE78FEA9D653D9B 66FEAD7041FE1FE2C095D7D8F4BC2DEE2911594B
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -2219,7 +2219,6 @@ biz.					      172800 IN	NS	n.gtld.biz.
 biz.					      172800 IN	NS	w.gtld.biz.
 biz.					      172800 IN	NS	x.gtld.biz.
 biz.					      172800 IN	NS	y.gtld.biz.
-biz.					      86400 IN DS	11044 8 2 E41AF415E6CD0727C2924D6E60B896FB9C6D81831AC90C9DCA4C2249 7701AB1A
 biz.					      86400 IN DS	13117 13 2 74C0BAFE1D26F609B60FEA8EC763FB74B0DD1DD56E34B4425D2BA6F7 E134E1B3
 biz.					      86400 IN NSEC	bj. NS DS RRSIG NSEC
 ns1.asnic.biz.				      172800 IN	A	213.248.219.254
@@ -4059,7 +4058,6 @@ club.					      172800 IN	NS	ns1.dns.nic.club.
 club.					      172800 IN	NS	ns2.dns.nic.club.
 club.					      172800 IN	NS	ns3.dns.nic.club.
 club.					      86400 IN DS	679 13 2 D7D62BE1BF452822B21B89B655E98CD50A75BB23B0F072A2846A0C11 0DD1A2FD
-club.					      86400 IN DS	54682 8 2 4FC0DBB4F04BE413BA1C0B1E92F4C5F0CCEBF7856370E20671AF6417 499DB258
 club.					      86400 IN NSEC	clubmed. NS DS RRSIG NSEC
 a.nic.club.				      172800 IN	A	37.209.192.10
 a.nic.club.				      172800 IN	AAAA	2001:dcd:1::10
@@ -5842,7 +5840,6 @@ edu.					      86400 IN DS	35663 13 2 A2E1614291831A4746B5AC52B4B345357687271E85
 edu.					      86400 IN NSEC	education. NS DS RRSIG NSEC
 pendragon.cs.purdue.edu.		      172800 IN	A	128.10.2.5
 gold.uog.edu.				      172800 IN	A	168.123.250.66
-gold-test.uog.edu.			      172800 IN	A	168.123.250.70
 green.uog.edu.				      172800 IN	A	168.123.250.56
 phloem.uoregon.edu.			      172800 IN	A	128.223.32.35
 phloem.uoregon.edu.			      172800 IN	AAAA	2001:468:d01:20::80df:2023
@@ -8163,7 +8160,6 @@ gu.					      172800 IN	NS	gu.cctld.authdns.ripe.net.
 gu.					      172800 IN	NS	gold.uog.edu.
 gu.					      172800 IN	NS	green.uog.edu.
 gu.					      172800 IN	NS	phloem.uoregon.edu.
-gu.					      172800 IN	NS	gold-test.uog.edu.
 gu.					      86400 IN NSEC	gucci. NS RRSIG NSEC
 gucci.					      172800 IN	NS	dns1.nic.gucci.
 gucci.					      172800 IN	NS	dns2.nic.gucci.
@@ -9459,6 +9455,7 @@ io.					      172800 IN	NS	a0.nic.io.
 io.					      172800 IN	NS	a2.nic.io.
 io.					      172800 IN	NS	b0.nic.io.
 io.					      172800 IN	NS	c0.nic.io.
+io.					      86400 IN DS	38690 8 2 CBBD98BAEBCB9D11549EAC108A886477BCDA920203171AF252FA3922 44AA3A1B
 io.					      86400 IN DS	57355 8 2 95A57C3BAB7849DBCDDF7C72ADA71A88146B141110318CA5BE672057 E865C3E2
 io.					      86400 IN NSEC	ipiranga. NS DS RRSIG NSEC
 xn--node.ns.cloudhosted.io.		      172800 IN	A	188.93.94.2
@@ -19165,6 +19162,7 @@ vc.					      172800 IN	NS	b0.cctld.afilias-nst.org.
 vc.					      172800 IN	NS	b2.cctld.afilias-nst.org.
 vc.					      172800 IN	NS	c0.cctld.afilias-nst.info.
 vc.					      172800 IN	NS	d0.cctld.afilias-nst.org.
+vc.					      86400 IN DS	40792 8 2 44DD3A9AAF598DB49A9A5C23CA7C9B7E3F1FC2B8A5AEB364E8CA0E44 1F75F9A5
 vc.					      86400 IN DS	54391 8 2 8E38107261B61499F2E57A72E762EF501798A0462CB69E6AFCC9C4A2 539E6BFF
 vc.					      86400 IN NSEC	ve. NS DS RRSIG NSEC
 ve.					      172800 IN	NS	a.lactld.org.
@@ -19387,7 +19385,6 @@ vip.					      172800 IN	NS	c.nic.vip.
 vip.					      172800 IN	NS	x.nic.vip.
 vip.					      172800 IN	NS	y.nic.vip.
 vip.					      172800 IN	NS	z.nic.vip.
-vip.					      86400 IN DS	34207 8 2 DB3E27D9A9BF7BA3AD1E2A45D5D2B10486670711BE8D81F1487B0191 2F06A47A
 vip.					      86400 IN DS	61573 13 2 F12878D94EE0E2A63712233D293F1001B3B173E08F79D12193DEED31 C4F2E9A4
 vip.					      86400 IN NSEC	virgin. NS DS RRSIG NSEC
 a.nic.vip.				      172800 IN	A	37.209.192.10
