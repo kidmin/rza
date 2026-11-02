@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026110201 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261115170000 20261102160000 8763 . bXNX6TdaSFCoS6qpbNM56fJymjLONf+zhQYptX6uDEbqNlWom50oPeEn TIyd7tbOmDqZsYr+QqsyhPoFDLrr088hzSp8S49x3FKpQNvblcO1b4ru HyYZdBoHMmESE6U/9Hwmu2bekQtwWWdhepmHsCQSv81Gttc5Rs35RSR7 RBH91pQiVfNBrGTqtwD0N+owjT23goiwVHMR6bxFcU9K6IjZxCBvH9AB Wfs/xbeOIh5/SzpZrSwxtz9fLsoICLh9LHgGZ4YyLeL+f81AyPKQr5ET pWo4bMamMFijHRQDSoLbHwZP5IYbCH7cysm8XiFXnAL3Q4KLaZQFlOid AN2XwQ==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026110202 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261115210000 20261102200000 8763 . CHdfJ4L/mNM/kx/tb9g9wWYH9OForltXWOfUUB1Rlpn/gXoPFzexFNyB v8KSTc0vBse1KSFqQf8ZNk/ufuDfO9/DiS531v1fq0L74Pdw3/SWqSw2 MUJ4JY3WsCF1T3vEMn+X659Ykju9etyIIuHcFKuHsS7ML6DFaCryLbrr w6RhWq7HTrQAIohqf/QYBdtGIaxsx365JDbDBwxZhYILASaX0IGhcath w1i4JyaKEbKrBBwZIcs6hMC9OaaMvgq1fYxp8tu0rCTr1Glg02OC0P4B bgtBQPXEz9mq+Creixh6eI++jytXXfohZChozYOPpDmyUjfKxu02CdhQ xfOfXw==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261121000000 20261031000000 38696 . UFkJYhexq5ZgfvP+oIz2WUJQgF8bhW8st3LnXtIBP0eRcSQXrYg7+lux wQYg+3iiZV2+BJPcNmf/pDu+uNPaplkHPJLXh9WS0oEVZKUNk/0wk3A0 XL5UOSTdPWn/IoTWWxyGxun+udV7eRQqVpRvSdlBFaqPWSDIDkX0QQIf ye72TB4tsPBnA2iWDye6U157EcPBdNeKv4cfh1cAOlePIaxLs1NoNHIu /ZrqEY5zM+GNJ4Z72Tba09jYjz3ayBSPVinI64OYOORqZsYtuLXUrBdD 6UWfV8Ljf3b0MGfBs7BoZYAJxVyNr5CQF13CLw+4xrbMsmQWdTBqzp5i EtB9VA==
-.					      86400 IN ZONEMD	2026110201 1 1 CB5B708F4DA097350E465BB2A6F59275E2558E994CFC05C34648B212 F9247265279B4791822F5CA8918D4EBB706C4580
+.					      86400 IN ZONEMD	2026110202 1 1 9510E618F694661D31B648C9825413FDA0FAC36A2426FE938006F6C5 72FFF77AAF1B79834CCEA37312277B866D1E6E07
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -4215,14 +4215,6 @@ c.mynic.centralnic-dns.com.		      172800 IN	A	212.18.248.114
 c.mynic.centralnic-dns.com.		      172800 IN	AAAA	2a04:2b00:13ee::114
 d.mynic.centralnic-dns.com.		      172800 IN	A	212.18.249.114
 d.mynic.centralnic-dns.com.		      172800 IN	AAAA	2a04:2b00:13ff::114
-a.xn--q7ce6a.centralnic-dns.com.	      172800 IN	A	194.169.218.17
-a.xn--q7ce6a.centralnic-dns.com.	      172800 IN	AAAA	2001:67c:13cc::1:17
-b.xn--q7ce6a.centralnic-dns.com.	      172800 IN	A	185.24.64.17
-b.xn--q7ce6a.centralnic-dns.com.	      172800 IN	AAAA	2a04:2b00:13cc::1:17
-c.xn--q7ce6a.centralnic-dns.com.	      172800 IN	A	212.18.248.17
-c.xn--q7ce6a.centralnic-dns.com.	      172800 IN	AAAA	2a04:2b00:13ee::17
-d.xn--q7ce6a.centralnic-dns.com.	      172800 IN	A	212.18.249.17
-d.xn--q7ce6a.centralnic-dns.com.	      172800 IN	AAAA	2a04:2b00:13ff::17
 ns-tld1.charlestonroadregistry.com.	      172800 IN	A	216.239.32.105
 ns-tld1.charlestonroadregistry.com.	      172800 IN	AAAA	2001:4860:4802:32::69
 ns-tld2.charlestonroadregistry.com.	      172800 IN	A	216.239.34.105
@@ -10400,10 +10392,6 @@ ns1.nic.kz.				      172800 IN	A	185.79.212.7
 ns1.nic.kz.				      172800 IN	AAAA	2a01:7640:9000::7
 ns2.nic.kz.				      172800 IN	A	204.61.216.143
 ns2.nic.kz.				      172800 IN	AAAA	2001:500:14:6143:ad::1
-la.					      172800 IN	NS	ns1.nic.la.
-la.					      172800 IN	NS	ns2.nic.la.
-la.					      172800 IN	NS	ns3.nic.la.
-la.					      172800 IN	NS	ns4.nic.la.
 la.					      172800 IN	NS	ns01.trs-dns.com.
 la.					      172800 IN	NS	ns01.trs-dns.net.
 la.					      172800 IN	NS	ns10.trs-dns.org.
@@ -10412,14 +10400,6 @@ la.					      86400 IN DS	25164 7 2 1217C71860E555F30E3F6E241E613F1CCA5543DD54BF
 la.					      86400 IN DS	42973 7 1 1F0CEFA420E9101BB5791F3AB93E85917A72978B
 la.					      86400 IN DS	42973 7 2 E7D0C3BCDF60E8D842E882D90B4EC263C8889B760098492C798841C1 3B4EA13F
 la.					      86400 IN NSEC	lacaixa. NS DS RRSIG NSEC
-ns1.nic.la.				      172800 IN	A	185.24.64.15
-ns1.nic.la.				      172800 IN	AAAA	2a04:2b00:13cc::1:15
-ns2.nic.la.				      172800 IN	A	194.169.218.14
-ns2.nic.la.				      172800 IN	AAAA	2001:67c:13cc::1:14
-ns3.nic.la.				      172800 IN	A	185.24.64.14
-ns3.nic.la.				      172800 IN	AAAA	2a04:2b00:13cc::1:14
-ns4.nic.la.				      172800 IN	A	194.169.218.15
-ns4.nic.la.				      172800 IN	AAAA	2001:67c:13cc::1:15
 lacaixa.				      172800 IN	NS	anycast9.irondns.net.
 lacaixa.				      172800 IN	NS	anycast10.irondns.net.
 lacaixa.				      172800 IN	NS	anycast23.irondns.net.
@@ -21614,10 +21594,6 @@ xn--pssy2u.				      172800 IN	NS	ac3.nstld.com.
 xn--pssy2u.				      172800 IN	NS	ac4.nstld.com.
 xn--pssy2u.				      86400 IN DS	6014 13 2 29CD1B30D078FB49171FCB0D6CE2C4C612A9F948891DE03C0382ABDE 173C00AC
 xn--pssy2u.				      86400 IN NSEC	xn--q7ce6a. NS DS RRSIG NSEC
-xn--q7ce6a.				      172800 IN	NS	a.xn--q7ce6a.centralnic-dns.com.
-xn--q7ce6a.				      172800 IN	NS	b.xn--q7ce6a.centralnic-dns.com.
-xn--q7ce6a.				      172800 IN	NS	c.xn--q7ce6a.centralnic-dns.com.
-xn--q7ce6a.				      172800 IN	NS	d.xn--q7ce6a.centralnic-dns.com.
 xn--q7ce6a.				      172800 IN	NS	ns01.trs-dns.com.
 xn--q7ce6a.				      172800 IN	NS	ns01.trs-dns.net.
 xn--q7ce6a.				      172800 IN	NS	ns10.trs-dns.org.
