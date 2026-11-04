@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026110401 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261117170000 20261104160000 8763 . JsKv5vT5XDWb1PJRi248LrFg9PzH/AsbW1iuGlQ1Gttpb3mugI9aBo9A DjddDka7FKAELykIwnQYSgKWAp36mvgTylzyGyCRUthI3Seb/lzCxmoK vT4qE2H7Qe588gDPD65LkdZIrGsysK5kQ5gKbhiq4XOTQQlYGwStyN92 4rqdziKQJtj32wuBA2H/aL9jfrPqiwY7wKzEz4mKdWrBZRaZ4oBtD0mW r36pXeY+7VFtsumfvIVnBOr3MYQfFvRsYtVE8RNjGg1isKo1ViR08bMD qtBCGtAAVAGYlfgM5AcVbl+9OBOK9cpeSY9mXqQvbUHbJ2sJ5U0FGv+v Sgrfng==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026110402 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261117220000 20261104210000 8763 . ZDTjw1N/TuHfPdcr8qLUEBw2rMePcVAOoj2jAlitowLJ6zM/enSxmL9E mLZkl3VGmxpUsZmUIq/lEwAHmR8B9hONFw5tFlkQiKqNJQfr6SJiS0uS ZSMbor/yxKInHumo8BB4qvWwAOAOCieT9Qp3j5SYgaVXwlBXdjF9vNQ+ htxFP1h2tMTNb/onwYzCLmHs10j0OrLGetV074aG/c2RgMNVMNb1xnCC ereqhbp5f2vLkl6Ns/HQWhpSpt0X1mFGO9jZB9M0QxBOfwf9LQtw8qUb a+mVaK4Eo6nK5Fe2M2VX2UDoPNJXinqRz2p1X9OeHZZPm10cGuwxMO76 ZDTdDA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261121000000 20261031000000 38696 . UFkJYhexq5ZgfvP+oIz2WUJQgF8bhW8st3LnXtIBP0eRcSQXrYg7+lux wQYg+3iiZV2+BJPcNmf/pDu+uNPaplkHPJLXh9WS0oEVZKUNk/0wk3A0 XL5UOSTdPWn/IoTWWxyGxun+udV7eRQqVpRvSdlBFaqPWSDIDkX0QQIf ye72TB4tsPBnA2iWDye6U157EcPBdNeKv4cfh1cAOlePIaxLs1NoNHIu /ZrqEY5zM+GNJ4Z72Tba09jYjz3ayBSPVinI64OYOORqZsYtuLXUrBdD 6UWfV8Ljf3b0MGfBs7BoZYAJxVyNr5CQF13CLw+4xrbMsmQWdTBqzp5i EtB9VA==
-.					      86400 IN ZONEMD	2026110401 1 1 7A066905ED7C935761B1CA76A1392DC71608CC0032E4390686CE45DE 0A087D2F84040E0C926F1C139745013AE1F54923
+.					      86400 IN ZONEMD	2026110402 1 1 52D224056BDA3C7FED2AF75CFCCF43BFF1AAFFCFC421707B79E34232 5E856FE9A7858832D35CD8BE58426541AAF32201
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -657,7 +657,6 @@ allstate.				      172800 IN	NS	a2.nic.allstate.
 allstate.				      172800 IN	NS	b0.nic.allstate.
 allstate.				      172800 IN	NS	c0.nic.allstate.
 allstate.				      86400 IN DS	32644 8 2 509B2D4E14D3826CFBCB642EF0A8929F18A3C3D740B06887C68CB718 65E7EF41
-allstate.				      86400 IN DS	47509 8 2 101757B35BFEC8D399987D94B495B60ACC0DA525CF92D900C7566BCE 6ECF9356
 allstate.				      86400 IN NSEC	ally. NS DS RRSIG NSEC
 a0.nic.allstate.			      172800 IN	A	65.22.48.9
 a0.nic.allstate.			      172800 IN	AAAA	2a01:8840:2e::9
@@ -1147,7 +1146,6 @@ asia.					      172800 IN	NS	b0.asia.afilias-nst.asia.
 asia.					      172800 IN	NS	b2.asia.afilias-nst.org.
 asia.					      172800 IN	NS	c0.asia.afilias-nst.info.
 asia.					      172800 IN	NS	d0.asia.afilias-nst.asia.
-asia.					      86400 IN DS	23407 8 2 0F51A4E5EF96B66C2078F7735B41860C83DA0746DDDA1A1B2B893AB0 56B3058C
 asia.					      86400 IN DS	26329 8 2 AAA6D02A319A94FC6AA902C3C2A91CB4AD8AFFD5AEB0EE7C328D9F1E D970645B
 asia.					      86400 IN NSEC	associates. NS DS RRSIG NSEC
 b0.asia.afilias-nst.asia.		      172800 IN	A	199.254.28.1
@@ -2359,7 +2357,6 @@ bnpparibas.				      172800 IN	NS	a2.nic.bnpparibas.
 bnpparibas.				      172800 IN	NS	b0.nic.bnpparibas.
 bnpparibas.				      172800 IN	NS	c0.nic.bnpparibas.
 bnpparibas.				      86400 IN DS	49954 8 2 D1C7008702179D66482469A26710728F03EE94C0BED46A09FA3D92CE CA42ADAD
-bnpparibas.				      86400 IN DS	51937 8 2 84170B93B26C6D2041AE501A63ED72AAD0FE327B139C21ED23329717 F1DD2034
 bnpparibas.				      86400 IN NSEC	bo. NS DS RRSIG NSEC
 a0.nic.bnpparibas.			      172800 IN	A	65.22.64.9
 a0.nic.bnpparibas.			      172800 IN	AAAA	2a01:8840:3e::9
@@ -3589,6 +3586,7 @@ charity.				      172800 IN	NS	v0n2.nic.charity.
 charity.				      172800 IN	NS	v0n3.nic.charity.
 charity.				      172800 IN	NS	v2n0.nic.charity.
 charity.				      172800 IN	NS	v2n1.nic.charity.
+charity.				      86400 IN DS	41827 8 2 3874CE1BE6EE0936E732A9930D24270167B1B7CA735C154F32ABDC6D 5D5C2549
 charity.				      86400 IN DS	52489 8 2 FA42C0A07830A438C791E59D07B39121B72564A6B0AF5EB4F2235E5D 16D656F7
 charity.				      86400 IN NSEC	chase. NS DS RRSIG NSEC
 v0n0.nic.charity.			      172800 IN	A	65.22.20.61
@@ -4706,7 +4704,6 @@ crs.					      172800 IN	NS	a2.nic.crs.
 crs.					      172800 IN	NS	b0.nic.crs.
 crs.					      172800 IN	NS	c0.nic.crs.
 crs.					      86400 IN DS	61096 8 2 F243E85BC4B3FE5402E92E783FAD3E872C14211DDE3BB9AB95D67019 AE420BB2
-crs.					      86400 IN DS	63622 8 2 D1647F1F8B7A8508B81F1D822C27581B628F7351EE8D99B8DC32A2BD 802E0C37
 crs.					      86400 IN NSEC	cruise. NS DS RRSIG NSEC
 a0.nic.crs.				      172800 IN	A	65.22.112.25
 a0.nic.crs.				      172800 IN	AAAA	2a01:8840:6e::25
@@ -4721,7 +4718,6 @@ cruise.					      172800 IN	NS	a2.nic.cruise.
 cruise.					      172800 IN	NS	b0.nic.cruise.
 cruise.					      172800 IN	NS	c0.nic.cruise.
 cruise.					      86400 IN DS	3641 8 2 EF438C3048B9CFA0EA62050C514D7FEBF9702474E506F4998FBAD5BE 5C2DCFD4
-cruise.					      86400 IN DS	33220 8 2 254D748F9E700BD632010EEFFE96CC5A1DFEF5B4A85A18A1AB4962EA 81F9937F
 cruise.					      86400 IN NSEC	cruises. NS DS RRSIG NSEC
 a0.nic.cruise.				      172800 IN	A	65.22.192.25
 a0.nic.cruise.				      172800 IN	AAAA	2a01:8840:ba::25
@@ -5958,7 +5954,6 @@ ericsson.				      172800 IN	NS	a2.nic.ericsson.
 ericsson.				      172800 IN	NS	b0.nic.ericsson.
 ericsson.				      172800 IN	NS	c0.nic.ericsson.
 ericsson.				      86400 IN DS	31951 8 2 72C514F81093DDD964BA3100C5F32B032FE2D2B1D57557A4FC771919 5A4BDECF
-ericsson.				      86400 IN DS	47419 8 2 936161632EA5611634BAD358155FA6B976A34BC812178605E9700890 412EDA71
 ericsson.				      86400 IN NSEC	erni. NS DS RRSIG NSEC
 a0.nic.ericsson.			      172800 IN	A	65.22.56.33
 a0.nic.ericsson.			      172800 IN	AAAA	2a01:8840:36::33
@@ -6989,6 +6984,7 @@ foundation.				      172800 IN	NS	v0n2.nic.foundation.
 foundation.				      172800 IN	NS	v0n3.nic.foundation.
 foundation.				      172800 IN	NS	v2n0.nic.foundation.
 foundation.				      172800 IN	NS	v2n1.nic.foundation.
+foundation.				      86400 IN DS	30514 8 2 7A15A6B19F38D1DF8348EC94655BA751519B93CCDF3A2C80C4120257 493CAF8B
 foundation.				      86400 IN DS	50359 8 2 B440325C92CAB8D16072F62301B71032691FD4C5D46ED01278CF945B 0F8E360B
 foundation.				      86400 IN NSEC	fox. NS DS RRSIG NSEC
 v0n0.nic.foundation.			      172800 IN	A	65.22.24.43
@@ -7119,6 +7115,7 @@ frogans.				      172800 IN	NS	a0.nic.frogans.
 frogans.				      172800 IN	NS	a2.nic.frogans.
 frogans.				      172800 IN	NS	b0.nic.frogans.
 frogans.				      172800 IN	NS	c0.nic.frogans.
+frogans.				      86400 IN DS	4544 8 2 0D4D981D3A0192AAA38C6CB79200802982E8E1E193FBCE05166DE630 F6A3E824
 frogans.				      86400 IN DS	44230 8 2 50F935219610318D526521F0E31C70705B462BDE2C9FDBA142969B27 207B3B7F
 frogans.				      86400 IN NSEC	frontier. NS DS RRSIG NSEC
 a0.nic.frogans.				      172800 IN	A	65.22.188.1
@@ -7568,7 +7565,6 @@ gi.					      172800 IN	NS	b0.cctld.afilias-nst.org.
 gi.					      172800 IN	NS	b2.cctld.afilias-nst.org.
 gi.					      172800 IN	NS	c0.cctld.afilias-nst.info.
 gi.					      172800 IN	NS	d0.cctld.afilias-nst.org.
-gi.					      86400 IN DS	33934 8 2 3DB5809DE2E1052B00E010F54B404BD59CB5CBA0C8306E1799623BDA 45A1CFB7
 gi.					      86400 IN DS	43210 8 2 6AC163805AFBDCE5DF0254AACB4B2E30C5CD3D976A1B388A757C4367 A9C0D9FD
 gi.					      86400 IN NSEC	gift. NS DS RRSIG NSEC
 gift.					      172800 IN	NS	ns01.trs-dns.com.
@@ -7604,6 +7600,7 @@ gives.					      172800 IN	NS	v0n2.nic.gives.
 gives.					      172800 IN	NS	v0n3.nic.gives.
 gives.					      172800 IN	NS	v2n0.nic.gives.
 gives.					      172800 IN	NS	v2n1.nic.gives.
+gives.					      86400 IN DS	45025 8 2 BDD0AF2BE18704D31FC4A721C1059E5ACA8ADD7FBD5C16F341C8A3FD 49E8FDF6
 gives.					      86400 IN DS	51526 8 2 D1DD06D869102253FE38E8F665571B0F10A7F2C24AD4A92C10C47503 919A6E1D
 gives.					      86400 IN NSEC	giving. NS DS RRSIG NSEC
 v0n0.nic.gives.				      172800 IN	A	65.22.32.61
@@ -7625,6 +7622,7 @@ giving.					      172800 IN	NS	b2.nic.giving.
 giving.					      172800 IN	NS	c0.nic.giving.
 giving.					      172800 IN	NS	d0.nic.giving.
 giving.					      86400 IN DS	42049 8 2 51655C1EDBA06B3C2329578ADE539D446169F70F06ADFD536C0EF7B3 15506A1F
+giving.					      86400 IN DS	57566 8 2 93A826531A806E8B1B463253B8FD43E90455E8179A574729A50E1CDE E75D697C
 giving.					      86400 IN NSEC	gl. NS DS RRSIG NSEC
 a0.nic.giving.				      172800 IN	A	199.19.56.1
 a0.nic.giving.				      172800 IN	AAAA	2001:500:e::1
@@ -9238,12 +9236,8 @@ a2.mobi.afilias-nst.info.		      172800 IN	A	199.249.118.1
 a2.mobi.afilias-nst.info.		      172800 IN	AAAA	2001:500:46::1
 c0.mobi.afilias-nst.info.		      172800 IN	A	199.254.57.1
 c0.mobi.afilias-nst.info.		      172800 IN	AAAA	2001:500:23::1
-a0.org.afilias-nst.info.		      172800 IN	A	199.19.56.1
-a0.org.afilias-nst.info.		      172800 IN	AAAA	2001:500:e::1
 a2.org.afilias-nst.info.		      172800 IN	A	199.249.112.1
 a2.org.afilias-nst.info.		      172800 IN	AAAA	2001:500:40::1
-c0.org.afilias-nst.info.		      172800 IN	A	199.19.53.1
-c0.org.afilias-nst.info.		      172800 IN	AAAA	2001:500:b::1
 a0.pr.afilias-nst.info.			      172800 IN	A	199.254.59.17
 a0.pr.afilias-nst.info.			      172800 IN	AAAA	2001:500:25::17
 a2.pr.afilias-nst.info.			      172800 IN	A	199.249.116.17
@@ -13166,6 +13160,7 @@ ngo.					      172800 IN	NS	b0.nic.ngo.
 ngo.					      172800 IN	NS	b2.nic.ngo.
 ngo.					      172800 IN	NS	c0.nic.ngo.
 ngo.					      172800 IN	NS	d0.nic.ngo.
+ngo.					      86400 IN DS	4621 8 2 8AC7CFE59B9915B7A9A0F16263371C51A373FAE6DE928D51958EFBE2 3F618055
 ngo.					      86400 IN DS	23944 8 2 DFEC23291372BA32BC2BDE96F88A383373BE1C4BA7BCDB65D5E34F16 07400F63
 ngo.					      86400 IN NSEC	nhk. NS DS RRSIG NSEC
 a0.nic.ngo.				      172800 IN	A	199.19.56.1
@@ -13704,6 +13699,7 @@ ong.					      172800 IN	NS	b0.nic.ong.
 ong.					      172800 IN	NS	b2.nic.ong.
 ong.					      172800 IN	NS	c0.nic.ong.
 ong.					      172800 IN	NS	d0.nic.ong.
+ong.					      86400 IN DS	16340 8 2 AEA01E8348E72F6345A8CE1453F4D64BD5B0154AE059B63A205EDE26 86B98A22
 ong.					      86400 IN DS	45685 8 2 535CBA6CFB082FFCCE6584C2958DCBDF706A21DE784096A2738B3ACD 8D643032
 ong.					      86400 IN NSEC	onl. NS DS RRSIG NSEC
 a0.nic.ong.				      172800 IN	A	199.19.56.1
@@ -13808,12 +13804,13 @@ v2n0.nic.orange.			      172800 IN	A	65.22.111.16
 v2n0.nic.orange.			      172800 IN	AAAA	2a01:8840:6d::16
 v2n1.nic.orange.			      172800 IN	A	161.232.33.16
 v2n1.nic.orange.			      172800 IN	AAAA	2a01:8840:109::16
-org.					      172800 IN	NS	a0.org.afilias-nst.info.
 org.					      172800 IN	NS	a2.org.afilias-nst.info.
-org.					      172800 IN	NS	b0.org.afilias-nst.org.
 org.					      172800 IN	NS	b2.org.afilias-nst.org.
-org.					      172800 IN	NS	c0.org.afilias-nst.info.
 org.					      172800 IN	NS	d0.org.afilias-nst.org.
+org.					      172800 IN	NS	v0n0.pir-ns.org.
+org.					      172800 IN	NS	v0n1.pir-ns.org.
+org.					      172800 IN	NS	v0n2.pir-ns.org.
+org.					      86400 IN DS	725 8 2 EB3881030D9D34BB7BC40DDC5A198E7C830804C03FB6AA982592946D EB27BEBE
 org.					      86400 IN DS	26974 8 2 4FEDE294C53F438A158C41D39489CD78A86BEB0D8A0AEAFF14745C0D 16E1DE32
 org.					      86400 IN NSEC	organic. NS DS RRSIG NSEC
 b2.asia.afilias-nst.org.		      172800 IN	A	199.249.122.1
@@ -13842,8 +13839,6 @@ b2.mobi.afilias-nst.org.		      172800 IN	A	199.249.126.1
 b2.mobi.afilias-nst.org.		      172800 IN	AAAA	2001:500:4e::1
 d0.mobi.afilias-nst.org.		      172800 IN	A	199.254.58.1
 d0.mobi.afilias-nst.org.		      172800 IN	AAAA	2001:500:24::1
-b0.org.afilias-nst.org.			      172800 IN	A	199.19.54.1
-b0.org.afilias-nst.org.			      172800 IN	AAAA	2001:500:c::1
 b2.org.afilias-nst.org.			      172800 IN	A	199.249.120.1
 b2.org.afilias-nst.org.			      172800 IN	AAAA	2001:500:48::1
 d0.org.afilias-nst.org.			      172800 IN	A	199.19.57.1
@@ -13870,6 +13865,12 @@ ns.icann.org.				      172800 IN	A	199.4.138.53
 ns.icann.org.				      172800 IN	AAAA	2001:500:89::53
 a.lactld.org.				      172800 IN	A	200.0.68.10
 a.lactld.org.				      172800 IN	AAAA	2801:14:a000::10
+v0n0.pir-ns.org.			      172800 IN	A	199.19.56.1
+v0n0.pir-ns.org.			      172800 IN	AAAA	2001:500:e::1
+v0n1.pir-ns.org.			      172800 IN	A	199.19.54.1
+v0n1.pir-ns.org.			      172800 IN	AAAA	2001:500:c::1
+v0n2.pir-ns.org.			      172800 IN	A	199.19.53.1
+v0n2.pir-ns.org.			      172800 IN	AAAA	2001:500:b::1
 ns10.trs-dns.org.			      172800 IN	A	64.78.205.1
 ns10.trs-dns.org.			      172800 IN	AAAA	2620:171:813:1534:8::1
 organic.				      172800 IN	NS	a0.nic.organic.
@@ -19177,7 +19178,6 @@ vc.					      172800 IN	NS	b2.cctld.afilias-nst.org.
 vc.					      172800 IN	NS	c0.cctld.afilias-nst.info.
 vc.					      172800 IN	NS	d0.cctld.afilias-nst.org.
 vc.					      86400 IN DS	40792 8 2 44DD3A9AAF598DB49A9A5C23CA7C9B7E3F1FC2B8A5AEB364E8CA0E44 1F75F9A5
-vc.					      86400 IN DS	54391 8 2 8E38107261B61499F2E57A72E762EF501798A0462CB69E6AFCC9C4A2 539E6BFF
 vc.					      86400 IN NSEC	ve. NS DS RRSIG NSEC
 ve.					      172800 IN	NS	a.lactld.org.
 ve.					      172800 IN	NS	ns3.nic.ve.
