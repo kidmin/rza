@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026110501 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261118170000 20261105160000 8763 . aURkHv3umQu7OWTTA1N7scJqjkiRAcKMPF5+dnhZsrldCVebCCy1C46B 27OLln29gxrQjPi7fbT24BJvleOrbI7PT5CNlICdtKJQcqVtWaaz/PKz qNQ4vDX801zgC54dZnzggr2WoBqeayaY3bWhzN8movTLHVKpanju/2uV /KGUjS59aRj7+UWSueYPE8DB4i0+ePOYV9ujYs0r9YbrRZf1E2a8pAA6 XqZt0EWJLgRxewJ0ySsnC+pkNbd7+z99PL/Ri3WUfYACrQVgG+55ktPf VbFeyX2AEZT7xJlAqXFfgJbgBnG25mA+Bh5p7VuMt21CBB3oNLbiG0O9 15Mjlg==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026110502 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261118220000 20261105210000 8763 . nTQi2j0SZbbTxXjAeiM1CHR2i+YbKhVdrMO6Cfp3PNNYGBG/9XjR99Pk XKW+e70Q+fudh4o4sNy/zzMcMc0Qh5Oove1MD1CJjOJBvm7yAnmPTCNs NudzAboSPstdN3Cx8biBCRs5mDbre6pQsWyVfWZH6gMtsMfYoGeIc3DE p/bPZpzXHbHvSu43Fm9atrAQpMJEx74mc6YeXj10gXeezcNugRMWSNVP VC7mrVqb7Dlf5+ABA45oiccCO6froAYhoPnFnriKTMEUApo1VJOJLVt1 imQNyGQM5jpyB5RNiew8ymvGRGpvJGMLRW8jVzLEUjPhY3ngvmSFYiOY 0ze2oQ==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261121000000 20261031000000 38696 . UFkJYhexq5ZgfvP+oIz2WUJQgF8bhW8st3LnXtIBP0eRcSQXrYg7+lux wQYg+3iiZV2+BJPcNmf/pDu+uNPaplkHPJLXh9WS0oEVZKUNk/0wk3A0 XL5UOSTdPWn/IoTWWxyGxun+udV7eRQqVpRvSdlBFaqPWSDIDkX0QQIf ye72TB4tsPBnA2iWDye6U157EcPBdNeKv4cfh1cAOlePIaxLs1NoNHIu /ZrqEY5zM+GNJ4Z72Tba09jYjz3ayBSPVinI64OYOORqZsYtuLXUrBdD 6UWfV8Ljf3b0MGfBs7BoZYAJxVyNr5CQF13CLw+4xrbMsmQWdTBqzp5i EtB9VA==
-.					      86400 IN ZONEMD	2026110501 1 1 DAF7867A06753483E6F3D860CD72046FA7B7F484A7B8A497300F53EA A972BF0118E676A48549BB8D575D7C1CA31CDFFF
+.					      86400 IN ZONEMD	2026110502 1 1 3A12D4C5302675BDDCE40DE6AED1F7498CFC3591B6A53ADB9A7641E9 9AE5F30032BBB678B96E7FB3982C3B4E1AEF0466
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -452,7 +452,6 @@ agakhan.				      172800 IN	NS	a2.nic.agakhan.
 agakhan.				      172800 IN	NS	b0.nic.agakhan.
 agakhan.				      172800 IN	NS	c0.nic.agakhan.
 agakhan.				      86400 IN DS	32575 8 2 653B8D4998C585C10DE76CE2F3181630730CCB7F56DA4A55BAEB85A2 BF72A0B6
-agakhan.				      86400 IN DS	44761 8 2 4B8C22972DCAA43686D72581C1CB59D1F18D111A24464B8FC3464E52 C7200CEF
 agakhan.				      86400 IN NSEC	agency. NS DS RRSIG NSEC
 a0.nic.agakhan.				      172800 IN	A	65.22.44.1
 a0.nic.agakhan.				      172800 IN	AAAA	2a01:8840:2a::1
@@ -587,7 +586,6 @@ akdn.					      172800 IN	NS	a0.nic.akdn.
 akdn.					      172800 IN	NS	a2.nic.akdn.
 akdn.					      172800 IN	NS	b0.nic.akdn.
 akdn.					      172800 IN	NS	c0.nic.akdn.
-akdn.					      86400 IN DS	25057 8 2 47E24CE61E8604C9A8FC169D5E073B280F24FA9132DCBB64E727003A 8BF27157
 akdn.					      86400 IN DS	29231 8 2 A4A265C2C1B6AFB87E60E7CBE306E8BA554C46BE9C49B9FDCE451C35 C29AE0F3
 akdn.					      86400 IN NSEC	al. NS DS RRSIG NSEC
 a0.nic.akdn.				      172800 IN	A	65.22.44.17
@@ -5725,7 +5723,6 @@ edeka.					      172800 IN	NS	a0.nic.edeka.
 edeka.					      172800 IN	NS	a2.nic.edeka.
 edeka.					      172800 IN	NS	b0.nic.edeka.
 edeka.					      172800 IN	NS	c0.nic.edeka.
-edeka.					      86400 IN DS	5236 8 2 1423F0E6F60E7BA10535B7B7B88DEA2B02A8CE3309E68ED2E9698687 CDB95065
 edeka.					      86400 IN DS	62687 8 2 A03701E96E50F95F32D21112A8708439064A263D14E62FD72875A723 D30F8959
 edeka.					      86400 IN NSEC	edu. NS DS RRSIG NSEC
 a0.nic.edeka.				      172800 IN	A	65.22.16.25
@@ -6119,7 +6116,6 @@ exposed.				      172800 IN	NS	v0n2.nic.exposed.
 exposed.				      172800 IN	NS	v0n3.nic.exposed.
 exposed.				      172800 IN	NS	v2n0.nic.exposed.
 exposed.				      172800 IN	NS	v2n1.nic.exposed.
-exposed.				      86400 IN DS	43324 8 2 06DB817955E79F54D71E1D818B4F4C7EDBBAFF2AC602DB75FA95E5B4 C9DBCE6C
 exposed.				      86400 IN DS	58229 8 2 40628F0C156F1508A73A2D0599BB7170D47CDB8F200707BC569F880A 93744C8D
 exposed.				      86400 IN NSEC	express. NS DS RRSIG NSEC
 v0n0.nic.exposed.			      172800 IN	A	65.22.24.58
@@ -6141,7 +6137,6 @@ express.				      172800 IN	NS	v0n3.nic.express.
 express.				      172800 IN	NS	v2n0.nic.express.
 express.				      172800 IN	NS	v2n1.nic.express.
 express.				      86400 IN DS	42401 8 2 AEEA1E42AF33E7022DAEC71FAAFC386B2EFDF2666A15291A4BA22266 17A78F59
-express.				      86400 IN DS	63130 8 2 57D56C05AE39F31076A67FA9D97368908461D311DBD01F32174979A6 E75921DA
 express.				      86400 IN NSEC	extraspace. NS DS RRSIG NSEC
 v0n0.nic.express.			      172800 IN	A	65.22.32.16
 v0n0.nic.express.			      172800 IN	AAAA	2a01:8840:22::16
@@ -6160,7 +6155,6 @@ extraspace.				      172800 IN	NS	a2.nic.extraspace.
 extraspace.				      172800 IN	NS	b0.nic.extraspace.
 extraspace.				      172800 IN	NS	c0.nic.extraspace.
 extraspace.				      86400 IN DS	42956 8 2 F33AABCDF6E37CF93FE0DA5E076CFB42B25EF5B9A55B6736548041E4 2C4AFBAD
-extraspace.				      86400 IN DS	64657 8 2 9697A3469E8E24F5B49FECC0D2F2573CB96D106F26781583E705111B EFD15571
 extraspace.				      86400 IN NSEC	fage. NS DS RRSIG NSEC
 a0.nic.extraspace.			      172800 IN	A	65.22.116.1
 a0.nic.extraspace.			      172800 IN	AAAA	2a01:8840:72::1
@@ -6175,7 +6169,6 @@ fage.					      172800 IN	NS	a2.nic.fage.
 fage.					      172800 IN	NS	b0.nic.fage.
 fage.					      172800 IN	NS	c0.nic.fage.
 fage.					      86400 IN DS	15310 8 2 C11EF74C4D7E0ED5744D2DD85483E2DDFD7C1AF69F1817AACD3BDE5D 5B204214
-fage.					      86400 IN DS	17296 8 2 73F0339F6D64BE40A263E66BF730B0EF53A4372978561E0CC8F3CB75 4DF443FE
 fage.					      86400 IN NSEC	fail. NS DS RRSIG NSEC
 a0.nic.fage.				      172800 IN	A	65.22.156.33
 a0.nic.fage.				      172800 IN	AAAA	2a01:8840:9a::33
@@ -6192,7 +6185,6 @@ fail.					      172800 IN	NS	v0n3.nic.fail.
 fail.					      172800 IN	NS	v2n0.nic.fail.
 fail.					      172800 IN	NS	v2n1.nic.fail.
 fail.					      86400 IN DS	2726 8 2 E5F6EA28A62669FC28D846CB532D6795203B3FF1CDF1FED8FA74201A 8821BC95
-fail.					      86400 IN DS	55696 8 2 23599FACBCF180CA8A276A70E5E407236CBFCC5C9B27CE00972CB83F 99803577
 fail.					      86400 IN NSEC	fairwinds. NS DS RRSIG NSEC
 v0n0.nic.fail.				      172800 IN	A	65.22.20.56
 v0n0.nic.fail.				      172800 IN	AAAA	2a01:8840:16::56
@@ -6258,7 +6250,6 @@ family.					      172800 IN	NS	v0n2.nic.family.
 family.					      172800 IN	NS	v0n3.nic.family.
 family.					      172800 IN	NS	v2n0.nic.family.
 family.					      172800 IN	NS	v2n1.nic.family.
-family.					      86400 IN DS	30022 8 2 2AF2DB00CDBDF65666C9AFB59F4DC21CF8B8DC5B050A34FC594B1CBE 6C858584
 family.					      86400 IN DS	51152 8 2 97F0B310A16C538E991C16109B7789BA1CF59F54AA59F0F56C14EC93 AD1FA09F
 family.					      86400 IN NSEC	fan. NS DS RRSIG NSEC
 v0n0.nic.family.			      172800 IN	A	65.22.28.39
@@ -6280,7 +6271,6 @@ fan.					      172800 IN	NS	v0n3.nic.fan.
 fan.					      172800 IN	NS	v2n0.nic.fan.
 fan.					      172800 IN	NS	v2n1.nic.fan.
 fan.					      86400 IN DS	2426 8 2 F50D3FC184AD6F0C84F73C3A7AD3C2384A0A5EEDE533AF9AFC0D65A9 164BCD3F
-fan.					      86400 IN DS	57907 8 2 0877BCB676B4B8470A843B7A72560351ADEF09C067AC1445CAC5579D A6ACC11D
 fan.					      86400 IN NSEC	fans. NS DS RRSIG NSEC
 v0n0.nic.fan.				      172800 IN	A	65.22.20.57
 v0n0.nic.fan.				      172800 IN	AAAA	2a01:8840:16::57
@@ -6316,7 +6306,6 @@ farm.					      172800 IN	NS	v0n3.nic.farm.
 farm.					      172800 IN	NS	v2n0.nic.farm.
 farm.					      172800 IN	NS	v2n1.nic.farm.
 farm.					      86400 IN DS	4781 8 2 3C6D7CB463B20E67DB88B25A289AEB92E807D959FADFA1EEE20D05D2 50D5DE15
-farm.					      86400 IN DS	63382 8 2 584397D0AABC1083C561C54DC4ACA32AEEC4B002C8A67FE09D4B1EA4 29DA8DC1
 farm.					      86400 IN NSEC	farmers. NS DS RRSIG NSEC
 v0n0.nic.farm.				      172800 IN	A	65.22.32.8
 v0n0.nic.farm.				      172800 IN	AAAA	2a01:8840:22::8
@@ -6401,7 +6390,6 @@ fedex.					      172800 IN	NS	a2.nic.fedex.
 fedex.					      172800 IN	NS	b0.nic.fedex.
 fedex.					      172800 IN	NS	c0.nic.fedex.
 fedex.					      86400 IN DS	48947 8 2 3984BDE947136A0CF4BE998AA828B513D5B4BB4FF73686245911FEB7 E728CF2E
-fedex.					      86400 IN DS	57511 8 2 13B91145D3199C419B0B4BAFB3938F08388B7B52BF8983C24E068BF6 3075B68B
 fedex.					      86400 IN NSEC	feedback. NS DS RRSIG NSEC
 a0.nic.fedex.				      172800 IN	A	65.22.228.33
 a0.nic.fedex.				      172800 IN	AAAA	2a01:8840:de::33
@@ -6421,7 +6409,6 @@ ferrari.				      172800 IN	NS	a0.nic.ferrari.
 ferrari.				      172800 IN	NS	a2.nic.ferrari.
 ferrari.				      172800 IN	NS	b0.nic.ferrari.
 ferrari.				      172800 IN	NS	c0.nic.ferrari.
-ferrari.				      86400 IN DS	24796 8 2 33FCAB9B1F82F04CA4AD6685FAD6E660CFE968C2D0C97C08107DE4BA 5C5735FA
 ferrari.				      86400 IN DS	30442 8 2 D5222DE80A1B49020166920769FCB32B27DB4A6455EB304148D316A2 B2DDF6BC
 ferrari.				      86400 IN NSEC	ferrero. NS DS RRSIG NSEC
 a0.nic.ferrari.				      172800 IN	A	65.22.124.25
@@ -6492,7 +6479,6 @@ fidelity.				      172800 IN	NS	a0.nic.fidelity.
 fidelity.				      172800 IN	NS	a2.nic.fidelity.
 fidelity.				      172800 IN	NS	b0.nic.fidelity.
 fidelity.				      172800 IN	NS	c0.nic.fidelity.
-fidelity.				      86400 IN DS	1792 8 2 8A77ACA7DA9CB3000D7DA7ABDF46182CAD3E20BD9B0FF7D685F70BC6 DCF1D6F1
 fidelity.				      86400 IN DS	24062 8 2 000479ABBF4D6EE3EB7B57D550BACB12D3C7DA35A646FD6F6487189E 9C22BE37
 fidelity.				      86400 IN NSEC	fido. NS DS RRSIG NSEC
 a0.nic.fidelity.			      172800 IN	A	65.22.112.48
@@ -6507,7 +6493,6 @@ fido.					      172800 IN	NS	a0.nic.fido.
 fido.					      172800 IN	NS	a2.nic.fido.
 fido.					      172800 IN	NS	b0.nic.fido.
 fido.					      172800 IN	NS	c0.nic.fido.
-fido.					      86400 IN DS	16402 8 2 F1FDB16B12B96A368D95FCC0F2A37BC54588DC9D0049F066AA21FB09 5E5EA7D7
 fido.					      86400 IN DS	19829 8 2 96AE7D4EE485051FC1F0F63D4E2FCF116AE6D3CA2ABDB220289F2AD4 159B8118
 fido.					      86400 IN NSEC	film. NS DS RRSIG NSEC
 a0.nic.fido.				      172800 IN	A	65.22.108.41
@@ -6552,7 +6537,6 @@ finance.				      172800 IN	NS	v0n2.nic.finance.
 finance.				      172800 IN	NS	v0n3.nic.finance.
 finance.				      172800 IN	NS	v2n0.nic.finance.
 finance.				      172800 IN	NS	v2n1.nic.finance.
-finance.				      86400 IN DS	28624 8 2 860C6291C65E96464ECDB0F349A9F9F10B1F5872D8A39BA27DBFAFE3 8D85F07D
 finance.				      86400 IN DS	46861 8 2 C041213DB1084BAFCD21B9444DD3E94B86C0DF1ED8AA946FD33C9041 C8EC1D55
 finance.				      86400 IN NSEC	financial. NS DS RRSIG NSEC
 v0n0.nic.finance.			      172800 IN	A	65.22.20.10
@@ -6573,7 +6557,6 @@ financial.				      172800 IN	NS	v0n2.nic.financial.
 financial.				      172800 IN	NS	v0n3.nic.financial.
 financial.				      172800 IN	NS	v2n0.nic.financial.
 financial.				      172800 IN	NS	v2n1.nic.financial.
-financial.				      86400 IN DS	52537 8 2 A7F8E91C44E9425540A603D224D4D58FFA08754C19E6480C0E437D56 2E387FF4
 financial.				      86400 IN DS	64456 8 2 01410EED5738A9C7EC25896100456FBFBB3CA417FD1CA7912C77C0BF 724582BE
 financial.				      86400 IN NSEC	fire. NS DS RRSIG NSEC
 v0n0.nic.financial.			      172800 IN	A	65.22.20.54
@@ -6635,7 +6618,6 @@ fish.					      172800 IN	NS	v0n3.nic.fish.
 fish.					      172800 IN	NS	v2n0.nic.fish.
 fish.					      172800 IN	NS	v2n1.nic.fish.
 fish.					      86400 IN DS	2987 8 2 6D4A4D55B7952E08962C4FFB140A0B100640ADB1B61F7A8469DF3532 D8E0B9A5
-fish.					      86400 IN DS	46519 8 2 4B82D075B2315DA06036FA1F9530B15E142FCE0FF748F3370CD36877 B1C50AA2
 fish.					      86400 IN NSEC	fishing. NS DS RRSIG NSEC
 v0n0.nic.fish.				      172800 IN	A	65.22.28.23
 v0n0.nic.fish.				      172800 IN	AAAA	2a01:8840:1e::23
@@ -6696,7 +6678,6 @@ fitness.				      172800 IN	NS	v0n3.nic.fitness.
 fitness.				      172800 IN	NS	v2n0.nic.fitness.
 fitness.				      172800 IN	NS	v2n1.nic.fitness.
 fitness.				      86400 IN DS	10687 8 2 254A01A01B25DF1FD31AC27F79EBB53FE46A1C5B7FACFA7AEE743D4F E918ADB5
-fitness.				      86400 IN DS	65515 8 2 637C29078214FD97DDC25208CD00FA607EAD761BCC5279AEEF00AE91 AE8997F0
 fitness.				      86400 IN NSEC	fj. NS DS RRSIG NSEC
 v0n0.nic.fitness.			      172800 IN	A	65.22.20.47
 v0n0.nic.fitness.			      172800 IN	AAAA	2a01:8840:16::47
@@ -6758,7 +6739,6 @@ flights.				      172800 IN	NS	v0n2.nic.flights.
 flights.				      172800 IN	NS	v0n3.nic.flights.
 flights.				      172800 IN	NS	v2n0.nic.flights.
 flights.				      172800 IN	NS	v2n1.nic.flights.
-flights.				      86400 IN DS	2104 8 2 E78701C441507DED68434984E0842F491BB2BCEF7F0F06C9B4C964AA AAD7222F
 flights.				      86400 IN DS	64106 8 2 A77AE56B8099B7EF1F8FDE03D1F7D66CED66D6B47FF662A1CD14572B C9F65B7D
 flights.				      86400 IN NSEC	flir. NS DS RRSIG NSEC
 v0n0.nic.flights.			      172800 IN	A	65.22.28.31
@@ -6800,7 +6780,6 @@ florist.				      172800 IN	NS	v0n3.nic.florist.
 florist.				      172800 IN	NS	v2n0.nic.florist.
 florist.				      172800 IN	NS	v2n1.nic.florist.
 florist.				      86400 IN DS	12425 8 2 F519675D5449E67701E8A5EFFDCAD801CEB8BE27D58F6E466E43F568 ECC5ECDA
-florist.				      86400 IN DS	48775 8 2 3FDFBF7D66854164BD6F7EE44CA6E92F8E7D23E577BDC213D34DFB62 A0093E85
 florist.				      86400 IN NSEC	flowers. NS DS RRSIG NSEC
 v0n0.nic.florist.			      172800 IN	A	65.22.32.30
 v0n0.nic.florist.			      172800 IN	AAAA	2a01:8840:22::30
@@ -6896,7 +6875,6 @@ football.				      172800 IN	NS	v0n3.nic.football.
 football.				      172800 IN	NS	v2n0.nic.football.
 football.				      172800 IN	NS	v2n1.nic.football.
 football.				      86400 IN DS	54071 8 2 A088B1DC85586F5443A4A9ED5EA7CCD444B01609ED8BE1A696049967 607B1057
-football.				      86400 IN DS	55084 8 2 D9D70577CD1802B894946548997BBE9671ECF7AB3A6F67882064C575 D19CFA50
 football.				      86400 IN NSEC	ford. NS DS RRSIG NSEC
 v0n0.nic.football.			      172800 IN	A	65.22.20.22
 v0n0.nic.football.			      172800 IN	AAAA	2a01:8840:16::22
@@ -6936,7 +6914,6 @@ forex.					      172800 IN	NS	v0n2.nic.forex.
 forex.					      172800 IN	NS	v0n3.nic.forex.
 forex.					      172800 IN	NS	v2n0.nic.forex.
 forex.					      172800 IN	NS	v2n1.nic.forex.
-forex.					      86400 IN DS	37024 8 2 B76C4CB1E725CBAC7C8043A1EFE178802F19BBD47687EE2DD46BF30F 626F1C08
 forex.					      86400 IN DS	49126 8 2 1B0AF24E02FA73829D3B29D36CD2391019FD20E57661DF28AC4548A1 6CC95A71
 forex.					      86400 IN NSEC	forsale. NS DS RRSIG NSEC
 v0n0.nic.forex.				      172800 IN	A	65.22.28.65
@@ -6958,7 +6935,6 @@ forsale.				      172800 IN	NS	v0n3.nic.forsale.
 forsale.				      172800 IN	NS	v2n0.nic.forsale.
 forsale.				      172800 IN	NS	v2n1.nic.forsale.
 forsale.				      86400 IN DS	36215 8 2 26344F7353D3A03841003D81DB16A389357B754458640BD91A05B4BF 2CD5A26B
-forsale.				      86400 IN DS	57781 8 2 B782D732FE1E21301D1CF866096D3293925AB1E839FFC580591CB7FF 8EF63983
 forsale.				      86400 IN NSEC	forum. NS DS RRSIG NSEC
 v0n0.nic.forsale.			      172800 IN	A	65.22.32.53
 v0n0.nic.forsale.			      172800 IN	AAAA	2a01:8840:22::53
@@ -7185,7 +7161,6 @@ fund.					      172800 IN	NS	v0n3.nic.fund.
 fund.					      172800 IN	NS	v2n0.nic.fund.
 fund.					      172800 IN	NS	v2n1.nic.fund.
 fund.					      86400 IN DS	41510 8 2 ACDBB7030E007042611044E74C6A2A07CC0C7D26AF4B1EE791707758 AE67CDFD
-fund.					      86400 IN DS	58270 8 2 987CF39F13D83606711047D4D88B8283BD49BED69BA378B2106C7ED6 B33D2527
 fund.					      86400 IN NSEC	furniture. NS DS RRSIG NSEC
 v0n0.nic.fund.				      172800 IN	A	65.22.20.45
 v0n0.nic.fund.				      172800 IN	AAAA	2a01:8840:16::45
@@ -7205,7 +7180,6 @@ furniture.				      172800 IN	NS	v0n2.nic.furniture.
 furniture.				      172800 IN	NS	v0n3.nic.furniture.
 furniture.				      172800 IN	NS	v2n0.nic.furniture.
 furniture.				      172800 IN	NS	v2n1.nic.furniture.
-furniture.				      86400 IN DS	2821 8 2 F50E41782D45C0C945289178E73F62D5C2FCB56CBA05BDC5988EBB0D 5D46F07B
 furniture.				      86400 IN DS	15655 8 2 CB44AA9640EB706D1A3C1A0DEE1E095D98AD2F08AD3F20C3F4863861 DABF65D4
 furniture.				      86400 IN NSEC	futbol. NS DS RRSIG NSEC
 v0n0.nic.furniture.			      172800 IN	A	65.22.32.59
@@ -7227,7 +7201,6 @@ futbol.					      172800 IN	NS	v0n3.nic.futbol.
 futbol.					      172800 IN	NS	v2n0.nic.futbol.
 futbol.					      172800 IN	NS	v2n1.nic.futbol.
 futbol.					      86400 IN DS	36584 8 2 C9221C53F8AF6C63B0D3DB05E60A62A0EAB915D4B6856B6BC287549C A5E12CEE
-futbol.					      86400 IN DS	56971 8 2 BE9582AD283374F983057455CF2068505A0E6BD69DDD89EA2A3EA74F 380E2AE1
 futbol.					      86400 IN NSEC	fyi. NS DS RRSIG NSEC
 v0n0.nic.futbol.			      172800 IN	A	65.22.28.60
 v0n0.nic.futbol.			      172800 IN	AAAA	2a01:8840:1e::60
@@ -7248,7 +7221,6 @@ fyi.					      172800 IN	NS	v0n3.nic.fyi.
 fyi.					      172800 IN	NS	v2n0.nic.fyi.
 fyi.					      172800 IN	NS	v2n1.nic.fyi.
 fyi.					      86400 IN DS	6839 8 2 60AFB0F86C25A5E07B60D320DBE47C202A90967E38BF3798AF60E14B 1567C5B0
-fyi.					      86400 IN DS	24340 8 2 853F208B5D528007D5B57BB498524364DA3A2C43AD48444AAE41D3AF DB5B5ABA
 fyi.					      86400 IN NSEC	ga. NS DS RRSIG NSEC
 v0n0.nic.fyi.				      172800 IN	A	65.22.20.42
 v0n0.nic.fyi.				      172800 IN	AAAA	2a01:8840:16::42
@@ -7279,7 +7251,6 @@ gallery.				      172800 IN	NS	v0n2.nic.gallery.
 gallery.				      172800 IN	NS	v0n3.nic.gallery.
 gallery.				      172800 IN	NS	v2n0.nic.gallery.
 gallery.				      172800 IN	NS	v2n1.nic.gallery.
-gallery.				      86400 IN DS	11671 8 2 6D21A1E67D81B0C40C63C22650433BFBCA5EC66657BCA99C01849387 563F7BFE
 gallery.				      86400 IN DS	58981 8 2 B30C13F835D3E0FD80FDD80229A78BF3734FF81DE8D9338495A3C5AE A3A1453E
 gallery.				      86400 IN NSEC	gallo. NS DS RRSIG NSEC
 v0n0.nic.gallery.			      172800 IN	A	65.22.24.8
@@ -7299,7 +7270,6 @@ gallo.					      172800 IN	NS	a2.nic.gallo.
 gallo.					      172800 IN	NS	b0.nic.gallo.
 gallo.					      172800 IN	NS	c0.nic.gallo.
 gallo.					      86400 IN DS	24089 8 2 3DB714EB31AE46A51785CF6258F08E18110D33DB3BD7998DE8537FE5 538626AF
-gallo.					      86400 IN DS	49567 8 2 5B769DB94FCFCDD0ACD004B90DC7BA248DF09B3B7D7F29B40732B388 A1EBF9C7
 gallo.					      86400 IN NSEC	gallup. NS DS RRSIG NSEC
 a0.nic.gallo.				      172800 IN	A	65.22.56.1
 a0.nic.gallo.				      172800 IN	AAAA	2a01:8840:36::1
@@ -7314,7 +7284,6 @@ gallup.					      172800 IN	NS	a2.nic.gallup.
 gallup.					      172800 IN	NS	b0.nic.gallup.
 gallup.					      172800 IN	NS	c0.nic.gallup.
 gallup.					      86400 IN DS	4855 8 2 3374B651B6DF0B9EE99F1BCFA0B8C436AD55FF75D0837BEC39F18C27 476BD370
-gallup.					      86400 IN DS	34159 8 2 AE9BBA11562A260AAA062E2EB9881443044FDB8998B6A81C25D34D0D 6BF49CB5
 gallup.					      86400 IN NSEC	game. NS DS RRSIG NSEC
 a0.nic.gallup.				      172800 IN	A	65.22.168.17
 a0.nic.gallup.				      172800 IN	AAAA	2a01:8840:a2::17
@@ -7499,7 +7468,6 @@ genting.				      172800 IN	NS	v0n2.nic.genting.
 genting.				      172800 IN	NS	v0n3.nic.genting.
 genting.				      172800 IN	NS	v2n0.nic.genting.
 genting.				      172800 IN	NS	v2n1.nic.genting.
-genting.				      86400 IN DS	34012 8 2 EDEFC992A1962E973126B51F53A920DA4C0CAAFE53491BD1DD768C44 0770961E
 genting.				      86400 IN DS	56714 8 2 5B7107AFA72A358204AD6CA62776541AC3DD95E26EAE7B3264F92A4F 8AB3A703
 genting.				      86400 IN NSEC	george. NS DS RRSIG NSEC
 v0n0.nic.genting.			      172800 IN	A	65.22.108.13
@@ -7579,7 +7547,6 @@ gifts.					      172800 IN	NS	v0n2.nic.gifts.
 gifts.					      172800 IN	NS	v0n3.nic.gifts.
 gifts.					      172800 IN	NS	v2n0.nic.gifts.
 gifts.					      172800 IN	NS	v2n1.nic.gifts.
-gifts.					      86400 IN DS	32917 8 2 49D3ABCFB00907EB5EDF64455814D09EC2EFA8D8959B1DAA949C71A1 D47E3DE2
 gifts.					      86400 IN DS	51179 8 2 5FE2A01ADEDCE022527B966485EFE265998989954E9076A83809D3D2 22283653
 gifts.					      86400 IN NSEC	gives. NS DS RRSIG NSEC
 v0n0.nic.gifts.				      172800 IN	A	65.22.32.23
@@ -7653,7 +7620,6 @@ glass.					      172800 IN	NS	v0n2.nic.glass.
 glass.					      172800 IN	NS	v0n3.nic.glass.
 glass.					      172800 IN	NS	v2n0.nic.glass.
 glass.					      172800 IN	NS	v2n1.nic.glass.
-glass.					      86400 IN DS	47641 8 2 BA130708530E9F108ACA4B16217084E861F151B4069E567C6E85193A 457B219E
 glass.					      86400 IN DS	57691 8 2 A08DFE27105C2AB8A171D1E8828DF2B9552C3701970DFEC7BAC46AF8 6BBFD20C
 glass.					      86400 IN NSEC	gle. NS DS RRSIG NSEC
 v0n0.nic.glass.				      172800 IN	A	65.22.24.57
@@ -7679,7 +7645,6 @@ global.					      172800 IN	NS	a0.nic.global.
 global.					      172800 IN	NS	a2.nic.global.
 global.					      172800 IN	NS	b0.nic.global.
 global.					      172800 IN	NS	c0.nic.global.
-global.					      86400 IN DS	13060 8 2 5DD90E21BA23D0192E7F7148F56F7C20FE52B02074AC4BAF8E611F1E 6C7B878B
 global.					      86400 IN DS	52924 8 2 BE5661C6FF374FF11E22F0E7DD65AABB0AA4B1DC9AE37EB6847388ED 4BD46C2B
 global.					      86400 IN NSEC	globo. NS DS RRSIG NSEC
 a0.nic.global.				      172800 IN	A	65.22.80.1
@@ -7719,7 +7684,6 @@ gmbh.					      172800 IN	NS	v0n3.nic.gmbh.
 gmbh.					      172800 IN	NS	v2n0.nic.gmbh.
 gmbh.					      172800 IN	NS	v2n1.nic.gmbh.
 gmbh.					      86400 IN DS	39800 8 2 616D33DE512D84CE1D57ABAE5D56AD70D5FBE884BF94A723238D7E7A A5C1E325
-gmbh.					      86400 IN DS	50959 8 2 AED172F485DBDEF89FCCCA14B29463F53AFFC646105FE7C5FFCCFBB4 3DC116F4
 gmbh.					      86400 IN NSEC	gmo. NS DS RRSIG NSEC
 v0n0.nic.gmbh.				      172800 IN	A	65.22.32.7
 v0n0.nic.gmbh.				      172800 IN	AAAA	2a01:8840:22::7
@@ -7788,7 +7752,6 @@ gold.					      172800 IN	NS	v0n2.nic.gold.
 gold.					      172800 IN	NS	v0n3.nic.gold.
 gold.					      172800 IN	NS	v2n0.nic.gold.
 gold.					      172800 IN	NS	v2n1.nic.gold.
-gold.					      86400 IN DS	59041 8 2 525579C6CD38E9E537598CEC0953061FE404C9A7623EFD9A871F46AF A0E69E24
 gold.					      86400 IN DS	64997 8 2 5FFF7D1801D0C99270A811E18FC138D398875DDFE63AE8656890AA76 D5791ECC
 gold.					      86400 IN NSEC	goldpoint. NS DS RRSIG NSEC
 v0n0.nic.gold.				      172800 IN	A	65.22.20.13
@@ -7815,7 +7778,6 @@ golf.					      172800 IN	NS	v0n2.nic.golf.
 golf.					      172800 IN	NS	v0n3.nic.golf.
 golf.					      172800 IN	NS	v2n0.nic.golf.
 golf.					      172800 IN	NS	v2n1.nic.golf.
-golf.					      86400 IN DS	10444 8 2 FFF548BEDE169FE52DE3106F856E5A31A0B349D1A54CBEC3C2FF0BB8 37B29108
 golf.					      86400 IN DS	62921 8 2 C4C553396B722738797848818F5F2063DC8F96909E66E59C557D455E 15CB0D18
 golf.					      86400 IN NSEC	goodyear. NS DS RRSIG NSEC
 v0n0.nic.golf.				      172800 IN	A	65.22.28.46
@@ -7834,7 +7796,6 @@ goodyear.				      172800 IN	NS	a0.nic.goodyear.
 goodyear.				      172800 IN	NS	a2.nic.goodyear.
 goodyear.				      172800 IN	NS	b0.nic.goodyear.
 goodyear.				      172800 IN	NS	c0.nic.goodyear.
-goodyear.				      86400 IN DS	43276 8 2 31677E86241AF9FAC9000AE3681F1054BB94FADE26D91A92109547D4 231A64BC
 goodyear.				      86400 IN DS	46679 8 2 5C78C6DC587BD0295CEFDEEA9365CBD4DC90BBDC5B2BAC73A00BB19B B83036CE
 goodyear.				      86400 IN NSEC	goog. NS DS RRSIG NSEC
 a0.nic.goodyear.			      172800 IN	A	65.22.120.41
@@ -7891,7 +7852,6 @@ got.					      172800 IN	NS	v0n2.nic.got.
 got.					      172800 IN	NS	v0n3.nic.got.
 got.					      172800 IN	NS	v2n0.nic.got.
 got.					      172800 IN	NS	v2n1.nic.got.
-got.					      86400 IN DS	12529 8 2 D88CEB7699002D534FCF0499DE71B904AB195CE5BAFC7D563178E993 670A6A14
 got.					      86400 IN DS	42755 8 2 79871A1CC9BB57EF1F09F27C409D8351C5632916568D6A2F9FB1B7E2 E53B00FE
 got.					      86400 IN NSEC	gov. NS DS RRSIG NSEC
 v0n0.nic.got.				      172800 IN	A	65.22.36.57
@@ -7986,7 +7946,6 @@ graphics.				      172800 IN	NS	v0n3.nic.graphics.
 graphics.				      172800 IN	NS	v2n0.nic.graphics.
 graphics.				      172800 IN	NS	v2n1.nic.graphics.
 graphics.				      86400 IN DS	44789 8 2 776456C7B25A7B00FADE6AD7E3F3DFF0F02CFA8A9327645897FAE908 868407F8
-graphics.				      86400 IN DS	50656 8 2 72B3A23F71A09CDB43C5C5C1F9717DE3C722A1EFEF355B11789661B4 6891F3AF
 graphics.				      86400 IN NSEC	gratis. NS DS RRSIG NSEC
 v0n0.nic.graphics.			      172800 IN	A	65.22.28.20
 v0n0.nic.graphics.			      172800 IN	AAAA	2a01:8840:1e::20
@@ -8007,7 +7966,6 @@ gratis.					      172800 IN	NS	v0n3.nic.gratis.
 gratis.					      172800 IN	NS	v2n0.nic.gratis.
 gratis.					      172800 IN	NS	v2n1.nic.gratis.
 gratis.					      86400 IN DS	22762 8 2 6D701FB8602E6F21B667B7E5C2A03C32923FA380C6521E73D660E47D 021F35F9
-gratis.					      86400 IN DS	32626 8 2 C0E0491F4FCEBE153703E4ABEB895CD8706902717053B2BC2DD1E421 E5508BFB
 gratis.					      86400 IN NSEC	green. NS DS RRSIG NSEC
 v0n0.nic.gratis.			      172800 IN	A	65.22.20.24
 v0n0.nic.gratis.			      172800 IN	AAAA	2a01:8840:16::24
@@ -8026,7 +7984,6 @@ green.					      172800 IN	NS	a2.nic.green.
 green.					      172800 IN	NS	b0.nic.green.
 green.					      172800 IN	NS	c0.nic.green.
 green.					      86400 IN DS	7696 8 2 5971F8D6A5B735CEE265E33B22F4276EA8B0D02C7D6A34C897DE6660 0BF85087
-green.					      86400 IN DS	49042 8 2 B0A053BC2903459BD6DC6060A822285C492FBB5F20346821A48C5EF3 E6B0D29A
 green.					      86400 IN NSEC	gripe. NS DS RRSIG NSEC
 a0.nic.green.				      172800 IN	A	65.22.32.9
 a0.nic.green.				      172800 IN	AAAA	2a01:8840:22::9
@@ -8043,7 +8000,6 @@ gripe.					      172800 IN	NS	v0n3.nic.gripe.
 gripe.					      172800 IN	NS	v2n0.nic.gripe.
 gripe.					      172800 IN	NS	v2n1.nic.gripe.
 gripe.					      86400 IN DS	35281 8 2 C744FF62257A0FBF46A1620EC482F0392863E779944662D0B58E99D6 CA0034CF
-gripe.					      86400 IN DS	45766 8 2 6816AE0472BB1EBB28D2F4434609AC9D178F7F82DBF92ECEB11C658B 50169415
 gripe.					      86400 IN NSEC	grocery. NS DS RRSIG NSEC
 v0n0.nic.gripe.				      172800 IN	A	65.22.24.33
 v0n0.nic.gripe.				      172800 IN	AAAA	2a01:8840:1a::33
@@ -8085,7 +8041,6 @@ group.					      172800 IN	NS	v0n3.nic.group.
 group.					      172800 IN	NS	v2n0.nic.group.
 group.					      172800 IN	NS	v2n1.nic.group.
 group.					      86400 IN DS	23501 8 2 54BA7EE59856F4DFFC5DE90CEFD2707710A03B538A271868AEAFEF0E 1A33286B
-group.					      86400 IN DS	63685 8 2 EFC04B30999B34C97394A6E337333B2C273A5CD765C6C83BE8858FEF 57A5CCA8
 group.					      86400 IN NSEC	gs. NS DS RRSIG NSEC
 v0n0.nic.group.				      172800 IN	A	65.22.20.2
 v0n0.nic.group.				      172800 IN	AAAA	2a01:8840:16::2
@@ -8160,7 +8115,6 @@ guide.					      172800 IN	NS	v0n3.nic.guide.
 guide.					      172800 IN	NS	v2n0.nic.guide.
 guide.					      172800 IN	NS	v2n1.nic.guide.
 guide.					      86400 IN DS	36265 8 2 73C3DFB9E57796B3A3F244AA77E143A64FB57D69D87A0CDA47147852 32647461
-guide.					      86400 IN DS	49501 8 2 835F5372B348A923B10BB048B56758380A24320C66E5CB828C5978DC 79AA2F08
 guide.					      86400 IN NSEC	guitars. NS DS RRSIG NSEC
 v0n0.nic.guide.				      172800 IN	A	65.22.28.12
 v0n0.nic.guide.				      172800 IN	AAAA	2a01:8840:1e::12
@@ -8194,7 +8148,6 @@ guru.					      172800 IN	NS	v0n2.nic.guru.
 guru.					      172800 IN	NS	v0n3.nic.guru.
 guru.					      172800 IN	NS	v2n0.nic.guru.
 guru.					      172800 IN	NS	v2n1.nic.guru.
-guru.					      86400 IN DS	35665 8 2 3CC5E1CD14A0F2DED6856C1EC88785A7B9B36D6381263DABFA1AC164 6848CE82
 guru.					      86400 IN DS	61376 8 2 C8123827F6407DED21F145E1496BB72260F9BC0827A650487AE53EB9 F75B37F8
 guru.					      86400 IN NSEC	gw. NS DS RRSIG NSEC
 v0n0.nic.guru.				      172800 IN	A	65.22.28.36
@@ -8259,7 +8212,6 @@ haus.					      172800 IN	NS	v0n2.nic.haus.
 haus.					      172800 IN	NS	v0n3.nic.haus.
 haus.					      172800 IN	NS	v2n0.nic.haus.
 haus.					      172800 IN	NS	v2n1.nic.haus.
-haus.					      86400 IN DS	33031 8 2 685029345E53264730379B0E27C87DE10ED93B0075F543D5887126E3 DBFB7B84
 haus.					      86400 IN DS	46555 8 2 DC32288178A204681447F9EF517CC90A66128ECCE489D7ABA9554CB2 4470FEA7
 haus.					      86400 IN NSEC	hbo. NS DS RRSIG NSEC
 v0n0.nic.haus.				      172800 IN	A	65.22.24.20
@@ -8348,7 +8300,6 @@ healthcare.				      172800 IN	NS	v0n2.nic.healthcare.
 healthcare.				      172800 IN	NS	v0n3.nic.healthcare.
 healthcare.				      172800 IN	NS	v2n0.nic.healthcare.
 healthcare.				      172800 IN	NS	v2n1.nic.healthcare.
-healthcare.				      86400 IN DS	24502 8 2 DB68117556C537203B18D94BE79836F65ECCE06452C5658D16887BA2 F0629C58
 healthcare.				      86400 IN DS	43802 8 2 2B7F3C3400E34536D0AFBD986D12B419F38D797731890602806488B0 C9FB3874
 healthcare.				      86400 IN NSEC	help. NS DS RRSIG NSEC
 v0n0.nic.healthcare.			      172800 IN	A	65.22.28.15
@@ -8389,7 +8340,6 @@ hermes.					      172800 IN	NS	a0.nic.hermes.
 hermes.					      172800 IN	NS	a2.nic.hermes.
 hermes.					      172800 IN	NS	b0.nic.hermes.
 hermes.					      172800 IN	NS	c0.nic.hermes.
-hermes.					      86400 IN DS	17194 8 2 F38AE5E161D402739020CC92A88DFA905A59972426EF42044C37EA62 40BB9614
 hermes.					      86400 IN DS	29179 8 2 60F80DB8F97A87F085538B40AAB13B7CD8A792C928F5722194A854D9 431F33E7
 hermes.					      86400 IN NSEC	hiphop. NS DS RRSIG NSEC
 a0.nic.hermes.				      172800 IN	A	65.22.232.25
@@ -8459,7 +8409,6 @@ hkt.					      172800 IN	NS	a0.nic.hkt.
 hkt.					      172800 IN	NS	a2.nic.hkt.
 hkt.					      172800 IN	NS	b0.nic.hkt.
 hkt.					      172800 IN	NS	c0.nic.hkt.
-hkt.					      86400 IN DS	2077 8 2 B467734F0F2A8287BA3A0EDDF252055D740F2FD0072F81095EB6A56B E2405EE0
 hkt.					      86400 IN DS	36140 8 2 AD16C0AEAE40AD54CFF2807F0B7792F2414A2D63EB1937F51C44C983 7BA4A869
 hkt.					      86400 IN NSEC	hm. NS DS RRSIG NSEC
 a0.nic.hkt.				      172800 IN	A	65.22.116.33
@@ -8491,7 +8440,6 @@ hockey.					      172800 IN	NS	v0n2.nic.hockey.
 hockey.					      172800 IN	NS	v0n3.nic.hockey.
 hockey.					      172800 IN	NS	v2n0.nic.hockey.
 hockey.					      172800 IN	NS	v2n1.nic.hockey.
-hockey.					      86400 IN DS	17029 8 2 8BCCB97086905AB56155084578E7873C77ABCE3210245D2503F59D42 D94D8CE6
 hockey.					      86400 IN DS	50422 8 2 B7141CDCF598B41AC459E493E986AFBC587AC8BFB04CD6A1C4FDC0A2 64CB8480
 hockey.					      86400 IN NSEC	holdings. NS DS RRSIG NSEC
 v0n0.nic.hockey.			      172800 IN	A	65.22.20.31
@@ -8512,7 +8460,6 @@ holdings.				      172800 IN	NS	v0n2.nic.holdings.
 holdings.				      172800 IN	NS	v0n3.nic.holdings.
 holdings.				      172800 IN	NS	v2n0.nic.holdings.
 holdings.				      172800 IN	NS	v2n1.nic.holdings.
-holdings.				      86400 IN DS	25396 8 2 BD7D00CFF174D8898DFD6B1174E027E8899B1AA029555D54574F6165 135F45D4
 holdings.				      86400 IN DS	50467 8 2 D80AB6B0C21CA5DAE93ED5ABC7A8D155059BE20D0C20E91C13AF7C9C F55CF376
 holdings.				      86400 IN NSEC	holiday. NS DS RRSIG NSEC
 v0n0.nic.holdings.			      172800 IN	A	65.22.24.51
@@ -8534,7 +8481,6 @@ holiday.				      172800 IN	NS	v0n3.nic.holiday.
 holiday.				      172800 IN	NS	v2n0.nic.holiday.
 holiday.				      172800 IN	NS	v2n1.nic.holiday.
 holiday.				      86400 IN DS	9971 8 2 66CF47B0CA2F9C0A7799C0B8D4EC1D30F4013EC8C96080B5E52A6D3D F0A2EF5B
-holiday.				      86400 IN DS	61717 8 2 34267E711A8FC7A8BB25EE22E87508951CAFAD73F29D332CDDEB3190 BB9982F9
 holiday.				      86400 IN NSEC	homedepot. NS DS RRSIG NSEC
 v0n0.nic.holiday.			      172800 IN	A	65.22.24.24
 v0n0.nic.holiday.			      172800 IN	AAAA	2a01:8840:1a::24
@@ -8553,7 +8499,6 @@ homedepot.				      172800 IN	NS	a2.nic.homedepot.
 homedepot.				      172800 IN	NS	b0.nic.homedepot.
 homedepot.				      172800 IN	NS	c0.nic.homedepot.
 homedepot.				      86400 IN DS	9964 8 2 C2EADCB54A5D65AC1836E7AF0EE286BDC1A870A18C80D606CF6E63F0 DFB41DBC
-homedepot.				      86400 IN DS	41296 8 2 547D577CB0C59BC0FDCA6D4A26AB5FA73588F9F7BA554A6ADFFF6B31 BA056E45
 homedepot.				      86400 IN NSEC	homegoods. NS DS RRSIG NSEC
 a0.nic.homedepot.			      172800 IN	A	65.22.192.1
 a0.nic.homedepot.			      172800 IN	AAAA	2a01:8840:ba::1
@@ -8651,7 +8596,6 @@ hospital.				      172800 IN	NS	v0n3.nic.hospital.
 hospital.				      172800 IN	NS	v2n0.nic.hospital.
 hospital.				      172800 IN	NS	v2n1.nic.hospital.
 hospital.				      86400 IN DS	14830 8 2 82944A6BAD30850AEADD9C5AA853E87BFBC9605D1BF6F9A941BFDC00 40C892B0
-hospital.				      86400 IN DS	53629 8 2 5CE9EA127A6A20BA0171A93B41716DC419367AFFE7B5D9445CEB1C4C 3A8252BF
 hospital.				      86400 IN NSEC	host. NS DS RRSIG NSEC
 v0n0.nic.hospital.			      172800 IN	A	65.22.20.29
 v0n0.nic.hospital.			      172800 IN	AAAA	2a01:8840:16::29
@@ -8764,7 +8708,6 @@ house.					      172800 IN	NS	v0n3.nic.house.
 house.					      172800 IN	NS	v2n0.nic.house.
 house.					      172800 IN	NS	v2n1.nic.house.
 house.					      86400 IN DS	130 8 2 AD6C3A698EF30345A905EC6FCAC64A79E1791E8ACC662D9B63F979D1 E374FF36
-house.					      86400 IN DS	12289 8 2 083BA725024957730C4C92111205FF8F4F0D0B8E92E16EE24E80BE98 CEEC39EB
 house.					      86400 IN NSEC	how. NS DS RRSIG NSEC
 v0n0.nic.house.				      172800 IN	A	65.22.24.7
 v0n0.nic.house.				      172800 IN	AAAA	2a01:8840:1a::7
@@ -8852,7 +8795,6 @@ hughes.					      172800 IN	NS	a2.nic.hughes.
 hughes.					      172800 IN	NS	b0.nic.hughes.
 hughes.					      172800 IN	NS	c0.nic.hughes.
 hughes.					      86400 IN DS	28339 8 2 BA1AD019C2FCF85DAA184AD17F16EF0654C4F73879DE044F7BE13483 DCFBBA1E
-hughes.					      86400 IN DS	64252 8 2 29A6AE50D287B301E6624077720BEA37AA9CD752183DD014E7F3028C BCB740F2
 hughes.					      86400 IN NSEC	hyatt. NS DS RRSIG NSEC
 a0.nic.hughes.				      172800 IN	A	65.22.108.1
 a0.nic.hughes.				      172800 IN	AAAA	2a01:8840:6a::1
@@ -9107,7 +9049,6 @@ immo.					      172800 IN	NS	v0n3.nic.immo.
 immo.					      172800 IN	NS	v2n0.nic.immo.
 immo.					      172800 IN	NS	v2n1.nic.immo.
 immo.					      86400 IN DS	1151 8 2 4F56C9F5C7D2DA59424A419C96D6FABC0B4AAB8FC0FFFE371585BBF7 E74F5FB9
-immo.					      86400 IN DS	32956 8 2 87B32E0AAC22FDD5BF233FACA5EDFD1307B914EFECEF3778D6644CAA 8037F707
 immo.					      86400 IN NSEC	immobilien. NS DS RRSIG NSEC
 v0n0.nic.immo.				      172800 IN	A	65.22.28.42
 v0n0.nic.immo.				      172800 IN	AAAA	2a01:8840:1e::42
@@ -9127,7 +9068,6 @@ immobilien.				      172800 IN	NS	v0n2.nic.immobilien.
 immobilien.				      172800 IN	NS	v0n3.nic.immobilien.
 immobilien.				      172800 IN	NS	v2n0.nic.immobilien.
 immobilien.				      172800 IN	NS	v2n1.nic.immobilien.
-immobilien.				      86400 IN DS	11665 8 2 11C89F087B187155D5736C648887B4F34348268895910F202AA61E5C 19C5F7E3
 immobilien.				      86400 IN DS	29612 8 2 0DE1509B382D5037CC7F1C2E74AD40008A356E2448C7C8188AD522BB E6B1E122
 immobilien.				      86400 IN NSEC	in. NS DS RRSIG NSEC
 v0n0.nic.immobilien.			      172800 IN	A	65.22.24.19
@@ -9177,7 +9117,6 @@ industries.				      172800 IN	NS	v0n2.nic.industries.
 industries.				      172800 IN	NS	v0n3.nic.industries.
 industries.				      172800 IN	NS	v2n0.nic.industries.
 industries.				      172800 IN	NS	v2n1.nic.industries.
-industries.				      86400 IN DS	9211 8 2 8AB45E54723F63CE648E7A3679C9518E476AFA4FD9A719C826378C5B C69F31E0
 industries.				      86400 IN DS	47486 8 2 C9390F47C34FD9D625ADDD8B537C9DC6865FC4EBAE6EDE8C9DBAB727 BFDC6D2F
 industries.				      86400 IN NSEC	infiniti. NS DS RRSIG NSEC
 v0n0.nic.industries.			      172800 IN	A	65.22.20.55
@@ -9287,7 +9226,6 @@ institute.				      172800 IN	NS	v0n2.nic.institute.
 institute.				      172800 IN	NS	v0n3.nic.institute.
 institute.				      172800 IN	NS	v2n0.nic.institute.
 institute.				      172800 IN	NS	v2n1.nic.institute.
-institute.				      86400 IN DS	46447 8 2 1068CBCEF5B14E4B888A50B79E38B75630C1DDA2067D1AA13640A615 8E984C6C
 institute.				      86400 IN DS	53366 8 2 63DB9E6925497951EF308AF6110CB17F8948849E73FB5FE2D1A039FC BF757121
 institute.				      86400 IN NSEC	insurance. NS DS RRSIG NSEC
 v0n0.nic.institute.			      172800 IN	A	65.22.32.13
@@ -9329,7 +9267,6 @@ insure.					      172800 IN	NS	v0n3.nic.insure.
 insure.					      172800 IN	NS	v2n0.nic.insure.
 insure.					      172800 IN	NS	v2n1.nic.insure.
 insure.					      86400 IN DS	18841 8 2 E1126E2EC08E9A777601F9C4C6578753E7DBB1F7F7911C27DA9087BD 39E921E9
-insure.					      86400 IN DS	54472 8 2 FBE73379C21C9221115F502EAE725983064C91D82AF0C293A8C718CC BEE36529
 insure.					      86400 IN NSEC	int. NS DS RRSIG NSEC
 v0n0.nic.insure.			      172800 IN	A	65.22.24.53
 v0n0.nic.insure.			      172800 IN	AAAA	2a01:8840:1a::53
@@ -9357,7 +9294,6 @@ international.				      172800 IN	NS	v0n2.nic.international.
 international.				      172800 IN	NS	v0n3.nic.international.
 international.				      172800 IN	NS	v2n0.nic.international.
 international.				      172800 IN	NS	v2n1.nic.international.
-international.				      86400 IN DS	28987 8 2 947FD1DCD82105B572AFDC6F9BA5C8F17F6D3A755F2BE059CFC5C904 4FA8BB10
 international.				      86400 IN DS	30196 8 2 9EF49D10157EA649F6617E4894ECF241EB670325E6D4A3A3A2DF387F BB63386B
 international.				      86400 IN NSEC	intuit. NS DS RRSIG NSEC
 v0n0.nic.international.			      172800 IN	A	65.22.28.6
@@ -9399,7 +9335,6 @@ investments.				      172800 IN	NS	v0n3.nic.investments.
 investments.				      172800 IN	NS	v2n0.nic.investments.
 investments.				      172800 IN	NS	v2n1.nic.investments.
 investments.				      86400 IN DS	37109 8 2 13AC4F0BCB5437C500307A49792439B5C8605D3CF521ECFF7D1CB564 222CDF41
-investments.				      86400 IN DS	56107 8 2 9A6DF7804A869EECCB7D1C03F4ACC62FEE9C130250CF3479BE1E9F39 04A9E0DC
 investments.				      86400 IN NSEC	io. NS DS RRSIG NSEC
 v0n0.nic.investments.			      172800 IN	A	65.22.28.53
 v0n0.nic.investments.			      172800 IN	AAAA	2a01:8840:1e::53
@@ -9479,7 +9414,6 @@ irish.					      172800 IN	NS	v0n3.nic.irish.
 irish.					      172800 IN	NS	v2n0.nic.irish.
 irish.					      172800 IN	NS	v2n1.nic.irish.
 irish.					      86400 IN DS	9619 8 2 38E80EEC153574DDA160A43FE8AF6F14A832003D89B7858450B1C933 8560F86C
-irish.					      86400 IN DS	18289 8 2 E438257880733AD6E7EBD5E4721F73470C93C55D57798E19DEC38B9B 1FE56813
 irish.					      86400 IN NSEC	is. NS DS RRSIG NSEC
 v0n0.nic.irish.				      172800 IN	A	65.22.32.27
 v0n0.nic.irish.				      172800 IN	AAAA	2a01:8840:22::27
@@ -9603,7 +9537,6 @@ itv.					      172800 IN	NS	a0.nic.itv.
 itv.					      172800 IN	NS	a2.nic.itv.
 itv.					      172800 IN	NS	b0.nic.itv.
 itv.					      172800 IN	NS	c0.nic.itv.
-itv.					      86400 IN DS	47554 8 2 B40BD9C46F4EA1A9A496C57C37A91938AF59778971851D7D91C54DC2 03649C13
 itv.					      86400 IN DS	60242 8 2 868D1B2C7A281532ABE241277F0DC4B11A86F5B7D51136F988C1F224 04EFF174
 itv.					      86400 IN NSEC	jaguar. NS DS RRSIG NSEC
 a0.nic.itv.				      172800 IN	A	65.22.88.25
@@ -9618,7 +9551,6 @@ jaguar.					      172800 IN	NS	a0.nic.jaguar.
 jaguar.					      172800 IN	NS	a2.nic.jaguar.
 jaguar.					      172800 IN	NS	b0.nic.jaguar.
 jaguar.					      172800 IN	NS	c0.nic.jaguar.
-jaguar.					      86400 IN DS	15829 8 2 D4BB4FD9F95EFA2BF1781B7A0C17388B42520CAB5F8C805E7DCA3105 F33CD881
 jaguar.					      86400 IN DS	56650 8 2 A54D38BE5BE57203E861EE539DBED313A43285D1470166032771C0F8 18A9850B
 jaguar.					      86400 IN NSEC	java. NS DS RRSIG NSEC
 a0.nic.jaguar.				      172800 IN	A	65.22.112.51
@@ -9633,7 +9565,6 @@ java.					      172800 IN	NS	a0.nic.java.
 java.					      172800 IN	NS	a2.nic.java.
 java.					      172800 IN	NS	b0.nic.java.
 java.					      172800 IN	NS	c0.nic.java.
-java.					      86400 IN DS	35845 8 2 FE3EC07C5C98197923923416C9AF01B70379C0A8431064C8E74BF9B4 43877FD4
 java.					      86400 IN DS	45212 8 2 95C9A83A6FFD43A77880B2BA2AADB75787E15B2B84AB4F9E6A450A09 C56D5D0F
 java.					      86400 IN NSEC	jcb. NS DS RRSIG NSEC
 a0.nic.java.				      172800 IN	A	65.22.84.33
@@ -9665,7 +9596,6 @@ jeep.					      172800 IN	NS	v0n3.nic.jeep.
 jeep.					      172800 IN	NS	v2n0.nic.jeep.
 jeep.					      172800 IN	NS	v2n1.nic.jeep.
 jeep.					      86400 IN DS	16714 8 2 8CD8BFBB30FD5B853E8B27A2D1ABAC5E212E9473ECD7D7270AA28F18 3EB88275
-jeep.					      86400 IN DS	49999 8 2 F00A0B4B65ADAC570C2DBC81483367392EA9A86FFD17E4B3F042D446 ACD1EA4B
 jeep.					      86400 IN NSEC	jetzt. NS DS RRSIG NSEC
 v0n0.nic.jeep.				      172800 IN	A	65.22.104.29
 v0n0.nic.jeep.				      172800 IN	AAAA	2a01:8840:66::29
@@ -9685,7 +9615,6 @@ jetzt.					      172800 IN	NS	v0n2.nic.jetzt.
 jetzt.					      172800 IN	NS	v0n3.nic.jetzt.
 jetzt.					      172800 IN	NS	v2n0.nic.jetzt.
 jetzt.					      172800 IN	NS	v2n1.nic.jetzt.
-jetzt.					      86400 IN DS	34480 8 2 BDF6C4604D479D93BF6B0308835406829CAB3DACD840365A854653F4 5336EA92
 jetzt.					      86400 IN DS	36227 8 2 28D36082FB814FE0FA624A490357776345C8197BE4747F6DFF1BB12E 2A4325F9
 jetzt.					      86400 IN NSEC	jewelry. NS DS RRSIG NSEC
 v0n0.nic.jetzt.				      172800 IN	A	65.22.20.49
@@ -9706,7 +9635,6 @@ jewelry.				      172800 IN	NS	v0n2.nic.jewelry.
 jewelry.				      172800 IN	NS	v0n3.nic.jewelry.
 jewelry.				      172800 IN	NS	v2n0.nic.jewelry.
 jewelry.				      172800 IN	NS	v2n1.nic.jewelry.
-jewelry.				      86400 IN DS	55777 8 2 CF1E81D50A04C164391BC99065EC51D4E25AB77B740CC93F011DED2A 151AD6D2
 jewelry.				      86400 IN DS	63014 8 2 B140C0DAB822C5A8A0884AF6CB1706894915FD7ED4C33612326B856A 4B3BE2D3
 jewelry.				      86400 IN NSEC	jio. NS DS RRSIG NSEC
 v0n0.nic.jewelry.			      172800 IN	A	65.22.28.26
@@ -9739,7 +9667,6 @@ jll.					      172800 IN	NS	a0.nic.jll.
 jll.					      172800 IN	NS	a2.nic.jll.
 jll.					      172800 IN	NS	b0.nic.jll.
 jll.					      172800 IN	NS	c0.nic.jll.
-jll.					      86400 IN DS	34711 8 2 2684574B7AC4339237FA607C55C1244D45C6C7C86B143C9240A72C2F 62A012E4
 jll.					      86400 IN DS	37891 8 2 74D299E01A51AC0DE8D9CC3EB55327670929DBDE0B912BB6ABBDC2F3 CEFDABF1
 jll.					      86400 IN NSEC	jm. NS DS RRSIG NSEC
 a0.nic.jll.				      172800 IN	A	65.22.148.9
@@ -9845,7 +9772,6 @@ jot.					      172800 IN	NS	v0n2.nic.jot.
 jot.					      172800 IN	NS	v0n3.nic.jot.
 jot.					      172800 IN	NS	v2n0.nic.jot.
 jot.					      172800 IN	NS	v2n1.nic.jot.
-jot.					      86400 IN DS	21967 8 2 D68BEB3FFE524F947633EE4F6ED10FBC44A38BE4494BF1D2C5D777C9 2D4BEF14
 jot.					      86400 IN DS	33994 8 2 FE4B9A48DB6056DA43B0DB146A94CD071EA9196CEFD595CCD0360418 DE362D20
 jot.					      86400 IN NSEC	joy. NS DS RRSIG NSEC
 v0n0.nic.jot.				      172800 IN	A	65.22.36.65
@@ -9974,7 +9900,6 @@ kaufen.					      172800 IN	NS	v0n2.nic.kaufen.
 kaufen.					      172800 IN	NS	v0n3.nic.kaufen.
 kaufen.					      172800 IN	NS	v2n0.nic.kaufen.
 kaufen.					      172800 IN	NS	v2n1.nic.kaufen.
-kaufen.					      86400 IN DS	21757 8 2 08A94D2A8C54C7B7CDEF0B6EC1D550D04110D86B904ACA22327458AE 8B2F0E86
 kaufen.					      86400 IN DS	39620 8 2 A4F8273AC190FD3B7F309ADC13E2891E504C7B5308BB623185554933 A11F6225
 kaufen.					      86400 IN NSEC	kddi. NS DS RRSIG NSEC
 v0n0.nic.kaufen.			      172800 IN	A	65.22.32.20
@@ -10012,7 +9937,6 @@ kerryhotels.				      172800 IN	NS	a2.nic.kerryhotels.
 kerryhotels.				      172800 IN	NS	b0.nic.kerryhotels.
 kerryhotels.				      172800 IN	NS	c0.nic.kerryhotels.
 kerryhotels.				      86400 IN DS	17570 8 2 5C5289CAC7285025C2A8FE08DB7D22C6F15F782A1C51EABCDF07065D DC1F8DAC
-kerryhotels.				      86400 IN DS	59119 8 2 CABC1873EC8BC994E11443766B2EB1E6AAAA0F01CA1472B7FF03C4C7 B818838A
 kerryhotels.				      86400 IN NSEC	kerryproperties. NS DS RRSIG NSEC
 a0.nic.kerryhotels.			      172800 IN	A	65.22.112.53
 a0.nic.kerryhotels.			      172800 IN	AAAA	2a01:8840:6e::53
@@ -10027,7 +9951,6 @@ kerryproperties.			      172800 IN	NS	a2.nic.kerryproperties.
 kerryproperties.			      172800 IN	NS	b0.nic.kerryproperties.
 kerryproperties.			      172800 IN	NS	c0.nic.kerryproperties.
 kerryproperties.			      86400 IN DS	44275 8 2 8DF1B33475F92C6EE64D7DC2E0A76295F39C5439EC3FFE20ED120C3A 0B6C0A30
-kerryproperties.			      86400 IN DS	48565 8 2 98E8C6905DF7915E05A6AF4CF38AD9E4BAD214DFEC3F14D2A62ACA1A 1A8C53B2
 kerryproperties.			      86400 IN NSEC	kfh. NS DS RRSIG NSEC
 a0.nic.kerryproperties.			      172800 IN	A	65.22.112.55
 a0.nic.kerryproperties.			      172800 IN	AAAA	2a01:8840:6e::55
@@ -10080,7 +10003,6 @@ kids.					      172800 IN	NS	a0.nic.kids.
 kids.					      172800 IN	NS	a2.nic.kids.
 kids.					      172800 IN	NS	b0.nic.kids.
 kids.					      172800 IN	NS	c0.nic.kids.
-kids.					      86400 IN DS	11536 8 2 0ADE57B3836DA5E4CE75AED8A7CD64B58E7D68A813D10CD94453D11F 60A3ECEE
 kids.					      86400 IN DS	27715 8 2 3C3709F1B59CF82DC271CA2BDDCD0EB0F0EE5A85A7B9D9AE863612BF D539BC94
 kids.					      86400 IN NSEC	kim. NS DS RRSIG NSEC
 a0.nic.kids.				      172800 IN	A	65.22.172.17
@@ -10095,7 +10017,6 @@ kim.					      172800 IN	NS	a0.nic.kim.
 kim.					      172800 IN	NS	a2.nic.kim.
 kim.					      172800 IN	NS	b0.nic.kim.
 kim.					      172800 IN	NS	c0.nic.kim.
-kim.					      86400 IN DS	12277 8 2 BA18A744991A561AB09A464FF96864573DB04FD61A29E9D37F755198 9E7E5535
 kim.					      86400 IN DS	48235 8 2 113FEC7743F2FCC16D9FF49E02288C76F6F4D812CB016AE7FA128BA0 10CE0EE5
 kim.					      86400 IN NSEC	kindle. NS DS RRSIG NSEC
 a0.nic.kim.				      172800 IN	A	65.22.28.1
@@ -10139,7 +10060,6 @@ kitchen.				      172800 IN	NS	v0n3.nic.kitchen.
 kitchen.				      172800 IN	NS	v2n0.nic.kitchen.
 kitchen.				      172800 IN	NS	v2n1.nic.kitchen.
 kitchen.				      86400 IN DS	7607 8 2 060443E0A55470DF093EB9465B4E35EFC68B1A4807D4BC35F81A8136 63DDC7AF
-kitchen.				      86400 IN DS	47935 8 2 7F36F037E4BD2B909479811F3B3AD76C00DB04F1F7F6476D00483D65 3B744CA4
 kitchen.				      86400 IN NSEC	kiwi. NS DS RRSIG NSEC
 v0n0.nic.kitchen.			      172800 IN	A	65.22.32.17
 v0n0.nic.kitchen.			      172800 IN	AAAA	2a01:8840:22::17
@@ -10195,7 +10115,6 @@ kosher.					      172800 IN	NS	a2.nic.kosher.
 kosher.					      172800 IN	NS	b0.nic.kosher.
 kosher.					      172800 IN	NS	c0.nic.kosher.
 kosher.					      86400 IN DS	14125 8 2 C57048D9D372610C231DFA8E0EAEA78F9D4E5B21B58C0882A70A3F8E ABBA9198
-kosher.					      86400 IN DS	24490 8 2 C4A550145923C0F5EF17F8D247E1E1B1E11DE20B1CAF26605DB23D4E 6A5010A4
 kosher.					      86400 IN NSEC	kp. NS DS RRSIG NSEC
 a0.nic.kosher.				      172800 IN	A	65.22.220.1
 a0.nic.kosher.				      172800 IN	AAAA	2a01:8840:d6::1
@@ -10301,7 +10220,6 @@ kuokgroup.				      172800 IN	NS	a0.nic.kuokgroup.
 kuokgroup.				      172800 IN	NS	a2.nic.kuokgroup.
 kuokgroup.				      172800 IN	NS	b0.nic.kuokgroup.
 kuokgroup.				      172800 IN	NS	c0.nic.kuokgroup.
-kuokgroup.				      86400 IN DS	28711 8 2 19C2733EEB5AB3B49CE9D819206870D68B3BB15DD07F69F99175E27A 984ED8D1
 kuokgroup.				      86400 IN DS	30409 8 2 48F3810422AF82AF1EB0B945B24E42EE6E13A05AF75B323062968293 CD21A567
 kuokgroup.				      86400 IN NSEC	kw. NS DS RRSIG NSEC
 a0.nic.kuokgroup.			      172800 IN	A	65.22.112.56
@@ -10383,7 +10301,6 @@ lamer.					      172800 IN	NS	a2.nic.lamer.
 lamer.					      172800 IN	NS	b0.nic.lamer.
 lamer.					      172800 IN	NS	c0.nic.lamer.
 lamer.					      86400 IN DS	37040 8 2 3A7BFA3789405AA98037B7E65019D08CFA87DE4FD3399EB5A1EE12E6 DB3871A9
-lamer.					      86400 IN DS	59092 8 2 F92E0E3F77B71FC4D1D69D18D013EEDCEF963C1C889B7DD1CFCE17A7 E4E5B1C8
 lamer.					      86400 IN NSEC	land. NS DS RRSIG NSEC
 a0.nic.lamer.				      172800 IN	A	65.22.52.25
 a0.nic.lamer.				      172800 IN	AAAA	2a01:8840:32::25
@@ -10399,7 +10316,6 @@ land.					      172800 IN	NS	v0n2.nic.land.
 land.					      172800 IN	NS	v0n3.nic.land.
 land.					      172800 IN	NS	v2n0.nic.land.
 land.					      172800 IN	NS	v2n1.nic.land.
-land.					      86400 IN DS	6595 8 2 7E0B97BA96C8437478BFB2DA2F47C51CD530A254D8F9FD7612C30D5C E7FA2FC3
 land.					      86400 IN DS	51445 8 2 3C4BEA5071BCE5763F098B83B60837F3630F02DECD5BC02B59110DF6 3DAB94E1
 land.					      86400 IN NSEC	landrover. NS DS RRSIG NSEC
 v0n0.nic.land.				      172800 IN	A	65.22.20.11
@@ -10419,7 +10335,6 @@ landrover.				      172800 IN	NS	a2.nic.landrover.
 landrover.				      172800 IN	NS	b0.nic.landrover.
 landrover.				      172800 IN	NS	c0.nic.landrover.
 landrover.				      86400 IN DS	4261 8 2 6460FA509BBCCDF2F4DAACB103880B6A62C657C5F7997CE5792C2963 966F51B9
-landrover.				      86400 IN DS	9545 8 2 8228511299170DB94D53620E945E5EAD65BED2F247121A70CD9DFFB3 7674DB69
 landrover.				      86400 IN NSEC	lanxess. NS DS RRSIG NSEC
 a0.nic.landrover.			      172800 IN	A	65.22.112.57
 a0.nic.landrover.			      172800 IN	AAAA	2a01:8840:6e::57
@@ -10453,7 +10368,6 @@ lasalle.				      172800 IN	NS	a0.nic.lasalle.
 lasalle.				      172800 IN	NS	a2.nic.lasalle.
 lasalle.				      172800 IN	NS	b0.nic.lasalle.
 lasalle.				      172800 IN	NS	c0.nic.lasalle.
-lasalle.				      86400 IN DS	6184 8 2 B7CEB81D5279786BE446C8D6981F911D3CB31DFC7E192DE510C6D489 CA3BA370
 lasalle.				      86400 IN DS	60179 8 2 81766147AC1E9DF3434CB9F76CC87AF42F549E18F9CC4FF5F386B0BF 2717A2D1
 lasalle.				      86400 IN NSEC	lat. NS DS RRSIG NSEC
 a0.nic.lasalle.				      172800 IN	A	65.22.148.1
@@ -10532,7 +10446,6 @@ lawyer.					      172800 IN	NS	v0n3.nic.lawyer.
 lawyer.					      172800 IN	NS	v2n0.nic.lawyer.
 lawyer.					      172800 IN	NS	v2n1.nic.lawyer.
 lawyer.					      86400 IN DS	24607 8 2 5BBDFF9EAE6811892B8625E203E29EE7E7B9D408F0102F60304FA278 B0EE13F3
-lawyer.					      86400 IN DS	24952 8 2 07F6239A01F7CAB022DB3F5773EA1F03BCF6780E4F87DE8AFD4F9388 3D19EBF8
 lawyer.					      86400 IN NSEC	lb. NS DS RRSIG NSEC
 v0n0.nic.lawyer.			      172800 IN	A	65.22.24.14
 v0n0.nic.lawyer.			      172800 IN	AAAA	2a01:8840:1a::14
@@ -10605,7 +10518,6 @@ lease.					      172800 IN	NS	v0n3.nic.lease.
 lease.					      172800 IN	NS	v2n0.nic.lease.
 lease.					      172800 IN	NS	v2n1.nic.lease.
 lease.					      86400 IN DS	19570 8 2 7320FCDF884ED5AA072C2B69C839F74221DCA59D0913DD15D235F400 6744F9DA
-lease.					      86400 IN DS	49669 8 2 1C84BA6CC51944ECEBD6A197DE418AF987C88A6EE0BDAC2D1120B47E 1DA6BC9B
 lease.					      86400 IN NSEC	leclerc. NS DS RRSIG NSEC
 v0n0.nic.lease.				      172800 IN	A	65.22.24.62
 v0n0.nic.lease.				      172800 IN	AAAA	2a01:8840:1a::62
@@ -10628,7 +10540,6 @@ lefrak.					      172800 IN	NS	a0.nic.lefrak.
 lefrak.					      172800 IN	NS	a2.nic.lefrak.
 lefrak.					      172800 IN	NS	b0.nic.lefrak.
 lefrak.					      172800 IN	NS	c0.nic.lefrak.
-lefrak.					      86400 IN DS	13552 8 2 DFE80636FC126C19C1AF2FF130E361CB22B4F33D97A48CA25FE7C81E E351796E
 lefrak.					      86400 IN DS	14821 8 2 041DBF3EDF1359AB07A3F3B2169DE0AC4969961524B431DD6B3E66AB 97253B1E
 lefrak.					      86400 IN NSEC	legal. NS DS RRSIG NSEC
 a0.nic.lefrak.				      172800 IN	A	65.22.112.58
@@ -10646,7 +10557,6 @@ legal.					      172800 IN	NS	v0n3.nic.legal.
 legal.					      172800 IN	NS	v2n0.nic.legal.
 legal.					      172800 IN	NS	v2n1.nic.legal.
 legal.					      86400 IN DS	6194 8 2 4EC5AF71B36D2D108DA17F393EE3835BFC4946AC82DFDBC734E64A0B 424D5C04
-legal.					      86400 IN DS	11869 8 2 C56D8A0808A1BA707334DAFE4D97506BF25DE7CE21885DD86C98C012 E164F113
 legal.					      86400 IN NSEC	lego. NS DS RRSIG NSEC
 v0n0.nic.legal.				      172800 IN	A	65.22.20.12
 v0n0.nic.legal.				      172800 IN	AAAA	2a01:8840:16::12
@@ -10666,7 +10576,6 @@ lego.					      172800 IN	NS	v0n2.nic.lego.
 lego.					      172800 IN	NS	v0n3.nic.lego.
 lego.					      172800 IN	NS	v2n0.nic.lego.
 lego.					      172800 IN	NS	v2n1.nic.lego.
-lego.					      86400 IN DS	5752 8 2 AF9076E3B4365D770B2827A4A9F6EA142D12AF52887D9EA685E34AA0 ACDEEA40
 lego.					      86400 IN DS	43931 8 2 A66717B96E9CEA66AF360DA6FC6262BDD9D80AAA333AE7EC678E822B 8C8E4437
 lego.					      86400 IN NSEC	lexus. NS DS RRSIG NSEC
 v0n0.nic.lego.				      172800 IN	A	65.22.108.14
@@ -10692,7 +10601,6 @@ lgbt.					      172800 IN	NS	a2.nic.lgbt.
 lgbt.					      172800 IN	NS	b0.nic.lgbt.
 lgbt.					      172800 IN	NS	c0.nic.lgbt.
 lgbt.					      86400 IN DS	11032 8 2 ADBF29341BC4D2C1815A123F996AE7E1B59D7833FADD6D270B410115 166BC8C7
-lgbt.					      86400 IN DS	16912 8 2 58FC6791DAA780F1B589FB72CE7F1E43F39DCD185DF0E57AE60178E8 1FA174B6
 lgbt.					      86400 IN NSEC	li. NS DS RRSIG NSEC
 a0.nic.lgbt.				      172800 IN	A	65.22.32.1
 a0.nic.lgbt.				      172800 IN	AAAA	2a01:8840:22::1
@@ -10741,7 +10649,6 @@ life.					      172800 IN	NS	v0n3.nic.life.
 life.					      172800 IN	NS	v2n0.nic.life.
 life.					      172800 IN	NS	v2n1.nic.life.
 life.					      86400 IN DS	1831 8 2 7B345F191676F198E8008C727E3AFAB47D82BA1EEEFF22E73255D672 41F9CDF9
-life.					      86400 IN DS	11164 8 2 AA2DBFF1C2F5E1C3C430E1BFC84208722612A39D3CA8E3974DDC5E09 34564328
 life.					      86400 IN NSEC	lifeinsurance. NS DS RRSIG NSEC
 v0n0.nic.life.				      172800 IN	A	65.22.20.35
 v0n0.nic.life.				      172800 IN	AAAA	2a01:8840:16::35
@@ -10788,7 +10695,6 @@ lighting.				      172800 IN	NS	v0n3.nic.lighting.
 lighting.				      172800 IN	NS	v2n0.nic.lighting.
 lighting.				      172800 IN	NS	v2n1.nic.lighting.
 lighting.				      86400 IN DS	29621 8 2 16B17695D8C713C5642BC32ABD884DCECC5346EB00E92BE50FF9E35E 7A293782
-lighting.				      86400 IN DS	55696 8 2 8ED67CCF601FCF46FF98B89154D21B8C5EF2D60F34A9A4D6D1968B58 69BEEFAD
 lighting.				      86400 IN NSEC	like. NS DS RRSIG NSEC
 v0n0.nic.lighting.			      172800 IN	A	65.22.32.52
 v0n0.nic.lighting.			      172800 IN	AAAA	2a01:8840:22::52
@@ -10854,7 +10760,6 @@ limited.				      172800 IN	NS	v0n2.nic.limited.
 limited.				      172800 IN	NS	v0n3.nic.limited.
 limited.				      172800 IN	NS	v2n0.nic.limited.
 limited.				      172800 IN	NS	v2n1.nic.limited.
-limited.				      86400 IN DS	28252 8 2 A9350D48B0282A5BFE1F7311FE716DE96CB29700B11642B158484190 91C3E27A
 limited.				      86400 IN DS	41134 8 2 864726F7F4DE92C5919EA777268E360CFCC5B2895D4B6BB6F8E9EECD EC2A1261
 limited.				      86400 IN NSEC	limo. NS DS RRSIG NSEC
 v0n0.nic.limited.			      172800 IN	A	65.22.28.52
@@ -10875,7 +10780,6 @@ limo.					      172800 IN	NS	v0n2.nic.limo.
 limo.					      172800 IN	NS	v0n3.nic.limo.
 limo.					      172800 IN	NS	v2n0.nic.limo.
 limo.					      172800 IN	NS	v2n1.nic.limo.
-limo.					      86400 IN DS	39862 8 2 9DE0702A0EEA28354D3DCA5EB0870D939F439CB14A879B583B35911C CD15019B
 limo.					      86400 IN DS	57232 8 2 6DCFD633F0FF3305BAD809C36D6E08BB71D4BB5BD41B505C0B741175 AF929C79
 limo.					      86400 IN NSEC	lincoln. NS DS RRSIG NSEC
 v0n0.nic.limo.				      172800 IN	A	65.22.20.30
@@ -10923,7 +10827,6 @@ live.					      172800 IN	NS	v0n3.nic.live.
 live.					      172800 IN	NS	v2n0.nic.live.
 live.					      172800 IN	NS	v2n1.nic.live.
 live.					      86400 IN DS	4724 8 2 2CAD139BB45DE83FF3671921550C0E4FF0175EAB078AD40FC4F6255C B43E2884
-live.					      86400 IN DS	36322 8 2 201DF9A9AF6766D9CDBC8355756728F2DB40BA93F9724F93AEEB1BDD D7D564A0
 live.					      86400 IN NSEC	living. NS DS RRSIG NSEC
 v0n0.nic.live.				      172800 IN	A	65.22.20.1
 v0n0.nic.live.				      172800 IN	AAAA	2a01:8840:16::1
@@ -10978,7 +10881,6 @@ llc.					      172800 IN	NS	a2.nic.llc.
 llc.					      172800 IN	NS	b0.nic.llc.
 llc.					      172800 IN	NS	c0.nic.llc.
 llc.					      86400 IN DS	7426 8 2 185A6FEF58E6BFD26D44D80A7F0E0AF8BCECB4E36AB7E9C870AD70E9 4A95FA35
-llc.					      86400 IN DS	25591 8 2 93C8B54BD9413A06DC25A32304B423342FD3273CA6785071C4BD18A2 D8B04819
 llc.					      86400 IN NSEC	llp. NS DS RRSIG NSEC
 a0.nic.llc.				      172800 IN	A	65.22.36.9
 a0.nic.llc.				      172800 IN	AAAA	2a01:8840:26::9
@@ -11029,7 +10931,6 @@ loans.					      172800 IN	NS	v0n3.nic.loans.
 loans.					      172800 IN	NS	v2n0.nic.loans.
 loans.					      172800 IN	NS	v2n1.nic.loans.
 loans.					      86400 IN DS	19444 8 2 02E88D5B5EDC9E6B33B05957B8DE19120CA1D282CB299952DB9754E0 DFD3903A
-loans.					      86400 IN DS	42307 8 2 1861E548A3F914C3B7F4DB8336E56041359D352B703D9E302193FC1A 98D3AE1B
 loans.					      86400 IN NSEC	locker. NS DS RRSIG NSEC
 v0n0.nic.loans.				      172800 IN	A	65.22.24.55
 v0n0.nic.loans.				      172800 IN	AAAA	2a01:8840:1a::55
@@ -11115,7 +11016,6 @@ lotto.					      172800 IN	NS	a2.nic.lotto.
 lotto.					      172800 IN	NS	b0.nic.lotto.
 lotto.					      172800 IN	NS	c0.nic.lotto.
 lotto.					      86400 IN DS	3692 8 2 B2F81EF964148A43ACCEF149D0F6617BA31E343BD2406EEA1F632D33 0D234859
-lotto.					      86400 IN DS	45466 8 2 6FFE76934A3634A61F99FAD76FA0506A7682C5541452CF7B289F348F EDD124BF
 lotto.					      86400 IN NSEC	love. NS DS RRSIG NSEC
 a0.nic.lotto.				      172800 IN	A	65.22.28.25
 a0.nic.lotto.				      172800 IN	AAAA	2a01:8840:1e::25
@@ -11199,7 +11099,6 @@ ltd.					      172800 IN	NS	v0n2.nic.ltd.
 ltd.					      172800 IN	NS	v0n3.nic.ltd.
 ltd.					      172800 IN	NS	v2n0.nic.ltd.
 ltd.					      172800 IN	NS	v2n1.nic.ltd.
-ltd.					      86400 IN DS	54 8 2 D0F5F5A210D27F70A8912BF81078BEEB34DBD370D7F0470D1140B749 AC2F3A46
 ltd.					      86400 IN DS	4397 8 2 A781401AA0CED0ADC9D27163D3D5545A4FFE4993DECE70BE548387E4 B07B4786
 ltd.					      86400 IN NSEC	ltda. NS DS RRSIG NSEC
 v0n0.nic.ltd.				      172800 IN	A	65.22.28.2
@@ -11255,7 +11154,6 @@ lundbeck.				      172800 IN	NS	a0.nic.lundbeck.
 lundbeck.				      172800 IN	NS	a2.nic.lundbeck.
 lundbeck.				      172800 IN	NS	b0.nic.lundbeck.
 lundbeck.				      172800 IN	NS	c0.nic.lundbeck.
-lundbeck.				      86400 IN DS	10564 8 2 38580C9480C824DA9CB65A5FFACCDF2F6AEDC660B98C6166E0A843FF 13FAB368
 lundbeck.				      86400 IN DS	49247 8 2 955E45A6A577B2F70A8AFBEC833E6E261020C81E943300CE4BCA5AC7 FDE1CD41
 lundbeck.				      86400 IN NSEC	luxe. NS DS RRSIG NSEC
 a0.nic.lundbeck.			      172800 IN	A	65.22.112.60
@@ -11367,7 +11265,6 @@ maif.					      172800 IN	NS	v0n2.nic.maif.
 maif.					      172800 IN	NS	v0n3.nic.maif.
 maif.					      172800 IN	NS	v2n0.nic.maif.
 maif.					      172800 IN	NS	v2n1.nic.maif.
-maif.					      86400 IN DS	23521 8 2 9BA0FE20840ECE2FF7793F00A66CE5457904D0549526C8454B0CFEC4 A697B59C
 maif.					      86400 IN DS	63637 8 2 02874566699326B249D1461B289C5B949876E6D8D7A50AB9C99CF623 7B05393B
 maif.					      86400 IN NSEC	maison. NS DS RRSIG NSEC
 v0n0.nic.maif.				      172800 IN	A	65.22.108.5
@@ -11388,7 +11285,6 @@ maison.					      172800 IN	NS	v0n2.nic.maison.
 maison.					      172800 IN	NS	v0n3.nic.maison.
 maison.					      172800 IN	NS	v2n0.nic.maison.
 maison.					      172800 IN	NS	v2n1.nic.maison.
-maison.					      86400 IN DS	47149 8 2 AE330295E4790375D3E98AC41830036AABB74D3D31B17C391B49D7FD 2A4883BB
 maison.					      86400 IN DS	55952 8 2 9F6D1ED3AEBF20AC4E21FE300D93C31CAE2F79C9DE8382D3135264B4 6A4B633D
 maison.					      86400 IN NSEC	makeup. NS DS RRSIG NSEC
 v0n0.nic.maison.			      172800 IN	A	65.22.28.33
@@ -11430,7 +11326,6 @@ management.				      172800 IN	NS	v0n2.nic.management.
 management.				      172800 IN	NS	v0n3.nic.management.
 management.				      172800 IN	NS	v2n0.nic.management.
 management.				      172800 IN	NS	v2n1.nic.management.
-management.				      86400 IN DS	2944 8 2 3212DA6705ED0149EE2E13781D2708A6ADD9073DD6E680EDB3D76D9E 45427590
 management.				      86400 IN DS	32251 8 2 47801603A75788C4ABF5C51AE313E1B59D38A2BFEA27810D5047B9DE CB8FC9BD
 management.				      86400 IN NSEC	mango. NS DS RRSIG NSEC
 v0n0.nic.management.			      172800 IN	A	65.22.20.14
@@ -11464,7 +11359,6 @@ market.					      172800 IN	NS	v0n2.nic.market.
 market.					      172800 IN	NS	v0n3.nic.market.
 market.					      172800 IN	NS	v2n0.nic.market.
 market.					      172800 IN	NS	v2n1.nic.market.
-market.					      86400 IN DS	40531 8 2 A42ED3B928B90E5B821578D204BA0D108138BE438EEA0F9CEB914360 85264C80
 market.					      86400 IN DS	62735 8 2 6CA268D8CA7C00AC0005241E52C679B7AB0DA121180569E0C0CC2DE9 C5E85982
 market.					      86400 IN NSEC	marketing. NS DS RRSIG NSEC
 v0n0.nic.market.			      172800 IN	A	65.22.20.8
@@ -11485,7 +11379,6 @@ marketing.				      172800 IN	NS	v0n2.nic.marketing.
 marketing.				      172800 IN	NS	v0n3.nic.marketing.
 marketing.				      172800 IN	NS	v2n0.nic.marketing.
 marketing.				      172800 IN	NS	v2n1.nic.marketing.
-marketing.				      86400 IN DS	22285 8 2 F2FD61F041544A7A8DD1BF440C72020D08581190D697F3944886AD1F F08588E1
 marketing.				      86400 IN DS	44581 8 2 7AF2A7EA52F9B1FA7DB598EBA085B8D37F15C2273B9A538A1CECC291 6EE7D6E3
 marketing.				      86400 IN NSEC	markets. NS DS RRSIG NSEC
 v0n0.nic.marketing.			      172800 IN	A	65.22.20.6
@@ -11506,7 +11399,6 @@ markets.				      172800 IN	NS	v0n2.nic.markets.
 markets.				      172800 IN	NS	v0n3.nic.markets.
 markets.				      172800 IN	NS	v2n0.nic.markets.
 markets.				      172800 IN	NS	v2n1.nic.markets.
-markets.				      86400 IN DS	58144 8 2 2C079F760779074E6CE68307C28F88F7B75D9FD6CFD65BEC5C95C38D 3EBFC614
 markets.				      86400 IN DS	64757 8 2 49CAE040120CB09469290800FE75BAFF34CFE04B7125E25FCA925B86 9719E317
 markets.				      86400 IN NSEC	marriott. NS DS RRSIG NSEC
 v0n0.nic.markets.			      172800 IN	A	65.22.32.65
@@ -11525,7 +11417,6 @@ marriott.				      172800 IN	NS	a0.nic.marriott.
 marriott.				      172800 IN	NS	a2.nic.marriott.
 marriott.				      172800 IN	NS	b0.nic.marriott.
 marriott.				      172800 IN	NS	c0.nic.marriott.
-marriott.				      86400 IN DS	24409 8 2 8684C74574A7D00D562DCD780C7DEB8554F2DE761BC6BF4F59197D8D 9B0656A6
 marriott.				      86400 IN DS	37879 8 2 C7FC96E6D6EDCA83581EEDDF557AD20685C9D0C72B782813F7CE5D94 CFB57432
 marriott.				      86400 IN NSEC	marshalls. NS DS RRSIG NSEC
 a0.nic.marriott.			      172800 IN	A	65.22.236.9
@@ -11583,7 +11474,6 @@ mba.					      172800 IN	NS	v0n3.nic.mba.
 mba.					      172800 IN	NS	v2n0.nic.mba.
 mba.					      172800 IN	NS	v2n1.nic.mba.
 mba.					      86400 IN DS	15530 8 2 712B70A0CD10F9042D9101E291BE56C70658B5B98680EDA779ECA70A CEDA10F4
-mba.					      86400 IN DS	65197 8 2 4076FF89017430719753DF3C4C878F0114B1A6C14F79A9B8D7494F6F 825AFDEC
 mba.					      86400 IN NSEC	mc. NS DS RRSIG NSEC
 v0n0.nic.mba.				      172800 IN	A	65.22.24.59
 v0n0.nic.mba.				      172800 IN	AAAA	2a01:8840:1a::59
@@ -11611,7 +11501,6 @@ mckinsey.				      172800 IN	NS	a2.nic.mckinsey.
 mckinsey.				      172800 IN	NS	b0.nic.mckinsey.
 mckinsey.				      172800 IN	NS	c0.nic.mckinsey.
 mckinsey.				      86400 IN DS	13015 8 2 70E781EA9F2DD6FE5AEFCB7C019C9C71E9DFA15DFC076E1632CC02EF B2C287F1
-mckinsey.				      86400 IN DS	27100 8 2 B9D92B7DBF31D3BD3AA6752BD38C50F6B637509E22C438A34677C843 B9AFD238
 mckinsey.				      86400 IN NSEC	md. NS DS RRSIG NSEC
 a0.nic.mckinsey.			      172800 IN	A	65.22.236.25
 a0.nic.mckinsey.			      172800 IN	AAAA	2a01:8840:e6::25
@@ -11682,7 +11571,6 @@ media.					      172800 IN	NS	v0n2.nic.media.
 media.					      172800 IN	NS	v0n3.nic.media.
 media.					      172800 IN	NS	v2n0.nic.media.
 media.					      172800 IN	NS	v2n1.nic.media.
-media.					      86400 IN DS	54649 8 2 D73AD588629EAAC32749998639D85E8B383069CD7B85E4A5EDD13115 6EB15B97
 media.					      86400 IN DS	56680 8 2 A6A921DCD5A91D63F879135D0333C0FCB047A64F82B5FB6811D411D2 5B7CCE06
 media.					      86400 IN NSEC	meet. NS DS RRSIG NSEC
 v0n0.nic.media.				      172800 IN	A	65.22.20.3
@@ -11737,7 +11625,6 @@ memorial.				      172800 IN	NS	v0n2.nic.memorial.
 memorial.				      172800 IN	NS	v0n3.nic.memorial.
 memorial.				      172800 IN	NS	v2n0.nic.memorial.
 memorial.				      172800 IN	NS	v2n1.nic.memorial.
-memorial.				      86400 IN DS	17102 8 2 125500A7DFBEA41E4B90C1B086DB21277340DF1FBACE51AC8E9AAA0C 773D1D23
 memorial.				      86400 IN DS	33904 8 2 91D519254C2348A96B0724B9F3990B6F67BA35925665ED694D82D36C 4A5D26C6
 memorial.				      86400 IN NSEC	men. NS DS RRSIG NSEC
 v0n0.nic.memorial.			      172800 IN	A	65.22.32.64
@@ -11936,7 +11823,6 @@ mit.					      172800 IN	NS	a2.nic.mit.
 mit.					      172800 IN	NS	b0.nic.mit.
 mit.					      172800 IN	NS	c0.nic.mit.
 mit.					      86400 IN DS	7424 8 2 29AFECA6FFFD16FF3D3BFEF8C714E9AB4B603931C1AFC358C504A3FC B53D9B44
-mit.					      86400 IN DS	65212 8 2 321542533579CA11F6FC95AC23ABAE16A4DD112EB3785E98C51A47F5 B25D2B9D
 mit.					      86400 IN NSEC	mitsubishi. NS DS RRSIG NSEC
 a0.nic.mit.				      172800 IN	A	65.22.236.17
 a0.nic.mit.				      172800 IN	AAAA	2a01:8840:e6::17
@@ -12064,7 +11950,6 @@ mobi.					      172800 IN	NS	b2.mobi.afilias-nst.org.
 mobi.					      172800 IN	NS	c0.mobi.afilias-nst.info.
 mobi.					      172800 IN	NS	d0.mobi.afilias-nst.org.
 mobi.					      86400 IN DS	35575 8 2 14F7656EC90E2EFF725E3643BA360CA4F675D49C334A32F8167CB92B 3473AEC2
-mobi.					      86400 IN DS	56191 8 2 016C0D8022BEF2CABB827CE75DABD8FD24CD0160AC277A95ECD5E79B 1A95592C
 mobi.					      86400 IN NSEC	mobile. NS DS RRSIG NSEC
 mobile.					      172800 IN	NS	ns01.trs-dns.com.
 mobile.					      172800 IN	NS	ns01.trs-dns.net.
@@ -12079,7 +11964,6 @@ moda.					      172800 IN	NS	v0n3.nic.moda.
 moda.					      172800 IN	NS	v2n0.nic.moda.
 moda.					      172800 IN	NS	v2n1.nic.moda.
 moda.					      86400 IN DS	52747 8 2 B1B0FD7B719AC5D633D5529352C9E7DC5ABFA21A738A72ECAB6ABAA5 AB196624
-moda.					      86400 IN DS	60925 8 2 D9124BBC4096E70B4AAB2A0328750836243BB8FF45FB0AA3000239E8 3D5DA1CD
 moda.					      86400 IN NSEC	moe. NS DS RRSIG NSEC
 v0n0.nic.moda.				      172800 IN	A	65.22.20.28
 v0n0.nic.moda.				      172800 IN	AAAA	2a01:8840:16::28
@@ -12179,7 +12063,6 @@ money.					      172800 IN	NS	v0n2.nic.money.
 money.					      172800 IN	NS	v0n3.nic.money.
 money.					      172800 IN	NS	v2n0.nic.money.
 money.					      172800 IN	NS	v2n1.nic.money.
-money.					      86400 IN DS	4450 8 2 CCB7EBA3B169EDEFBF21F0DD89667AFA4920D4065D96C26F9A191B87 4BA25719
 money.					      86400 IN DS	40832 8 2 C691AA46F968493E58A01A6A0A0AF323635CF3B949CE227C2D3D6166 E721D327
 money.					      86400 IN NSEC	monster. NS DS RRSIG NSEC
 v0n0.nic.money.				      172800 IN	A	65.22.28.13
@@ -12229,7 +12112,6 @@ mortgage.				      172800 IN	NS	v0n3.nic.mortgage.
 mortgage.				      172800 IN	NS	v2n0.nic.mortgage.
 mortgage.				      172800 IN	NS	v2n1.nic.mortgage.
 mortgage.				      86400 IN DS	14590 8 2 B869522C3C1A884B6E74FDCC59E36596BA195D844A9A40D32379C0E7 F084B87D
-mortgage.				      86400 IN DS	32380 8 2 5A2743723615F674DD2633997CFB7D2E89A0DB552BF7553B6EB80C44 9E998049
 mortgage.				      86400 IN NSEC	moscow. NS DS RRSIG NSEC
 v0n0.nic.mortgage.			      172800 IN	A	65.22.32.56
 v0n0.nic.mortgage.			      172800 IN	AAAA	2a01:8840:22::56
@@ -12297,7 +12179,6 @@ movie.					      172800 IN	NS	v0n2.nic.movie.
 movie.					      172800 IN	NS	v0n3.nic.movie.
 movie.					      172800 IN	NS	v2n0.nic.movie.
 movie.					      172800 IN	NS	v2n1.nic.movie.
-movie.					      86400 IN DS	391 8 2 0C93D08A6111D49129AC112076ADF54B8B8E8975EB6F334372C8CE49 8664C422
 movie.					      86400 IN DS	10321 8 2 52DAB10ADAE8D2CFEF9702EB375DC2452FB09826434B52AEAF58C6F0 EBAD3AF9
 movie.					      86400 IN NSEC	mp. NS DS RRSIG NSEC
 v0n0.nic.movie.				      172800 IN	A	65.22.32.26
@@ -12526,7 +12407,6 @@ nab.					      172800 IN	NS	a0.nic.nab.
 nab.					      172800 IN	NS	a2.nic.nab.
 nab.					      172800 IN	NS	b0.nic.nab.
 nab.					      172800 IN	NS	c0.nic.nab.
-nab.					      86400 IN DS	3754 8 2 8DB2922BD318627EAF5907312A66433D3FC088510F37A4162B191107 7B0CDFAC
 nab.					      86400 IN DS	12286 8 2 DDB637D8E9BB04C8CAD43050993F2028D986346E09A0C5C42EA43221 1B6F5CD3
 nab.					      86400 IN NSEC	nagoya. NS DS RRSIG NSEC
 a0.nic.nab.				      172800 IN	A	65.22.112.61
@@ -12555,7 +12435,6 @@ navy.					      172800 IN	NS	v0n2.nic.navy.
 navy.					      172800 IN	NS	v0n3.nic.navy.
 navy.					      172800 IN	NS	v2n0.nic.navy.
 navy.					      172800 IN	NS	v2n1.nic.navy.
-navy.					      86400 IN DS	24535 8 2 6F05F1CC418BDC0C32058586CD7DE8CF28EC70AA9C978E2613389226 053C53BF
 navy.					      86400 IN DS	56720 8 2 2D668331ADD9A763CF4B01FD7DC39F64FC5FCA8DED8ECC059D37D6E8 74AF1ED5
 navy.					      86400 IN NSEC	nba. NS DS RRSIG NSEC
 v0n0.nic.navy.				      172800 IN	A	65.22.28.34
@@ -13013,7 +12892,6 @@ network.				      172800 IN	NS	v0n3.nic.network.
 network.				      172800 IN	NS	v2n0.nic.network.
 network.				      172800 IN	NS	v2n1.nic.network.
 network.				      86400 IN DS	11416 8 2 66B87E0D0861B6D022DAE6A838ACAE9D2EC461A84E5011C525DB6C88 06F1ABE9
-network.				      86400 IN DS	40414 8 2 67BBAA0C822DACF7BAA5D8FAAC2591BDD7BF9A6A4189ECA26A61C252 76744D2B
 network.				      86400 IN NSEC	neustar. NS DS RRSIG NSEC
 v0n0.nic.network.			      172800 IN	A	65.22.32.36
 v0n0.nic.network.			      172800 IN	AAAA	2a01:8840:22::36
@@ -13060,7 +12938,6 @@ news.					      172800 IN	NS	v0n2.nic.news.
 news.					      172800 IN	NS	v0n3.nic.news.
 news.					      172800 IN	NS	v2n0.nic.news.
 news.					      172800 IN	NS	v2n1.nic.news.
-news.					      86400 IN DS	39979 8 2 40C36D4B7AFF71B956ABBFD5710BB34DBDAB3F020D58CB613DA94FC3 59E63C36
 news.					      86400 IN DS	63314 8 2 DFCA18583B31BE12CA1C07E36B4D21D5722277DF78002DAFCCBE3287 BA78E6FF
 news.					      86400 IN NSEC	next. NS DS RRSIG NSEC
 v0n0.nic.news.				      172800 IN	A	65.22.32.3
@@ -13080,7 +12957,6 @@ next.					      172800 IN	NS	a2.nic.next.
 next.					      172800 IN	NS	b0.nic.next.
 next.					      172800 IN	NS	c0.nic.next.
 next.					      86400 IN DS	18661 8 2 B2763EA4801B812999271BA11AAE4A17194A2F886388BA6971B01E18 DA69B7C4
-next.					      86400 IN DS	39380 8 2 FD76F1A70049CC1383D9DA8CBE33917B5877152F2D976E1A0806CA79 C00F4658
 next.					      86400 IN NSEC	nextdirect. NS DS RRSIG NSEC
 a0.nic.next.				      172800 IN	A	65.22.112.62
 a0.nic.next.				      172800 IN	AAAA	2a01:8840:6e::62
@@ -16195,13 +16071,12 @@ sc.					      172800 IN	NS	b0.cctld.afilias-nst.org.
 sc.					      172800 IN	NS	b2.cctld.afilias-nst.org.
 sc.					      172800 IN	NS	c0.cctld.afilias-nst.info.
 sc.					      172800 IN	NS	d0.cctld.afilias-nst.org.
-sc.					      86400 IN DS	2539 8 2 8293FA3AC08BE770A400DDE4F250DC6BF1046F34430BE12E65C15BF2 F482B26C
 sc.					      86400 IN DS	35612 8 2 7A60FD508DECC8B4CBEECC9C85EDBBBE689F70310D97CFD5EE4AC264 3DD1DA10
 sc.					      86400 IN NSEC	scb. NS DS RRSIG NSEC
 scb.					      172800 IN	NS	c.nic.scb.
 scb.					      172800 IN	NS	rz.nic.scb.
 scb.					      172800 IN	NS	nn1.nic.scb.
-scb.					      86400 IN DS	15730 8 2 030197041A720720E81E5FE9A4EA656A210B1614785AAED72CF0BDDB 27887CE1
+scb.					      86400 IN DS	11942 8 2 E0875FB11933685C9090F77373F0C4727A66E4B43137409CE9CCD045 4626F56D
 scb.					      86400 IN NSEC	schaeffler. NS DS RRSIG NSEC
 c.nic.scb.				      172800 IN	A	194.0.1.35
 c.nic.scb.				      172800 IN	AAAA	2001:678:4::23
