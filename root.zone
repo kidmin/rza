@@ -1,5 +1,5 @@
-.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026111300 1800 900 604800 86400
-.					      86400 IN RRSIG	SOA 8 0 86400 20261126050000 20261113040000 8763 . MxDsb+TEJZ82dbJs6mwe5USBqpt1heknLefNRiSS5UA54fVIewLkR98t mjADsn8Vh2zsp9NaqIIkglM6FDeNbTrtKU0MHiu03/rVCrz0VwcQ7FY8 haPN7CwalM+akNzYsuoGSgCyFGsECMicyihW9WQ43AOuBGjdfScboduk arn7LTBSkLFseqkEUmWlQIYJYbfJRDtOdIwAmB7VVihZZ+L8vzC75Sx3 tEwlvMEE44pWAX/iORbLdAlm6S0D2+ikYkmJD+R6+E0eqsv1C4PcSGIu PtOpZG+2R1qpL5hxXsEiAeEM96QSFHp6yjAqiydZTNLWJufA8T2Mya7q eDoPGw==
+.					      86400 IN SOA	a.root-servers.net. nstld.verisign-grs.com. 2026111301 1800 900 604800 86400
+.					      86400 IN RRSIG	SOA 8 0 86400 20261126160000 20261113150000 8763 . P7+6DUEnMBfAfkq5HaY4mhy+B+HMuA1PGn4/1Sd57RyyKO1b9Cps1L0j J8kl0WMb0RH/lkulmjwHZ+qlZoKfTQe1OG7CyAFUxsB0IC8vcIOY7OUG MvHYY4Gr55k8DjduJ0rs/Oy9u6Kx61m5PoERs50FTKQYQH621lz9/sii Z9h0B0YFiGhDl5gFKdGIt/85lJ8/3W+AqAaRLqKnpkTc4wkINoLJIam+ RqD8BZj1/76sdK61mz6kUWMgEYy+wWQ/hZNp04zvqIRn07wLRW4ZeIGB vp+Zs9Qys+V8MZg3mW+MgekuGXctwUUeOw+firl2jkHZepLQM4+/wzSI 9cEWRA==
 .					      518400 IN	NS	a.root-servers.net.
 .					      518400 IN	NS	b.root-servers.net.
 .					      518400 IN	NS	c.root-servers.net.
@@ -18,7 +18,7 @@
 .					      172800 IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3 +/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kv ArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF 0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+e oZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfd RUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwN R1AkUTV74bU=
 .					      172800 IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/c idltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHb GiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+s iFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqp dVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ 1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUe ayffKC73PYc=
 .					      172800 IN	RRSIG	DNSKEY 8 0 172800 20261201000000 20261110000000 38696 . TuNb+MGI2u01zLpoSlOCQ90qWsYvKOXIqPmhHWXsKss1JDrWc9akScIE /LDT5mobotEn8vmGICOFWEeVN2/usP2HPvYCJh8IcD1AUDsr3UPEqTI6 O55MJ8FteyK2xiyQJ8NzxQ6pAjKkpAmY3FxL0+v5lmi7Qlb1pMw8rwqL 331lEhAxHFDRNFsY4rrwud1eKvsT6DdWnHU3bzNUAzTtsnb6d2JM116+ lsQDKzuqokOVGWcf/ROz1Q6lnjI8xGKwEAV+khmd099z6Y1l//t3T8Qk uIbDIL+yxmuygB5/5O4/T/ZH75asCe0qE2FoHFhrkgKTFWjuyt5mYVkq AYsKSg==
-.					      86400 IN ZONEMD	2026111300 1 1 CC8F27004BE252BE5D790902BE954046BB4B58B9D5FBA7698B638841 CC8414B0D7F71CA1B062B1F804F4C71AAAA3B75B
+.					      86400 IN ZONEMD	2026111301 1 1 21319C180C4B1ABB3E75ABC087FA1727C4B2044B8EDB062474990ADB 84C984E0DDA4D6D339B0725497BB9EC131DD3620
 aaa.					      172800 IN	NS	a.nic.aaa.
 aaa.					      172800 IN	NS	b.nic.aaa.
 aaa.					      172800 IN	NS	c.nic.aaa.
@@ -1618,6 +1618,7 @@ bank.					      172800 IN	NS	w.nic.bank.
 bank.					      172800 IN	NS	x.nic.bank.
 bank.					      172800 IN	NS	y.nic.bank.
 bank.					      86400 IN DS	32743 13 2 C962CA12693BF639B1EEB2C9E5A5E90988AB334038E8DAFF0C1CD054 54B57038
+bank.					      86400 IN DS	53289 13 2 587EEBDDD5CCD11F788442B1013459468AA0FCA1FD667C74049F3900 25A6E22A
 bank.					      86400 IN NSEC	bar. NS DS RRSIG NSEC
 d.nic.bank.				      172800 IN	A	156.154.103.27
 d.nic.bank.				      172800 IN	AAAA	2610:a1:1010::27
@@ -3602,7 +3603,6 @@ charity.				      172800 IN	NS	v0n3.nic.charity.
 charity.				      172800 IN	NS	v2n0.nic.charity.
 charity.				      172800 IN	NS	v2n1.nic.charity.
 charity.				      86400 IN DS	41827 8 2 3874CE1BE6EE0936E732A9930D24270167B1B7CA735C154F32ABDC6D 5D5C2549
-charity.				      86400 IN DS	52489 8 2 FA42C0A07830A438C791E59D07B39121B72564A6B0AF5EB4F2235E5D 16D656F7
 charity.				      86400 IN NSEC	chase. NS DS RRSIG NSEC
 v0n0.nic.charity.			      172800 IN	A	65.22.20.61
 v0n0.nic.charity.			      172800 IN	AAAA	2a01:8840:16::61
@@ -5839,7 +5839,6 @@ emerck.					      172800 IN	NS	a2.nic.emerck.
 emerck.					      172800 IN	NS	b0.nic.emerck.
 emerck.					      172800 IN	NS	c0.nic.emerck.
 emerck.					      86400 IN DS	5957 8 2 D52F0E9CCE04B6A4F14E82E32486A4CAF0B9826D0E7FF489042D7D7A F12A532D
-emerck.					      86400 IN DS	58186 8 2 B19E38544F1C313575B683C8533ACF792A0373C18F270ED0A1EBD2C3 F77A291B
 emerck.					      86400 IN NSEC	energy. NS DS RRSIG NSEC
 a0.nic.emerck.				      172800 IN	A	65.22.156.1
 a0.nic.emerck.				      172800 IN	AAAA	2a01:8840:9a::1
@@ -6977,7 +6976,6 @@ foundation.				      172800 IN	NS	v0n3.nic.foundation.
 foundation.				      172800 IN	NS	v2n0.nic.foundation.
 foundation.				      172800 IN	NS	v2n1.nic.foundation.
 foundation.				      86400 IN DS	30514 8 2 7A15A6B19F38D1DF8348EC94655BA751519B93CCDF3A2C80C4120257 493CAF8B
-foundation.				      86400 IN DS	50359 8 2 B440325C92CAB8D16072F62301B71032691FD4C5D46ED01278CF945B 0F8E360B
 foundation.				      86400 IN NSEC	fox. NS DS RRSIG NSEC
 v0n0.nic.foundation.			      172800 IN	A	65.22.24.43
 v0n0.nic.foundation.			      172800 IN	AAAA	2a01:8840:1a::43
@@ -7108,7 +7106,6 @@ frogans.				      172800 IN	NS	a2.nic.frogans.
 frogans.				      172800 IN	NS	b0.nic.frogans.
 frogans.				      172800 IN	NS	c0.nic.frogans.
 frogans.				      86400 IN DS	4544 8 2 0D4D981D3A0192AAA38C6CB79200802982E8E1E193FBCE05166DE630 F6A3E824
-frogans.				      86400 IN DS	44230 8 2 50F935219610318D526521F0E31C70705B462BDE2C9FDBA142969B27 207B3B7F
 frogans.				      86400 IN NSEC	frontier. NS DS RRSIG NSEC
 a0.nic.frogans.				      172800 IN	A	65.22.188.1
 a0.nic.frogans.				      172800 IN	AAAA	2a01:8840:b6::1
@@ -7584,7 +7581,6 @@ gives.					      172800 IN	NS	v0n3.nic.gives.
 gives.					      172800 IN	NS	v2n0.nic.gives.
 gives.					      172800 IN	NS	v2n1.nic.gives.
 gives.					      86400 IN DS	45025 8 2 BDD0AF2BE18704D31FC4A721C1059E5ACA8ADD7FBD5C16F341C8A3FD 49E8FDF6
-gives.					      86400 IN DS	51526 8 2 D1DD06D869102253FE38E8F665571B0F10A7F2C24AD4A92C10C47503 919A6E1D
 gives.					      86400 IN NSEC	giving. NS DS RRSIG NSEC
 v0n0.nic.gives.				      172800 IN	A	65.22.32.61
 v0n0.nic.gives.				      172800 IN	AAAA	2a01:8840:22::61
@@ -7604,7 +7600,6 @@ giving.					      172800 IN	NS	b0.nic.giving.
 giving.					      172800 IN	NS	b2.nic.giving.
 giving.					      172800 IN	NS	c0.nic.giving.
 giving.					      172800 IN	NS	d0.nic.giving.
-giving.					      86400 IN DS	42049 8 2 51655C1EDBA06B3C2329578ADE539D446169F70F06ADFD536C0EF7B3 15506A1F
 giving.					      86400 IN DS	57566 8 2 93A826531A806E8B1B463253B8FD43E90455E8179A574729A50E1CDE E75D697C
 giving.					      86400 IN NSEC	gl. NS DS RRSIG NSEC
 a0.nic.giving.				      172800 IN	A	199.19.56.1
@@ -8280,6 +8275,7 @@ hdfcbank.				      172800 IN	NS	a0.nic.hdfcbank.
 hdfcbank.				      172800 IN	NS	a2.nic.hdfcbank.
 hdfcbank.				      172800 IN	NS	b0.nic.hdfcbank.
 hdfcbank.				      172800 IN	NS	c0.nic.hdfcbank.
+hdfcbank.				      86400 IN DS	30971 8 2 ACA2743CAE6C486E4CECC0CE1765740C8D7351C0D2F51ABC82857AC0 EFEB7BBC
 hdfcbank.				      86400 IN DS	63937 8 2 B8F2CA908CC4E3526A25AD74DA7F2D9962B4A1692805AE8F5C0CEF55 42745029
 hdfcbank.				      86400 IN NSEC	health. NS DS RRSIG NSEC
 a0.nic.hdfcbank.			      172800 IN	A	65.22.180.33
@@ -9190,8 +9186,6 @@ a2.mobi.afilias-nst.info.		      172800 IN	A	199.249.118.1
 a2.mobi.afilias-nst.info.		      172800 IN	AAAA	2001:500:46::1
 c0.mobi.afilias-nst.info.		      172800 IN	A	199.254.57.1
 c0.mobi.afilias-nst.info.		      172800 IN	AAAA	2001:500:23::1
-a2.org.afilias-nst.info.		      172800 IN	A	199.249.112.1
-a2.org.afilias-nst.info.		      172800 IN	AAAA	2001:500:40::1
 a0.pr.afilias-nst.info.			      172800 IN	A	199.254.59.17
 a0.pr.afilias-nst.info.			      172800 IN	AAAA	2001:500:25::17
 a2.pr.afilias-nst.info.			      172800 IN	A	199.249.116.17
@@ -9477,7 +9471,6 @@ ist.					      172800 IN	NS	a0.nic.ist.
 ist.					      172800 IN	NS	a2.nic.ist.
 ist.					      172800 IN	NS	b0.nic.ist.
 ist.					      172800 IN	NS	c0.nic.ist.
-ist.					      86400 IN DS	2221 8 2 7F26778AFF98DAD019476832C62CE0399F247BA6F4F8E10BF26B8C80 DB6E30D9
 ist.					      86400 IN DS	47420 8 2 826B700FDED235B050BFEF6A72E89951BDAB995FB1B1375CCB5037AA D33B7064
 ist.					      86400 IN NSEC	istanbul. NS DS RRSIG NSEC
 a0.nic.ist.				      172800 IN	A	65.22.144.1
@@ -9493,7 +9486,6 @@ istanbul.				      172800 IN	NS	a2.nic.istanbul.
 istanbul.				      172800 IN	NS	b0.nic.istanbul.
 istanbul.				      172800 IN	NS	c0.nic.istanbul.
 istanbul.				      86400 IN DS	2354 8 2 2291DC6EF6ED1F0F8FBF62E1B7FEF24D34AD092564AEF40AAC3C82E9 DC3C5A29
-istanbul.				      86400 IN DS	61630 8 2 3EBB91801CF0D1A67A84B4F1E265B248A3E3B0459C30D3631955E98A 31A430D8
 istanbul.				      86400 IN NSEC	it. NS DS RRSIG NSEC
 a0.nic.istanbul.			      172800 IN	A	65.22.144.9
 a0.nic.istanbul.			      172800 IN	AAAA	2a01:8840:8e::9
@@ -12312,7 +12304,6 @@ mu.					      172800 IN	NS	v0n2.tld.mu.
 mu.					      172800 IN	NS	v0n3.tld.mu.
 mu.					      172800 IN	NS	v2n0.tld.mu.
 mu.					      172800 IN	NS	v2n1.tld.mu.
-mu.					      86400 IN DS	46330 8 2 35D980186CAC1554EF565AC20A1B774A480A111D63D594C5913E83D7 F5E3867E
 mu.					      86400 IN DS	46579 8 2 2364D142F9C4BCD265E3659921288B19144FE3EFBFF353C0CC19B14D 4798984D
 mu.					      86400 IN NSEC	museum. NS DS RRSIG NSEC
 v0n0.tld.mu.				      172800 IN	A	199.254.59.33
@@ -13050,7 +13041,6 @@ ngo.					      172800 IN	NS	b2.nic.ngo.
 ngo.					      172800 IN	NS	c0.nic.ngo.
 ngo.					      172800 IN	NS	d0.nic.ngo.
 ngo.					      86400 IN DS	4621 8 2 8AC7CFE59B9915B7A9A0F16263371C51A373FAE6DE928D51958EFBE2 3F618055
-ngo.					      86400 IN DS	23944 8 2 DFEC23291372BA32BC2BDE96F88A383373BE1C4BA7BCDB65D5E34F16 07400F63
 ngo.					      86400 IN NSEC	nhk. NS DS RRSIG NSEC
 a0.nic.ngo.				      172800 IN	A	199.19.56.1
 a0.nic.ngo.				      172800 IN	AAAA	2001:500:e::1
@@ -13594,7 +13584,6 @@ ong.					      172800 IN	NS	b2.nic.ong.
 ong.					      172800 IN	NS	c0.nic.ong.
 ong.					      172800 IN	NS	d0.nic.ong.
 ong.					      86400 IN DS	16340 8 2 AEA01E8348E72F6345A8CE1453F4D64BD5B0154AE059B63A205EDE26 86B98A22
-ong.					      86400 IN DS	45685 8 2 535CBA6CFB082FFCCE6584C2958DCBDF706A21DE784096A2738B3ACD 8D643032
 ong.					      86400 IN NSEC	onl. NS DS RRSIG NSEC
 a0.nic.ong.				      172800 IN	A	199.19.56.1
 a0.nic.ong.				      172800 IN	AAAA	2001:500:e::1
@@ -13700,14 +13689,13 @@ v2n0.nic.orange.			      172800 IN	A	65.22.111.16
 v2n0.nic.orange.			      172800 IN	AAAA	2a01:8840:6d::16
 v2n1.nic.orange.			      172800 IN	A	161.232.33.16
 v2n1.nic.orange.			      172800 IN	AAAA	2a01:8840:109::16
-org.					      172800 IN	NS	a2.org.afilias-nst.info.
-org.					      172800 IN	NS	b2.org.afilias-nst.org.
-org.					      172800 IN	NS	d0.org.afilias-nst.org.
 org.					      172800 IN	NS	v0n0.pir-ns.org.
 org.					      172800 IN	NS	v0n1.pir-ns.org.
 org.					      172800 IN	NS	v0n2.pir-ns.org.
+org.					      172800 IN	NS	v0n3.pir-ns.org.
+org.					      172800 IN	NS	v2n0.pir-ns.org.
+org.					      172800 IN	NS	v2n1.pir-ns.org.
 org.					      86400 IN DS	725 8 2 EB3881030D9D34BB7BC40DDC5A198E7C830804C03FB6AA982592946D EB27BEBE
-org.					      86400 IN DS	26974 8 2 4FEDE294C53F438A158C41D39489CD78A86BEB0D8A0AEAFF14745C0D 16E1DE32
 org.					      86400 IN NSEC	organic. NS DS RRSIG NSEC
 b2.asia.afilias-nst.org.		      172800 IN	A	199.249.122.1
 b2.asia.afilias-nst.org.		      172800 IN	AAAA	2001:500:4a::1
@@ -13735,10 +13723,6 @@ b2.mobi.afilias-nst.org.		      172800 IN	A	199.249.126.1
 b2.mobi.afilias-nst.org.		      172800 IN	AAAA	2001:500:4e::1
 d0.mobi.afilias-nst.org.		      172800 IN	A	199.254.58.1
 d0.mobi.afilias-nst.org.		      172800 IN	AAAA	2001:500:24::1
-b2.org.afilias-nst.org.			      172800 IN	A	199.249.120.1
-b2.org.afilias-nst.org.			      172800 IN	AAAA	2001:500:48::1
-d0.org.afilias-nst.org.			      172800 IN	A	199.19.57.1
-d0.org.afilias-nst.org.			      172800 IN	AAAA	2001:500:f::1
 b0.pr.afilias-nst.org.			      172800 IN	A	199.254.60.17
 b0.pr.afilias-nst.org.			      172800 IN	AAAA	2001:500:26::17
 b2.pr.afilias-nst.org.			      172800 IN	A	199.249.124.17
@@ -13767,6 +13751,12 @@ v0n1.pir-ns.org.			      172800 IN	A	199.19.54.1
 v0n1.pir-ns.org.			      172800 IN	AAAA	2001:500:c::1
 v0n2.pir-ns.org.			      172800 IN	A	199.19.53.1
 v0n2.pir-ns.org.			      172800 IN	AAAA	2001:500:b::1
+v0n3.pir-ns.org.			      172800 IN	A	199.19.57.1
+v0n3.pir-ns.org.			      172800 IN	AAAA	2001:500:f::1
+v2n0.pir-ns.org.			      172800 IN	A	199.249.112.1
+v2n0.pir-ns.org.			      172800 IN	AAAA	2001:500:40::1
+v2n1.pir-ns.org.			      172800 IN	A	199.249.120.1
+v2n1.pir-ns.org.			      172800 IN	AAAA	2001:500:48::1
 ns10.trs-dns.org.			      172800 IN	A	64.78.205.1
 ns10.trs-dns.org.			      172800 IN	AAAA	2620:171:813:1534:8::1
 organic.				      172800 IN	NS	a0.nic.organic.
@@ -16188,6 +16178,7 @@ scholarships.				      172800 IN	NS	a0.nic.scholarships.
 scholarships.				      172800 IN	NS	a2.nic.scholarships.
 scholarships.				      172800 IN	NS	b0.nic.scholarships.
 scholarships.				      172800 IN	NS	c0.nic.scholarships.
+scholarships.				      86400 IN DS	31619 8 2 61C036EF0F8DAA057795969EB9AFA3C09BA47846CBE8E4999350DCDC FB12236E
 scholarships.				      86400 IN DS	57649 8 2 24261732A51A4D33ADC9A823EE1E38139BCABBDA2F4C2EB7F6C8CEB3 480B64B6
 scholarships.				      86400 IN NSEC	school. NS DS RRSIG NSEC
 a0.nic.scholarships.			      172800 IN	A	65.22.140.17
@@ -19201,6 +19192,7 @@ vegas.					      172800 IN	NS	a2.nic.vegas.
 vegas.					      172800 IN	NS	b0.nic.vegas.
 vegas.					      172800 IN	NS	c0.nic.vegas.
 vegas.					      86400 IN DS	13336 8 2 612D11E84DB7671F5DC9B54FB8944D57474DE91CA498CA80B6EBC05C 162C3AF0
+vegas.					      86400 IN DS	22567 8 2 BF4A87F0321BEECC839CFB550C26FB2512556C5BC50310A3ECB67944 917F946C
 vegas.					      86400 IN NSEC	ventures. NS DS RRSIG NSEC
 a0.nic.vegas.				      172800 IN	A	65.22.68.17
 a0.nic.vegas.				      172800 IN	AAAA	2a01:8840:42::17
@@ -20735,7 +20727,6 @@ xn--c1avg.				      172800 IN	NS	a0.nic.xn--c1avg.
 xn--c1avg.				      172800 IN	NS	a2.nic.xn--c1avg.
 xn--c1avg.				      172800 IN	NS	b0.nic.xn--c1avg.
 xn--c1avg.				      172800 IN	NS	c0.nic.xn--c1avg.
-xn--c1avg.				      86400 IN DS	16534 8 2 85D1FF435E850DCEF97843FD4CEED2D36CEEC9186DDCBC5FB3BD9AD4 40D7C398
 xn--c1avg.				      86400 IN DS	54134 8 2 76AB4957C99FAE2753882DFAC3F2FC1B431B5CB08046FEEFDD7DC4D9 995B9033
 xn--c1avg.				      86400 IN NSEC	xn--c2br7g. NS DS RRSIG NSEC
 a0.nic.xn--c1avg.			      172800 IN	A	65.22.184.25
@@ -21123,7 +21114,6 @@ xn--i1b6b1a6a2e.			      172800 IN	NS	a0.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.			      172800 IN	NS	a2.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.			      172800 IN	NS	b0.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.			      172800 IN	NS	c0.nic.xn--i1b6b1a6a2e.
-xn--i1b6b1a6a2e.			      86400 IN DS	45889 8 2 1EF7ACA91F4EF292F518F1FCF77A646C21D7AA2594E3BD4AF18906AF 70774604
 xn--i1b6b1a6a2e.			      86400 IN DS	51181 8 2 F2706F5F555699B20D8395F28A066C9BDC9D70B7CEB80E287F4300A0 0B47F84F
 xn--i1b6b1a6a2e.			      86400 IN NSEC	xn--imr513n. NS DS RRSIG NSEC
 a0.nic.xn--i1b6b1a6a2e.			      172800 IN	A	65.22.184.1
@@ -21518,7 +21508,6 @@ xn--nqv7f.				      172800 IN	NS	a2.nic.xn--nqv7f.
 xn--nqv7f.				      172800 IN	NS	b0.nic.xn--nqv7f.
 xn--nqv7f.				      172800 IN	NS	c0.nic.xn--nqv7f.
 xn--nqv7f.				      86400 IN DS	19774 8 2 81B4C5F235580BD1E322B0A6F2207F62F5735BC3B7AB1472EA32C280 3A594660
-xn--nqv7f.				      86400 IN DS	22459 8 2 435A53C55E065976A2C03F1D8B09241A6EC3EA90D63D6CDAECD0ED93 DAF61E99
 xn--nqv7f.				      86400 IN NSEC	xn--nqv7fs00ema. NS DS RRSIG NSEC
 a0.nic.xn--nqv7f.			      172800 IN	A	65.22.184.17
 a0.nic.xn--nqv7f.			      172800 IN	AAAA	2a01:8840:b2::17
@@ -21532,7 +21521,6 @@ xn--nqv7fs00ema.			      172800 IN	NS	a0.nic.xn--nqv7fs00ema.
 xn--nqv7fs00ema.			      172800 IN	NS	a2.nic.xn--nqv7fs00ema.
 xn--nqv7fs00ema.			      172800 IN	NS	b0.nic.xn--nqv7fs00ema.
 xn--nqv7fs00ema.			      172800 IN	NS	c0.nic.xn--nqv7fs00ema.
-xn--nqv7fs00ema.			      86400 IN DS	28897 8 2 6429B014E65CE5BD280E303E77C65ED29B9018FD717157B19871CD63 994758F2
 xn--nqv7fs00ema.			      86400 IN DS	45947 8 2 0E21FAA4FFA4D78F358AAF5758FCE507D33D7ADCD148852696C23B1A 6476BE7B
 xn--nqv7fs00ema.			      86400 IN NSEC	xn--nyqy26a. NS DS RRSIG NSEC
 a0.nic.xn--nqv7fs00ema.			      172800 IN	A	65.22.184.9
